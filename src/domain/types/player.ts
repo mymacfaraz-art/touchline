@@ -384,6 +384,12 @@ export interface DomainPlayer {
   personality?: PlayerPersonality;
   currentCondition?: PlayerCondition;
   currentRegistration?: PlayerClubRegistration;
+  /**
+   * A player's full contract history.
+   * Current contract = first entry with status === 'ACTIVE'.
+   * Use the service layer to query: WHERE status = 'ACTIVE' LIMIT 1.
+   */
+  contracts?: import('./contract').DomainContract[];
   activeInjury?: PlayerInjury;
   activeSuspension?: PlayerSuspension;
 }

@@ -72,6 +72,18 @@ CREATE TABLE "User" (
 );
 
 -- CreateTable
+CREATE TABLE "Career" (
+    "id" TEXT NOT NULL,
+    "userId" TEXT NOT NULL,
+    "name" TEXT NOT NULL,
+    "currentGameSeasonId" TEXT,
+    "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    "updatedAt" TIMESTAMP(3) NOT NULL,
+
+    CONSTRAINT "Career_pkey" PRIMARY KEY ("id")
+);
+
+-- CreateTable
 CREATE TABLE "Manager" (
     "id" TEXT NOT NULL,
     "firstName" TEXT NOT NULL,
@@ -102,7 +114,6 @@ CREATE TABLE "Club" (
     "primaryColor" TEXT NOT NULL DEFAULT '#1a1a1a',
     "secondaryColor" TEXT NOT NULL DEFAULT '#ffffff',
     "founded" INTEGER,
-    "isPlayerClub" BOOLEAN NOT NULL DEFAULT false,
     "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
     "updatedAt" TIMESTAMP(3) NOT NULL,
 
@@ -129,6 +140,7 @@ CREATE TABLE "ClubSeasonState" (
 -- CreateTable
 CREATE TABLE "GameSeason" (
     "id" TEXT NOT NULL,
+    "careerId" TEXT NOT NULL,
     "yearStart" INTEGER NOT NULL,
     "yearEnd" INTEGER NOT NULL,
     "isCurrent" BOOLEAN NOT NULL DEFAULT false,
@@ -402,6 +414,7 @@ CREATE TABLE "Contract" (
     "id" TEXT NOT NULL,
     "playerId" TEXT NOT NULL,
     "clubId" TEXT NOT NULL,
+    "startDate" TIMESTAMP(3) NOT NULL,
     "weeklyWage" DOUBLE PRECISION NOT NULL,
     "expiresAt" TIMESTAMP(3) NOT NULL,
     "releaseClause" DOUBLE PRECISION,
@@ -555,6 +568,9 @@ CREATE INDEX "Country_code_idx" ON "Country"("code");
 CREATE UNIQUE INDEX "User_email_key" ON "User"("email");
 
 -- CreateIndex
+CREATE INDEX "Career_userId_idx" ON "Career"("userId");
+
+-- CreateIndex
 CREATE UNIQUE INDEX "Manager_clubId_key" ON "Manager"("clubId");
 
 -- CreateIndex
@@ -576,7 +592,10 @@ CREATE INDEX "ClubSeasonState_gameSeasonId_idx" ON "ClubSeasonState"("gameSeason
 CREATE UNIQUE INDEX "ClubSeasonState_clubId_gameSeasonId_key" ON "ClubSeasonState"("clubId", "gameSeasonId");
 
 -- CreateIndex
-CREATE UNIQUE INDEX "GameSeason_yearStart_yearEnd_key" ON "GameSeason"("yearStart", "yearEnd");
+CREATE INDEX "GameSeason_careerId_idx" ON "GameSeason"("careerId");
+
+-- CreateIndex
+CREATE UNIQUE INDEX "GameSeason_careerId_yearStart_yearEnd_key" ON "GameSeason"("careerId", "yearStart", "yearEnd");
 
 -- CreateIndex
 CREATE UNIQUE INDEX "Competition_code_key" ON "Competition"("code");
@@ -654,7 +673,10 @@ CREATE INDEX "PlayerSuspension_playerId_idx" ON "PlayerSuspension"("playerId");
 CREATE INDEX "PlayerSuspension_competitionSeasonId_idx" ON "PlayerSuspension"("competitionSeasonId");
 
 -- CreateIndex
-CREATE UNIQUE INDEX "Contract_playerId_key" ON "Contract"("playerId");
+CREATE INDEX "Contract_playerId_idx" ON "Contract"("playerId");
+
+-- CreateIndex
+CREATE INDEX "Contract_playerId_status_idx" ON "Contract"("playerId", "status");
 
 -- CreateIndex
 CREATE INDEX "Contract_clubId_idx" ON "Contract"("clubId");
@@ -687,6 +709,9 @@ CREATE UNIQUE INDEX "PlayerMatchPerformance_matchId_playerId_key" ON "PlayerMatc
 CREATE INDEX "SavedTactic_managerId_idx" ON "SavedTactic"("managerId");
 
 -- AddForeignKey
+ALTER TABLE "Career" ADD CONSTRAINT "Career_userId_fkey" FOREIGN KEY ("userId") REFERENCES "User"("id") ON DELETE CASCADE ON UPDATE CASCADE;
+
+-- AddForeignKey
 ALTER TABLE "Manager" ADD CONSTRAINT "Manager_userId_fkey" FOREIGN KEY ("userId") REFERENCES "User"("id") ON DELETE SET NULL ON UPDATE CASCADE;
 
 -- AddForeignKey
@@ -700,6 +725,9 @@ ALTER TABLE "ClubSeasonState" ADD CONSTRAINT "ClubSeasonState_clubId_fkey" FOREI
 
 -- AddForeignKey
 ALTER TABLE "ClubSeasonState" ADD CONSTRAINT "ClubSeasonState_gameSeasonId_fkey" FOREIGN KEY ("gameSeasonId") REFERENCES "GameSeason"("id") ON DELETE CASCADE ON UPDATE CASCADE;
+
+-- AddForeignKey
+ALTER TABLE "GameSeason" ADD CONSTRAINT "GameSeason_careerId_fkey" FOREIGN KEY ("careerId") REFERENCES "Career"("id") ON DELETE CASCADE ON UPDATE CASCADE;
 
 -- AddForeignKey
 ALTER TABLE "Competition" ADD CONSTRAINT "Competition_countryId_fkey" FOREIGN KEY ("countryId") REFERENCES "Country"("id") ON DELETE SET NULL ON UPDATE CASCADE;

@@ -54,12 +54,31 @@ export interface IMatchEngine {
 ```
 
 ### Domain Inputs & Outputs
-- **Input (`MatchSimulationInput`)**: Contains full squad states (Starting XI, bench, attributes, fitness, morale, form, sharpness, fatigue, injuries, suspensions), tactical setups (formation, mentality, pressing, line height, passing style), home/away status, and seed.
+- **Input (`MatchSimulationInput`)**: Contains full squad states (Starting XI, bench, attributes, fitness, morale, form, sharpness, fatigue, confidence, tactical familiarity, injuries, suspensions), tactical setups (formation, mentality, pressing, line height, passing style), home/away status, and seed.
 - **Output (`MatchSimulationResult`)**: Authoritative match outcome containing final score, timeline events, team statistics, and player performance ratings.
 
 ---
 
-## 4. Seeded Randomness & Reproducibility
+## 4. Ability Calculation — Two Distinct Concepts
+
+Two separate concepts are intentionally kept apart. **Neither is persisted.**
+
+| Concept | Source | Purpose |
+|---|---|---|
+| **CurrentAbility** (1–200) | Attributes + position weighting | Development tracking, scouting, transfer valuations |
+| **EffectiveMatchAbility** (0–200) | CurrentAbility × condition multiplier | In-match power calculation, event weighting, ratings |
+
+```typescript
+// Attributes + position only — condition NOT involved:
+type ComputeCurrentAbility = (attributes, position) => CurrentAbilityProfile;
+
+// Current ability + full match context (condition, role, home advantage):
+type ComputeEffectiveMatchAbility = (currentAbility, context) => EffectiveMatchAbilityProfile;
+```
+
+---
+
+## 5. Seeded Randomness & Reproducibility
 
 Randomness in Touchline is controlled using the `SeededRNG` class (based on the Mulberry32 algorithm).
 
@@ -72,7 +91,7 @@ This guarantees:
 
 ---
 
-## 5. Python ML Extension Point
+## 6. Python ML Extension Point
 
 The architecture explicitly supports replacing or augmenting the TypeScript match engine with an external Python ML engine in future phases:
 
@@ -86,7 +105,7 @@ The application services and UI layer are entirely agnostic of whether `TypeScri
 
 ---
 
-## 6. AI Narrative Boundary
+## 7. AI Narrative Boundary
 
 Touchline incorporates LLMs for dynamic news, match reports, board objectives, and press conferences.
 
@@ -100,14 +119,79 @@ $$\text{Simulation Engine} \xrightarrow{\text{MatchResult}} \text{Narrative AI} 
 
 ---
 
-## 7. Minimal Database Philosophy
+## 8. Data Model Architecture (Phase 2)
 
-The foundational database schema (PostgreSQL + Prisma ORM) models only core entities:
-- `User` & `Manager`
-- `Club`
-- `Player` & `PlayerAttributes`
-- `Contract`
-- `Competition` & `Season`
-- `Fixture`, `Match`, & `MatchEvent`
+The Phase 2 database schema (PostgreSQL + Prisma) models 28 entities across these domains.
 
-Additional features (youth academy, scouting networks, granular finances) will be introduced cleanly in subsequent development phases via additive Prisma migrations.
+### Career Isolation (Ownership Hierarchy)
+
+```
+User
+└── Career (game save — fully isolated)
+    └── GameSeason (career year, e.g. 2026/27)
+        └── CompetitionSeason (one edition of one competition)
+            └── CompetitionPhase (structural round grouping)
+                └── Fixture → Match
+```
+
+Two careers can coexist with the same year range without conflict. `GameSeason.@@unique` is scoped to `(careerId, yearStart, yearEnd)`.
+
+### Player Club History
+
+`Player.clubId` does **not** exist. Current club is resolved via:
+
+```
+PlayerClubRegistration WHERE playerId = X AND isActive = true LIMIT 1
+```
+
+A new `PlayerClubRegistration` is created for every transfer, loan, or signing.
+
+### Contract History
+
+`Contract.playerId` is **not** `@unique`. A player has many historical contracts:
+
+```
+Current contract: WHERE playerId = X AND status = 'ACTIVE' LIMIT 1
+Full history:     WHERE playerId = X ORDER BY startDate DESC
+```
+
+### Standings Source of Truth
+
+```
+Match.homeScore / Match.awayScore
+    → SeasonClubParticipation (played/won/drawn/lost/goals/points)
+
+PlayerMatchPerformance
+    → PlayerCompetitionStats (player-level stats: goals, assists, ratings)
+```
+
+`SeasonClubParticipation` counters derive from `Match` results — **not** from `PlayerMatchPerformance`.
+
+### Player Attributes (36 Columns, Flat Storage)
+
+Stored flat in the `PlayerAttributes` table. Accessed as nested groups in TypeScript:
+
+| Group | Count | Key Attributes |
+|---|---|---|
+| Technical | 12 | passing, finishing, dribbling, heading, tackling, marking… |
+| Physical | 8 | pace, acceleration, stamina, strength, jumping… |
+| Mental | 11 | composure, decisions, vision, positioning, concentration… |
+| Goalkeeping | 5 | gkReflexes, gkHandling, gkPositioning, gkKicking, gkCommunication |
+
+`currentAbility` is **never stored** — computed at runtime from attributes + position weighting.
+
+### Player Condition (Dynamic State, GameSeason-Scoped)
+
+| Field | Range | Description |
+|---|---|---|
+| fitness | 0–100 | Available energy for next match |
+| fatigue | 0–100 | Accumulated tiredness |
+| morale | 0–100 | Psychological wellbeing |
+| confidence | 0–100 | Belief in performance |
+| sharpness | 0–100 | Match practice level |
+| form | 0–100 | Rolling average of recent ratings |
+| tacticalFamiliarity | 0–100 | Knowledge of current tactical system |
+
+Condition is **GameSeason-scoped** (not per competition) because fatigue and morale carry across all competitions simultaneously.
+
+### Additional features (youth academy, scouting networks, granular finances, staff) will be introduced cleanly in subsequent development phases via additive Prisma migrations.

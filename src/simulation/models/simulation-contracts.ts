@@ -14,8 +14,12 @@
 // ─────────────────────────────────────────────────────────────────────────────
 
 import { DomainPlayer, PlayerAttributes, PlayerCondition } from '../../domain/types/player';
-import { DomainTactics } from '../../domain/types/tactics';
-import { DomainMatchEvent, DomainMatchStatistics, PlayerMatchPerformance } from '../../domain/types/match';
+import { DomainTactics, PlayerRole } from '../../domain/types/tactics';
+import {
+  DomainMatchEvent,
+  DomainMatchStatistics,
+  PlayerMatchPerformance,
+} from '../../domain/types/match';
 
 // ─────────────────────────────────────────────────────────────────────────────
 // SIMULATION INPUT TYPES
@@ -30,6 +34,8 @@ export interface PlayerSimulationState {
   player: DomainPlayer;
   /** The position this player has been assigned in the formation */
   assignedPosition: string;
+  /** The tactical role assigned in this position */
+  assignedRole: PlayerRole;
   isStarting: boolean;
 
   // Live condition values at kick-off (sourced from PlayerCondition)
@@ -38,6 +44,8 @@ export interface PlayerSimulationState {
   form: number;         // 0–100
   sharpness: number;    // 0–100
   fatigue: number;      // 0–100
+  confidence: number;   // 0–100
+  tacticalFamiliarity: number; // 0–100
   isInjured: boolean;
   isSuspended: boolean;
 }
@@ -131,16 +139,38 @@ export interface IMatchEngine {
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
-// CURRENT ABILITY CALCULATION CONTRACT
+// ABILITY CALCULATION CONTRACTS
 //
-// currentAbility is NEVER stored in the database.
-// It is computed on demand from attributes + position weighting.
+// TWO DISTINCT CONCEPTS:
+//
+// 1. Current Ability  — what the player CAN do based on their trained attributes
+//                       and position weighting. Independent of today's condition.
+//                       Use this for: development tracking, scouting, transfer
+//                       valuations, career summaries.
+//
+// 2. Effective Match Ability — what the player WILL contribute in THIS match,
+//                              accounting for the full match context: condition,
+//                              fatigue, morale, sharpness, role suitability,
+//                              tactical familiarity, opponent context, etc.
+//                              Use this for: in-match power calculation,
+//                              match ratings, event probability weighting.
+//
+// Neither is persisted in the database.
 // ─────────────────────────────────────────────────────────────────────────────
 
-export interface EffectiveAbilityProfile {
-  /** Internal 1–200 scale current ability for this position */
+/**
+ * A player's underlying football ability derived purely from trained attributes
+ * and how those attributes map to their primary position.
+ *
+ * Does NOT change because the player is tired, unhappy, or lacking sharpness.
+ * Those factors affect EffectiveMatchAbilityProfile instead.
+ *
+ * Internal scale: 1–200. Useful for comparison and development tracking.
+ */
+export interface CurrentAbilityProfile {
+  /** Aggregate current ability on a 1–200 internal scale */
   currentAbility: number;
-  /** Contribution breakdown by category (useful for debugging) */
+  /** Attribute contribution breakdown by group (for development diagnostics) */
   breakdown: {
     technical: number;
     physical: number;
@@ -150,11 +180,84 @@ export interface EffectiveAbilityProfile {
 }
 
 /**
- * Contract for computing a player's current ability from their attributes.
- * Implemented by the simulation engine — not persisted anywhere.
+ * Computes a player's current ability from their trained attributes and
+ * primary position.
+ *
+ * INPUTS:  attributes (trained) + position (for weighting)
+ * OUTPUT:  aggregate ability + breakdown
+ * CONTEXT: position-specific attribute weighting (e.g. GK weights gkReflexes;
+ *          ST weights finishing/pace; CB weights marking/heading/tackling)
+ *
+ * NOT affected by: fitness, fatigue, morale, confidence, or match context.
+ * NOT persisted anywhere.
  */
 export type ComputeCurrentAbility = (
   attributes: PlayerAttributes,
-  position: DomainPlayer['primaryPosition'],
-  condition: Pick<PlayerCondition, 'fitness' | 'morale' | 'sharpness'>
-) => EffectiveAbilityProfile;
+  position: DomainPlayer['primaryPosition']
+) => CurrentAbilityProfile;
+
+/**
+ * The effective ability a player brings to THIS specific match, accounting for
+ * the full match context on top of their current ability.
+ *
+ * Factors that can reduce effective ability below current ability:
+ *   - Low fitness / high fatigue (physical performance drops)
+ *   - Low morale / confidence (decision quality and composure drop)
+ *   - Low sharpness (timing and match-reading deteriorate)
+ *   - Low tacticalFamiliarity (off-ball positioning, pressing shape suffer)
+ *   - Role mismatch (player assigned an unsuitable role for their position)
+ *
+ * Factors that can raise effective ability above baseline:
+ *   - High morale / peak confidence
+ *   - Strong home advantage modifier
+ *   - Excellent tactical familiarity with the system
+ */
+export interface EffectiveMatchAbilityProfile {
+  /** Effective match contribution on a 0–200 scale */
+  effectiveAbility: number;
+  /** Condition modifier applied on top of current ability (0.0–1.2 range) */
+  conditionMultiplier: number;
+  /** Breakdown of condition contributions for debugging */
+  conditionBreakdown: {
+    fitnessContribution: number;
+    moraleContribution: number;
+    sharpnessContribution: number;
+    confidenceContribution: number;
+    tacticalFamiliarityContribution: number;
+    roleSuitabilityContribution: number;
+  };
+}
+
+/**
+ * Context inputs that modify a player's effective match ability.
+ */
+export interface MatchAbilityContext {
+  /** The current condition values for this match */
+  condition: Pick<
+    PlayerCondition,
+    'fitness' | 'fatigue' | 'morale' | 'confidence' | 'sharpness' | 'tacticalFamiliarity'
+  >;
+  /** The role the player has been assigned in this match */
+  assignedRole: PlayerRole;
+  /** The player's primary position (used for role suitability check) */
+  position: DomainPlayer['primaryPosition'];
+  /** Home advantage applies to all players on the home side */
+  homeAdvantageBonus?: number;
+}
+
+/**
+ * Computes a player's effective match ability from their current ability
+ * profile plus the full match context.
+ *
+ * INPUTS:  currentAbility + condition + role + match context modifiers
+ * OUTPUT:  effective ability (0–200) + full condition breakdown
+ *
+ * This is the value used directly by the simulation engine when computing
+ * team power, match event probabilities, and player ratings.
+ *
+ * NOT persisted anywhere.
+ */
+export type ComputeEffectiveMatchAbility = (
+  currentAbility: CurrentAbilityProfile,
+  context: MatchAbilityContext
+) => EffectiveMatchAbilityProfile;

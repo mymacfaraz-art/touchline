@@ -31,12 +31,15 @@ export default async function HomePage() {
         : createDefaultAttributes(abilityBaseline),
     },
     assignedPosition: position,
+    assignedRole: (isGK ? 'GOALKEEPER' : 'CENTRAL_MIDFIELDER') as import('../domain/types/tactics').PlayerRole,
     isStarting: true,
     fitness: 94,
     morale: 88,
     form: 84,
     sharpness: 90,
     fatigue: 6,
+    confidence: 80,
+    tacticalFamiliarity: 75,
     isInjured: false,
     isSuspended: false,
   });
@@ -179,7 +182,7 @@ export default async function HomePage() {
           <p className="mt-2 text-lg font-bold text-violet-400">
             GameSeason → CompetitionSeason
           </p>
-          <p className="mt-1 text-xs text-slate-500">27 Prisma models</p>
+          <p className="mt-1 text-xs text-slate-500">Career → GameSeason → CompetitionSeason</p>
         </div>
       </section>
 
@@ -245,7 +248,7 @@ export default async function HomePage() {
       </section>
 
       <footer className="text-center text-xs text-slate-500 border-t border-slate-900 pt-6">
-        Touchline Football Manager Simulation Engine &copy; 2026 · Phase 2 Data Model · 27 Prisma Models
+        Touchline Football Manager Simulation Engine &copy; 2026 · Phase 2 Final · 28 Prisma Models
       </footer>
     </main>
   );
