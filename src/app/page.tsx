@@ -1,146 +1,136 @@
 import { MatchService } from '../services/match.service';
 import { SeededRNG } from '../simulation/engine/rng';
+import { createDefaultAttributes, createDefaultGKAttributes } from '../domain/types/player';
+import { toTacticDocument } from '../domain/types/tactics';
 
 export default async function HomePage() {
-  // Demonstration of Application Service consuming IMatchEngine and SeededRNG
   const matchService = new MatchService();
-  const seed = 'touchline-foundation-demo-2026';
+  const seed = 'touchline-phase2-demo-2026';
+
+  const makePlayer = (
+    id: string,
+    shortName: string,
+    position: string,
+    isGK: boolean,
+    abilityBaseline: number
+  ) => ({
+    player: {
+      id,
+      firstName: shortName.split(' ')[0] ?? shortName,
+      lastName: shortName.split(' ')[1] ?? '',
+      shortName,
+      dateOfBirth: new Date('1998-06-15'),
+      nationality: 'England',
+      primaryPosition: position as 'GK' | 'CB' | 'CM' | 'ST',
+      secondaryPositions: [] as ('GK' | 'CB' | 'CM' | 'ST')[],
+      preferredFoot: 'RIGHT' as const,
+      height: 180,
+      isActive: true,
+      attributes: isGK
+        ? createDefaultGKAttributes(abilityBaseline)
+        : createDefaultAttributes(abilityBaseline),
+    },
+    assignedPosition: position,
+    isStarting: true,
+    fitness: 94,
+    morale: 88,
+    form: 84,
+    sharpness: 90,
+    fatigue: 6,
+    isInjured: false,
+    isSuspended: false,
+  });
+
+  const homeTactics = toTacticDocument({
+    formation: '4-3-3',
+    mentality: 'ATTACKING',
+    pressingIntensity: 'HIGH',
+    defensiveLine: 'HIGH',
+    passingStyle: 'SHORT_POSSESSION',
+    tempo: 'HIGH',
+    width: 'WIDE',
+    buildUpStyle: 'SHORT_PASSING',
+    transitionStyle: 'COUNTER',
+    outOfPossession: 'PRESS',
+    playerRoles: [],
+  });
+
+  const awayTactics = toTacticDocument({
+    formation: '4-2-3-1',
+    mentality: 'BALANCED',
+    pressingIntensity: 'MEDIUM',
+    defensiveLine: 'STANDARD',
+    passingStyle: 'BALANCED',
+    tempo: 'NORMAL',
+    width: 'NORMAL',
+    buildUpStyle: 'SHORT_PASSING',
+    transitionStyle: 'CONTROL',
+    outOfPossession: 'BLOCK',
+    playerRoles: [],
+  });
+
+  const { _schemaVersion: _h, ...homeTacticsObj } = homeTactics;
+  const { _schemaVersion: _a, ...awayTacticsObj } = awayTactics;
+
+  const homeSquad = [
+    makePlayer('h-0', 'Northgate', 'GK', true, 76),
+    makePlayer('h-1', 'Brennan', 'CB', false, 80),
+    makePlayer('h-2', 'Kellner', 'CB', false, 79),
+    makePlayer('h-3', 'Ashby', 'LB', false, 78),
+    makePlayer('h-4', 'Ferris', 'RB', false, 77),
+    makePlayer('h-5', 'Harmon', 'CM', false, 83),
+    makePlayer('h-6', 'Doyle', 'CM', false, 82),
+    makePlayer('h-7', 'Patel', 'CAM', false, 85),
+    makePlayer('h-8', 'Mbeki', 'LW', false, 84),
+    makePlayer('h-9', 'Costa', 'RW', false, 86),
+    makePlayer('h-10', 'Vidal', 'ST', false, 88),
+  ];
+
+  const awaySquad = [
+    makePlayer('a-0', 'Marchetti', 'GK', true, 74),
+    makePlayer('a-1', 'Kowalski', 'CB', false, 78),
+    makePlayer('a-2', 'Steele', 'CB', false, 76),
+    makePlayer('a-3', 'Rivera', 'LB', false, 75),
+    makePlayer('a-4', 'Dupont', 'RB', false, 76),
+    makePlayer('a-5', 'Alves', 'CDM', false, 80),
+    makePlayer('a-6', 'Laurent', 'CDM', false, 79),
+    makePlayer('a-7', 'Osei', 'CAM', false, 82),
+    makePlayer('a-8', 'Ruiz', 'LW', false, 81),
+    makePlayer('a-9', 'Tanaka', 'RW', false, 80),
+    makePlayer('a-10', 'Jensen', 'ST', false, 83),
+  ];
 
   const simulationResult = await matchService.executeMatchSimulation({
-    matchId: 'demo-match-1',
+    matchId: 'demo-match-phase2',
     seed,
-    competitionId: 'comp-premier-league',
-    seasonId: 'season-2025-2026',
+    competitionSeasonId: 'cs-epl-2026-27',
+    competitionPhaseId: 'phase-league-rounds',
     homeTeam: {
-      teamId: 'club-arsenal',
-      clubName: 'London Red',
+      teamId: 'club-northgate-city',
+      clubName: 'Northgate City',
       isHomeTeam: true,
-      tactics: {
-        formation: '4-3-3',
-        mentality: 'ATTACKING',
-        pressingIntensity: 'HIGH',
-        defensiveLine: 'HIGH',
-        passingStyle: 'SHORT_TIKI_TAKA',
-        playerInstructions: [],
-      },
-      startingXI: Array.from({ length: 11 }, (_, i) => ({
-        player: {
-          id: `h-player-${i}`,
-          firstName: `Home`,
-          lastName: `Player ${i + 1}`,
-          shortName: `H. Player ${i + 1}`,
-          age: 24,
-          nationality: 'England',
-          primaryPosition: i === 0 ? 'GK' : i < 5 ? 'CB' : i < 8 ? 'CM' : 'ST',
-          secondaryPositions: [],
-          attributes: {
-            pace: 78,
-            stamina: 82,
-            strength: 75,
-            agility: 80,
-            passing: 84,
-            shooting: 76,
-            tackling: 70,
-            dribbling: 82,
-            firstTouch: 85,
-            heading: 70,
-            positioning: 83,
-            vision: 85,
-            composure: 80,
-            workRate: 85,
-            decisionMaking: 82,
-          },
-          condition: {
-            fitness: 95,
-            fatigue: 5,
-            morale: 90,
-            form: 85,
-            sharpness: 90,
-            isInjured: false,
-            isSuspended: false,
-          },
-        },
-        assignedPositionRole: i === 0 ? 'GK' : i < 5 ? 'CB' : i < 8 ? 'CM' : 'ST',
-        isStarting: true,
-        fitness: 95,
-        morale: 90,
-        form: 85,
-        sharpness: 90,
-        fatigue: 5,
-        isInjured: false,
-        isSuspended: false,
-      })),
+      tactics: homeTacticsObj,
+      startingXI: homeSquad,
       bench: [],
-      recentFormRating: 88,
+      recentFormRating: 86,
     },
     awayTeam: {
-      teamId: 'club-chelsea',
-      clubName: 'London Blue',
+      teamId: 'club-riverdale-fc',
+      clubName: 'Riverdale FC',
       isHomeTeam: false,
-      tactics: {
-        formation: '4-2-3-1',
-        mentality: 'BALANCED',
-        pressingIntensity: 'MEDIUM',
-        defensiveLine: 'STANDARD',
-        passingStyle: 'BALANCED',
-        playerInstructions: [],
-      },
-      startingXI: Array.from({ length: 11 }, (_, i) => ({
-        player: {
-          id: `a-player-${i}`,
-          firstName: `Away`,
-          lastName: `Player ${i + 1}`,
-          shortName: `A. Player ${i + 1}`,
-          age: 25,
-          nationality: 'Spain',
-          primaryPosition: i === 0 ? 'GK' : i < 5 ? 'CB' : i < 8 ? 'CM' : 'ST',
-          secondaryPositions: [],
-          attributes: {
-            pace: 76,
-            stamina: 80,
-            strength: 78,
-            agility: 77,
-            passing: 80,
-            shooting: 74,
-            tackling: 74,
-            dribbling: 78,
-            firstTouch: 80,
-            heading: 72,
-            positioning: 80,
-            vision: 81,
-            composure: 78,
-            workRate: 80,
-            decisionMaking: 79,
-          },
-          condition: {
-            fitness: 92,
-            fatigue: 8,
-            morale: 85,
-            form: 80,
-            sharpness: 88,
-            isInjured: false,
-            isSuspended: false,
-          },
-        },
-        assignedPositionRole: i === 0 ? 'GK' : i < 5 ? 'CB' : i < 8 ? 'CM' : 'ST',
-        isStarting: true,
-        fitness: 92,
-        morale: 85,
-        form: 80,
-        sharpness: 88,
-        fatigue: 8,
-        isInjured: false,
-        isSuspended: false,
-      })),
+      tactics: awayTacticsObj,
+      startingXI: awaySquad,
       bench: [],
-      recentFormRating: 82,
+      recentFormRating: 79,
     },
   });
 
-  // Verify SeededRNG reproducibility check
   const testRng1 = new SeededRNG(seed);
   const testRng2 = new SeededRNG(seed);
-  const rngMatch = testRng1.nextFloat() === testRng2.nextFloat();
+  const rngReproducible = testRng1.nextFloat() === testRng2.nextFloat();
+
+  const htScore = `${simulationResult.homeScoreHT}–${simulationResult.awayScoreHT}`;
+  const ftScore = `${simulationResult.homeScore}–${simulationResult.awayScore}`;
 
   return (
     <main className="mx-auto max-w-5xl px-6 py-12">
@@ -151,83 +141,103 @@ export default async function HomePage() {
               TOUCHLINE
             </h1>
             <p className="mt-1 text-sm text-slate-400">
-              Football Manager Simulation Architecture Foundation Phase
+              Football Manager Simulation — Phase 2 Data Model
             </p>
           </div>
           <span className="inline-flex items-center rounded-full bg-emerald-500/10 px-3 py-1 text-xs font-semibold text-emerald-400 ring-1 ring-inset ring-emerald-500/20">
-            Foundation Ready
+            Phase 2 Ready
           </span>
         </div>
       </header>
 
+      {/* Status Cards */}
       <section className="grid grid-cols-1 gap-6 md:grid-cols-3 mb-10">
         <div className="rounded-xl border border-slate-800 bg-slate-900/60 p-5 backdrop-blur">
           <h2 className="text-xs font-semibold uppercase tracking-wider text-slate-400">
-            Next.js App Router
-          </h2>
-          <p className="mt-2 text-2xl font-bold text-white">v15.1 (Active)</p>
-          <p className="mt-1 text-xs text-slate-500">TypeScript & Tailwind CSS</p>
-        </div>
-
-        <div className="rounded-xl border border-slate-800 bg-slate-900/60 p-5 backdrop-blur">
-          <h2 className="text-xs font-semibold uppercase tracking-wider text-slate-400">
-            Seeded RNG Test
+            Seeded RNG
           </h2>
           <p className="mt-2 text-2xl font-bold text-emerald-400">
-            {rngMatch ? 'Reproducible ✓' : 'Failed ✗'}
+            {rngReproducible ? 'Reproducible ✓' : 'Failed ✗'}
           </p>
-          <p className="mt-1 text-xs text-slate-500">Seed: {seed}</p>
+          <p className="mt-1 text-xs text-slate-500 font-mono truncate">{seed}</p>
         </div>
 
         <div className="rounded-xl border border-slate-800 bg-slate-900/60 p-5 backdrop-blur">
           <h2 className="text-xs font-semibold uppercase tracking-wider text-slate-400">
-            Active Simulation Engine
+            Simulation Engine
           </h2>
-          <p className="mt-2 text-2xl font-bold text-blue-400">
+          <p className="mt-2 text-lg font-bold text-blue-400">
             {simulationResult.simulationEngineVersion}
           </p>
-          <p className="mt-1 text-xs text-slate-500">Extension Point: Python ML Stub Ready</p>
+          <p className="mt-1 text-xs text-slate-500">Attribute taxonomy: 36 fields</p>
+        </div>
+
+        <div className="rounded-xl border border-slate-800 bg-slate-900/60 p-5 backdrop-blur">
+          <h2 className="text-xs font-semibold uppercase tracking-wider text-slate-400">
+            Season Architecture
+          </h2>
+          <p className="mt-2 text-lg font-bold text-violet-400">
+            GameSeason → CompetitionSeason
+          </p>
+          <p className="mt-1 text-xs text-slate-500">27 Prisma models</p>
         </div>
       </section>
 
+      {/* Match Result */}
       <section className="rounded-xl border border-slate-800 bg-slate-900/60 p-6 backdrop-blur mb-10">
         <h2 className="text-lg font-bold text-white mb-4">
-          Simulation Pipeline Smoke Test Result
+          Simulation Pipeline Smoke Test
         </h2>
-
         <div className="flex items-center justify-between rounded-lg bg-slate-950 p-6 border border-slate-800">
           <div className="text-center">
-            <p className="text-xl font-bold text-white">London Red</p>
-            <p className="text-xs text-slate-400">Home • Formation 4-3-3</p>
+            <p className="text-xl font-bold text-white">Northgate City</p>
+            <p className="text-xs text-slate-400 mt-1">Home · 4-3-3 · ATTACKING</p>
           </div>
-
           <div className="text-center">
-            <span className="text-4xl font-extrabold text-white">
-              {simulationResult.homeScore} - {simulationResult.awayScore}
-            </span>
-            <p className="text-xs text-emerald-400 mt-1 font-mono">
-              Deterministic Seed Hash Verified
-            </p>
+            <span className="text-4xl font-extrabold text-white">{ftScore}</span>
+            <p className="text-xs text-slate-500 mt-1">HT {htScore}</p>
+            <p className="text-xs text-emerald-400 mt-1 font-mono">Deterministic ✓</p>
           </div>
-
           <div className="text-center">
-            <p className="text-xl font-bold text-white">London Blue</p>
-            <p className="text-xs text-slate-400">Away • Formation 4-2-3-1</p>
+            <p className="text-xl font-bold text-white">Riverdale FC</p>
+            <p className="text-xs text-slate-400 mt-1">Away · 4-2-3-1 · BALANCED</p>
           </div>
         </div>
 
+        {/* Match Stats */}
+        <div className="mt-6 grid grid-cols-3 gap-px bg-slate-800 rounded-lg overflow-hidden text-xs">
+          {[
+            ['Shots', simulationResult.statistics.homeStats.shots, simulationResult.statistics.awayStats.shots],
+            ['On Target', simulationResult.statistics.homeStats.shotsOnTarget, simulationResult.statistics.awayStats.shotsOnTarget],
+            ['xG', simulationResult.statistics.homeStats.xg.toFixed(2), simulationResult.statistics.awayStats.xg.toFixed(2)],
+            ['Possession', `${simulationResult.statistics.homeStats.possession}%`, `${simulationResult.statistics.awayStats.possession}%`],
+            ['Passes', simulationResult.statistics.homeStats.passes, simulationResult.statistics.awayStats.passes],
+            ['Corners', simulationResult.statistics.homeStats.corners, simulationResult.statistics.awayStats.corners],
+          ].map(([label, home, away]) => (
+            <div key={String(label)} className="bg-slate-900 px-4 py-3 flex items-center justify-between">
+              <span className="font-bold text-white w-8 text-center">{home}</span>
+              <span className="text-slate-400 text-center flex-1">{label}</span>
+              <span className="font-bold text-white w-8 text-center">{away}</span>
+            </div>
+          ))}
+        </div>
+
+        {/* Events Timeline */}
         <div className="mt-6 border-t border-slate-800/80 pt-4">
           <h3 className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-3">
-            Match Timeline Events ({simulationResult.events.length} Events)
+            Match Timeline ({simulationResult.events.length} persisted events)
           </h3>
           <ul className="space-y-2 text-xs font-mono">
             {simulationResult.events.map((evt, idx) => (
-              <li key={idx} className="flex items-center text-slate-300">
-                <span className="w-12 text-slate-500 font-bold">{evt.minute}&apos;</span>
-                <span className="rounded bg-slate-800 px-1.5 py-0.5 text-xs text-slate-300 mr-2 font-sans font-medium">
+              <li key={idx} className="flex items-center gap-3 text-slate-300">
+                <span className="w-8 text-slate-500 font-bold text-right">{evt.minute}&apos;</span>
+                <span className="rounded bg-slate-800 px-1.5 py-0.5 text-slate-300 font-sans font-medium">
                   {evt.kind}
                 </span>
-                <span>{evt.description}</span>
+                {evt.xgValue !== undefined && (
+                  <span className="text-amber-400">xG {evt.xgValue.toFixed(2)}</span>
+                )}
+                <span className="text-slate-400">{evt.description}</span>
               </li>
             ))}
           </ul>
@@ -235,7 +245,7 @@ export default async function HomePage() {
       </section>
 
       <footer className="text-center text-xs text-slate-500 border-t border-slate-900 pt-6">
-        Touchline Football Manager Simulation Engine &copy; 2026. Modular Monolith Architecture.
+        Touchline Football Manager Simulation Engine &copy; 2026 · Phase 2 Data Model · 27 Prisma Models
       </footer>
     </main>
   );

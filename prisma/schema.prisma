@@ -1,3 +1,35 @@
+// ─────────────────────────────────────────────────────────────────────────────
+// TOUCHLINE — PRISMA SCHEMA
+// Phase 2: Football World & Data Model
+// ─────────────────────────────────────────────────────────────────────────────
+//
+// ARCHITECTURE NOTES:
+//
+// 1. Season model is split into TWO levels:
+//      GameSeason   — career-level football year (e.g. 2026/27)
+//      CompetitionSeason — one edition of one competition within that year
+//
+// 2. Player.clubId has been REMOVED.
+//    Current club = PlayerClubRegistration WHERE isActive = true
+//
+// 3. Player.age has been REMOVED.
+//    Age is always computed: differenceInYears(dateOfBirth, referenceDate)
+//
+// 4. PlayerCondition (condition) and PlayerCompetitionStats (statistics) are
+//    SEPARATE models. Condition is GameSeason-scoped; stats are CompetitionSeason-scoped.
+//
+// 5. PlayerAttributes is stored FLAT in the database (36 columns).
+//    The TypeScript domain type presents them in nested groups.
+//
+// 6. PlayerPotential does NOT contain currentAbility (it is computed from attributes).
+//
+// 7. Match.statsJson has been REMOVED and replaced by MatchStatistics (typed).
+//
+// 8. Fixtures link to CompetitionPhase, not CompetitionSeason directly.
+//    Reach CompetitionSeason via: fixture → phase → competitionSeason.
+//
+// ─────────────────────────────────────────────────────────────────────────────
+
 datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
@@ -7,34 +39,178 @@ generator client {
   provider = "prisma-client-js"
 }
 
+// ─────────────────────────────────────────────────────────────────────────────
+// ENUMS
+// ─────────────────────────────────────────────────────────────────────────────
+
+enum PreferredFoot {
+  LEFT
+  RIGHT
+  BOTH
+}
+
+enum PlayerPosition {
+  GK
+  CB
+  LB
+  RB
+  LWB
+  RWB
+  CDM
+  CM
+  CAM
+  LM
+  RM
+  LW
+  RW
+  CF
+  ST
+}
+
+enum RegistrationType {
+  PERMANENT
+  LOAN
+  FREE_AGENT_SIGNING
+  YOUTH_PROMOTION
+}
+
+enum InjuryType {
+  KNOCK
+  MUSCLE_STRAIN
+  LIGAMENT
+  FRACTURE
+  HEAD
+  FATIGUE_RELATED
+}
+
+enum InjurySeverity {
+  MINOR
+  MODERATE
+  SEVERE
+  CAREER_THREATENING
+}
+
+enum SuspensionReason {
+  YELLOW_CARD_ACCUMULATION
+  RED_CARD
+  MISCONDUCT
+}
+
+enum PersonalityTrait {
+  PROFESSIONAL
+  DETERMINED
+  MODEL_CITIZEN
+  TEMPERAMENTAL
+  UNAMBITIOUS
+  MERCENARY
+  LOYAL
+  MAVERICK
+}
+
+enum AttributeChangeReason {
+  TRAINING
+  MATCH_PERFORMANCE
+  AGE_PROGRESSION
+  AGE_DECLINE
+  INJURY_RECOVERY
+  COACHING_EFFECT
+  FACILITY_UPGRADE
+}
+
+enum ContractStatus {
+  ACTIVE
+  EXPIRED
+  TERMINATED
+}
+
+enum CompetitionType {
+  LEAGUE
+  DOMESTIC_CUP
+  CONTINENTAL_CUP
+  SUPER_CUP
+  FRIENDLY
+}
+
+enum CompetitionFormat {
+  ROUND_ROBIN
+  KNOCKOUT
+  GROUP_THEN_KNOCKOUT
+}
+
+enum CompetitionPhaseType {
+  LEAGUE_ROUNDS
+  GROUP
+  KNOCKOUT_ROUND
+  FINAL
+}
+
 enum MatchStatus {
   SCHEDULED
   IN_PROGRESS
   COMPLETED
   POSTPONED
+  ABANDONED
 }
 
 enum MatchEventKind {
   KICK_OFF
+  HALF_TIME
+  FULL_TIME
+  AET
+  PENALTIES
   GOAL
   OWN_GOAL
   PENALTY_GOAL
   PENALTY_MISS
-  SHOT_ON_TARGET
-  SHOT_OFF_TARGET
   YELLOW_CARD
   RED_CARD
+  SECOND_YELLOW
   SUBSTITUTION
   INJURY
-  HALF_TIME
-  FULL_TIME
+  VAR_REVIEW
 }
 
-enum CompetitionType {
-  LEAGUE
-  CUP
-  SUPER_CUP
+enum ClubFacilityLevel {
+  POOR
+  BELOW_AVERAGE
+  AVERAGE
+  GOOD
+  EXCELLENT
+  WORLD_CLASS
 }
+
+enum BoardAmbition {
+  RELEGATION_BATTLE
+  SURVIVAL
+  MID_TABLE
+  PLAYOFF
+  PROMOTION
+  TITLE
+  EUROPEAN
+  CHAMPIONS_LEAGUE
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// GEOGRAPHY
+// ─────────────────────────────────────────────────────────────────────────────
+
+model Country {
+  id        String   @id @default(cuid())
+  name      String
+  /// ISO 3166-1 alpha-3 code e.g. "ENG", "ESP"
+  code      String   @unique
+  continent String
+  createdAt DateTime @default(now())
+
+  clubs        Club[]
+  competitions Competition[]
+
+  @@index([code])
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// USER & MANAGER
+// ─────────────────────────────────────────────────────────────────────────────
 
 model User {
   id        String   @id @default(cuid())
@@ -43,7 +219,7 @@ model User {
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 
-  managers  Manager[]
+  managers Manager[]
 }
 
 model Manager {
@@ -51,7 +227,10 @@ model Manager {
   firstName   String
   lastName    String
   nationality String
+  /// Global reputation 1–100
   reputation  Int      @default(50)
+  /// true = AI-controlled manager
+  isAI        Boolean  @default(false)
   userId      String?
   clubId      String?  @unique
   createdAt   DateTime @default(now())
@@ -59,149 +238,658 @@ model Manager {
 
   user        User?    @relation(fields: [userId], references: [id], onDelete: SetNull)
   club        Club?    @relation(fields: [clubId], references: [id], onDelete: SetNull)
+  savedTactics SavedTactic[]
 }
+
+// ─────────────────────────────────────────────────────────────────────────────
+// CLUB
+// ─────────────────────────────────────────────────────────────────────────────
 
 model Club {
-  id             String   @id @default(cuid())
-  name           String   @unique
-  shortName      String
-  code           String   @unique
-  stadiumName    String
-  reputation     Int      @default(50)
-  primaryColor   String   @default("#000000")
-  secondaryColor String   @default("#FFFFFF")
-  createdAt      DateTime @default(now())
-  updatedAt      DateTime @updatedAt
+  id               String   @id @default(cuid())
+  name             String   @unique
+  shortName        String
+  /// 3-letter code e.g. "ARS", "RMA"
+  code             String   @unique
+  countryId        String
+  city             String
+  stadiumName      String
+  stadiumCapacity  Int
+  /// Global reputation 1–100
+  reputation       Int      @default(50)
+  /// Domestic prestige within own country 1–100
+  domesticPrestige Int      @default(50)
+  primaryColor     String   @default("#1a1a1a")
+  secondaryColor   String   @default("#ffffff")
+  /// Year founded
+  founded          Int?
+  /// true = this club is being managed by the user
+  isPlayerClub     Boolean  @default(false)
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
 
-  manager        Manager?
-  players        Player[]
-  homeFixtures   Fixture[] @relation("HomeFixtures")
-  awayFixtures   Fixture[] @relation("AwayFixtures")
-  contracts      Contract[]
+  country               Country                 @relation(fields: [countryId], references: [id])
+  manager               Manager?
+  homeFixtures          Fixture[]               @relation("HomeFixtures")
+  awayFixtures          Fixture[]               @relation("AwayFixtures")
+  contracts             Contract[]
+  seasonStates          ClubSeasonState[]
+  registrations         PlayerClubRegistration[]
+  participations        SeasonClubParticipation[]
+  wonSeasons            CompetitionSeason[]
 
   @@index([code])
+  @@index([countryId])
 }
 
-model Player {
-  id                String   @id @default(cuid())
-  firstName         String
-  lastName          String
-  shortName         String
-  age               Int
-  nationality       String
-  primaryPosition   String
-  secondaryPositions String[] @default([])
-  clubId            String?
-  createdAt         DateTime @default(now())
-  updatedAt         DateTime @updatedAt
+/// Club-level state for a specific GameSeason.
+/// One record per club per career year.
+/// Scoped to GameSeason (not CompetitionSeason) because budget, morale,
+/// and board confidence are holistic across all competitions.
+model ClubSeasonState {
+  id              String            @id @default(cuid())
+  clubId          String
+  gameSeasonId    String
+  transferBudget  Float             @default(0)
+  wageBudget      Float             @default(0)
+  /// Board satisfaction with manager 0–100
+  boardConfidence Float             @default(50)
+  /// Fan happiness index 0–100
+  fanHappiness    Float             @default(50)
+  /// Squad-wide morale aggregate 0–100
+  squadMorale     Float             @default(50)
+  facilityLevel   ClubFacilityLevel @default(AVERAGE)
+  boardAmbition   BoardAmbition     @default(MID_TABLE)
+  updatedAt       DateTime          @updatedAt
 
-  club              Club?             @relation(fields: [clubId], references: [id], onDelete: SetNull)
-  attributes        PlayerAttributes?
-  contract          Contract?
-  matchEventsPrimary MatchEvent[]     @relation("PrimaryPlayer")
-  matchEventsSecondary MatchEvent[]   @relation("SecondaryPlayer")
+  club       Club       @relation(fields: [clubId], references: [id], onDelete: Cascade)
+  gameSeason GameSeason @relation(fields: [gameSeasonId], references: [id], onDelete: Cascade)
 
-  @@index([clubId])
-  @@index([primaryPosition])
+  @@unique([clubId, gameSeasonId])
+  @@index([gameSeasonId])
 }
 
-model PlayerAttributes {
-  id             String   @id @default(cuid())
-  playerId       String   @unique
-  pace           Int      @default(50)
-  stamina        Int      @default(50)
-  strength       Int      @default(50)
-  agility        Int      @default(50)
-  passing        Int      @default(50)
-  shooting       Int      @default(50)
-  tackling       Int      @default(50)
-  dribbling      Int      @default(50)
-  firstTouch     Int      @default(50)
-  heading        Int      @default(50)
-  positioning    Int      @default(50)
-  vision         Int      @default(50)
-  composure      Int      @default(50)
-  workRate       Int      @default(50)
-  decisionMaking Int      @default(50)
-  updatedAt      DateTime @updatedAt
+// ─────────────────────────────────────────────────────────────────────────────
+// GAME SEASON (CAREER YEAR)
+// ─────────────────────────────────────────────────────────────────────────────
 
-  player         Player   @relation(fields: [playerId], references: [id], onDelete: Cascade)
-}
-
-model Contract {
+/// Career-level football year container.
+/// All in-game events (transfers, matches, development) happen within a GameSeason.
+/// A GameSeason (e.g. 2026/27) contains multiple CompetitionSeason records.
+model GameSeason {
   id         String   @id @default(cuid())
-  playerId   String   @unique
-  clubId     String
-  wage       Float
-  expiresAt  DateTime
+  yearStart  Int
+  yearEnd    Int
+  isCurrent  Boolean  @default(false)
+  isComplete Boolean  @default(false)
   createdAt  DateTime @default(now())
   updatedAt  DateTime @updatedAt
 
-  player     Player   @relation(fields: [playerId], references: [id], onDelete: Cascade)
-  club       Club     @relation(fields: [clubId], references: [id], onDelete: Cascade)
+  competitionSeasons    CompetitionSeason[]
+  clubSeasonStates      ClubSeasonState[]
+  playerConditions      PlayerCondition[]
+  playerRegistrations   PlayerClubRegistration[]
+  attributeSnapshots    PlayerAttributeSnapshot[]
+
+  @@unique([yearStart, yearEnd])
 }
 
+// ─────────────────────────────────────────────────────────────────────────────
+// COMPETITION
+// ─────────────────────────────────────────────────────────────────────────────
+
+/// Persistent competition identity and ruleset.
+/// Describes what the competition IS and how it works.
+/// Does not change between seasons.
 model Competition {
-  id        String          @id @default(cuid())
-  name      String
-  code      String          @unique
-  type      CompetitionType @default(LEAGUE)
-  country   String
-  createdAt DateTime        @default(now())
-  updatedAt DateTime        @updatedAt
+  id              String            @id @default(cuid())
+  name            String
+  /// Short code e.g. "EPL", "UCL", "FA_CUP"
+  code            String            @unique
+  type            CompetitionType   @default(LEAGUE)
+  format          CompetitionFormat @default(ROUND_ROBIN)
+  /// null for continental competitions
+  countryId       String?
+  /// "Europe", "South America" etc. for continental competitions
+  continent       String?
+  /// 1 = top flight, 2 = Championship, etc.
+  tier            Int               @default(1)
+  teamsCount      Int               @default(20)
+  hasPromotion    Boolean           @default(false)
+  hasRelegation   Boolean           @default(false)
+  promotionSpots  Int               @default(0)
+  relegationSpots Int               @default(0)
+  createdAt       DateTime          @default(now())
+  updatedAt       DateTime          @updatedAt
 
-  seasons   Season[]
+  country Country?       @relation(fields: [countryId], references: [id])
+  seasons CompetitionSeason[]
 }
 
-model Season {
+/// One edition of a competition within a game season.
+/// Example: EPL 2026/27, FA Cup 2026/27, UCL 2026/27 are separate CompetitionSeason records.
+model CompetitionSeason {
   id            String   @id @default(cuid())
   competitionId String
-  yearStart     Int
-  yearEnd       Int
-  isCurrent     Boolean  @default(false)
+  gameSeasonId  String
+  isComplete    Boolean  @default(false)
+  /// FK → Club — set when a winner is determined
+  winnerClubId  String?
   createdAt     DateTime @default(now())
   updatedAt     DateTime @updatedAt
 
-  competition   Competition @relation(fields: [competitionId], references: [id], onDelete: Cascade)
-  fixtures      Fixture[]
+  competition            Competition             @relation(fields: [competitionId], references: [id], onDelete: Cascade)
+  gameSeason             GameSeason              @relation(fields: [gameSeasonId], references: [id], onDelete: Cascade)
+  winner                 Club?                   @relation(fields: [winnerClubId], references: [id], onDelete: SetNull)
+  phases                 CompetitionPhase[]
+  clubParticipations     SeasonClubParticipation[]
+  playerStats            PlayerCompetitionStats[]
+  playerSuspensions      PlayerSuspension[]
 
-  @@unique([competitionId, yearStart])
+  @@unique([competitionId, gameSeasonId])
+  @@index([gameSeasonId])
 }
 
+/// A structural sub-division of a CompetitionSeason.
+/// Provides scaffolding for future scheduling logic.
+/// Fixtures link to CompetitionPhase, not CompetitionSeason directly.
+///
+/// Examples:
+///   EPL 2026/27    → 1 phase: LEAGUE_ROUNDS
+///   FA Cup 2026/27 → 6 phases: R3, R4, R5, QF, SF, F (KNOCKOUT_ROUND each)
+///   UCL 2026/27    → 2 phases: GROUP, then KNOCKOUT_ROUND
+model CompetitionPhase {
+  id                  String               @id @default(cuid())
+  competitionSeasonId String
+  name                String
+  phaseType           CompetitionPhaseType @default(LEAGUE_ROUNDS)
+  /// Sequence number: 1 = first phase of the competition
+  order               Int
+  startDate           DateTime?
+  endDate             DateTime?
+  isComplete          Boolean              @default(false)
+  createdAt           DateTime             @default(now())
+  updatedAt           DateTime             @updatedAt
+
+  competitionSeason CompetitionSeason @relation(fields: [competitionSeasonId], references: [id], onDelete: Cascade)
+  fixtures          Fixture[]
+
+  @@index([competitionSeasonId])
+  @@index([competitionSeasonId, order])
+}
+
+/// Club membership in a CompetitionSeason, plus their accumulated league table statistics.
+/// Standings are computed from these rows: ORDER BY points DESC.
+/// goalDifference is always computed at read time (goalsFor - goalsAgainst).
+model SeasonClubParticipation {
+  id                  String  @id @default(cuid())
+  competitionSeasonId String
+  clubId              String
+  played              Int     @default(0)
+  won                 Int     @default(0)
+  drawn               Int     @default(0)
+  lost                Int     @default(0)
+  goalsFor            Int     @default(0)
+  goalsAgainst        Int     @default(0)
+  points              Int     @default(0)
+  /// For group-stage competitions e.g. UCL group A/B/C
+  groupId             String?
+  /// Set at season end: "PROMOTED" | "RELEGATED" | "PLAYOFF" | null
+  promotionStatus     String?
+
+  competitionSeason CompetitionSeason @relation(fields: [competitionSeasonId], references: [id], onDelete: Cascade)
+  club              Club              @relation(fields: [clubId], references: [id], onDelete: Cascade)
+
+  @@unique([competitionSeasonId, clubId])
+  @@index([competitionSeasonId])
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// PLAYER — IDENTITY
+// ─────────────────────────────────────────────────────────────────────────────
+
+/// Core player record. Static identity data that rarely changes.
+/// NOTE: age is NOT stored — compute at runtime: differenceInYears(dateOfBirth, now)
+/// NOTE: clubId is NOT stored — use PlayerClubRegistration WHERE isActive = true
+model Player {
+  id                  String           @id @default(cuid())
+  firstName           String
+  lastName            String
+  shortName           String
+  dateOfBirth         DateTime
+  nationality         String
+  secondNationality   String?
+  primaryPosition     PlayerPosition
+  secondaryPositions  PlayerPosition[]
+  preferredFoot       PreferredFoot    @default(RIGHT)
+  /// Height in centimetres
+  height              Int
+  /// Weight in kilograms (optional)
+  weight              Int?
+  /// false = retired or removed from game world
+  isActive            Boolean          @default(true)
+  createdAt           DateTime         @default(now())
+  updatedAt           DateTime         @updatedAt
+
+  attributes           PlayerAttributes?
+  potential            PlayerPotential?
+  personality          PlayerPersonality?
+  conditions           PlayerCondition[]
+  registrations        PlayerClubRegistration[]
+  competitionStats     PlayerCompetitionStats[]
+  attributeSnapshots   PlayerAttributeSnapshot[]
+  injuries             PlayerInjury[]
+  suspensions          PlayerSuspension[]
+  contract             Contract?
+  matchPerformances    PlayerMatchPerformance[]
+  matchEventsPrimary   MatchEvent[] @relation("PrimaryPlayer")
+  matchEventsSecondary MatchEvent[] @relation("SecondaryPlayer")
+
+  @@index([primaryPosition])
+  @@index([isActive])
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// PLAYER ATTRIBUTES — FLAT STORAGE (36 COLUMNS)
+// Stored flat in DB; presented as nested groups in TypeScript domain types.
+// All values are integers on the 1–99 scale.
+// GK-prefixed columns are null for outfield players.
+// ─────────────────────────────────────────────────────────────────────────────
+
+model PlayerAttributes {
+  id       String @id @default(cuid())
+  playerId String @unique
+
+  // ── TECHNICAL (12) ───────────────────────────────────────────────────────
+  passing       Int @default(50)
+  longPassing   Int @default(50)
+  crossing      Int @default(50)
+  finishing     Int @default(50)
+  firstTouch    Int @default(50)
+  dribbling     Int @default(50)
+  ballControl   Int @default(50)
+  heading       Int @default(50)
+  tackling      Int @default(50)
+  marking       Int @default(50)
+  freeKick      Int @default(50)
+  penaltyTaking Int @default(50)
+
+  // ── PHYSICAL (8) ─────────────────────────────────────────────────────────
+  acceleration   Int @default(50)
+  pace           Int @default(50)
+  stamina        Int @default(50)
+  strength       Int @default(50)
+  agility        Int @default(50)
+  balance        Int @default(50)
+  jumping        Int @default(50)
+  naturalFitness Int @default(50)
+
+  // ── MENTAL (11) ──────────────────────────────────────────────────────────
+  composure      Int @default(50)
+  decisions      Int @default(50)
+  vision         Int @default(50)
+  anticipation   Int @default(50)
+  positioning    Int @default(50)
+  concentration  Int @default(50)
+  workRate       Int @default(50)
+  aggression     Int @default(50)
+  leadership     Int @default(50)
+  teamwork       Int @default(50)
+  adaptability   Int @default(50)
+
+  // ── GOALKEEPING (5) — null for outfield players ───────────────────────────
+  gkReflexes       Int?
+  gkHandling       Int?
+  gkPositioning    Int?
+  gkKicking        Int?
+  gkCommunication  Int?
+
+  updatedAt DateTime @updatedAt
+
+  player Player @relation(fields: [playerId], references: [id], onDelete: Cascade)
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// PLAYER POTENTIAL — HIDDEN FROM UI
+// currentAbility is NOT stored here — it is computed from attributes.
+// ─────────────────────────────────────────────────────────────────────────────
+
+/// Hidden development profile. Engine and scouting access only.
+/// potentialAbility uses a 1–200 internal scale.
+/// currentAbility is computed at runtime from attributes — never persisted.
+model PlayerPotential {
+  id              String @id @default(cuid())
+  playerId        String @unique
+  /// Internal 1–200 scale ceiling
+  potentialAbility Int
+  /// 0.5 = slow development, 2.0 = rapid
+  developmentRate  Float  @default(1.0)
+  peakAgeStart     Int    @default(26)
+  peakAgeEnd       Int    @default(31)
+  updatedAt        DateTime @updatedAt
+
+  player Player @relation(fields: [playerId], references: [id], onDelete: Cascade)
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// PLAYER PERSONALITY
+// ─────────────────────────────────────────────────────────────────────────────
+
+model PlayerPersonality {
+  id              String           @id @default(cuid())
+  playerId        String           @unique
+  /// 1–20. High = seeks bigger club, more likely to request transfers
+  ambition        Int              @default(10)
+  /// 1–20. High = better development rate multiplier
+  professionalism Int              @default(10)
+  /// 1–20. High = accepts below-market wage at favourite club
+  loyalty         Int              @default(10)
+  /// 1–20. Low = more disciplinary incidents
+  temperament     Int              @default(10)
+  /// 1–20. Low = composure drops in high-pressure matches
+  pressureHandling Int             @default(10)
+  /// 1–20. Low = generates negative press events
+  mediaHandling   Int              @default(10)
+  dominantTrait   PersonalityTrait?
+
+  player Player @relation(fields: [playerId], references: [id], onDelete: Cascade)
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// PLAYER CONDITION — DYNAMIC STATE PER GAME SEASON
+// ─────────────────────────────────────────────────────────────────────────────
+
+/// Player's live condition for a specific GameSeason (career year).
+/// One record per player per GameSeason. Updated after each match.
+/// Scoped to GameSeason (not CompetitionSeason) because fatigue and morale
+/// from a UCL midweek match carry over to the next league weekend match.
+model PlayerCondition {
+  id                 String @id @default(cuid())
+  playerId           String
+  gameSeasonId       String
+  /// Available energy for the next match 0–100
+  fitness            Float  @default(100)
+  /// Accumulated tiredness from recent matches 0–100
+  fatigue            Float  @default(0)
+  /// Psychological wellbeing 0–100
+  morale             Float  @default(75)
+  /// Belief in own performance ability 0–100
+  confidence         Float  @default(75)
+  /// Match practice level — rises with play, falls with absence 0–100
+  sharpness          Float  @default(75)
+  /// Rolling average of recent match ratings 0–100
+  form               Float  @default(50)
+  /// Knowledge of the current tactical system 0–100
+  tacticalFamiliarity Float @default(50)
+  updatedAt          DateTime @updatedAt
+
+  player     Player     @relation(fields: [playerId], references: [id], onDelete: Cascade)
+  gameSeason GameSeason @relation(fields: [gameSeasonId], references: [id], onDelete: Cascade)
+
+  @@unique([playerId, gameSeasonId])
+  @@index([gameSeasonId])
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// PLAYER CLUB REGISTRATION — CLUB HISTORY
+// ─────────────────────────────────────────────────────────────────────────────
+
+/// Records a player's membership at a club.
+/// A new registration is created for every transfer, loan, or signing.
+/// Current club = WHERE isActive = true
+/// Transfer history = WHERE playerId = X ORDER BY startDate DESC
+model PlayerClubRegistration {
+  id               String           @id @default(cuid())
+  playerId         String
+  clubId           String
+  gameSeasonId     String
+  registrationType RegistrationType @default(PERMANENT)
+  startDate        DateTime
+  endDate          DateTime?
+  isActive         Boolean          @default(true)
+  /// For loans — the date the player is expected to return
+  loanEndDate      DateTime?
+  createdAt        DateTime         @default(now())
+
+  player           Player                 @relation(fields: [playerId], references: [id], onDelete: Cascade)
+  club             Club                   @relation(fields: [clubId], references: [id], onDelete: Cascade)
+  gameSeason       GameSeason             @relation(fields: [gameSeasonId], references: [id], onDelete: Cascade)
+  competitionStats PlayerCompetitionStats[]
+
+  @@index([playerId])
+  @@index([playerId, isActive])
+  @@index([clubId, isActive])
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// PLAYER COMPETITION STATISTICS
+// ─────────────────────────────────────────────────────────────────────────────
+
+/// Statistics for one player registration in one competition season.
+/// One record per (PlayerClubRegistration × CompetitionSeason).
+///
+/// Mid-season transfers produce TWO records for the same competition that year
+/// (one per registration). Season totals are SUM queries across both records.
+model PlayerCompetitionStats {
+  id                  String @id @default(cuid())
+  playerId            String
+  registrationId      String
+  competitionSeasonId String
+  appearances         Int    @default(0)
+  starts              Int    @default(0)
+  minutesPlayed       Int    @default(0)
+  goals               Int    @default(0)
+  assists             Int    @default(0)
+  yellowCards         Int    @default(0)
+  redCards            Int    @default(0)
+  /// For GKs and defenders
+  cleanSheets         Int    @default(0)
+  averageRating       Float  @default(0)
+  updatedAt           DateTime @updatedAt
+
+  player            Player                 @relation(fields: [playerId], references: [id], onDelete: Cascade)
+  registration      PlayerClubRegistration @relation(fields: [registrationId], references: [id], onDelete: Cascade)
+  competitionSeason CompetitionSeason      @relation(fields: [competitionSeasonId], references: [id], onDelete: Cascade)
+
+  @@unique([registrationId, competitionSeasonId])
+  @@index([playerId])
+  @@index([competitionSeasonId])
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// PLAYER ATTRIBUTE SNAPSHOT — DEVELOPMENT AUDIT TRAIL
+// ─────────────────────────────────────────────────────────────────────────────
+
+/// Records every attribute change. Forms the complete development history.
+/// The development algorithm writes these; it does NOT modify PlayerAttributes directly.
+///
+/// Example records:
+///   { attributeKey: "technical.passing", previousValue: 72, newValue: 74, delta: 2, reason: TRAINING }
+///   { attributeKey: "physical.pace",     previousValue: 91, newValue: 89, delta: -2, reason: AGE_DECLINE }
+model PlayerAttributeSnapshot {
+  id             String                @id @default(cuid())
+  playerId       String
+  gameSeasonId   String
+  /// Dot-notation path e.g. "technical.passing", "physical.pace", "mental.composure"
+  attributeKey   String
+  previousValue  Int
+  newValue       Int
+  /// newValue - previousValue (positive = improvement, negative = decline)
+  delta          Int
+  changeReason   AttributeChangeReason
+  occurredAt     DateTime              @default(now())
+
+  player     Player     @relation(fields: [playerId], references: [id], onDelete: Cascade)
+  gameSeason GameSeason @relation(fields: [gameSeasonId], references: [id], onDelete: Cascade)
+
+  @@index([playerId, gameSeasonId])
+  @@index([playerId, attributeKey])
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// PLAYER INJURY & SUSPENSION
+// ─────────────────────────────────────────────────────────────────────────────
+
+model PlayerInjury {
+  id             String          @id @default(cuid())
+  playerId       String
+  injuryType     InjuryType
+  severity       InjurySeverity
+  description    String
+  startDate      DateTime
+  expectedReturn DateTime
+  actualReturn   DateTime?
+  /// FK → Match if injury occurred during a specific match
+  matchId        String?
+
+  player Player  @relation(fields: [playerId], references: [id], onDelete: Cascade)
+  match  Match?  @relation(fields: [matchId], references: [id], onDelete: SetNull)
+
+  @@index([playerId])
+}
+
+model PlayerSuspension {
+  id                    String           @id @default(cuid())
+  playerId              String
+  reason                SuspensionReason
+  matchesMissed         Int
+  matchesMissedRemaining Int
+  /// Suspensions are competition-specific
+  competitionSeasonId   String
+  startedAtFixtureId    String?
+
+  player            Player            @relation(fields: [playerId], references: [id], onDelete: Cascade)
+  competitionSeason CompetitionSeason @relation(fields: [competitionSeasonId], references: [id], onDelete: Cascade)
+  startedAtFixture  Fixture?          @relation(fields: [startedAtFixtureId], references: [id], onDelete: SetNull)
+
+  @@index([playerId])
+  @@index([competitionSeasonId])
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// CONTRACT
+// ─────────────────────────────────────────────────────────────────────────────
+
+model Contract {
+  id            String         @id @default(cuid())
+  playerId      String         @unique
+  clubId        String
+  weeklyWage    Float
+  expiresAt     DateTime
+  releaseClause Float?
+  signingBonus  Float?
+  /// e.g. "Key Player", "Important Player", "Rotation", "Squad Player"
+  squadRole     String?
+  status        ContractStatus @default(ACTIVE)
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+
+  player Player @relation(fields: [playerId], references: [id], onDelete: Cascade)
+  club   Club   @relation(fields: [clubId], references: [id], onDelete: Cascade)
+
+  @@index([clubId])
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// FIXTURE & MATCH
+// ─────────────────────────────────────────────────────────────────────────────
+
+/// A scheduled match. Links to CompetitionPhase (not CompetitionSeason directly).
+/// Reach CompetitionSeason via: fixture → phase → competitionSeason
 model Fixture {
-  id            String      @id @default(cuid())
-  seasonId      String
-  homeClubId    String
-  awayClubId    String
-  matchDate     DateTime
-  matchWeek     Int
-  status        MatchStatus @default(SCHEDULED)
-  createdAt     DateTime    @default(now())
-  updatedAt     DateTime    @updatedAt
+  id               String      @id @default(cuid())
+  competitionPhaseId String
+  homeClubId       String
+  awayClubId       String
+  matchDate        DateTime
+  matchWeek        Int
+  isNeutralVenue   Boolean     @default(false)
+  status           MatchStatus @default(SCHEDULED)
+  createdAt        DateTime    @default(now())
+  updatedAt        DateTime    @updatedAt
 
-  season        Season      @relation(fields: [seasonId], references: [id], onDelete: Cascade)
-  homeClub      Club        @relation("HomeFixtures", fields: [homeClubId], references: [id], onDelete: Cascade)
-  awayClub      Club        @relation("AwayFixtures", fields: [awayClubId], references: [id], onDelete: Cascade)
-  match         Match?
+  competitionPhase CompetitionPhase @relation(fields: [competitionPhaseId], references: [id], onDelete: Cascade)
+  homeClub         Club             @relation("HomeFixtures", fields: [homeClubId], references: [id], onDelete: Cascade)
+  awayClub         Club             @relation("AwayFixtures", fields: [awayClubId], references: [id], onDelete: Cascade)
+  match            Match?
+  suspensions      PlayerSuspension[]
 
-  @@index([seasonId])
+  @@index([competitionPhaseId])
   @@index([matchDate])
 }
 
+/// Authoritative, immutable result of a completed match simulation.
+/// Lineup and tactics snapshots are stored as versioned JSON blobs
+/// because they must reflect what existed at kick-off, not what exists today.
 model Match {
-  id         String      @id @default(cuid())
-  fixtureId  String      @unique
-  homeScore  Int         @default(0)
-  awayScore  Int         @default(0)
-  seed       String
-  statsJson  String?     // Stored serialized JSON statistics
-  createdAt  DateTime    @default(now())
-  updatedAt  DateTime    @updatedAt
+  id         String   @id @default(cuid())
+  fixtureId  String   @unique
+  homeScore  Int      @default(0)
+  awayScore  Int      @default(0)
+  homeScoreHT Int     @default(0)
+  awayScoreHT Int     @default(0)
+  /// TacticDocument JSON blob (immutable snapshot at kick-off)
+  homeTacticsSnapshot Json
+  /// TacticDocument JSON blob (immutable snapshot at kick-off)
+  awayTacticsSnapshot Json
+  /// Lineup JSON blob — starting XI + bench at kick-off (immutable)
+  homeLineupSnapshot  Json
+  /// Lineup JSON blob — starting XI + bench at kick-off (immutable)
+  awayLineupSnapshot  Json
+  /// Version of the snapshot format — enables future migration detection
+  snapshotSchemaVersion String @default("1")
+  /// RNG seed — enables exact match replay
+  seed                String
+  /// e.g. "ts-statistical-v1@1.0.0-foundation"
+  simulationEngineVersion String
+  simulatedAt         DateTime
+  createdAt           DateTime @default(now())
+  updatedAt           DateTime @updatedAt
 
-  fixture    Fixture     @relation(fields: [fixtureId], references: [id], onDelete: Cascade)
-  events     MatchEvent[]
+  fixture             Fixture              @relation(fields: [fixtureId], references: [id], onDelete: Cascade)
+  statistics          MatchStatistics?
+  events              MatchEvent[]
+  playerPerformances  PlayerMatchPerformance[]
+  injuries            PlayerInjury[]
+
+  @@index([simulatedAt])
 }
 
+/// Typed match statistics. Replaces the previous raw statsJson string.
+model MatchStatistics {
+  id                 String @id @default(cuid())
+  matchId            String @unique
+  homePossession     Float
+  awayPossession     Float
+  homeShots          Int
+  awayShots          Int
+  homeShotsOnTarget  Int
+  awayShotsOnTarget  Int
+  /// Expected goals
+  homeXg             Float
+  awayXg             Float
+  homePasses         Int
+  awayPasses         Int
+  homePassAccuracy   Float
+  awayPassAccuracy   Float
+  homeFouls          Int
+  awayFouls          Int
+  homeYellowCards    Int
+  awayYellowCards    Int
+  homeRedCards       Int
+  awayRedCards       Int
+  homeCorners        Int
+  awayCorners        Int
+  homeTackles        Int
+  awayTackles        Int
+  homeInterceptions  Int
+  awayInterceptions  Int
+
+  match Match @relation(fields: [matchId], references: [id], onDelete: Cascade)
+}
+
+/// Persisted match events — the significant subset extracted from the
+/// simulation's micro-event stream (passes, carries, etc. are NOT persisted).
 model MatchEvent {
   id                String         @id @default(cuid())
   matchId           String
@@ -211,12 +899,73 @@ model MatchEvent {
   teamId            String
   primaryPlayerId   String?
   secondaryPlayerId String?
+  /// Expected goal value for shot/goal events
+  xgValue           Float?
+  /// Structured event-specific metadata JSON
+  metadata          Json?
   description       String
   createdAt         DateTime       @default(now())
 
-  match             Match          @relation(fields: [matchId], references: [id], onDelete: Cascade)
-  primaryPlayer     Player?        @relation("PrimaryPlayer", fields: [primaryPlayerId], references: [id], onDelete: SetNull)
-  secondaryPlayer   Player?        @relation("SecondaryPlayer", fields: [secondaryPlayerId], references: [id], onDelete: SetNull)
+  match           Match   @relation(fields: [matchId], references: [id], onDelete: Cascade)
+  primaryPlayer   Player? @relation("PrimaryPlayer", fields: [primaryPlayerId], references: [id], onDelete: SetNull)
+  secondaryPlayer Player? @relation("SecondaryPlayer", fields: [secondaryPlayerId], references: [id], onDelete: SetNull)
 
   @@index([matchId])
+}
+
+/// Per-player performance data for a single match.
+model PlayerMatchPerformance {
+  id                   String  @id @default(cuid())
+  matchId              String
+  playerId             String
+  teamId               String
+  isStarting           Boolean @default(true)
+  minutesPlayed        Int     @default(0)
+  /// Match rating 1.0–10.0
+  rating               Float   @default(6.0)
+  goals                Int     @default(0)
+  assists              Int     @default(0)
+  shots                Int     @default(0)
+  shotsOnTarget        Int     @default(0)
+  keyPasses            Int     @default(0)
+  passesCompleted      Int     @default(0)
+  passAccuracy         Float   @default(0)
+  tackles              Int     @default(0)
+  interceptions        Int     @default(0)
+  aerialDuelsWon       Int     @default(0)
+  yellowCards          Int     @default(0)
+  redCards             Int     @default(0)
+  xg                   Float   @default(0)
+  xgAssisted           Float   @default(0)
+  wasSubstitutedOff    Boolean @default(false)
+  substitutedOffMinute Int?
+
+  match  Match  @relation(fields: [matchId], references: [id], onDelete: Cascade)
+  player Player @relation(fields: [playerId], references: [id], onDelete: Cascade)
+
+  @@unique([matchId, playerId])
+  @@index([playerId])
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// SAVED TACTICS
+// ─────────────────────────────────────────────────────────────────────────────
+
+/// Manager's saved tactical setups.
+/// tacticDocument stores a TacticDocument JSON blob — all values are strongly
+/// typed in the TypeScript domain layer via the TacticDocument interface.
+model SavedTactic {
+  id             String   @id @default(cuid())
+  managerId      String
+  clubId         String
+  name           String
+  /// TacticDocument JSON blob — must conform to TacticDocument TypeScript interface
+  tacticDocument Json
+  isDefault      Boolean  @default(false)
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  manager Manager @relation(fields: [managerId], references: [id], onDelete: Cascade)
+
+  @@index([managerId])
 }
