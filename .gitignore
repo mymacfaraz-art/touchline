@@ -1,0 +1,33 @@
+# Dependencies
+/node_modules
+/.pnpm-store
+
+# Next.js build outputs
+/.next/
+/out/
+
+# Environment files and secrets
+.env
+.env*.local
+.env.development
+.env.production
+.env.test
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Prisma
+/prisma/*.db
+/prisma/*.db-journal
+
+# Testing
+/coverage/
+
+# OS / Editor metadata
+.DS_Store
+*.pem
+.vscode/
+.idea/
