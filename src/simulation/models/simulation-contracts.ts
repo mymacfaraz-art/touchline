@@ -60,6 +60,12 @@ export interface TeamSimulationState {
   tactics: DomainTactics;
   startingXI: PlayerSimulationState[];
   bench: PlayerSimulationState[];
+  /**
+   * Team cohesion score (0–100). Reflects how well the squad plays together.
+   * Higher = better off-ball movement, pressing shape, and tactical familiarity.
+   * Defaults to 70 if not provided.
+   */
+  teamCohesion?: number;
   /** 0–100 aggregate form of the team over recent matches */
   recentFormRating: number;
   managerTacticalDecisions?: {
@@ -82,6 +88,8 @@ export interface MatchSimulationInput {
   homeTeam: TeamSimulationState;
   awayTeam: TeamSimulationState;
   neutralVenue?: boolean;
+  /** Optional: override specific SimulationConfig fields for testing/balancing */
+  config?: Partial<import('../engine/simulation-config').SimulationConfig>;
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
