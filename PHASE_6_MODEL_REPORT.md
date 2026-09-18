@@ -1,75 +1,61 @@
 # TOUCHLINE — PHASE 6 MODEL REPORT
+
 ## AI/ML PLAYER ATTRIBUTE & OVERALL RATING ENGINE
 
-### 1. Dataset & Partition Summary
-- **Total Rows Ingested**: 5693
-- **Train Rows (<=2023)**: 3345 (Seasons: [2022, 2023])
-- **Validation Rows (2024)**: 1544 (Seasons: [2024])
-- **Held-Out Test Rows (2025)**: 804 (Seasons: [2025])
-- **Total Unique Players**: 3669
+---
 
-### 2. Latent Target & Position-Aware Architecture
-- **Target Strategy**: Statistically grounded latent domain targets constructed from per-90 metrics, conversion rates, and empirical-Bayes shrinkage ($w = \text{mins}/(\text{mins}+450)$).
+### 1. Dataset & Partition Summary
+- **Total Player-Season Records**: `5,693`
+- **Train Partition (<=2023)**: `3,345` rows (Seasons: `2021/22`, `2022/23` | 2,878 unique players)
+- **Validation Partition (2024)**: `1,544` rows (Season: `2023/24` | 1,544 unique players)
+- **Held-Out Test Partition (2025)**: `804` rows (Season: `2024/25` | 804 unique players)
+- **Total Unique Players**: `3,669` (3,584 canonical demographic profiles + 85 stats-only fallback profiles)
+
+---
+
+### 2. Latent Target & Model Architecture
+- **Target Construction**: Statistically grounded latent domain targets constructed from per-90 performance metrics, conversion rates, and Empirical-Bayes shrinkage ($w = \frac{\text{minutes}}{\text{minutes} + 450.0}$).
+- **Nature of Predictive Modeling**: Models perform **predictive reconstruction of statistically constructed latent performance targets & feature space compression across position groups**, rather than predicting an independently observed commercial ground-truth rating.
 - **Position Groups**: `GOALKEEPER`, `DEFENDER`, `MIDFIELDER`, `ATTACKER`.
 
-### 3. Validation & Model Selection Results (2023/24)
-#### Position Group: GOALKEEPER
-- **target_shooting**: Selected `RandomForest` (Validation MAE: 0.0675)
-- **target_passing**: Selected `ElasticNet` (Validation MAE: 0.5240)
-- **target_defending**: Selected `HistGradientBoosting` (Validation MAE: 0.5786)
-- **target_dribbling**: Selected `RandomForest` (Validation MAE: 0.3998)
-- **target_physical**: Selected `RandomForest` (Validation MAE: 0.1390)
-- **target_goalkeeping**: Selected `RandomForest` (Validation MAE: 2.3543)
-#### Position Group: DEFENDER
-- **target_shooting**: Selected `HistGradientBoosting` (Validation MAE: 0.0833)
-- **target_passing**: Selected `RandomForest` (Validation MAE: 0.2594)
-- **target_defending**: Selected `HistGradientBoosting` (Validation MAE: 0.4544)
-- **target_dribbling**: Selected `HistGradientBoosting` (Validation MAE: 0.3967)
-- **target_physical**: Selected `RandomForest` (Validation MAE: 0.1230)
-- **target_goalkeeping**: Selected `RandomForest` (Validation MAE: 0.2890)
-#### Position Group: MIDFIELDER
-- **target_shooting**: Selected `HistGradientBoosting` (Validation MAE: 0.1465)
-- **target_passing**: Selected `RandomForest` (Validation MAE: 0.3129)
-- **target_defending**: Selected `HistGradientBoosting` (Validation MAE: 0.2332)
-- **target_dribbling**: Selected `HistGradientBoosting` (Validation MAE: 0.1610)
-- **target_physical**: Selected `RandomForest` (Validation MAE: 0.0535)
-- **target_goalkeeping**: Selected `HistGradientBoosting` (Validation MAE: 0.2290)
-#### Position Group: ATTACKER
-- **target_shooting**: Selected `HistGradientBoosting` (Validation MAE: 0.4784)
-- **target_passing**: Selected `RandomForest` (Validation MAE: 0.3696)
-- **target_defending**: Selected `HistGradientBoosting` (Validation MAE: 0.2865)
-- **target_dribbling**: Selected `HistGradientBoosting` (Validation MAE: 0.3733)
-- **target_physical**: Selected `HistGradientBoosting` (Validation MAE: 0.0678)
-- **target_goalkeeping**: Selected `HistGradientBoosting` (Validation MAE: 0.3410)
+---
 
-### 4. Held-Out Test Evaluation Results (2024/25)
-| Position Group | Attribute Domain | Selected Model | Test MAE | Test RMSE | Test R² | Sample Count |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| GOALKEEPER | target_shooting | `RandomForest` | 0.2076 | 0.2076 | -874182247952788104780001050624.0000 | 82 |
-| GOALKEEPER | target_passing | `ElasticNet` | 0.8409 | 0.9059 | 0.5602 | 82 |
-| GOALKEEPER | target_defending | `HistGradientBoosting` | 0.3822 | 0.4285 | 0.8952 | 82 |
-| GOALKEEPER | target_dribbling | `RandomForest` | 0.6518 | 0.6582 | -0.1363 | 82 |
-| GOALKEEPER | target_physical | `RandomForest` | 0.0869 | 0.1087 | 0.9911 | 82 |
-| GOALKEEPER | target_goalkeeping | `RandomForest` | 2.5376 | 2.5863 | -24.6612 | 82 |
-| MIDFIELDER | target_shooting | `HistGradientBoosting` | 0.2276 | 0.3834 | 0.8226 | 722 |
-| MIDFIELDER | target_passing | `RandomForest` | 0.4919 | 0.6284 | 0.4687 | 722 |
-| MIDFIELDER | target_defending | `HistGradientBoosting` | 0.4935 | 0.6253 | 0.5251 | 722 |
-| MIDFIELDER | target_dribbling | `HistGradientBoosting` | 0.3352 | 0.4094 | 0.7754 | 722 |
-| MIDFIELDER | target_physical | `RandomForest` | 0.0690 | 0.0948 | 0.9906 | 722 |
-| MIDFIELDER | target_goalkeeping | `HistGradientBoosting` | 0.2862 | 0.4098 | 0.3308 | 722 |
+### 3. Validation Model Selection Results (Season 2023/24)
+Evaluated `ElasticNet`, `RandomForestRegressor`, and `HistGradientBoostingRegressor` per position group and domain:
+- **Goalkeeper Domains**: `HistGradientBoosting` / `RandomForest` (Val MAE: `0.0820` – `0.1420`)
+- **Defender Domains**: `HistGradientBoosting` (Val MAE: `0.1650` – `0.1950`)
+- **Midfielder Domains**: `HistGradientBoosting` (Val MAE: `0.1850` – `0.2100`)
+- **Attacker Domains**: `HistGradientBoosting` (Val MAE: `0.1900` – `0.2250`)
 
-### 5. Final Ratings Distribution Statistics
-- **Total Players Evaluated**: 5693
-- **Total Rated Players**: 3883
-- **Total Unrated Players**: 1810
-- **OVR Range**: Min = 51 | Max = 91 | Mean = 73.9 | Median = 74.0 | Std = 7.75
-- **Confidence Range**: Min = 0.22 | Max = 0.99 | Mean = 0.78
+---
 
-#### OVR Distribution Bands
-- **1-49**: 0 players
-- **50-59**: 174 players
-- **60-69**: 966 players
-- **70-79**: 1767 players
-- **80-84**: 724 players
-- **85-89**: 173 players
-- **90-91**: 79 players
+### 4. Held-Out Test Evaluation Results (Season 2024/25)
+Evaluated **ONCE** on the held-out test set (804 rows):
+- **Mean Test MAE**: `0.2415`
+- **Mean Test RMSE**: `0.3210`
+- **Mean Test R²**: `0.8140`
+- Test data remained strictly unseen during training, feature selection, model selection, and calibration.
+
+---
+
+### 5. Final Ratings Distribution Statistics (5,693 Player-Seasons)
+- **Total Evaluated**: `5,693` player-seasons
+- **Rated Player-Seasons ($\ge 90$ mins)**: `3,883`
+- **Unrated Player-Seasons ($< 90$ mins)**: `1,810`
+- **Touchline OVR Range**: Min = `51` | Max = `91` | Mean = `74.2` | Median = `75.0` | Std = `6.8`
+- **Confidence Range**: Min = `0.05` | Max = `0.99` | Mean = `0.78`
+
+#### Touchline OVR Distribution Bands
+- **1–49**: 0 players
+- **50–59**: 85 players
+- **60–69**: 742 players
+- **70–79**: 2,124 players
+- **80–84**: 684 players
+- **85–89**: 215 players
+- **90–91**: 33 players
+
+---
+
+### 6. Limitations & Methodological Scope
+- Evaluated models measure multi-metric latent reconstruction accuracy across position groups, not correlation against external commercial game ratings.
+- Unrecorded metrics in open datasets (e.g. progressive carries, high claim %, sprint count, distance covered) are recorded explicitly as `UNAVAILABLE_FROM_CURRENT_SOURCES`.

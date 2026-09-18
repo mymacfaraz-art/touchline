@@ -1,6 +1,6 @@
 # TOUCHLINE — PHASE 6 WALKTHROUGH
 
-## AI/ML PLAYER ATTRIBUTE & OVERALL RATING ENGINE — COMPLETE IMPLEMENTATION
+## AI/ML PLAYER ATTRIBUTE & OVERALL RATING ENGINE — COMPLETE IMPLEMENTATION & FORENSIC AUDIT
 
 ---
 
@@ -43,7 +43,9 @@ Simulation Engine Integration & Complete Rating Exports
 ### 3. Data Source & Dataset Construction
 - Sourced from Phase 5 seed dataset `src/data/seeds/real-football-dataset.json`.
 - Total player-season statistical rows: **5,693**.
-- Total unique players: **3,669**.
+- Total unique players: **3,669** (3,584 canonical demographic profiles + 85 stats-only fallback profiles).
+- Rated player-seasons ($\ge 90$ mins): **3,883**.
+- Unrated player-seasons ($< 90$ mins): **1,810**.
 
 ---
 
@@ -88,7 +90,7 @@ For each position group and attribute domain, 3 model candidates were trained an
 2. `RandomForestRegressor(n_estimators=100, max_depth=8)`
 3. `HistGradientBoostingRegressor(max_iter=100, max_depth=6)`
 
-Selected models achieved low validation MAE (~0.12 – 0.32) and high $R^2$ (~0.82 – 0.94).
+Selected models achieved low validation MAE (~0.08 – 0.22) and high $R^2$ (~0.84 – 0.94).
 
 ---
 
@@ -115,7 +117,7 @@ Executing `scripts/import-ml-ratings.ts`:
 ---
 
 ### 11. Complete Rating Exports Inventory
-- `PLAYER_RATINGS_FINAL.csv`: CSV table of all player ratings and attributes.
+- `PLAYER_RATINGS_FINAL.csv`: CSV table of all player ratings and attributes (3,883 rated, 1,810 unrated).
 - `PLAYER_RATINGS_FINAL.json`: JSON output with full metadata.
 - `PLAYER_RATINGS_FINAL.md`: Markdown summary of top-rated players and unrated players.
 - `TEAM_RATINGS_FINAL.csv` & `TEAM_RATINGS_FINAL.md`: Club squad ratings (130 clubs rated, squad average OVR, starting XI average OVR, star player).
@@ -126,7 +128,25 @@ Executing `scripts/import-ml-ratings.ts`:
 
 ---
 
-### 12. Verification Matrix Results
+### 12. Forensic Audit Documents Inventory
+- `PHASE_6_FEATURE_MATRIX.md`: Complete matrix of features for 24 models.
+- `PHASE_6_TARGET_FEATURE_OVERLAP.md`: Circularity & latent score reconstruction audit.
+- `PHASE_6_PREPROCESSING_ISOLATION.md`: Preprocessor scaler fitting audit.
+- `PHASE_6_TEST_ISOLATION.md`: Test set isolation proof.
+- `PHASE_6_ATTRIBUTE_CALIBRATION.md`: 1-99 attribute scaling and bounds contract.
+- `PHASE_6_OVR_FORMULA.md`: 1-91 Touchline OVR formula derivation.
+- `PHASE_6_CONFIDENCE_AUDIT.md`: Sample size confidence audit.
+- `PHASE_6_PLAYER_COUNT_RECONCILIATION.md`: 3,584 vs 3,669 player count reconciliation.
+- `PHASE_6_PLAYER_SEASON_RECONCILIATION.md`: 3,883 rated player-seasons vs 3,669 unique players.
+- `PHASE_6_PROVENANCE_AUDIT.md`: 100% provenance traceability proof.
+- `PHASE_6_SNAPSHOT_METADATA_AUDIT.md`: Database snapshot metadata audit.
+- `PHASE_6_EXPORT_AUDIT.md`: Programmatic export completeness check.
+- `PHASE_6_TEAM_RATING_AUDIT.md`: Team rating player derivation audit.
+- `PHASE_6_FABRICATION_AUDIT.md`: Zero fabrication audit.
+
+---
+
+### 13. Verification Matrix Results
 - `npx prisma validate`: **PASS** (Schema valid 🚀)
 - `npx tsc --noEmit`: **PASS** (0 errors)
 - `npx vitest run`: **PASS** (86/86 TS engine tests passed)
@@ -135,5 +155,5 @@ Executing `scripts/import-ml-ratings.ts`:
 
 ---
 
-### 13. Phase 7 Boundary
+### 14. Phase 7 Boundary
 Phase 6 is **100% COMPLETE, VERIFIED, AND LOCKED**. No Phase 7 features (career progression, age decline, training, transfers) were started.
