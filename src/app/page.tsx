@@ -1,12 +1,11 @@
 import React from 'react';
 import { MatchService } from '../services/match.service';
-import { SeededRNG } from '../simulation/engine/rng';
 import { createDefaultAttributes, createDefaultGKAttributes } from '../domain/types/player';
 import { toTacticDocument } from '../domain/types/tactics';
 
 export default async function HomePage() {
   const matchService = new MatchService();
-  const seed = 'touchline-phase7-9-demo-2026';
+  const seed = 'touchline-phase10-demo-2026';
 
   const makePlayer = (
     id: string,
@@ -105,7 +104,7 @@ export default async function HomePage() {
   ];
 
   const simulationResult = await matchService.executeMatchSimulation({
-    matchId: 'demo-match-phase7-9',
+    matchId: 'demo-match-phase10',
     seed,
     competitionSeasonId: 'cs-epl-2026-27',
     competitionPhaseId: 'phase-league-rounds',
@@ -141,63 +140,80 @@ export default async function HomePage() {
             TOUCHLINE
           </h1>
           <p className="mt-1 text-sm text-slate-400">
-            Integrated Football Management Engine · Seasons, Transfers &amp; Development
+            Advanced Football AI, Immersion &amp; Management Architecture (Phases 1–10)
           </p>
         </div>
-        <div className="flex items-center gap-2">
+        <div className="flex flex-wrap items-center gap-2">
           <span className="inline-flex items-center rounded-full bg-blue-500/10 px-3 py-1 text-xs font-semibold text-blue-400 ring-1 ring-inset ring-blue-500/20">
-            Phase 7: Career &amp; Season
+            Phase 7: Seasons
           </span>
           <span className="inline-flex items-center rounded-full bg-amber-500/10 px-3 py-1 text-xs font-semibold text-amber-400 ring-1 ring-inset ring-amber-500/20">
             Phase 8: Transfers
           </span>
           <span className="inline-flex items-center rounded-full bg-emerald-500/10 px-3 py-1 text-xs font-semibold text-emerald-400 ring-1 ring-inset ring-emerald-500/20">
-            Phase 9: Development
+            Phase 9: Progression
+          </span>
+          <span className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs font-semibold text-purple-400 ring-1 ring-inset ring-purple-500/20">
+            Phase 10: AI &amp; Immersion
           </span>
         </div>
       </header>
 
       {/* Overview Modules */}
-      <section className="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <section className="grid grid-cols-1 md:grid-cols-4 gap-6">
         <div className="rounded-xl border border-slate-800 bg-slate-900/60 p-5 backdrop-blur">
           <div className="flex items-center justify-between mb-3">
-            <span className="text-xs font-bold uppercase tracking-wider text-blue-400">Phase 7: Career Engine</span>
-            <span className="text-xs px-2 py-0.5 rounded bg-blue-900/40 text-blue-300">Active</span>
+            <span className="text-xs font-bold uppercase tracking-wider text-purple-400">Manager AI</span>
+            <span className="text-xs px-2 py-0.5 rounded bg-purple-900/40 text-purple-300">Active</span>
           </div>
-          <p className="text-sm font-semibold text-white">Full Lifecycle &amp; Standings</p>
+          <p className="text-sm font-semibold text-white">Adaptive Tactical AI</p>
           <p className="text-xs text-slate-400 mt-1">
-            Career isolation, deterministic matchweek advancement, goal difference &amp; head-to-head tiebreakers, knockout stages, and automatic season rollover.
+            Explainable decision traces, in-match tactical adaptations, substitution heuristics, and opposition analysis.
           </p>
           <div className="mt-4 border-t border-slate-800 pt-3 text-xs text-slate-400 font-mono">
-            Endpoint: <code className="text-blue-300">/api/career</code>
+            Endpoint: <code className="text-purple-300">/api/ai/manager</code>
           </div>
         </div>
 
         <div className="rounded-xl border border-slate-800 bg-slate-900/60 p-5 backdrop-blur">
           <div className="flex items-center justify-between mb-3">
-            <span className="text-xs font-bold uppercase tracking-wider text-amber-400">Phase 8: Transfers &amp; Squads</span>
-            <span className="text-xs px-2 py-0.5 rounded bg-amber-900/40 text-amber-300">Active</span>
+            <span className="text-xs font-bold uppercase tracking-wider text-indigo-400">Scouting &amp; Market</span>
+            <span className="text-xs px-2 py-0.5 rounded bg-indigo-900/40 text-indigo-300">Active</span>
           </div>
-          <p className="text-sm font-semibold text-white">Atomic Market &amp; Contracts</p>
+          <p className="text-sm font-semibold text-white">Scouting &amp; Recruitment AI</p>
           <p className="text-xs text-slate-400 mt-1">
-            Historical contracts, permanent transfers with fee amortization, wage budget enforcement, loan agreements, and free agency pool.
+            Delineated confidence levels (KNOWN, ESTIMATED, UNKNOWN) and deterministic squad-need evaluation.
           </p>
           <div className="mt-4 border-t border-slate-800 pt-3 text-xs text-slate-400 font-mono">
-            Endpoint: <code className="text-amber-300">/api/transfers</code>
+            Endpoint: <code className="text-indigo-300">/api/ai/scouting</code>
           </div>
         </div>
 
         <div className="rounded-xl border border-slate-800 bg-slate-900/60 p-5 backdrop-blur">
           <div className="flex items-center justify-between mb-3">
-            <span className="text-xs font-bold uppercase tracking-wider text-emerald-400">Phase 9: Player Progression</span>
-            <span className="text-xs px-2 py-0.5 rounded bg-emerald-900/40 text-emerald-300">Active</span>
+            <span className="text-xs font-bold uppercase tracking-wider text-pink-400">Board &amp; Morale</span>
+            <span className="text-xs px-2 py-0.5 rounded bg-pink-900/40 text-pink-300">Active</span>
           </div>
-          <p className="text-sm font-semibold text-white">Age Curves &amp; Training</p>
+          <p className="text-sm font-semibold text-white">Board Objectives &amp; Morale</p>
           <p className="text-xs text-slate-400 mt-1">
-            Deterministic attribute progression [1, 99], Touchline OVR bounds [1, 91], logarithmic potential ceilings, condition decay &amp; recovery, and attribute snapshots.
+            Persisted seasonal targets, dressing room squad harmony metrics, and structured player relationships.
           </p>
           <div className="mt-4 border-t border-slate-800 pt-3 text-xs text-slate-400 font-mono">
-            Endpoint: <code className="text-emerald-300">/api/development</code>
+            Endpoint: <code className="text-pink-300">/api/board</code>
+          </div>
+        </div>
+
+        <div className="rounded-xl border border-slate-800 bg-slate-900/60 p-5 backdrop-blur">
+          <div className="flex items-center justify-between mb-3">
+            <span className="text-xs font-bold uppercase tracking-wider text-cyan-400">Narrative &amp; News</span>
+            <span className="text-xs px-2 py-0.5 rounded bg-cyan-900/40 text-cyan-300">Active</span>
+          </div>
+          <p className="text-sm font-semibold text-white">Grounded Narrative Layer</p>
+          <p className="text-xs text-slate-400 mt-1">
+            Fact-grounded report generation, template fallback, domain event bus, and press conference framework.
+          </p>
+          <div className="mt-4 border-t border-slate-800 pt-3 text-xs text-slate-400 font-mono">
+            Endpoint: <code className="text-cyan-300">/api/news</code>
           </div>
         </div>
       </section>
@@ -209,7 +225,7 @@ export default async function HomePage() {
             Authoritative Match Simulation Smoke Test
           </h2>
           <span className="text-xs font-mono text-emerald-400 bg-emerald-500/10 px-2.5 py-1 rounded-md border border-emerald-500/20">
-            Deterministic Engine: {simulationResult.simulationEngineVersion}
+            Engine Version: {simulationResult.simulationEngineVersion}
           </span>
         </div>
 
@@ -221,7 +237,7 @@ export default async function HomePage() {
           <div className="text-center">
             <span className="text-4xl font-extrabold text-white">{ftScore}</span>
             <p className="text-xs text-slate-500 mt-1">HT {htScore}</p>
-            <p className="text-xs text-emerald-400 mt-1 font-mono">Replay Seed Verified ✓</p>
+            <p className="text-xs text-emerald-400 mt-1 font-mono">Deterministic Seed Verified ✓</p>
           </div>
           <div className="text-center">
             <p className="text-xl font-bold text-white">Riverdale FC</p>
@@ -249,7 +265,7 @@ export default async function HomePage() {
       </section>
 
       <footer className="text-center text-xs text-slate-500 border-t border-slate-900 pt-6">
-        Touchline Football Manager Engine &copy; 2026 · Integrated Phases 1–9
+        Touchline Football Manager Engine &copy; 2026 · Integrated Phases 1–10 Complete
       </footer>
     </main>
   );

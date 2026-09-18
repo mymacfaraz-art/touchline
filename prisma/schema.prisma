@@ -1211,3 +1211,142 @@ model RawDataRecord {
   @@index([sourceId, entityType, sourceEntityId])
 }
 
+// ─────────────────────────────────────────────────────────────────────────────
+// PHASE 10: ADVANCED FOOTBALL AI, IMMERSION & PRODUCTION MODELS
+// ─────────────────────────────────────────────────────────────────────────────
+
+enum ObjectiveStatus {
+  NOT_STARTED
+  IN_PROGRESS
+  ACHIEVED
+  FAILED
+  CANCELLED
+}
+
+enum NewsCategory {
+  MATCH_RESULT
+  TRANSFER
+  INJURY
+  CONTRACT
+  MANAGER
+  COMPETITION
+  PLAYER_FORM
+  CLUB
+  MILESTONE
+}
+
+enum ConfidenceLevel {
+  KNOWN
+  ESTIMATED
+  UNKNOWN
+}
+
+/// Explainable AI decision trace recording tactical and strategic actions
+model ManagerDecisionTrace {
+  id                    String   @id @default(cuid())
+  careerId              String
+  gameSeasonId          String
+  matchId               String?
+  managerId             String?
+  clubId                String
+  minute                Int?
+  trigger               String
+  gameState             Json
+  availableOptions      Json
+  selectedAction        String
+  confidence            Float    @default(1.0)
+  rationale             String
+  managerProfileVersion String   @default("v1.0")
+  createdAt             DateTime @default(now())
+
+  @@index([careerId, gameSeasonId])
+  @@index([matchId])
+  @@index([clubId])
+}
+
+/// Board / Club objectives set per season
+model BoardObjective {
+  id           String          @id @default(cuid())
+  careerId     String
+  gameSeasonId String
+  clubId       String
+  title        String
+  category     String          @default("LEAGUE_POSITION")
+  targetValue  Float
+  currentValue Float           @default(0)
+  status       ObjectiveStatus @default(NOT_STARTED)
+  priority     Int             @default(1)
+  createdAt    DateTime        @default(now())
+  updatedAt    DateTime        @updatedAt
+
+  @@index([careerId, gameSeasonId])
+  @@index([clubId])
+}
+
+/// Scouting reports with explicit confidence levels (KNOWN, ESTIMATED, UNKNOWN)
+model ScoutingReport {
+  id                  String          @id @default(cuid())
+  careerId            String
+  playerId            String
+  scoutId             String?
+  confidence          ConfidenceLevel @default(ESTIMATED)
+  overallEstimate     Int
+  potentialEstimate   Int?
+  tacticalFitRating   Float           @default(70.0)
+  summary             String
+  knownAttributesJson Json
+  dataFreshnessDate   DateTime        @default(now())
+  createdAt           DateTime        @default(now())
+
+  @@index([careerId, playerId])
+}
+
+/// Structured game world news & press releases
+model NewsItem {
+  id               String       @id @default(cuid())
+  careerId         String
+  gameSeasonId     String
+  category         NewsCategory
+  title            String
+  body             String
+  relatedClubId    String?
+  relatedPlayerId  String?
+  relatedMatchId   String?
+  sourceType       String       @default("DETERMINISTIC_TEMPLATE")
+  narrativeVersion String       @default("v1.0")
+  createdAt        DateTime     @default(now())
+
+  @@index([careerId, gameSeasonId])
+  @@index([category])
+}
+
+/// In-process domain event log for auditing and system decoupling
+model DomainEventLog {
+  id           String   @id @default(cuid())
+  careerId     String
+  gameSeasonId String?
+  eventType    String
+  payloadJson  Json
+  createdAt    DateTime @default(now())
+
+  @@index([careerId])
+  @@index([eventType])
+}
+
+/// Player relationships with manager, teammates, and club
+model PlayerRelationship {
+  id               String   @id @default(cuid())
+  careerId         String
+  playerId         String
+  targetType       String   // MANAGER | TEAMMATE | CLUB
+  targetId         String
+  satisfaction     Float    @default(75.0)
+  trustLevel       Float    @default(75.0)
+  notes            String?
+  updatedAt        DateTime @updatedAt
+
+  @@unique([careerId, playerId, targetType, targetId])
+  @@index([careerId, playerId])
+}
+
+
