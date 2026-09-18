@@ -1106,3 +1106,108 @@ model SavedTactic {
 
   @@index([managerId])
 }
+
+// ─────────────────────────────────────────────────────────────────────────────
+// PHASE 5: REAL FOOTBALL DATA FOUNDATION & PROVENANCE
+// ─────────────────────────────────────────────────────────────────────────────
+
+enum SourceEntityType {
+  COUNTRY
+  COMPETITION
+  CLUB
+  PLAYER
+  SEASON
+  FIXTURE
+  MATCH
+  PLAYER_STATS
+}
+
+enum ImportStatus {
+  STARTED
+  IN_PROGRESS
+  COMPLETED
+  FAILED
+  PARTIAL
+}
+
+/// Registry of authoritative external data sources.
+model DataSource {
+  id                  String   @id @default(cuid())
+  name                String
+  /// Short code e.g. "OPENFOOTBALL", "DATAHUB", "WIKIDATA", "STATSBOMB"
+  code                String   @unique
+  url                 String
+  license             String
+  permittedUse        String
+  attributionRequired Boolean  @default(false)
+  isActive            Boolean  @default(true)
+  createdAt           DateTime @default(now())
+  updatedAt           DateTime @updatedAt
+
+  importBatches       ImportBatch[]
+  sourceMappings      SourceMapping[]
+  rawDataRecords      RawDataRecord[]
+
+  @@index([code])
+}
+
+/// Ingestion batches for traceability and auditability.
+model ImportBatch {
+  id               String       @id @default(cuid())
+  sourceId         String
+  batchNumber      String       @unique
+  status           ImportStatus @default(STARTED)
+  datasetVersion   String?
+  startedAt        DateTime     @default(now())
+  completedAt      DateTime?
+  recordsProcessed Int          @default(0)
+  recordsImported  Int          @default(0)
+  recordsUpdated   Int          @default(0)
+  recordsFailed    Int          @default(0)
+  errorSummary     Json?
+  metadata         Json?
+
+  source         DataSource      @relation(fields: [sourceId], references: [id], onDelete: Cascade)
+  rawDataRecords RawDataRecord[]
+
+  @@index([sourceId])
+  @@index([status])
+}
+
+/// Lineage mapping linking external source entity IDs to canonical internal Touchline IDs.
+model SourceMapping {
+  id                 String           @id @default(cuid())
+  sourceId           String
+  entityType         SourceEntityType
+  sourceEntityId     String
+  internalEntityId   String
+  datasetVersion     String?
+  confidence         Float            @default(1.0)
+  metadata           Json?
+  createdAt          DateTime         @default(now())
+  updatedAt          DateTime         @updatedAt
+
+  source DataSource @relation(fields: [sourceId], references: [id], onDelete: Cascade)
+
+  @@unique([sourceId, entityType, sourceEntityId])
+  @@index([entityType, internalEntityId])
+  @@index([internalEntityId])
+}
+
+/// Immutable store of raw ingested records before normalization.
+model RawDataRecord {
+  id             String           @id @default(cuid())
+  importBatchId  String
+  sourceId       String
+  entityType     SourceEntityType
+  sourceEntityId String
+  payloadJson    Json
+  ingestedAt     DateTime         @default(now())
+
+  importBatch ImportBatch @relation(fields: [importBatchId], references: [id], onDelete: Cascade)
+  source      DataSource  @relation(fields: [sourceId], references: [id], onDelete: Cascade)
+
+  @@index([importBatchId])
+  @@index([sourceId, entityType, sourceEntityId])
+}
+

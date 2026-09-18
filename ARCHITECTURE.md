@@ -210,3 +210,41 @@ sequenceDiagram
 2. **Determinism**: Matches generate deterministic seeds (`generateMatchSeed`). Re-running with identical inputs & seed reproduces byte-for-byte identical outcomes.
 3. **Idempotency**: Completed fixtures cannot be re-simulated. Database `@unique` index on `Match.fixtureId` prevents duplicate authoritative results.
 4. **Atomicity**: Result persistence and football-world updates execute inside an atomic `prisma.$transaction`.
+
+---
+
+## 10. Real Football Data Foundation & ML Preparation (Phase 5)
+
+Phase 5 establishes the authoritative, real-world data foundation for Touchline, populating verified entities from open, non-proprietary datasets and preparing normalized features for Phase 6 ML attribute generation.
+
+```
+External Data Sources (OpenFootball, DataHub, Wikidata, StatsBomb Open)
+      │
+      ▼
+Source Registry & Ingestion Pipeline
+      │
+      ├──> Name, Position & Stats Normalizers
+      ├──> Entity Resolution & Deduplication (Aliases & Composite Signatures)
+      ├──> Provenance Lineage Tracking (DataSource, ImportBatch, SourceMapping)
+      └──> Data Quality Invariant Validator
+            │
+            ├──> Idempotent Football World Population (Prisma DB)
+            │
+            └──> ML Feature Extraction & Temporal Partitioning
+                  ├── 6-Domain Feature Vector (Shooting, Passing, Dribbling, Defending, Physical, Goalkeeping)
+                  ├── Zero-Lookahead Temporal Splitting (Train: ≤2023, Val: 2024, Test: ≥2025)
+                  └── Contract Ceilings: Attributes (1–99), Touchline OVR (1–91)
+```
+
+### Approved Data Sources & Licenses
+- **OpenFootball** (`football.csv`): Open public domain data for competitions, clubs, and match schedules.
+- **DataHub Football Datasets**: CC-BY/Public domain historical match results, league tables, and team rosters.
+- **Wikidata**: CC0 structured biographical entities (players, birth dates, nationalities, physical metrics).
+- **StatsBomb Open Data**: Free-with-attribution event-level and seasonal match statistics.
+
+### Architectural Invariants:
+1. **No Paid Data**: Only CC0, public domain, or open-with-attribution datasets are permitted. No API subscription keys.
+2. **No Proprietary Ratings**: FIFA, EA FC, or Football Manager ratings are strictly forbidden. All stats derive from real match events.
+3. **Traceable Lineage**: Every ingested entity links to a `SourceMapping` and `ImportBatch` preserving raw source IDs and confidence scores.
+4. **Temporal Split Invariant**: Datasets must never cause lookahead bias. Features are split temporally by season (Train $\le 2023$, Val $= 2024$, Test $\ge 2025$).
+5. **Phase 6 Boundary**: Phase 5 provides clean datasets, raw records, normalized features, and train/val/test splits. ML model training, neural architectures, and attribute predictions are deferred to Phase 6.
