@@ -1,0 +1,73 @@
+clubName,squadSize,ratedCount,squadAverageOvr,startingXiAverageOvr,highestPlayer,highestOvr,lowestPlayer,lowestOvr,squadConfidence,status
+Free Agent,1889,1270,73.9,91.0,Aaron Ramsdale,91,Viola Calligaris,51,0.78,RATED
+Atlético de Madrid,90,62,74.0,88.8,Álvaro Morata,91,Merel van Dongen,51,0.88,RATED
+Villarreal CF,94,79,71.8,88.1,Alexander Sørloth,91,Paola Soldevila,51,0.8,RATED
+Girona FC,63,45,76.0,88.0,Aleix García,91,Cristian Portugués Manzanera,63,0.83,RATED
+FC Barcelona,74,54,76.4,87.9,Robert Lewandowski,91,Unknown Player,64,0.79,RATED
+Real Sociedad,92,72,72.2,86.2,Amaiur Sarriegi,91,Manuela Vanegas,51,0.81,RATED
+SD Eibar,59,49,69.5,85.9,Carmen Álvarez,91,Carla Morera,51,0.85,RATED
+Real Betis,64,54,76.1,85.5,Juan Miguel Jiménez López,91,Aitor Ruibal,64,0.79,RATED
+RC Celta,67,50,75.4,85.3,Iago Aspas,91,Williot Swedberg,62,0.79,RATED
+Real Valladolid CF,38,28,76.6,84.8,Shon Weissman,91,Cristo González,63,0.8,RATED
+Liverpool FC,150,93,76.2,84.7,Alisson Ramses Becker,91,Harvey Elliott,67,0.78,RATED
+Sevilla FC,75,53,74.8,84.6,Sergio Ramos,90,Unknown Player,66,0.79,RATED
+West Ham United FC,130,90,75.5,83.7,Lukasz Fabianski,91,Ryan Fredericks,66,0.78,RATED
+FC Cartagena,32,23,76.4,83.4,Pablo Vázquez,91,Marc Martínez,67,0.86,RATED
+Burnley FC,57,45,73.4,83.3,Nick Pope,91,Filip Malbasic,64,0.77,RATED
+Brighton & Hove Albion FC,140,79,76.3,83.3,Pascal Groß,85,Unknown Player,66,0.78,RATED
+Valencia CF,68,49,72.9,83.3,Omar Alderete,89,Peter González,62,0.81,RATED
+Everton FC,154,92,75.2,83.2,Jordan Pickford,91,Roman Dixon,67,0.76,RATED
+Leeds,157,94,73.9,83.1,Emiliano Martínez,91,Lewis Bate,66,0.7,RATED
+Fulham FC,112,68,76.7,82.6,Alex Iwobi,85,Harrison Reed,67,0.81,RATED
+Wolves,169,99,74.9,82.5,José Malheiro de Sá,91,Luke Cundle,66,0.74,RATED
+AFC Bournemouth,125,77,75.4,82.5,Ryan Christie,84,Unknown Player,65,0.74,RATED
+Nott'm Forest,141,81,75.2,82.5,Morgan Gibbs-White,85,Harry Toffolo,67,0.77,RATED
+RB Leipzig,109,80,74.2,82.4,Kasper Schmeichel,91,Ryan Bertrand,66,0.74,RATED
+A Villa,89,50,76.2,82.4,Youri Tielemans,84,Kosta Nedeljković,66,0.78,RATED
+CD Mirandés,35,27,75.4,82.4,Sergio Camello,90,Raúl Lizoain,66,0.76,RATED
+Granada CF,68,52,73.0,82.3,Germán Sánchez,84,Myrto Uzuni,62,0.76,RATED
+Getafe CF,61,44,73.3,82.3,Borja Mayoral,89,Jakub Jankto,64,0.81,RATED
+CD Tenerife,32,24,75.7,81.9,Jeremy Mellot,89,Unknown Player,63,0.85,RATED
+SD Ponferradina,25,25,74.9,81.9,José Manuel Arias Copete,90,Juan Hernández,63,0.83,RATED
+UD Ibiza,32,25,75.2,81.7,Manuel Antonio Molina Valero,88,Miguel Villar Alonso,64,0.89,RATED
+CD Leganés,42,32,73.7,81.5,Miguel de la Fuente,88,Naim García,64,0.82,RATED
+Levante UD,39,30,74.4,81.5,José Luís Morales,88,Enric Franquesa,63,0.78,RATED
+Southampton FC,117,82,74.0,81.3,Alex McCarthy,84,Gavin Bazunu,66,0.73,RATED
+Chelsea FC,60,25,76.4,81.3,Cole Palmer,84,Đorđe Petrović,67,0.78,RATED
+Cádiz CF,63,51,73.2,81.0,Alfonso Espino,86,Iván Chapela,61,0.83,RATED
+CF Fuenlabrada,34,27,73.1,80.8,Mohamed Bouldini,85,Anderson Cordeiro Costa,62,0.78,RATED
+Real Oviedo,32,23,75.0,80.7,Borja González Tomás,91,Marco Sangalli,64,0.84,RATED
+Rayo Vallecano,54,46,72.5,80.5,Alejandro Catena,85,Tiago Manuel Dias Correia,61,0.83,RATED
+SD Huesca,36,23,74.4,80.5,Ignasi Miquel,88,David Ferreiro,63,0.87,RATED
+AD Alcorcón,34,27,73.9,80.4,Óscar Rivas,85,Joel Valencia,64,0.8,RATED
+RCD Espanyol de Barcelona,37,27,73.1,80.1,Raúl de Tomás,90,Landry Dimata,62,0.77,RATED
+Real Sporting,39,25,74.3,80.1,Uros Djurdjevic,87,Unknown Player,65,0.82,RATED
+Udinese,1,1,80.0,80.0,Nehuen Pérez,80,Nehuen Pérez,80,0.98,RATED
+Luton Town FC,49,25,76.4,79.8,Alfie Doughty,84,Thomas Kaminski,67,0.83,RATED
+Elche CF,31,26,73.8,79.8,Helibelton Palacios Zapata,83,Unknown Player,64,0.82,RATED
+Ipswich,40,30,74.6,79.7,Leif Davis,83,Alex Palmer,67,0.73,RATED
+Sheffield United FC,47,31,74.1,79.6,Gustavo Hamer,82,Unknown Player,62,0.74,RATED
+Real Zaragoza,33,23,75.1,79.6,Jair Amador Silos,86,Miguel Puche,65,0.87,RATED
+CD Lugo,30,24,73.5,79.5,Orest Lebedenko,91,Francisco Sebastián Moyano Jiménez,64,0.84,RATED
+Málaga CF,40,27,73.4,79.4,Alberto Escassi,85,Kevin Villodres,64,0.82,RATED
+R. Sociedad B,30,23,72.6,78.5,Beñat Turrientes,82,Jon Magunazelaia,61,0.78,RATED
+SD Amorebieta,27,27,72.0,78.0,Jon Irazábal,88,Mikel Álvaro Salazar,63,0.84,RATED
+Brentford FC,38,25,72.0,76.3,David Raya Martin,91,Dominic Thompson,66,0.63,RATED
+VfL Bochum,1,1,76.0,76.0,Gonçalo Mendes Paciência,76,Gonçalo Mendes Paciência,76,0.73,RATED
+Spezia,1,1,76.0,76.0,Rey Manaj,76,Rey Manaj,76,0.99,RATED
+Albacete BP,1,1,75.0,75.0,Kaiky Fernandes Melo,75,Kaiky Fernandes Melo,75,0.73,RATED
+Norwich,38,27,70.3,74.2,Tim Krul,84,Tony Springett,66,0.63,RATED
+Watford FC,51,28,70.0,74.0,Ben Foster,82,Samuel Kalu,66,0.65,RATED
+FC Bayern,1,1,74.0,74.0,Bryan Zaragoza,74,Bryan Zaragoza,74,0.25,RATED
+FC Andorra,1,1,73.0,73.0,Jon Karrikaburu,73,Jon Karrikaburu,73,0.9,RATED
+Bayer 04,1,1,72.0,72.0,Borja Iglesias,72,Borja Iglesias,72,0.26,RATED
+Nice,1,1,72.0,72.0,Mohamed-Ali Cho,72,Mohamed-Ali Cho,72,0.76,RATED
+Lyon,1,1,72.0,72.0,Paul Akouokou,72,Paul Akouokou,72,0.55,RATED
+Sporting Huelva,23,20,63.2,71.3,Ana Marcos Moral,91,Sandra Castelló,52,0.84,RATED
+UD Granadilla Tenerife Egatesa,32,21,63.1,71.1,Cristina Martín-Prieto,91,Raquel Peña,51,0.77,RATED
+Reims,1,1,70.0,70.0,Sergio Akieme,70,Sergio Akieme,70,0.71,RATED
+Madrid CFF,35,22,62.1,68.6,Gabriela Nunes da Silva,91,Mônica Hickmann Alves,51,0.78,RATED
+VCF Femenino,31,21,60.7,67.5,Candela Andujar,89,María Jiménez,51,0.82,RATED
+Real Betis Balompié,28,20,60.0,66.6,Mari Paz Vilas,91,Paula Perea,51,0.78,RATED
+Fiorentina,1,1,66.0,66.0,Álvaro Odriozola,66,Álvaro Odriozola,66,0.98,RATED
+LOSC,1,1,64.0,64.0,Unknown Player,64,Unknown Player,64,0.99,RATED

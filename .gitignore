@@ -35,3 +35,9 @@ pnpm-debug.log*
 # Data Cache
 data/raw/
 
+# Python Virtual Environment & Cache
+.venv/
+__pycache__/
+*.pyc
+
+
