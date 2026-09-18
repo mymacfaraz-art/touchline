@@ -200,6 +200,7 @@ export async function runIngestionPipeline(): Promise<{
     { seasonStart: 2021, seasonEnd: 2022, version: '2021-22' },
     { seasonStart: 2022, seasonEnd: 2023, version: '2022-23' },
     { seasonStart: 2023, seasonEnd: 2024, version: '2023-24' },
+    { seasonStart: 2024, seasonEnd: 2025, version: '2024-25' },
   ];
 
   for (const s of fplSeasons) {
@@ -467,11 +468,8 @@ export async function runIngestionPipeline(): Promise<{
     );
   });
 
-  console.log('⏱️ Performing strict temporal split (Train <= 2022, Val 2023, Test >= 2024)...');
-  // Train: <= 2022 (e.g. 2021/22)
-  // Validation: 2023 (2022/23)
-  // Test: 2024 (2023/24)
-  const temporalSplit = DatasetSplitter.splitTemporal(mlFeatures, 2022, 2023);
+  console.log('⏱️ Performing strict temporal split (Train <= 2023 [21/22, 22/23], Val 2024 [23/24], Test 2025 [24/25])...');
+  const temporalSplit = DatasetSplitter.splitTemporal(mlFeatures, 2023, 2024);
 
   console.log(`Split counts: Train=${temporalSplit.metadata.trainCount}, Val=${temporalSplit.metadata.valCount}, Test=${temporalSplit.metadata.testCount}`);
   console.log(`Leakage check passed: ${temporalSplit.metadata.leakageCheckPassed}`);

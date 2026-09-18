@@ -1,9 +1,9 @@
 ================================================================================
 TOUCHLINE — PHASE 5 DATA PROVENANCE & REAL FOOTBALL DATA AUDIT REPORT
 ================================================================================
-Timestamp: 2026-09-18T19:35:00Z
+Timestamp: 2026-09-18T22:27:00Z
 Repository: Touchline (/Users/luffy/Desktop/Touchline)
-Phase: Phase 5 — Real Football Data Foundation
+Phase: Phase 5 — Real Football Data Foundation (Final Temporal Split Correction)
 Status: VERIFIED & COMPLETE
 
 ================================================================================
@@ -13,14 +13,24 @@ Phase 5 has successfully ingested, normalized, resolved, and verified a real-wor
 open football dataset spanning 4 top European leagues (Premier League, La Liga,
 Bundesliga, Serie A) over historical and current seasons (2021/22 - 2024/25).
 
+TEMPORAL SPLIT IDENTIFICATION & CORRECTION SUMMARY:
+- Previous State Identified: The previous temporal split partitions overlapped:
+  Train (2021/22 - 2022/23), Validation (2022/23 - 2023/24), Test (2023/24 - 2024/25).
+  Season 2022/23 was duplicated in Train and Validation, and 2023/24 in Validation and Test.
+- Corrected State: Partitioning logic was updated so each player-season belongs to
+  EXACTLY ONE partition based on clean, disjoint season boundaries:
+  * TRAIN:      2021/22 & 2022/23 (seasonYearEnd <= 2023: 2022, 2023) -> 3,345 rows
+  * VALIDATION: 2023/24           (seasonYearEnd == 2024: 2024)       -> 1,544 rows
+  * HELD-OUT TEST: 2024/25        (seasonYearEnd == 2025: 2025)       -> 804 rows
+
 COMPLIANCE AUDIT RESULTS:
 - Manual / Invented Hardcoded Data: 0 records (0.0%)
-- External Open Data Sourced: 100% (3,371 players, 129 clubs, 2,206 fixtures, 4,889 stats)
-- Provenance Coverage: 100% (10,980 mappings tracked in ProvenanceTracker)
-- Proprietary EA FC / FM Ratings: ZERO (0.0% - completely clean of copyright risk)
+- External Open Data Sourced: 100% (3,584 players, 130 clubs, 2,206 fixtures, 5,693 stats)
+- Provenance Coverage: 100% (11,997 mappings tracked in ProvenanceTracker)
+- Proprietary Game-Rating Audit: No proprietary EA FC/FIFA, Football Manager, PES/eFootball ratings or other proprietary game-rating datasets were identified in the audited Touchline code/data.
 - Database Ingestion: 100% persisted to PostgreSQL database 'touchline'
-- Idempotency & Duplicate Resolution: 100% pass (6,751 duplicates detected & resolved on re-run)
-- Temporal Splitting & Data Leakage Protection: 100% pass (Train: 2,567, Val: 778, Test: 1,544)
+- Idempotency & Duplicate Resolution: 100% pass (7,436 duplicates detected & resolved on re-run)
+- Temporal Splitting & Data Leakage Protection: 100% pass (Disjoint seasons check: TRUE, Monotonicity: TRUE, Zero row overlap)
 
 ================================================================================
 2. LICENSED DATA SOURCES & PROVENANCE REGISTRY
@@ -34,12 +44,12 @@ All data acquired originates exclusively from approved open repositories:
 
 2. FPL Open Data API (Fantasy Premier League)
    - Source Code: FPL_OPEN_DATA
-   - License: MIT License
-   - Scope: Premier League player profiles, granular seasonal match statistics, positions.
+   - License: MIT License (Allows commercial and non-commercial reuse with copyright notice)
+   - Scope: Premier League player profiles, granular seasonal match statistics, positions (2021/22 - 2024/25).
 
 3. La Liga Open Data
    - Source Code: LALIGA_OPEN_DATA
-   - License: MIT License
+   - License: MIT License (Allows reuse with standard copyright notice)
    - Scope: Spanish La Liga player demographics and seasonal statistical logs.
 
 4. DataHub Football Datasets
@@ -52,41 +62,48 @@ All data acquired originates exclusively from approved open repositories:
 ================================================================================
 - Canonical Countries:             4 (ENG, ESP, DEU, ITA)
 - Canonical Competitions:          4 (EPL, LALIGA, BL1, SERIEA)
-- Canonical Clubs:                 129
-- Canonical Players:               3,371
-- Player Attributes Records:       3,371
-- Player Registrations:            4,889
-- Player Competition Statistics:   4,889
-- Historical Fixtures:             2,206
-- Tracked Provenance Mappings:     10,980
-- ML Feature Matrix Rows:          4,889
+- Canonical Clubs:                 130
+- Canonical Players:               3584
+- Player Attributes Records:       3584
+- Player Registrations:            5693
+- Player-Season Statistics:        5693
+- Historical Fixtures:             2206
+- Tracked Provenance Mappings:     11997
+- Raw Records:                     13
+- ML Feature Matrix Rows:          5693
 
 ================================================================================
 4. TEMPORAL DATASET SPLITTING & LEAKAGE PROTECTION
 ================================================================================
 Partitioning Strategy: Strict Time-Aware Season Boundaries (No random k-fold)
-- Train Partition:       2,567 rows (Season 2021/22 - 2022/23)
-- Validation Partition:  778 rows   (Season 2022/23 - 2023/24)
-- Held-Out Test:         1,544 rows (Season 2023/24 - 2024/25)
-- Data Leakage Check:    PASSED (0 player-seasons overlapping across splits)
+- Train Partition:       3345 rows (Seasons: 2022, 2023 | 2878 unique players)
+- Validation Partition:  1544 rows (Seasons: 2024       | 1544 unique players)
+- Held-Out Test:         804 rows  (Seasons: 2025       | 804 unique players)
+- Data Leakage Check:    PASSED (0 player-season rows overlapping across partitions)
+- Disjoint Seasons Check: PASSED (Seasons set intersection is strictly empty)
 - Monotonicity Check:   PASSED (max(train) < min(val) < min(test))
+- Failure Assertion:     PASSED (Splitter explicitly throws error on overlapping input partitions)
 
 ================================================================================
-5. UNRECORDED METRICS & TRUTHFULNESS
+5. FEATURE PIPELINE & UNRECORDED METRICS AUDIT
 ================================================================================
-Metrices not present in open datasets (e.g. progressive carries, high claim %,
-sprint count, distance covered) are recorded as 'UNAVAILABLE_FROM_CURRENT_SOURCES'.
-No missing metrics were fabricated, hallucinated, or filled with random values.
+Feature Pipeline Verification:
+- All features in MLFeatureExporter are computed strictly season-local (per-90 rates,
+  starts ratios, save percentages, conversion rates).
+- No career-wide or future-season information is incorporated into earlier season rows.
+- Unrecorded metrics in open datasets (e.g. progressive carries, high claim %,
+  sprint count, distance covered) are recorded as 'UNAVAILABLE_FROM_CURRENT_SOURCES'.
+- No missing metrics were fabricated, hallucinated, or filled with random values.
 
 ================================================================================
 6. DATABASE INGESTION & IDEMPOTENCY VERIFICATION
 ================================================================================
 Target Database: PostgreSQL ('touchline')
 Prisma Schema Validation: PASS (npx prisma validate)
-First-Pass Ingestion: 3,371 players, 129 clubs, 4,889 registrations, 4,889 stats inserted
+First-Pass Ingestion: 3,584 players, 130 clubs, 5,693 registrations, 5,693 stats inserted
 Second-Pass Idempotency Run:
-- Duplicates Detected: 6,751
-- Duplicates Resolved: 6,751
+- Duplicates Detected: 7436
+- Duplicates Resolved: 7436
 - Unhandled Duplicates: 0
 - Status: IDEMPOTENT & PRODUCTION-READY
 
@@ -95,9 +112,9 @@ Second-Pass Idempotency Run:
 ================================================================================
 - npx prisma validate      --> PASS
 - npx tsc --noEmit        --> PASS (0 errors)
-- npx vitest run           --> PASS (85 / 85 tests passed across 4 suites)
+- npx vitest run           --> PASS (86 / 86 tests passed across 4 suites)
 - npm run build            --> PASS
 
 AUDIT CONCLUSION:
-Phase 5 — Real Football Data Foundation is 100% COMPLETE, VERIFIED, and LOCKED.
+Phase 5 — Real Football Data Foundation temporal ML split correction is 100% COMPLETE, VERIFIED, and LOCKED.
 ================================================================================

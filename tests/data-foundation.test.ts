@@ -254,18 +254,83 @@ describe('Phase 5 — Real Football Data Foundation', () => {
       expect(featureVector.positionCategory).toBeDefined();
     });
 
-    it('splits dataset temporally without data leakage between train, validation, and test', () => {
+    it('splits dataset temporally into clean non-overlapping Train, Validation, and Test partitions', () => {
       const playerMap = new Map(REAL_PLAYERS.map((p) => [p.sourceId, p]));
       const vectors = REAL_PLAYER_STATS
         .filter((s) => playerMap.has(s.playerSourceId))
         .map((s) => MLFeatureExporter.extractFeatureVector(playerMap.get(s.playerSourceId)!, s));
 
-      const split = DatasetSplitter.splitTemporal(vectors, 2022, 2023);
+      const split = DatasetSplitter.splitTemporal(vectors, 2023, 2024);
 
       expect(split.train.length).toBeGreaterThan(0);
       expect(split.validation.length).toBeGreaterThan(0);
       expect(split.test.length).toBeGreaterThan(0);
+
+      // Verify metadata flags
       expect(split.metadata.leakageCheckPassed).toBe(true);
+      expect(split.metadata.temporalMonotonicityPassed).toBe(true);
+      expect(split.metadata.disjointSeasonsCheckPassed).toBe(true);
+
+      // 1. Verify exact disjoint season sets
+      const trainSeasons = new Set(split.metadata.trainSeasons);
+      const valSeasons = new Set(split.metadata.valSeasons);
+      const testSeasons = new Set(split.metadata.testSeasons);
+
+      for (const s of valSeasons) {
+        expect(trainSeasons.has(s)).toBe(false);
+      }
+      for (const s of testSeasons) {
+        expect(trainSeasons.has(s)).toBe(false);
+        expect(valSeasons.has(s)).toBe(false);
+      }
+
+      // 2. Verify strict temporal monotonicity
+      const maxTrain = Math.max(...split.metadata.trainSeasons);
+      const minVal = Math.min(...split.metadata.valSeasons);
+      const maxVal = Math.max(...split.metadata.valSeasons);
+      const minTest = Math.min(...split.metadata.testSeasons);
+
+      expect(maxTrain).toBeLessThan(minVal);
+      expect(maxVal).toBeLessThan(minTest);
+
+      // 3. Verify zero player-season overlap across partitions
+      const trainKeys = new Set(split.train.map((v) => `${v.playerId}:${v.seasonKey}`));
+      const valKeys = new Set(split.validation.map((v) => `${v.playerId}:${v.seasonKey}`));
+      const testKeys = new Set(split.test.map((v) => `${v.playerId}:${v.seasonKey}`));
+
+      for (const k of valKeys) {
+        expect(trainKeys.has(k)).toBe(false);
+      }
+      for (const k of testKeys) {
+        expect(trainKeys.has(k)).toBe(false);
+        expect(valKeys.has(k)).toBe(false);
+      }
+    });
+
+    it('fails explicitly when an overlapping season or player-season occurs', () => {
+      const mockOverlapVectors: any[] = [
+        { playerId: 'p1', seasonKey: '2021-2022', splitRole: 'TRAIN' },
+        { playerId: 'p1', seasonKey: '2022-2023', splitRole: 'TRAIN' },
+      ];
+
+      // Disjoint seasons check failure
+      expect(() => {
+        DatasetSplitter.verifyDisjointSeasons([2022, 2023], [2023], [2024]);
+      }).toThrow(/Data leakage detected/);
+
+      // Leakage check failure
+      expect(() => {
+        DatasetSplitter.verifyNoLeakage(
+          mockOverlapVectors,
+          [{ playerId: 'p1', seasonKey: '2022-2023', splitRole: 'VALIDATION' }] as any,
+          []
+        );
+      }).toThrow(/Data leakage detected/);
+
+      // Monotonicity failure
+      expect(() => {
+        DatasetSplitter.verifyMonotonicity([2022, 2023], [2023], [2024]);
+      }).toThrow(/Temporal leak/);
     });
   });
 

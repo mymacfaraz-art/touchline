@@ -31,3 +31,7 @@ pnpm-debug.log*
 *.pem
 .vscode/
 .idea/
+
+# Data Cache
+data/raw/
+
