@@ -14,13 +14,14 @@ The application is structured into decoupled domain modules inside Next.js App R
 
 ```
 src/
-├── domain/       # Pure TypeScript entities, types, and interfaces (zero framework dependencies)
-├── simulation/   # Deterministic & stochastic football simulation engine + RNG
-├── narrative/    # AI storytelling & commentary contracts (strictly non-authoritative)
-├── services/     # Application services orchestrating database and simulation pipelines
-├── lib/          # Database connection (Prisma), Auth placeholders, and utility helpers
-├── app/          # Next.js App Router pages and API routes (HTTP & Presentation Layer)
-└── components/   # React components & UI design system
+├── domain/        # Pure TypeScript entities, types, and interfaces (zero framework dependencies)
+├── simulation/    # Deterministic & stochastic football simulation engine + RNG
+├── orchestration/ # Matchday orchestration, squad selection, eligibility, & atomic persistence
+├── narrative/     # AI storytelling & commentary contracts (strictly non-authoritative)
+├── services/      # Application services orchestrating database and simulation pipelines
+├── lib/           # Database connection (Prisma), Auth placeholders, and utility helpers
+├── app/           # Next.js App Router pages and API routes (HTTP & Presentation Layer)
+└── components/    # React components & UI design system
 ```
 
 ### Key Rule
@@ -32,7 +33,7 @@ Business and simulation logic MUST NOT leak into React components or API handler
 
 The preferred architectural dependency flow is strictly unidirectional:
 
-$$\text{UI Layer} \longrightarrow \text{Application Services} \longrightarrow \text{Simulation Interface } (IMatchEngine) \longrightarrow \text{Engine Adapters}$$
+$$\text{UI Layer} \longrightarrow \text{Application Services} \longrightarrow \text{Matchday Orchestrator} \longrightarrow \text{Simulation Interface } (IMatchEngine) \longrightarrow \text{Engine Adapters}$$
 
 ### Disallowed Patterns:
 - ❌ **UI Components calling simulation engine internals directly.**
@@ -167,31 +168,45 @@ PlayerMatchPerformance
 
 `SeasonClubParticipation` counters derive from `Match` results — **not** from `PlayerMatchPerformance`.
 
-### Player Attributes (36 Columns, Flat Storage)
+---
 
-Stored flat in the `PlayerAttributes` table. Accessed as nested groups in TypeScript:
+## 9. Matchday & Simulation Orchestration (Phase 4)
 
-| Group | Count | Key Attributes |
-|---|---|---|
-| Technical | 12 | passing, finishing, dribbling, heading, tackling, marking… |
-| Physical | 8 | pace, acceleration, stamina, strength, jumping… |
-| Mental | 11 | composure, decisions, vision, positioning, concentration… |
-| Goalkeeping | 5 | gkReflexes, gkHandling, gkPositioning, gkKicking, gkCommunication |
+Phase 4 establishes the bridge between persistent world data (Phase 2) and pure simulation execution (Phase 3).
 
-`currentAbility` is **never stored** — computed at runtime from attributes + position weighting.
+### Execution Flow:
 
-### Player Condition (Dynamic State, GameSeason-Scoped)
+```mermaid
+sequenceDiagram
+    participant UI as UI / API Layer
+    participant Serv as MatchService
+    participant Orch as MatchdayOrchestrator
+    participant Res as Squad & Tactics Resolvers
+    participant Val as SquadValidator
+    participant Bld as SimulationInputBuilder
+    participant Eng as IMatchEngine (Phase 3)
+    participant DB as Prisma (Database TX)
 
-| Field | Range | Description |
-|---|---|---|
-| fitness | 0–100 | Available energy for next match |
-| fatigue | 0–100 | Accumulated tiredness |
-| morale | 0–100 | Psychological wellbeing |
-| confidence | 0–100 | Belief in performance |
-| sharpness | 0–100 | Match practice level |
-| form | 0–100 | Rolling average of recent ratings |
-| tacticalFamiliarity | 0–100 | Knowledge of current tactical system |
+    UI->>Serv: orchestrateMatchday({ fixtureId })
+    Serv->>Orch: orchestrateMatchday(options)
+    Orch->>Res: resolveClubSquad & resolveClubTactics
+    Res-->>Orch: Domain Players, Conditions, Eligibility & Tactics
+    Orch->>Val: validateSquadSelection / autoSelectSquad
+    Val-->>Orch: Validated SquadSelection (11 starters, 1 GK, 0 duplicates)
+    Orch->>Bld: buildSimulationInput(...)
+    Bld-->>Orch: MatchSimulationInput
+    Orch->>Eng: simulateMatch(input)
+    Eng-->>Orch: MatchSimulationResult
+    Orch->>Orch: validateSimulationResult(result)
+    Orch->>DB: persistMatchResult (Prisma Transaction)
+    Note over DB: 1. Create Match & Statistics<br/>2. Update Fixture status -> COMPLETED<br/>3. Create MatchEvents & PlayerMatchPerformances<br/>4. Update PlayerConditions & CompetitionStats<br/>5. Update SeasonClubParticipation Standings
+    DB-->>Orch: Transaction Committed
+    Orch-->>Serv: OrchestratedMatchResult
+    Serv-->>UI: Return Application Result
+```
 
-Condition is **GameSeason-scoped** (not per competition) because fatigue and morale carry across all competitions simultaneously.
-
-### Additional features (youth academy, scouting networks, granular finances, staff) will be introduced cleanly in subsequent development phases via additive Prisma migrations.
+### Architectural Guarantees:
+1. **Purity**: Phase 3 simulation engine remains 100% pure TypeScript (zero DB dependencies).
+2. **Determinism**: Matches generate deterministic seeds (`generateMatchSeed`). Re-running with identical inputs & seed reproduces byte-for-byte identical outcomes.
+3. **Idempotency**: Completed fixtures cannot be re-simulated. Database `@unique` index on `Match.fixtureId` prevents duplicate authoritative results.
+4. **Atomicity**: Result persistence and football-world updates execute inside an atomic `prisma.$transaction`.
