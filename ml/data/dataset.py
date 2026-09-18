@@ -41,6 +41,17 @@ def load_dataset(dataset_path: str = "src/data/seeds/real-football-dataset.json"
     players_dict = {p["sourceId"]: p for p in data.get("players", [])}
     clubs_dict = {c["sourceId"]: c for c in data.get("clubs", [])}
 
+    # Canonical alias mapping resolving clubSourceId variations in playerStats to canonical clubs
+    alias_map = {
+        'club-mci': 'club-mac', 'club-rma': 'club-rem', 'club-fcb': 'club-bar',
+        'club-acm': 'club-mil', 'club-tot': 'club-toh', 'club-mun': 'club-mau',
+        'club-new': 'club-neu', 'club-cry': 'club-crp', 'club-ath': 'club-atc',
+        'club-osa': 'club-cao', 'club-mll': 'club-rcm', 'club-rvm': 'club-rvd',
+        'club-sfc': 'club-sev', 'club-ala': 'club-dea', 'club-lpa': 'club-ulp',
+        'club-alm': 'club-uda', 'club-lud': 'club-lev', 'club-sal': 'club-us1',
+        'club-mnz': 'club-mon'
+    }
+
     rows = []
     for stat in data.get("playerStats", []):
         player_id = stat.get("playerSourceId")
@@ -57,7 +68,8 @@ def load_dataset(dataset_path: str = "src/data/seeds/real-football-dataset.json"
 
         pos = player.get("primaryPosition", "CM")
         pos_group = map_position_group(pos)
-        club_id = stat.get("clubSourceId", "")
+        raw_club_id = stat.get("clubSourceId", "")
+        club_id = alias_map.get(raw_club_id, raw_club_id)
         club = clubs_dict.get(club_id, {})
 
         row = {

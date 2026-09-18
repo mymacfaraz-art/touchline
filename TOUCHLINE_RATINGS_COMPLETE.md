@@ -778,6 +778,241 @@ COMPETITION: EPL
     - Ted Curd (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Zak Sturge (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
 
+  CLUB: Crystal Palace FC
+  -----------------------------------
+    - Vicente Guaita (GK) — OVR: 91 [Conf: 0.81]
+      Finishing: 54 | ShortPass: 74 | Tackling: 76 | Dribbling: 40 | Stamina: 77
+    - Michael Olise (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 91
+    - Ismaila Sarr (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 78 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 91
+    - Eberechi Eze (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 86 | ShortPass: 79 | Tackling: 78 | Dribbling: 98 | Stamina: 82
+    - Eberechi Eze (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 79 | ShortPass: 79 | Tackling: 78 | Dribbling: 93 | Stamina: 89
+    - Tyrick Mitchell (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 79 | Tackling: 79 | Dribbling: 89 | Stamina: 92
+    - Daniel Muñoz (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 79 | Tackling: 78 | Dribbling: 89 | Stamina: 92
+    - Jordan Ayew (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 79 | Tackling: 78 | Dribbling: 86 | Stamina: 91
+    - Wilfried Zaha (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 77 | ShortPass: 79 | Tackling: 78 | Dribbling: 89 | Stamina: 85
+    - Eberechi Eze (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 79 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 90
+    - Jordan Ayew (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 89
+    - Tyrick Mitchell (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 78 | Tackling: 79 | Dribbling: 86 | Stamina: 92
+    - Marc Guéhi (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 85 | Stamina: 92
+    - Jean-Philippe Mateta (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 87 | ShortPass: 79 | Tackling: 78 | Dribbling: 85 | Stamina: 91
+    - Joachim Andersen (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 64 | ShortPass: 78 | Tackling: 79 | Dribbling: 83 | Stamina: 91
+    - Marc Guéhi (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 78 | Tackling: 79 | Dribbling: 80 | Stamina: 92
+    - Tyrick Mitchell (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 91
+    - Cheick Doucouré (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 91
+    - Joachim Andersen (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 92
+    - Jefferson Lerma Solís (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 64 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 87
+    - Will Hughes (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 83
+    - Maxence Lacroix (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 64 | ShortPass: 78 | Tackling: 79 | Dribbling: 82 | Stamina: 92
+    - Jeffrey Schlupp (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 88
+    - Will Hughes (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 86 | Stamina: 79
+    - Jean-Philippe Mateta (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 92 | ShortPass: 78 | Tackling: 78 | Dribbling: 85 | Stamina: 85
+    - Michael Olise (CM) — OVR: 80 [Conf: 0.83]
+      Finishing: 92 | ShortPass: 77 | Tackling: 77 | Dribbling: 94 | Stamina: 71
+    - Jefferson Lerma Solís (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 85
+    - Joel Ward (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 84
+    - Marc Guéhi (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 81
+    - Chris Richards (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 82
+    - Joel Ward (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 81
+    - Odsonne Edouard (CM) — OVR: 78 [Conf: 0.99]
+      Finishing: 75 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 78
+    - Nathaniel Clyne (CM) — OVR: 78 [Conf: 0.85]
+      Finishing: 65 | ShortPass: 77 | Tackling: 77 | Dribbling: 89 | Stamina: 71
+    - Odsonne Edouard (CM) — OVR: 78 [Conf: 0.92]
+      Finishing: 82 | ShortPass: 78 | Tackling: 77 | Dribbling: 81 | Stamina: 74
+    - Daniel Muñoz (CM) — OVR: 78 [Conf: 0.89]
+      Finishing: 63 | ShortPass: 77 | Tackling: 77 | Dribbling: 83 | Stamina: 73
+    - Chris Richards (CM) — OVR: 78 [Conf: 0.99]
+      Finishing: 64 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 80
+    - Daichi Kamada (CM) — OVR: 78 [Conf: 0.90]
+      Finishing: 61 | ShortPass: 78 | Tackling: 77 | Dribbling: 84 | Stamina: 74
+    - Adam Wharton (CM) — OVR: 78 [Conf: 0.86]
+      Finishing: 60 | ShortPass: 77 | Tackling: 77 | Dribbling: 84 | Stamina: 71
+    - Jeffrey Schlupp (CM) — OVR: 77 [Conf: 0.88]
+      Finishing: 69 | ShortPass: 77 | Tackling: 77 | Dribbling: 83 | Stamina: 71
+    - Adam Wharton (CM) — OVR: 77 [Conf: 0.85]
+      Finishing: 60 | ShortPass: 77 | Tackling: 77 | Dribbling: 82 | Stamina: 71
+    - Conor Gallagher (CM) — OVR: 76 [Conf: 0.81]
+      Finishing: 90 | ShortPass: 78 | Tackling: 78 | Dribbling: 67 | Stamina: 78
+    - Albert Sambi Lokonga (CM) — OVR: 76 [Conf: 0.65]
+      Finishing: 66 | ShortPass: 76 | Tackling: 76 | Dribbling: 84 | Stamina: 64
+    - Nathaniel Clyne (CM) — OVR: 76 [Conf: 0.96]
+      Finishing: 57 | ShortPass: 78 | Tackling: 78 | Dribbling: 71 | Stamina: 76
+    - Edward Nketiah (CM) — OVR: 76 [Conf: 0.73]
+      Finishing: 81 | ShortPass: 77 | Tackling: 76 | Dribbling: 79 | Stamina: 67
+    - Wilfried Zaha (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 98 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 78
+    - Marc Guéhi (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 78
+    - Will Hughes (CM) — OVR: 75 [Conf: 0.66]
+      Finishing: 71 | ShortPass: 76 | Tackling: 76 | Dribbling: 80 | Stamina: 64
+    - Cheick Doucouré (CM) — OVR: 75 [Conf: 0.72]
+      Finishing: 63 | ShortPass: 76 | Tackling: 76 | Dribbling: 80 | Stamina: 66
+    - Jordan Ayew (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 85 | ShortPass: 78 | Tackling: 78 | Dribbling: 67 | Stamina: 69
+    - Jean-Philippe Mateta (CM) — OVR: 74 [Conf: 0.64]
+      Finishing: 76 | ShortPass: 76 | Tackling: 75 | Dribbling: 75 | Stamina: 64
+    - Jeffrey Schlupp (CM) — OVR: 73 [Conf: 0.81]
+      Finishing: 87 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 66
+    - Michael Olise (CM) — OVR: 73 [Conf: 0.66]
+      Finishing: 83 | ShortPass: 77 | Tackling: 77 | Dribbling: 73 | Stamina: 58
+    - Odsonne Edouard (CM) — OVR: 73 [Conf: 0.76]
+      Finishing: 91 | ShortPass: 78 | Tackling: 77 | Dribbling: 68 | Stamina: 63
+    - Christian Benteke (CM) — OVR: 72 [Conf: 0.66]
+      Finishing: 90 | ShortPass: 77 | Tackling: 77 | Dribbling: 65 | Stamina: 58
+    - Jean-Philippe Mateta (CM) — OVR: 72 [Conf: 0.66]
+      Finishing: 90 | ShortPass: 77 | Tackling: 77 | Dribbling: 65 | Stamina: 58
+    - Luka Milivojevic (CM) — OVR: 72 [Conf: 0.57]
+      Finishing: 64 | ShortPass: 75 | Tackling: 75 | Dribbling: 73 | Stamina: 61
+    - Cheick Doucouré (CM) — OVR: 72 [Conf: 0.55]
+      Finishing: 63 | ShortPass: 74 | Tackling: 74 | Dribbling: 72 | Stamina: 60
+    - Justin Devenny (CM) — OVR: 72 [Conf: 0.56]
+      Finishing: 70 | ShortPass: 75 | Tackling: 74 | Dribbling: 75 | Stamina: 60
+    - Tyrick Mitchell (CM) — OVR: 71 [Conf: 0.81]
+      Finishing: 56 | ShortPass: 78 | Tackling: 79 | Dribbling: 43 | Stamina: 78
+    - Joachim Andersen (CM) — OVR: 71 [Conf: 0.81]
+      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 44 | Stamina: 78
+    - Chris Richards (CM) — OVR: 71 [Conf: 0.55]
+      Finishing: 65 | ShortPass: 74 | Tackling: 74 | Dribbling: 69 | Stamina: 60
+    - Nathaniel Clyne (CM) — OVR: 71 [Conf: 0.57]
+      Finishing: 60 | ShortPass: 75 | Tackling: 74 | Dribbling: 68 | Stamina: 60
+    - Jack Butland (GK) — OVR: 70 [Conf: 0.58]
+      Finishing: 54 | ShortPass: 69 | Tackling: 69 | Dribbling: 43 | Stamina: 55
+    - Eberechi Eze (CM) — OVR: 70 [Conf: 0.54]
+      Finishing: 80 | ShortPass: 75 | Tackling: 75 | Dribbling: 65 | Stamina: 54
+    - Joel Ward (CM) — OVR: 70 [Conf: 0.81]
+      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 42 | Stamina: 75
+    - James Tomkins (CM) — OVR: 70 [Conf: 0.51]
+      Finishing: 69 | ShortPass: 74 | Tackling: 73 | Dribbling: 67 | Stamina: 59
+    - Matheus França de Oliveira (CM) — OVR: 70 [Conf: 0.23]
+      Finishing: 66 | ShortPass: 73 | Tackling: 71 | Dribbling: 71 | Stamina: 58
+    - Benjamin Chilwell (CM) — OVR: 70 [Conf: 0.24]
+      Finishing: 71 | ShortPass: 73 | Tackling: 73 | Dribbling: 71 | Stamina: 58
+    - Romain Esse (CM) — OVR: 70 [Conf: 0.23]
+      Finishing: 74 | ShortPass: 72 | Tackling: 71 | Dribbling: 73 | Stamina: 58
+    - James Tomkins (CM) — OVR: 69 [Conf: 0.53]
+      Finishing: 80 | ShortPass: 75 | Tackling: 74 | Dribbling: 63 | Stamina: 55
+    - James McArthur (CM) — OVR: 69 [Conf: 0.73]
+      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 49 | Stamina: 61
+    - Cheikhou Kouyaté (CM) — OVR: 69 [Conf: 0.81]
+      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 43 | Stamina: 68
+    - Will Hughes (CM) — OVR: 68 [Conf: 0.64]
+      Finishing: 58 | ShortPass: 77 | Tackling: 76 | Dribbling: 49 | Stamina: 57
+    - Nathaniel Clyne (CM) — OVR: 68 [Conf: 0.71]
+      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 45 | Stamina: 60
+    - Vicente Guaita (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 68 | Tackling: 76 | Dribbling: 68 | Stamina: 87
+    - Sam Johnstone (GK) — OVR: 68 [Conf: 0.68]
+      Finishing: 54 | ShortPass: 69 | Tackling: 70 | Dribbling: 63 | Stamina: 63
+    - Joseph Whitworth (GK) — OVR: 68 [Conf: 0.24]
+      Finishing: 54 | ShortPass: 67 | Tackling: 61 | Dribbling: 54 | Stamina: 56
+    - Naouirou Ahamada (CM) — OVR: 68 [Conf: 0.48]
+      Finishing: 63 | ShortPass: 74 | Tackling: 73 | Dribbling: 59 | Stamina: 55
+    - Sam Johnstone (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 69 | Tackling: 75 | Dribbling: 67 | Stamina: 78
+    - Jairo Riedewald (CM) — OVR: 68 [Conf: 0.24]
+      Finishing: 63 | ShortPass: 73 | Tackling: 72 | Dribbling: 61 | Stamina: 59
+    - Jesurun Rak-Sakyi (CM) — OVR: 68 [Conf: 0.22]
+      Finishing: 67 | ShortPass: 71 | Tackling: 71 | Dribbling: 67 | Stamina: 56
+    - Dean Henderson (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 68 | Tackling: 77 | Dribbling: 69 | Stamina: 92
+    - Jeffrey Schlupp (CM) — OVR: 68 [Conf: 0.22]
+      Finishing: 68 | ShortPass: 71 | Tackling: 70 | Dribbling: 66 | Stamina: 57
+    - Luka Milivojevic (CM) — OVR: 67 [Conf: 0.58]
+      Finishing: 59 | ShortPass: 76 | Tackling: 76 | Dribbling: 47 | Stamina: 55
+    - Dean Henderson (GK) — OVR: 67 [Conf: 0.95]
+      Finishing: 54 | ShortPass: 68 | Tackling: 74 | Dribbling: 66 | Stamina: 75
+    - Chadi Riad Dnanou (CM) — OVR: 67 [Conf: 0.22]
+      Finishing: 65 | ShortPass: 71 | Tackling: 69 | Dribbling: 61 | Stamina: 58
+    - Jairo Riedewald (CM) — OVR: 66 [Conf: 0.22]
+      Finishing: 64 | ShortPass: 71 | Tackling: 70 | Dribbling: 58 | Stamina: 57
+    - David Ozoh (CM) — OVR: 66 [Conf: 0.22]
+      Finishing: 63 | ShortPass: 72 | Tackling: 71 | Dribbling: 57 | Stamina: 56
+    - Martin Kelly (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jarosław Jach (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Nathan Ferguson (CM) — UNRATED (Insufficient playing time (8 mins < 90 mins threshold))
+    - Reece Hannam (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jesurun Rak-Sakyi (CM) — UNRATED (Insufficient playing time (79 mins < 90 mins threshold))
+    - Robert Street (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Scott Banks (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Remi Matthews (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Tayo Adaramola (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - James McArthur (CM) — UNRATED (Insufficient playing time (50 mins < 90 mins threshold))
+    - Christian Benteke (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jairo Riedewald (CM) — UNRATED (Insufficient playing time (60 mins < 90 mins threshold))
+    - Jesurun Rak-Sakyi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Malcolm Ebiowei (CM) — UNRATED (Insufficient playing time (31 mins < 90 mins threshold))
+    - Nathan Ferguson (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Remi Matthews (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Luke Plange (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Kaden Rodney (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Killian Phillips (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - John-Kymani Gordon (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Kofi Balmer (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Owen Goodman (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jack Wells-Morrison (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - David Ozoh (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
+    - Naouirou Ahamada (CM) — UNRATED (Insufficient playing time (87 mins < 90 mins threshold))
+    - Tayo Adaramola (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Rob Holding (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Malcolm Ebiowei (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Vicente Guaita (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Remi Matthews (GK) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
+    - Jake O'Brien (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Luke Plange (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - James Tomkins (CM) — UNRATED (Insufficient playing time (8 mins < 90 mins threshold))
+    - Joseph Whitworth (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - John-Kymani Gordon (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ademola Ola-Adebomi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jadan Raymond (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Tayo Adaramola (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Franco Umeh-Chibueze (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Kaden Rodney (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Roshaun Mathurin (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Naouirou Ahamada (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Malcolm Ebiowei (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Rob Holding (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Matheus França de Oliveira (CM) — UNRATED (Insufficient playing time (52 mins < 90 mins threshold))
+    - Remi Matthews (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - David Ozoh (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jesurun Rak-Sakyi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Joel Ward (CM) — UNRATED (Insufficient playing time (71 mins < 90 mins threshold))
+    - Matt Turner (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Franco Umeh-Chibueze (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Asher Agbinone (CM) — UNRATED (Insufficient playing time (4 mins < 90 mins threshold))
+    - Kaden Rodney (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Caleb Kporha (CM) — UNRATED (Insufficient playing time (11 mins < 90 mins threshold))
+    - Zach Marsh (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Oliver Glasner (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+
   CLUB: Everton FC
   -----------------------------------
     - Jordan Pickford (GK) — OVR: 91 [Conf: 0.81]
@@ -1026,2011 +1261,6 @@ COMPETITION: EPL
     - Isaac Heath (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Coby Ebere (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Reece Welch (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-
-  CLUB: Free Agent
-  -----------------------------------
-    - Aaron Ramsdale (GK) — OVR: 91 [Conf: 0.81]
-      Finishing: 54 | ShortPass: 75 | Tackling: 77 | Dribbling: 40 | Stamina: 78
-    - Robert Sánchez (GK) — OVR: 91 [Conf: 0.81]
-      Finishing: 54 | ShortPass: 74 | Tackling: 77 | Dribbling: 40 | Stamina: 78
-    - Edouard Mendy (GK) — OVR: 91 [Conf: 0.81]
-      Finishing: 54 | ShortPass: 76 | Tackling: 77 | Dribbling: 40 | Stamina: 78
-    - Vicente Guaita (GK) — OVR: 91 [Conf: 0.81]
-      Finishing: 54 | ShortPass: 74 | Tackling: 76 | Dribbling: 40 | Stamina: 77
-    - Ederson Santana de Moraes (GK) — OVR: 91 [Conf: 0.81]
-      Finishing: 54 | ShortPass: 80 | Tackling: 77 | Dribbling: 40 | Stamina: 78
-    - David de Gea (GK) — OVR: 91 [Conf: 0.81]
-      Finishing: 54 | ShortPass: 72 | Tackling: 77 | Dribbling: 40 | Stamina: 78
-    - Martin Dubravka (GK) — OVR: 91 [Conf: 0.81]
-      Finishing: 54 | ShortPass: 73 | Tackling: 75 | Dribbling: 40 | Stamina: 73
-    - Hugo Lloris (GK) — OVR: 91 [Conf: 0.81]
-      Finishing: 54 | ShortPass: 77 | Tackling: 77 | Dribbling: 40 | Stamina: 78
-    - Martin Ødegaard (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 84 | ShortPass: 79 | Tackling: 79 | Dribbling: 99 | Stamina: 92
-    - Gabriel Teodoro Martinelli Silva (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 85 | ShortPass: 79 | Tackling: 79 | Dribbling: 99 | Stamina: 91
-    - Michael Olise (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 91
-    - Bruno Miguel Borges Fernandes (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 75 | ShortPass: 79 | Tackling: 79 | Dribbling: 99 | Stamina: 92
-    - Kieran Trippier (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 79 | Tackling: 79 | Dribbling: 99 | Stamina: 92
-    - Martin Ødegaard (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 73 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 92
-    - Bukayo Saka (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 88 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 92
-    - Julián Álvarez (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 81 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 91
-    - Phil Foden (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 87 | ShortPass: 79 | Tackling: 79 | Dribbling: 99 | Stamina: 91
-    - Bruno Miguel Borges Fernandes (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 78 | ShortPass: 79 | Tackling: 79 | Dribbling: 99 | Stamina: 92
-    - Pedro Porro (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 79 | Tackling: 79 | Dribbling: 98 | Stamina: 92
-    - Heung-Min Son (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 87 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 91
-    - Mikkel Damsgaard (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 79 | Tackling: 79 | Dribbling: 99 | Stamina: 91
-    - Bryan Mbeumo (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 87 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 92
-    - Enzo Fernández (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 72 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 92
-    - Cole Palmer (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 87 | ShortPass: 79 | Tackling: 79 | Dribbling: 99 | Stamina: 92
-    - Ismaila Sarr (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 78 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 91
-    - Bruno Miguel Borges Fernandes (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 77 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 92
-    - Bukayo Saka (CM) — OVR: 84 [Conf: 0.99]
-      Finishing: 83 | ShortPass: 79 | Tackling: 79 | Dribbling: 94 | Stamina: 92
-    - Leandro Trossard (CM) — OVR: 84 [Conf: 0.99]
-      Finishing: 78 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 84
-    - Bryan Mbeumo (CM) — OVR: 84 [Conf: 0.99]
-      Finishing: 78 | ShortPass: 79 | Tackling: 79 | Dribbling: 95 | Stamina: 91
-    - Kevin De Bruyne (CM) — OVR: 84 [Conf: 0.99]
-      Finishing: 75 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 87
-    - Bernardo Mota Veiga de Carvalho e Silva (CM) — OVR: 84 [Conf: 0.99]
-      Finishing: 72 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 89
-    - Rodrigo Hernandez (CM) — OVR: 84 [Conf: 0.99]
-      Finishing: 74 | ShortPass: 79 | Tackling: 78 | Dribbling: 98 | Stamina: 91
-    - Bruno Guimarães Rodriguez Moura (CM) — OVR: 84 [Conf: 0.99]
-      Finishing: 72 | ShortPass: 79 | Tackling: 79 | Dribbling: 96 | Stamina: 92
-    - Anthony Gordon (CM) — OVR: 84 [Conf: 0.99]
-      Finishing: 80 | ShortPass: 79 | Tackling: 78 | Dribbling: 96 | Stamina: 91
-    - Kieran Trippier (CM) — OVR: 84 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 84
-    - Dejan Kulusevski (CM) — OVR: 84 [Conf: 0.99]
-      Finishing: 75 | ShortPass: 79 | Tackling: 78 | Dribbling: 98 | Stamina: 91
-    - Martin Ødegaard (CM) — OVR: 84 [Conf: 0.99]
-      Finishing: 69 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 85
-    - Declan Rice (CM) — OVR: 84 [Conf: 0.99]
-      Finishing: 69 | ShortPass: 79 | Tackling: 78 | Dribbling: 98 | Stamina: 91
-    - Jacob Murphy (CM) — OVR: 84 [Conf: 0.99]
-      Finishing: 77 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 86
-    - Granit Xhaka (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 73 | ShortPass: 79 | Tackling: 79 | Dribbling: 90 | Stamina: 92
-    - Ben White (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 79 | Tackling: 79 | Dribbling: 89 | Stamina: 92
-    - Ivan Toney (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 94 | ShortPass: 79 | Tackling: 78 | Dribbling: 89 | Stamina: 92
-    - Mathias Jensen (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 71 | ShortPass: 79 | Tackling: 78 | Dribbling: 93 | Stamina: 91
-    - Riyad Mahrez (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 75 | ShortPass: 79 | Tackling: 78 | Dribbling: 98 | Stamina: 80
-    - Jack Grealish (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 73 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 82
-    - Rodrigo Hernandez (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 79 | Tackling: 79 | Dribbling: 89 | Stamina: 91
-    - Joseph Willock (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 79 | Tackling: 78 | Dribbling: 92 | Stamina: 89
-    - Bruno Guimarães Rodriguez Moura (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 79 | Tackling: 79 | Dribbling: 89 | Stamina: 91
-    - Harry Kane (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 97 | ShortPass: 79 | Tackling: 79 | Dribbling: 89 | Stamina: 92
-    - Heung-Min Son (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 79 | ShortPass: 79 | Tackling: 78 | Dribbling: 91 | Stamina: 91
-    - Pierre-Emile Højbjerg (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 69 | ShortPass: 79 | Tackling: 79 | Dribbling: 88 | Stamina: 92
-    - Ivan Perišić (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 64 | ShortPass: 79 | Tackling: 78 | Dribbling: 97 | Stamina: 82
-    - Gabriel Teodoro Martinelli Silva (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 77 | ShortPass: 79 | Tackling: 78 | Dribbling: 98 | Stamina: 81
-    - Ben White (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 72 | ShortPass: 79 | Tackling: 79 | Dribbling: 90 | Stamina: 92
-    - Declan Rice (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 72 | ShortPass: 79 | Tackling: 79 | Dribbling: 92 | Stamina: 92
-    - Vitaly Janelt (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 62 | ShortPass: 79 | Tackling: 79 | Dribbling: 88 | Stamina: 92
-    - Mathias Jensen (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 75 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 84
-    - Eberechi Eze (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 86 | ShortPass: 79 | Tackling: 78 | Dribbling: 98 | Stamina: 82
-    - James Maddison (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 74 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 83
-    - Leandro Trossard (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 77 | ShortPass: 79 | Tackling: 78 | Dribbling: 91 | Stamina: 89
-    - Keane Lewis-Potter (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 79 | Tackling: 79 | Dribbling: 91 | Stamina: 92
-    - Pedro Lomba Neto (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 71 | ShortPass: 79 | Tackling: 78 | Dribbling: 96 | Stamina: 84
-    - Eberechi Eze (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 79 | ShortPass: 79 | Tackling: 78 | Dribbling: 93 | Stamina: 89
-    - Tyrick Mitchell (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 79 | Tackling: 79 | Dribbling: 89 | Stamina: 92
-    - Daniel Muñoz (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 79 | Tackling: 78 | Dribbling: 89 | Stamina: 92
-    - Bernardo Mota Veiga de Carvalho e Silva (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 79 | Tackling: 78 | Dribbling: 91 | Stamina: 91
-    - Ilkay Gündogan (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 79 | Tackling: 78 | Dribbling: 97 | Stamina: 84
-    - Bruno Guimarães Rodriguez Moura (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 79 | Tackling: 79 | Dribbling: 92 | Stamina: 92
-    - Anthony Gordon (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 76 | ShortPass: 79 | Tackling: 78 | Dribbling: 95 | Stamina: 87
-    - Pedro Porro (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 79 | Tackling: 78 | Dribbling: 93 | Stamina: 89
-    - Heung-Min Son (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 78 | ShortPass: 79 | Tackling: 78 | Dribbling: 98 | Stamina: 83
-    - Rico Henry (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 79 | Tackling: 79 | Dribbling: 86 | Stamina: 92
-    - Kai Havertz (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 79 | ShortPass: 79 | Tackling: 78 | Dribbling: 87 | Stamina: 89
-    - Jordan Ayew (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 79 | Tackling: 78 | Dribbling: 86 | Stamina: 91
-    - Wilfried Zaha (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 77 | ShortPass: 79 | Tackling: 78 | Dribbling: 89 | Stamina: 85
-    - Eberechi Eze (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 79 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 90
-    - Ilkay Gündogan (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 79 | ShortPass: 79 | Tackling: 78 | Dribbling: 93 | Stamina: 86
-    - Bernardo Mota Veiga de Carvalho e Silva (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 79 | Tackling: 78 | Dribbling: 91 | Stamina: 84
-    - Phil Foden (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 86 | ShortPass: 79 | Tackling: 78 | Dribbling: 97 | Stamina: 79
-    - Erling Haaland (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 99 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 91
-    - Luke Shaw (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 79 | Tackling: 78 | Dribbling: 87 | Stamina: 89
-    - Marcus Rashford (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 90 | ShortPass: 79 | Tackling: 79 | Dribbling: 87 | Stamina: 91
-    - Christian Eriksen (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 79 | Tackling: 78 | Dribbling: 91 | Stamina: 82
-    - Carlos Henrique Casimiro (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 71 | ShortPass: 79 | Tackling: 78 | Dribbling: 91 | Stamina: 83
-    - Miguel Almirón (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 82 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 88
-    - Sean Longstaff (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 79 | Tackling: 78 | Dribbling: 87 | Stamina: 88
-    - Dejan Kulusevski (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 79 | Tackling: 78 | Dribbling: 96 | Stamina: 82
-    - Kai Havertz (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 85 | ShortPass: 79 | Tackling: 78 | Dribbling: 90 | Stamina: 90
-    - Bryan Mbeumo (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 84 | ShortPass: 79 | Tackling: 78 | Dribbling: 97 | Stamina: 80
-    - Christian Nørgaard (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 79 | Tackling: 78 | Dribbling: 87 | Stamina: 88
-    - Dara O'Shea (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 74 | ShortPass: 78 | Tackling: 78 | Dribbling: 86 | Stamina: 91
-    - Jordan Ayew (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 89
-    - Tyrick Mitchell (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 78 | Tackling: 79 | Dribbling: 86 | Stamina: 92
-    - Jérémy Doku (CM) — OVR: 82 [Conf: 0.94]
-      Finishing: 70 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 75
-    - José Diogo Dalot Teixeira (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 78 | Tackling: 79 | Dribbling: 85 | Stamina: 92
-    - Alejandro Garnacho Ferreyra (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 77 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 89
-    - Sean Longstaff (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 72 | ShortPass: 79 | Tackling: 78 | Dribbling: 87 | Stamina: 91
-    - Brennan Johnson (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 76 | ShortPass: 79 | Tackling: 78 | Dribbling: 92 | Stamina: 85
-    - Micky van de Ven (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 76 | ShortPass: 78 | Tackling: 78 | Dribbling: 91 | Stamina: 86
-    - Gabriel Teodoro Martinelli Silva (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 79 | ShortPass: 79 | Tackling: 78 | Dribbling: 93 | Stamina: 85
-    - Bukayo Saka (CM) — OVR: 82 [Conf: 0.98]
-      Finishing: 80 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 77
-    - Thomas Partey (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 79 | Tackling: 78 | Dribbling: 87 | Stamina: 91
-    - Marc Cucurella (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 79 | Tackling: 79 | Dribbling: 85 | Stamina: 92
-    - Marc Guéhi (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 85 | Stamina: 92
-    - Jean-Philippe Mateta (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 87 | ShortPass: 79 | Tackling: 78 | Dribbling: 85 | Stamina: 91
-    - Kevin De Bruyne (CM) — OVR: 82 [Conf: 0.98]
-      Finishing: 75 | ShortPass: 79 | Tackling: 77 | Dribbling: 99 | Stamina: 76
-    - Phil Foden (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 80 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 78
-    - Joško Gvardiol (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 79 | Tackling: 79 | Dribbling: 87 | Stamina: 92
-    - Mateo Kovacic (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 75 | ShortPass: 79 | Tackling: 78 | Dribbling: 90 | Stamina: 84
-    - Sávio 'Savinho' Moreira de Oliveira (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 79 | Tackling: 77 | Dribbling: 98 | Stamina: 78
-    - Amad Diallo (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 79 | ShortPass: 79 | Tackling: 78 | Dribbling: 95 | Stamina: 79
-    - Harvey Barnes (CM) — OVR: 82 [Conf: 0.97]
-      Finishing: 84 | ShortPass: 79 | Tackling: 78 | Dribbling: 95 | Stamina: 77
-    - Alexander Isak (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 99 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 91
-    - Tino Livramento (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 60 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 91
-    - Sandro Tonali (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 79 | Tackling: 78 | Dribbling: 87 | Stamina: 90
-    - Dejan Kulusevski (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 75 | ShortPass: 79 | Tackling: 78 | Dribbling: 90 | Stamina: 86
-    - James Maddison (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 82 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 78
-    - Thomas Partey (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 79 | Tackling: 78 | Dribbling: 86 | Stamina: 88
-    - Gabriel Magalhães (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 78 | Tackling: 79 | Dribbling: 81 | Stamina: 92
-    - Gabriel Fernando de Jesus (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 90 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 82
-    - Oleksandr Zinchenko (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 64 | ShortPass: 79 | Tackling: 78 | Dribbling: 87 | Stamina: 83
-    - Ethan Pinnock (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 91
-    - Ben Mee (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 78 | Tackling: 79 | Dribbling: 82 | Stamina: 92
-    - Raheem Sterling (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 78 | ShortPass: 78 | Tackling: 78 | Dribbling: 91 | Stamina: 79
-    - Joachim Andersen (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 64 | ShortPass: 78 | Tackling: 79 | Dribbling: 83 | Stamina: 91
-    - Marc Guéhi (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 78 | Tackling: 79 | Dribbling: 80 | Stamina: 92
-    - Tyrick Mitchell (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 91
-    - Cheick Doucouré (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 91
-    - Jadon Sancho (CM) — OVR: 81 [Conf: 0.97]
-      Finishing: 77 | ShortPass: 78 | Tackling: 78 | Dribbling: 95 | Stamina: 76
-    - Dan Burn (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 78 | Tackling: 79 | Dribbling: 82 | Stamina: 92
-    - Fabian Schär (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 78 | Tackling: 79 | Dribbling: 84 | Stamina: 92
-    - Joelinton Cássio Apolinário de Lira (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 74 | ShortPass: 78 | Tackling: 78 | Dribbling: 85 | Stamina: 91
-    - Sven Botman (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 62 | ShortPass: 78 | Tackling: 79 | Dribbling: 82 | Stamina: 92
-    - Gabriel Magalhães (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 78 | Tackling: 79 | Dribbling: 81 | Stamina: 92
-    - William Saliba (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 78 | Tackling: 79 | Dribbling: 82 | Stamina: 92
-    - Nathan Collins (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 90
-    - Yoane Wissa (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 85 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 88
-    - Josh Brownhill (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 79 | Tackling: 78 | Dribbling: 85 | Stamina: 84
-    - Josh Cullen (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 78 | Tackling: 78 | Dribbling: 88 | Stamina: 82
-    - Sander Berge (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 92
-    - Wilson Odobert (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 69 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 83
-    - Joachim Andersen (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 92
-    - Jefferson Lerma Solís (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 64 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 87
-    - Manuel Akanji (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 88
-    - Rúben Santos Gato Alves Dias (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 89
-    - Erling Haaland (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 99 | ShortPass: 79 | Tackling: 78 | Dribbling: 85 | Stamina: 89
-    - Kyle Walker (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 59 | ShortPass: 79 | Tackling: 78 | Dribbling: 84 | Stamina: 91
-    - Joško Gvardiol (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 69 | ShortPass: 79 | Tackling: 78 | Dribbling: 85 | Stamina: 85
-    - Marcus Rashford (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 77 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 84
-    - Dan Burn (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 78 | Tackling: 79 | Dribbling: 83 | Stamina: 91
-    - Alexander Isak (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 99 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 85
-    - Fabian Schär (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 69 | ShortPass: 78 | Tackling: 79 | Dribbling: 83 | Stamina: 92
-    - Cristian Romero (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 78 | Tackling: 79 | Dribbling: 83 | Stamina: 91
-    - Destiny Udogie (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 79 | Tackling: 78 | Dribbling: 86 | Stamina: 86
-    - Jurriën Timber (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 87
-    - William Saliba (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 78 | Tackling: 79 | Dribbling: 82 | Stamina: 92
-    - Nathan Collins (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 64 | ShortPass: 78 | Tackling: 79 | Dribbling: 84 | Stamina: 92
-    - Christian Nørgaard (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 71 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 91
-    - Yoane Wissa (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 92 | ShortPass: 78 | Tackling: 78 | Dribbling: 85 | Stamina: 91
-    - Moisés Caicedo (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 78 | Tackling: 79 | Dribbling: 84 | Stamina: 92
-    - Levi Colwill (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 78 | Tackling: 79 | Dribbling: 83 | Stamina: 92
-    - Nicolas Jackson (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 82 | ShortPass: 79 | Tackling: 78 | Dribbling: 86 | Stamina: 84
-    - Will Hughes (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 83
-    - Maxence Lacroix (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 64 | ShortPass: 78 | Tackling: 79 | Dribbling: 82 | Stamina: 92
-    - Erling Haaland (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 99 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 91
-    - Matheus Luiz Nunes (CM) — OVR: 81 [Conf: 0.97]
-      Finishing: 64 | ShortPass: 79 | Tackling: 78 | Dribbling: 91 | Stamina: 76
-    - José Diogo Dalot Teixeira (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 85 | Stamina: 91
-    - Alejandro Garnacho Ferreyra (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 77 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 83
-    - Noussair Mazraoui (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 60 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 91
-    - Dan Burn (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 78 | Tackling: 79 | Dribbling: 82 | Stamina: 92
-    - Lewis Hall (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 59 | ShortPass: 79 | Tackling: 78 | Dribbling: 85 | Stamina: 84
-    - Joelinton Cássio Apolinário de Lira (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 71 | ShortPass: 79 | Tackling: 78 | Dribbling: 86 | Stamina: 86
-    - Fabian Schär (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 91
-    - Brennan Johnson (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 85 | ShortPass: 79 | Tackling: 78 | Dribbling: 86 | Stamina: 83
-    - William Saliba (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 87
-    - Jorge Luiz Frello Filho (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 83
-    - Vitaly Janelt (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 69 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 84
-    - Thiago Emiliano da Silva (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 86
-    - Mason Mount (CM) — OVR: 80 [Conf: 0.97]
-      Finishing: 70 | ShortPass: 78 | Tackling: 78 | Dribbling: 89 | Stamina: 76
-    - Jeffrey Schlupp (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 88
-    - Manuel Akanji (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 85
-    - José Diogo Dalot Teixeira (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 64 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 83
-    - Antony Matheus dos Santos (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 75 | ShortPass: 78 | Tackling: 78 | Dribbling: 87 | Stamina: 78
-    - Callum Wilson (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 99 | ShortPass: 78 | Tackling: 78 | Dribbling: 86 | Stamina: 79
-    - Eric Dier (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 91
-    - Unknown Player (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 85
-    - Cristian Romero (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 86
-    - Leandro Trossard (CM) — OVR: 80 [Conf: 0.95]
-      Finishing: 89 | ShortPass: 78 | Tackling: 77 | Dribbling: 92 | Stamina: 76
-    - Oleksandr Zinchenko (CM) — OVR: 80 [Conf: 0.98]
-      Finishing: 67 | ShortPass: 78 | Tackling: 78 | Dribbling: 91 | Stamina: 77
-    - Kristoffer Ajer (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 88 | Stamina: 78
-    - Ethan Pinnock (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 88
-    - Charlie Taylor (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 69 | ShortPass: 78 | Tackling: 78 | Dribbling: 85 | Stamina: 85
-    - Victor da Silva (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 85
-    - Will Hughes (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 86 | Stamina: 79
-    - Jean-Philippe Mateta (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 92 | ShortPass: 78 | Tackling: 78 | Dribbling: 85 | Stamina: 85
-    - Michael Olise (CM) — OVR: 80 [Conf: 0.83]
-      Finishing: 92 | ShortPass: 77 | Tackling: 77 | Dribbling: 94 | Stamina: 71
-    - Kevin De Bruyne (CM) — OVR: 80 [Conf: 0.83]
-      Finishing: 77 | ShortPass: 77 | Tackling: 76 | Dribbling: 96 | Stamina: 70
-    - Miguel Almirón (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 71 | ShortPass: 78 | Tackling: 78 | Dribbling: 88 | Stamina: 80
-    - Yves Bissouma (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 86 | Stamina: 82
-    - Pape Matar Sarr (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 69 | ShortPass: 78 | Tackling: 78 | Dribbling: 87 | Stamina: 82
-    - Gabriel Magalhães (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 86
-    - Kai Havertz (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 86 | ShortPass: 78 | Tackling: 78 | Dribbling: 85 | Stamina: 79
-    - Vitaly Janelt (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 79 | Tackling: 78 | Dribbling: 83 | Stamina: 84
-    - Kevin Schade (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 85 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 85
-    - Sepp van den Berg (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 89
-    - Malo Gusto (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 86 | Stamina: 78
-    - Noni Madueke (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 80 | ShortPass: 78 | Tackling: 78 | Dribbling: 88 | Stamina: 81
-    - Jadon Sancho (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 69 | ShortPass: 78 | Tackling: 78 | Dribbling: 90 | Stamina: 77
-    - Jefferson Lerma Solís (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 85
-    - Jérémy Doku (CM) — OVR: 80 [Conf: 0.90]
-      Finishing: 71 | ShortPass: 78 | Tackling: 78 | Dribbling: 94 | Stamina: 74
-    - Rúben Santos Gato Alves Dias (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 85
-    - Dominic Solanke (CM) — OVR: 80 [Conf: 0.99]
-      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 84
-    - Christian Nørgaard (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 78 | Tackling: 78 | Dribbling: 85 | Stamina: 78
-    - Mateo Kovacic (CM) — OVR: 79 [Conf: 0.96]
-      Finishing: 64 | ShortPass: 78 | Tackling: 77 | Dribbling: 85 | Stamina: 76
-    - Ruben Loftus-Cheek (CM) — OVR: 79 [Conf: 0.94]
-      Finishing: 62 | ShortPass: 78 | Tackling: 77 | Dribbling: 86 | Stamina: 74
-    - Benjamin Chilwell (CM) — OVR: 79 [Conf: 0.87]
-      Finishing: 69 | ShortPass: 77 | Tackling: 77 | Dribbling: 90 | Stamina: 72
-    - Reece James (CM) — OVR: 79 [Conf: 0.83]
-      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 92 | Stamina: 70
-    - Conor Gallagher (CM) — OVR: 79 [Conf: 0.95]
-      Finishing: 71 | ShortPass: 78 | Tackling: 77 | Dribbling: 85 | Stamina: 75
-    - Enzo Fernández (CM) — OVR: 79 [Conf: 0.93]
-      Finishing: 61 | ShortPass: 78 | Tackling: 77 | Dribbling: 90 | Stamina: 74
-    - Joel Ward (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 84
-    - Nathan Aké (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 79
-    - Lisandro Martínez (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 83
-    - Jacob Murphy (CM) — OVR: 79 [Conf: 0.82]
-      Finishing: 75 | ShortPass: 77 | Tackling: 77 | Dribbling: 92 | Stamina: 70
-    - Clément Lenglet (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 81
-    - Gabriel Fernando de Jesus (CM) — OVR: 79 [Conf: 0.91]
-      Finishing: 77 | ShortPass: 78 | Tackling: 77 | Dribbling: 90 | Stamina: 74
-    - Mads Roerslev Rasmussen (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 81
-    - Sergio Reguilón (CM) — OVR: 79 [Conf: 0.93]
-      Finishing: 62 | ShortPass: 78 | Tackling: 77 | Dribbling: 88 | Stamina: 74
-    - Lyle Foster (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 73 | ShortPass: 78 | Tackling: 77 | Dribbling: 83 | Stamina: 80
-    - Zeki Amdouni (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 75 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 80
-    - Marc Guéhi (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 81
-    - Chris Richards (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 82
-    - Joel Ward (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 81
-    - Nathan Aké (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 81
-    - Carlos Henrique Casimiro (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 81
-    - Kobbie Mainoo (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 72 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 80
-    - Rasmus Højlund (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 83
-    - Myles Lewis-Skelly (CM) — OVR: 79 [Conf: 0.86]
-      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 91 | Stamina: 72
-    - Trevoh Chalobah (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 80
-    - Manuel Akanji (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 81
-    - Rico Lewis (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 64 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 79
-    - Carlos Henrique Casimiro (CM) — OVR: 79 [Conf: 0.92]
-      Finishing: 65 | ShortPass: 78 | Tackling: 77 | Dribbling: 86 | Stamina: 74
-    - Rasmus Højlund (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 72 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 81
-    - Kobbie Mainoo (CM) — OVR: 79 [Conf: 0.97]
-      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 86 | Stamina: 76
-    - Lisandro Martínez (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 69 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 78
-    - Matthijs de Ligt (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 78 | Tackling: 78 | Dribbling: 79 | Stamina: 83
-    - Pape Matar Sarr (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 71 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 80
-    - Djed Spence (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 78
-    - Destiny Udogie (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 80
-    - Pelenda Joshua Dasilva (CM) — OVR: 78 [Conf: 0.85]
-      Finishing: 74 | ShortPass: 77 | Tackling: 77 | Dribbling: 84 | Stamina: 72
-    - Yoane Wissa (CM) — OVR: 78 [Conf: 0.92]
-      Finishing: 81 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 75
-    - Aaron Hickey (CM) — OVR: 78 [Conf: 0.99]
-      Finishing: 60 | ShortPass: 78 | Tackling: 78 | Dribbling: 79 | Stamina: 80
-    - Marc Cucurella (CM) — OVR: 78 [Conf: 0.97]
-      Finishing: 60 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 76
-    - César Azpilicueta (CM) — OVR: 78 [Conf: 0.91]
-      Finishing: 62 | ShortPass: 78 | Tackling: 77 | Dribbling: 84 | Stamina: 74
-    - Kalidou Koulibaly (CM) — OVR: 78 [Conf: 0.99]
-      Finishing: 69 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 78
-    - Odsonne Edouard (CM) — OVR: 78 [Conf: 0.99]
-      Finishing: 75 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 78
-    - Kyle Walker (CM) — OVR: 78 [Conf: 0.99]
-      Finishing: 60 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 80
-    - John Stones (CM) — OVR: 78 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 78
-    - Rúben Santos Gato Alves Dias (CM) — OVR: 78 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 78 | Stamina: 81
-    - Julián Álvarez (CM) — OVR: 78 [Conf: 0.86]
-      Finishing: 87 | ShortPass: 78 | Tackling: 77 | Dribbling: 85 | Stamina: 73
-    - Rico Lewis (CM) — OVR: 78 [Conf: 0.71]
-      Finishing: 66 | ShortPass: 76 | Tackling: 76 | Dribbling: 92 | Stamina: 66
-    - Raphaël Varane (CM) — OVR: 78 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 79 | Stamina: 80
-    - Frederico Rodrigues de Paula Santos (CM) — OVR: 78 [Conf: 0.80]
-      Finishing: 70 | ShortPass: 77 | Tackling: 77 | Dribbling: 85 | Stamina: 70
-    - Aaron Wan-Bissaka (CM) — OVR: 78 [Conf: 0.89]
-      Finishing: 63 | ShortPass: 77 | Tackling: 77 | Dribbling: 83 | Stamina: 73
-    - Anthony Gordon (CM) — OVR: 78 [Conf: 0.92]
-      Finishing: 75 | ShortPass: 78 | Tackling: 77 | Dribbling: 83 | Stamina: 75
-    - Allan Saint-Maximin (CM) — OVR: 78 [Conf: 0.78]
-      Finishing: 67 | ShortPass: 77 | Tackling: 77 | Dribbling: 89 | Stamina: 68
-    - Alexander Isak (CM) — OVR: 78 [Conf: 0.92]
-      Finishing: 89 | ShortPass: 78 | Tackling: 77 | Dribbling: 83 | Stamina: 74
-    - Emerson Aparecido Leite de Souza Junior (CM) — OVR: 78 [Conf: 0.98]
-      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 77
-    - Pedro Porro (CM) — OVR: 78 [Conf: 0.79]
-      Finishing: 72 | ShortPass: 77 | Tackling: 77 | Dribbling: 87 | Stamina: 69
-    - Keane Lewis-Potter (CM) — OVR: 78 [Conf: 0.88]
-      Finishing: 75 | ShortPass: 77 | Tackling: 77 | Dribbling: 85 | Stamina: 73
-    - Ivan Toney (CM) — OVR: 78 [Conf: 0.89]
-      Finishing: 77 | ShortPass: 77 | Tackling: 77 | Dribbling: 84 | Stamina: 73
-    - Neal Maupay (CM) — OVR: 78 [Conf: 0.86]
-      Finishing: 80 | ShortPass: 77 | Tackling: 77 | Dribbling: 85 | Stamina: 72
-    - Johann Berg Gudmundsson (CM) — OVR: 78 [Conf: 0.79]
-      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 87 | Stamina: 69
-    - Jacob Bruun Larsen (CM) — OVR: 78 [Conf: 0.84]
-      Finishing: 83 | ShortPass: 77 | Tackling: 77 | Dribbling: 84 | Stamina: 71
-    - Nathaniel Clyne (CM) — OVR: 78 [Conf: 0.85]
-      Finishing: 65 | ShortPass: 77 | Tackling: 77 | Dribbling: 89 | Stamina: 71
-    - Odsonne Edouard (CM) — OVR: 78 [Conf: 0.92]
-      Finishing: 82 | ShortPass: 78 | Tackling: 77 | Dribbling: 81 | Stamina: 74
-    - Daniel Muñoz (CM) — OVR: 78 [Conf: 0.89]
-      Finishing: 63 | ShortPass: 77 | Tackling: 77 | Dribbling: 83 | Stamina: 73
-    - Mateo Kovacic (CM) — OVR: 78 [Conf: 0.91]
-      Finishing: 65 | ShortPass: 78 | Tackling: 77 | Dribbling: 85 | Stamina: 74
-    - Antony Matheus dos Santos (CM) — OVR: 78 [Conf: 0.85]
-      Finishing: 69 | ShortPass: 77 | Tackling: 77 | Dribbling: 85 | Stamina: 71
-    - Christian Eriksen (CM) — OVR: 78 [Conf: 0.78]
-      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 88 | Stamina: 69
-    - Harry Maguire (CM) — OVR: 78 [Conf: 0.96]
-      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 76
-    - Scott McTominay (CM) — OVR: 78 [Conf: 0.99]
-      Finishing: 78 | ShortPass: 78 | Tackling: 78 | Dribbling: 79 | Stamina: 79
-    - Aaron Wan-Bissaka (CM) — OVR: 78 [Conf: 0.99]
-      Finishing: 57 | ShortPass: 78 | Tackling: 78 | Dribbling: 76 | Stamina: 78
-    - Jacob Murphy (CM) — OVR: 78 [Conf: 0.81]
-      Finishing: 72 | ShortPass: 77 | Tackling: 77 | Dribbling: 89 | Stamina: 69
-    - Richarlison de Andrade (CM) — OVR: 78 [Conf: 0.92]
-      Finishing: 99 | ShortPass: 78 | Tackling: 77 | Dribbling: 84 | Stamina: 74
-    - Mikel Merino (CM) — OVR: 78 [Conf: 0.93]
-      Finishing: 82 | ShortPass: 78 | Tackling: 77 | Dribbling: 83 | Stamina: 75
-    - Ethan Pinnock (CM) — OVR: 78 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 80
-    - Mads Roerslev Rasmussen (CM) — OVR: 78 [Conf: 0.76]
-      Finishing: 65 | ShortPass: 77 | Tackling: 77 | Dribbling: 91 | Stamina: 68
-    - Chris Richards (CM) — OVR: 78 [Conf: 0.99]
-      Finishing: 64 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 80
-    - Daichi Kamada (CM) — OVR: 78 [Conf: 0.90]
-      Finishing: 61 | ShortPass: 78 | Tackling: 77 | Dribbling: 84 | Stamina: 74
-    - Adam Wharton (CM) — OVR: 78 [Conf: 0.86]
-      Finishing: 60 | ShortPass: 77 | Tackling: 77 | Dribbling: 84 | Stamina: 71
-    - Harry Maguire (CM) — OVR: 78 [Conf: 0.99]
-      Finishing: 64 | ShortPass: 78 | Tackling: 78 | Dribbling: 78 | Stamina: 78
-    - Manuel Ugarte (CM) — OVR: 78 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 78
-    - Rodrigo Bentancur (CM) — OVR: 78 [Conf: 0.96]
-      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 76
-    - João Pedro Cavaco Cancelo (CM) — OVR: 77 [Conf: 0.81]
-      Finishing: 82 | ShortPass: 79 | Tackling: 79 | Dribbling: 70 | Stamina: 78
-    - Harry Kane (CM) — OVR: 77 [Conf: 0.81]
-      Finishing: 99 | ShortPass: 79 | Tackling: 78 | Dribbling: 70 | Stamina: 78
-    - Heung-Min Son (CM) — OVR: 77 [Conf: 0.81]
-      Finishing: 99 | ShortPass: 79 | Tackling: 79 | Dribbling: 70 | Stamina: 78
-    - Trevoh Chalobah (CM) — OVR: 77 [Conf: 0.95]
-      Finishing: 61 | ShortPass: 78 | Tackling: 77 | Dribbling: 76 | Stamina: 75
-    - João Pedro Cavaco Cancelo (CM) — OVR: 77 [Conf: 0.85]
-      Finishing: 69 | ShortPass: 77 | Tackling: 77 | Dribbling: 82 | Stamina: 71
-    - Victor Lindelöf (CM) — OVR: 77 [Conf: 0.85]
-      Finishing: 62 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 72
-    - Anthony Martial (CM) — OVR: 77 [Conf: 0.74]
-      Finishing: 90 | ShortPass: 77 | Tackling: 76 | Dribbling: 84 | Stamina: 67
-    - Tyrell Malacia (CM) — OVR: 77 [Conf: 0.86]
-      Finishing: 62 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 72
-    - Rodrigo Bentancur (CM) — OVR: 77 [Conf: 0.91]
-      Finishing: 76 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 74
-    - Oliver Skipp (CM) — OVR: 77 [Conf: 0.92]
-      Finishing: 69 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 74
-    - Yves Bissouma (CM) — OVR: 77 [Conf: 0.73]
-      Finishing: 66 | ShortPass: 77 | Tackling: 76 | Dribbling: 86 | Stamina: 67
-    - Richarlison de Andrade (CM) — OVR: 77 [Conf: 0.75]
-      Finishing: 70 | ShortPass: 77 | Tackling: 76 | Dribbling: 84 | Stamina: 67
-    - Ben Mee (CM) — OVR: 77 [Conf: 0.84]
-      Finishing: 70 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 71
-    - Frank Onyeka (CM) — OVR: 77 [Conf: 0.77]
-      Finishing: 67 | ShortPass: 77 | Tackling: 77 | Dribbling: 84 | Stamina: 69
-    - Lorenz Assignon (CM) — OVR: 77 [Conf: 0.83]
-      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 82 | Stamina: 70
-    - Jeffrey Schlupp (CM) — OVR: 77 [Conf: 0.88]
-      Finishing: 69 | ShortPass: 77 | Tackling: 77 | Dribbling: 83 | Stamina: 71
-    - Adam Wharton (CM) — OVR: 77 [Conf: 0.85]
-      Finishing: 60 | ShortPass: 77 | Tackling: 77 | Dribbling: 82 | Stamina: 71
-    - Jack Grealish (CM) — OVR: 77 [Conf: 0.73]
-      Finishing: 74 | ShortPass: 77 | Tackling: 76 | Dribbling: 88 | Stamina: 67
-    - Sven Botman (CM) — OVR: 77 [Conf: 0.87]
-      Finishing: 72 | ShortPass: 77 | Tackling: 77 | Dribbling: 79 | Stamina: 72
-    - Joelinton Cássio Apolinário de Lira (CM) — OVR: 77 [Conf: 0.84]
-      Finishing: 70 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 71
-    - Lewis Miley (CM) — OVR: 77 [Conf: 0.82]
-      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 70
-    - Pierre-Emile Højbjerg (CM) — OVR: 77 [Conf: 0.78]
-      Finishing: 61 | ShortPass: 77 | Tackling: 77 | Dribbling: 82 | Stamina: 70
-    - Jakub Kiwior (CM) — OVR: 77 [Conf: 0.76]
-      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 85 | Stamina: 68
-    - Ethan Nwaneri (CM) — OVR: 77 [Conf: 0.72]
-      Finishing: 77 | ShortPass: 76 | Tackling: 76 | Dribbling: 88 | Stamina: 66
-    - Ben White (CM) — OVR: 77 [Conf: 0.81]
-      Finishing: 60 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 70
-    - Kristoffer Ajer (CM) — OVR: 77 [Conf: 0.90]
-      Finishing: 62 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 73
-    - Yegor Yarmoliuk (CM) — OVR: 77 [Conf: 0.88]
-      Finishing: 62 | ShortPass: 77 | Tackling: 77 | Dribbling: 82 | Stamina: 73
-    - Tosin Adarabioyo (CM) — OVR: 77 [Conf: 0.87]
-      Finishing: 65 | ShortPass: 77 | Tackling: 77 | Dribbling: 79 | Stamina: 72
-    - Omar Marmoush (CM) — OVR: 77 [Conf: 0.81]
-      Finishing: 87 | ShortPass: 77 | Tackling: 77 | Dribbling: 85 | Stamina: 69
-    - Christian Eriksen (CM) — OVR: 77 [Conf: 0.75]
-      Finishing: 67 | ShortPass: 77 | Tackling: 77 | Dribbling: 86 | Stamina: 67
-    - Joshua Zirkzee (CM) — OVR: 77 [Conf: 0.86]
-      Finishing: 75 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 72
-    - Yves Bissouma (CM) — OVR: 77 [Conf: 0.88]
-      Finishing: 72 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 72
-    - Unknown Player (CM) — OVR: 77 [Conf: 0.85]
-      Finishing: 62 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 71
-    - Cristian Romero (CM) — OVR: 77 [Conf: 0.90]
-      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 73
-    - Bukayo Saka (CM) — OVR: 76 [Conf: 0.81]
-      Finishing: 93 | ShortPass: 78 | Tackling: 79 | Dribbling: 69 | Stamina: 78
-    - Martin Ødegaard (CM) — OVR: 76 [Conf: 0.81]
-      Finishing: 89 | ShortPass: 78 | Tackling: 79 | Dribbling: 66 | Stamina: 78
-    - Leandro Trossard (CM) — OVR: 76 [Conf: 0.81]
-      Finishing: 90 | ShortPass: 78 | Tackling: 78 | Dribbling: 66 | Stamina: 78
-    - Antonio Rüdiger (CM) — OVR: 76 [Conf: 0.81]
-      Finishing: 84 | ShortPass: 78 | Tackling: 79 | Dribbling: 65 | Stamina: 78
-    - Mason Mount (CM) — OVR: 76 [Conf: 0.81]
-      Finishing: 95 | ShortPass: 79 | Tackling: 78 | Dribbling: 72 | Stamina: 73
-    - Conor Gallagher (CM) — OVR: 76 [Conf: 0.81]
-      Finishing: 90 | ShortPass: 78 | Tackling: 78 | Dribbling: 67 | Stamina: 78
-    - Kevin De Bruyne (CM) — OVR: 76 [Conf: 0.81]
-      Finishing: 99 | ShortPass: 79 | Tackling: 78 | Dribbling: 70 | Stamina: 71
-    - Bernardo Mota Veiga de Carvalho e Silva (CM) — OVR: 76 [Conf: 0.81]
-      Finishing: 90 | ShortPass: 78 | Tackling: 78 | Dribbling: 69 | Stamina: 78
-    - Bruno Miguel Borges Fernandes (CM) — OVR: 76 [Conf: 0.81]
-      Finishing: 91 | ShortPass: 78 | Tackling: 79 | Dribbling: 68 | Stamina: 78
-    - Allan Saint-Maximin (CM) — OVR: 76 [Conf: 0.81]
-      Finishing: 86 | ShortPass: 78 | Tackling: 78 | Dribbling: 68 | Stamina: 78
-    - Pierre-Emile Højbjerg (CM) — OVR: 76 [Conf: 0.81]
-      Finishing: 83 | ShortPass: 78 | Tackling: 79 | Dribbling: 65 | Stamina: 78
-    - Edward Nketiah (CM) — OVR: 76 [Conf: 0.74]
-      Finishing: 86 | ShortPass: 77 | Tackling: 76 | Dribbling: 81 | Stamina: 68
-    - Mads Roerslev Rasmussen (CM) — OVR: 76 [Conf: 0.77]
-      Finishing: 62 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 68
-    - Mikkel Damsgaard (CM) — OVR: 76 [Conf: 0.72]
-      Finishing: 66 | ShortPass: 77 | Tackling: 76 | Dribbling: 82 | Stamina: 66
-    - Wesley Fofana (CM) — OVR: 76 [Conf: 0.85]
-      Finishing: 65 | ShortPass: 77 | Tackling: 77 | Dribbling: 77 | Stamina: 72
-    - João Félix Sequeira (CM) — OVR: 76 [Conf: 0.73]
-      Finishing: 80 | ShortPass: 77 | Tackling: 76 | Dribbling: 82 | Stamina: 66
-    - Albert Sambi Lokonga (CM) — OVR: 76 [Conf: 0.65]
-      Finishing: 66 | ShortPass: 76 | Tackling: 76 | Dribbling: 84 | Stamina: 64
-    - Nathaniel Clyne (CM) — OVR: 76 [Conf: 0.96]
-      Finishing: 57 | ShortPass: 78 | Tackling: 78 | Dribbling: 71 | Stamina: 76
-    - Scott McTominay (CM) — OVR: 76 [Conf: 0.77]
-      Finishing: 67 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 69
-    - Wout Weghorst (CM) — OVR: 76 [Conf: 0.69]
-      Finishing: 66 | ShortPass: 76 | Tackling: 76 | Dribbling: 83 | Stamina: 64
-    - Edward Nketiah (CM) — OVR: 76 [Conf: 0.75]
-      Finishing: 83 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 68
-    - Takehiro Tomiyasu (CM) — OVR: 76 [Conf: 0.76]
-      Finishing: 70 | ShortPass: 77 | Tackling: 77 | Dribbling: 79 | Stamina: 69
-    - Aaron Hickey (CM) — OVR: 76 [Conf: 0.66]
-      Finishing: 66 | ShortPass: 76 | Tackling: 76 | Dribbling: 84 | Stamina: 64
-    - Mathias Jorgensen (CM) — OVR: 76 [Conf: 0.77]
-      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 78 | Stamina: 68
-    - Ameen Al-Dakhil (CM) — OVR: 76 [Conf: 0.76]
-      Finishing: 67 | ShortPass: 77 | Tackling: 77 | Dribbling: 78 | Stamina: 68
-    - Jordan Beyer (CM) — OVR: 76 [Conf: 0.83]
-      Finishing: 63 | ShortPass: 77 | Tackling: 77 | Dribbling: 77 | Stamina: 70
-    - Luca Koleosho (CM) — OVR: 76 [Conf: 0.76]
-      Finishing: 68 | ShortPass: 77 | Tackling: 76 | Dribbling: 82 | Stamina: 67
-    - Maxime Esteve (CM) — OVR: 76 [Conf: 0.85]
-      Finishing: 62 | ShortPass: 77 | Tackling: 77 | Dribbling: 78 | Stamina: 71
-    - John Stones (CM) — OVR: 76 [Conf: 0.77]
-      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 78 | Stamina: 68
-    - Matheus Luiz Nunes (CM) — OVR: 76 [Conf: 0.68]
-      Finishing: 64 | ShortPass: 76 | Tackling: 76 | Dribbling: 85 | Stamina: 65
-    - Victor Lindelöf (CM) — OVR: 76 [Conf: 0.85]
-      Finishing: 65 | ShortPass: 77 | Tackling: 77 | Dribbling: 79 | Stamina: 71
-    - Raphaël Varane (CM) — OVR: 76 [Conf: 0.87]
-      Finishing: 64 | ShortPass: 77 | Tackling: 77 | Dribbling: 75 | Stamina: 72
-    - Elliot Anderson (CM) — OVR: 76 [Conf: 0.74]
-      Finishing: 65 | ShortPass: 77 | Tackling: 76 | Dribbling: 83 | Stamina: 67
-    - Emil Krafth (CM) — OVR: 76 [Conf: 0.69]
-      Finishing: 66 | ShortPass: 76 | Tackling: 76 | Dribbling: 84 | Stamina: 66
-    - Harvey Barnes (CM) — OVR: 76 [Conf: 0.66]
-      Finishing: 85 | ShortPass: 76 | Tackling: 76 | Dribbling: 83 | Stamina: 64
-    - Tino Livramento (CM) — OVR: 76 [Conf: 0.82]
-      Finishing: 67 | ShortPass: 77 | Tackling: 77 | Dribbling: 78 | Stamina: 71
-    - Rodrigo Bentancur (CM) — OVR: 76 [Conf: 0.76]
-      Finishing: 68 | ShortPass: 77 | Tackling: 76 | Dribbling: 82 | Stamina: 67
-    - Unknown Player (CM) — OVR: 76 [Conf: 0.77]
-      Finishing: 69 | ShortPass: 77 | Tackling: 77 | Dribbling: 78 | Stamina: 68
-    - Emerson Aparecido Leite de Souza Junior (CM) — OVR: 76 [Conf: 0.78]
-      Finishing: 70 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 69
-    - Timo Werner (CM) — OVR: 76 [Conf: 0.69]
-      Finishing: 75 | ShortPass: 76 | Tackling: 76 | Dribbling: 86 | Stamina: 64
-    - Riccardo Calafiori (CM) — OVR: 76 [Conf: 0.74]
-      Finishing: 72 | ShortPass: 77 | Tackling: 76 | Dribbling: 80 | Stamina: 67
-    - Mathias Jensen (CM) — OVR: 76 [Conf: 0.68]
-      Finishing: 63 | ShortPass: 76 | Tackling: 76 | Dribbling: 86 | Stamina: 65
-    - Reece James (CM) — OVR: 76 [Conf: 0.76]
-      Finishing: 67 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 68
-    - Edward Nketiah (CM) — OVR: 76 [Conf: 0.73]
-      Finishing: 81 | ShortPass: 77 | Tackling: 76 | Dribbling: 79 | Stamina: 67
-    - Kieran Trippier (CM) — OVR: 76 [Conf: 0.84]
-      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 76 | Stamina: 71
-    - Joseph Willock (CM) — OVR: 76 [Conf: 0.76]
-      Finishing: 64 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 68
-    - Lucas Bergvall (CM) — OVR: 76 [Conf: 0.79]
-      Finishing: 61 | ShortPass: 77 | Tackling: 77 | Dribbling: 78 | Stamina: 70
-    - Archie Gray (CM) — OVR: 76 [Conf: 0.99]
-      Finishing: 57 | ShortPass: 78 | Tackling: 78 | Dribbling: 70 | Stamina: 77
-    - Micky van de Ven (CM) — OVR: 76 [Conf: 0.76]
-      Finishing: 63 | ShortPass: 77 | Tackling: 76 | Dribbling: 81 | Stamina: 67
-    - Mathys Tel (CM) — OVR: 76 [Conf: 0.72]
-      Finishing: 74 | ShortPass: 76 | Tackling: 76 | Dribbling: 85 | Stamina: 66
-    - Alexandre Lacazette (CM) — OVR: 75 [Conf: 0.80]
-      Finishing: 87 | ShortPass: 78 | Tackling: 78 | Dribbling: 72 | Stamina: 65
-    - Granit Xhaka (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 73
-    - Gabriel Magalhães (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 86 | ShortPass: 78 | Tackling: 79 | Dribbling: 63 | Stamina: 78
-    - Gabriel Teodoro Martinelli Silva (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 90 | ShortPass: 78 | Tackling: 78 | Dribbling: 70 | Stamina: 66
-    - Lewis Dunk (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 63 | Stamina: 76
-    - Joël Veltman (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 78
-    - Neal Maupay (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 92 | ShortPass: 78 | Tackling: 78 | Dribbling: 66 | Stamina: 72
-    - Marc Cucurella (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 82 | ShortPass: 78 | Tackling: 79 | Dribbling: 64 | Stamina: 78
-    - Thiago Emiliano da Silva (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 84 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 77
-    - Marcos Alonso (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 86 | ShortPass: 78 | Tackling: 78 | Dribbling: 67 | Stamina: 70
-    - Reece James (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 89 | ShortPass: 78 | Tackling: 78 | Dribbling: 72 | Stamina: 66
-    - Wilfried Zaha (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 98 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 78
-    - Marc Guéhi (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 78
-    - Raheem Sterling (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 99 | ShortPass: 78 | Tackling: 78 | Dribbling: 69 | Stamina: 70
-    - Aymeric Laporte (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 85 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 78
-    - Rúben Santos Gato Alves Dias (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 67 | Stamina: 74
-    - Gabriel Fernando de Jesus (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 93 | ShortPass: 78 | Tackling: 78 | Dribbling: 72 | Stamina: 66
-    - Phil Foden (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 94 | ShortPass: 78 | Tackling: 78 | Dribbling: 69 | Stamina: 70
-    - Rodrigo Hernandez (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 89 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 78
-    - Harry Maguire (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 63 | Stamina: 75
-    - Scott McTominay (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 73
-    - Cristiano Ronaldo dos Santos Aveiro (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 99 | ShortPass: 78 | Tackling: 78 | Dribbling: 66 | Stamina: 74
-    - Matt Targett (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 78
-    - Dan Burn (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 74
-    - Chris Wood (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 87 | ShortPass: 78 | Tackling: 78 | Dribbling: 63 | Stamina: 78
-    - Joelinton Cássio Apolinário de Lira (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 85 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 76
-    - Unknown Player (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 75
-    - Fábio Ferreira Vieira (CM) — OVR: 75 [Conf: 0.55]
-      Finishing: 71 | ShortPass: 75 | Tackling: 75 | Dribbling: 85 | Stamina: 59
-    - Frank Onyeka (CM) — OVR: 75 [Conf: 0.68]
-      Finishing: 64 | ShortPass: 76 | Tackling: 76 | Dribbling: 78 | Stamina: 65
-    - Mathias Jorgensen (CM) — OVR: 75 [Conf: 0.76]
-      Finishing: 64 | ShortPass: 77 | Tackling: 76 | Dribbling: 77 | Stamina: 68
-    - Hakim Ziyech (CM) — OVR: 75 [Conf: 0.61]
-      Finishing: 63 | ShortPass: 76 | Tackling: 75 | Dribbling: 83 | Stamina: 62
-    - Lewis Hall (CM) — OVR: 75 [Conf: 0.64]
-      Finishing: 63 | ShortPass: 76 | Tackling: 75 | Dribbling: 81 | Stamina: 63
-    - Benoît Badiashile (CM) — OVR: 75 [Conf: 0.71]
-      Finishing: 68 | ShortPass: 76 | Tackling: 76 | Dribbling: 76 | Stamina: 66
-    - Mykhailo Mudryk (CM) — OVR: 75 [Conf: 0.62]
-      Finishing: 66 | ShortPass: 76 | Tackling: 75 | Dribbling: 82 | Stamina: 63
-    - Will Hughes (CM) — OVR: 75 [Conf: 0.66]
-      Finishing: 71 | ShortPass: 76 | Tackling: 76 | Dribbling: 80 | Stamina: 64
-    - Aymeric Laporte (CM) — OVR: 75 [Conf: 0.74]
-      Finishing: 61 | ShortPass: 77 | Tackling: 77 | Dribbling: 77 | Stamina: 67
-    - Marcel Sabitzer (CM) — OVR: 75 [Conf: 0.62]
-      Finishing: 63 | ShortPass: 76 | Tackling: 74 | Dribbling: 83 | Stamina: 62
-    - Ryan Sessegnon (CM) — OVR: 75 [Conf: 0.68]
-      Finishing: 73 | ShortPass: 76 | Tackling: 76 | Dribbling: 81 | Stamina: 64
-    - Jorge Luiz Frello Filho (CM) — OVR: 75 [Conf: 0.71]
-      Finishing: 58 | ShortPass: 76 | Tackling: 76 | Dribbling: 78 | Stamina: 66
-    - Jakub Kiwior (CM) — OVR: 75 [Conf: 0.73]
-      Finishing: 67 | ShortPass: 77 | Tackling: 76 | Dribbling: 79 | Stamina: 66
-    - Mikkel Damsgaard (CM) — OVR: 75 [Conf: 0.66]
-      Finishing: 63 | ShortPass: 76 | Tackling: 76 | Dribbling: 80 | Stamina: 64
-    - Saman Ghoddos (CM) — OVR: 75 [Conf: 0.64]
-      Finishing: 72 | ShortPass: 76 | Tackling: 76 | Dribbling: 81 | Stamina: 64
-    - Cheick Doucouré (CM) — OVR: 75 [Conf: 0.72]
-      Finishing: 63 | ShortPass: 76 | Tackling: 76 | Dribbling: 80 | Stamina: 66
-    - Rico Lewis (CM) — OVR: 75 [Conf: 0.67]
-      Finishing: 73 | ShortPass: 76 | Tackling: 76 | Dribbling: 82 | Stamina: 64
-    - Luke Shaw (CM) — OVR: 75 [Conf: 0.74]
-      Finishing: 58 | ShortPass: 77 | Tackling: 76 | Dribbling: 75 | Stamina: 66
-    - Jonny Evans (CM) — OVR: 75 [Conf: 0.87]
-      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 70 | Stamina: 72
-    - Lewis Hall (CM) — OVR: 75 [Conf: 0.66]
-      Finishing: 71 | ShortPass: 76 | Tackling: 75 | Dribbling: 80 | Stamina: 64
-    - Jamaal Lascelles (CM) — OVR: 75 [Conf: 0.78]
-      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 75 | Stamina: 68
-    - Callum Wilson (CM) — OVR: 75 [Conf: 0.72]
-      Finishing: 98 | ShortPass: 77 | Tackling: 76 | Dribbling: 77 | Stamina: 67
-    - Michael Kayode (CM) — OVR: 75 [Conf: 0.59]
-      Finishing: 66 | ShortPass: 75 | Tackling: 74 | Dribbling: 84 | Stamina: 61
-    - Romeo Lavia (CM) — OVR: 75 [Conf: 0.70]
-      Finishing: 63 | ShortPass: 76 | Tackling: 76 | Dribbling: 78 | Stamina: 64
-    - Christopher Nkunku (CM) — OVR: 75 [Conf: 0.70]
-      Finishing: 80 | ShortPass: 76 | Tackling: 76 | Dribbling: 80 | Stamina: 66
-    - Wesley Fofana (CM) — OVR: 75 [Conf: 0.81]
-      Finishing: 60 | ShortPass: 77 | Tackling: 77 | Dribbling: 76 | Stamina: 69
-    - Jack Grealish (CM) — OVR: 75 [Conf: 0.64]
-      Finishing: 67 | ShortPass: 76 | Tackling: 76 | Dribbling: 83 | Stamina: 63
-    - Kyle Walker (CM) — OVR: 75 [Conf: 0.71]
-      Finishing: 58 | ShortPass: 77 | Tackling: 76 | Dribbling: 75 | Stamina: 66
-    - Leny Yoro (CM) — OVR: 75 [Conf: 0.79]
-      Finishing: 62 | ShortPass: 77 | Tackling: 76 | Dribbling: 76 | Stamina: 69
-    - Patrick Dorgu (CM) — OVR: 75 [Conf: 0.70]
-      Finishing: 61 | ShortPass: 76 | Tackling: 76 | Dribbling: 80 | Stamina: 65
-    - Radu Dragusin (CM) — OVR: 75 [Conf: 0.83]
-      Finishing: 58 | ShortPass: 77 | Tackling: 77 | Dribbling: 70 | Stamina: 71
-    - Timo Werner (CM) — OVR: 75 [Conf: 0.56]
-      Finishing: 65 | ShortPass: 75 | Tackling: 75 | Dribbling: 84 | Stamina: 61
-    - Wilson Odobert (CM) — OVR: 75 [Conf: 0.69]
-      Finishing: 69 | ShortPass: 76 | Tackling: 76 | Dribbling: 79 | Stamina: 65
-    - Thomas Partey (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 69
-    - Kieran Tierney (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 81 | ShortPass: 78 | Tackling: 78 | Dribbling: 66 | Stamina: 67
-    - Emile Smith Rowe (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 97 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 67
-    - Pascal Groß (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 68 | Stamina: 69
-    - Yves Bissouma (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 81 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 70
-    - Alexis Mac Allister (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 88 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 70
-    - César Azpilicueta (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 66 | Stamina: 69
-    - Jorge Luiz Frello Filho (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 89 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 72
-    - Mateo Kovacic (CM) — OVR: 74 [Conf: 0.75]
-      Finishing: 83 | ShortPass: 78 | Tackling: 77 | Dribbling: 69 | Stamina: 63
-    - N'Golo Kanté (CM) — OVR: 74 [Conf: 0.80]
-      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 69 | Stamina: 65
-    - Kai Havertz (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 93 | ShortPass: 78 | Tackling: 78 | Dribbling: 67 | Stamina: 66
-    - Jordan Ayew (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 85 | ShortPass: 78 | Tackling: 78 | Dribbling: 67 | Stamina: 69
-    - Jack Grealish (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 85 | ShortPass: 78 | Tackling: 78 | Dribbling: 66 | Stamina: 67
-    - Ilkay Gündogan (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 93 | ShortPass: 78 | Tackling: 78 | Dribbling: 69 | Stamina: 66
-    - Riyad Mahrez (CM) — OVR: 74 [Conf: 0.74]
-      Finishing: 99 | ShortPass: 78 | Tackling: 77 | Dribbling: 72 | Stamina: 62
-    - Paul Pogba (CM) — OVR: 74 [Conf: 0.71]
-      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 74 | Stamina: 60
-    - Frederico Rodrigues de Paula Santos (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 86 | ShortPass: 78 | Tackling: 78 | Dribbling: 68 | Stamina: 69
-    - Jadon Sancho (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 85 | ShortPass: 78 | Tackling: 78 | Dribbling: 67 | Stamina: 67
-    - Joseph Willock (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 66 | Stamina: 69
-    - Jonjo Shelvey (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 68
-    - Jamaal Lascelles (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 69
-    - Fabian Schär (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 70
-    - Lucas Rodrigues Moura da Silva (CM) — OVR: 74 [Conf: 0.80]
-      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 69 | Stamina: 65
-    - Sergio Reguilón (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 67 | Stamina: 67
-    - Emerson Aparecido Leite de Souza Junior (CM) — OVR: 74 [Conf: 0.81]
-      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 72
-    - Dejan Kulusevski (CM) — OVR: 74 [Conf: 0.69]
-      Finishing: 91 | ShortPass: 77 | Tackling: 77 | Dribbling: 74 | Stamina: 59
-    - Kieran Tierney (CM) — OVR: 74 [Conf: 0.64]
-      Finishing: 62 | ShortPass: 76 | Tackling: 75 | Dribbling: 74 | Stamina: 64
-    - Kevin Schade (CM) — OVR: 74 [Conf: 0.64]
-      Finishing: 67 | ShortPass: 76 | Tackling: 75 | Dribbling: 78 | Stamina: 64
-    - N'Golo Kanté (CM) — OVR: 74 [Conf: 0.58]
-      Finishing: 64 | ShortPass: 75 | Tackling: 74 | Dribbling: 80 | Stamina: 61
-    - Christian Pulisic (CM) — OVR: 74 [Conf: 0.67]
-      Finishing: 69 | ShortPass: 76 | Tackling: 76 | Dribbling: 76 | Stamina: 64
-    - Noni Madueke (CM) — OVR: 74 [Conf: 0.62]
-      Finishing: 70 | ShortPass: 76 | Tackling: 75 | Dribbling: 79 | Stamina: 62
-    - Jean-Philippe Mateta (CM) — OVR: 74 [Conf: 0.64]
-      Finishing: 76 | ShortPass: 76 | Tackling: 75 | Dribbling: 75 | Stamina: 64
-    - Harry Maguire (CM) — OVR: 74 [Conf: 0.66]
-      Finishing: 63 | ShortPass: 76 | Tackling: 75 | Dribbling: 74 | Stamina: 64
-    - Alejandro Garnacho Ferreyra (CM) — OVR: 74 [Conf: 0.58]
-      Finishing: 81 | ShortPass: 75 | Tackling: 74 | Dribbling: 80 | Stamina: 61
-    - Elliot Anderson (CM) — OVR: 74 [Conf: 0.53]
-      Finishing: 66 | ShortPass: 74 | Tackling: 74 | Dribbling: 83 | Stamina: 59
-    - Davinson Sánchez (CM) — OVR: 74 [Conf: 0.68]
-      Finishing: 63 | ShortPass: 76 | Tackling: 76 | Dribbling: 75 | Stamina: 65
-    - Thomas Partey (CM) — OVR: 74 [Conf: 0.67]
-      Finishing: 61 | ShortPass: 76 | Tackling: 76 | Dribbling: 77 | Stamina: 64
-    - Yegor Yarmoliuk (CM) — OVR: 74 [Conf: 0.62]
-      Finishing: 65 | ShortPass: 76 | Tackling: 75 | Dribbling: 80 | Stamina: 63
-    - Jay Rodriguez (CM) — OVR: 74 [Conf: 0.66]
-      Finishing: 75 | ShortPass: 76 | Tackling: 76 | Dribbling: 75 | Stamina: 64
-    - David Datro Fofana (CM) — OVR: 74 [Conf: 0.70]
-      Finishing: 81 | ShortPass: 76 | Tackling: 76 | Dribbling: 75 | Stamina: 66
-    - Giovani Lo Celso (CM) — OVR: 74 [Conf: 0.56]
-      Finishing: 75 | ShortPass: 75 | Tackling: 74 | Dribbling: 84 | Stamina: 60
-    - Nico O'Reilly (CM) — OVR: 74 [Conf: 0.59]
-      Finishing: 76 | ShortPass: 75 | Tackling: 75 | Dribbling: 80 | Stamina: 61
-    - Nico González (CM) — OVR: 74 [Conf: 0.67]
-      Finishing: 69 | ShortPass: 76 | Tackling: 75 | Dribbling: 77 | Stamina: 64
-    - Sean Longstaff (CM) — OVR: 74 [Conf: 0.66]
-      Finishing: 64 | ShortPass: 76 | Tackling: 76 | Dribbling: 75 | Stamina: 64
-    - Kevin Danso (CM) — OVR: 74 [Conf: 0.69]
-      Finishing: 61 | ShortPass: 76 | Tackling: 76 | Dribbling: 72 | Stamina: 65
-    - Danny Welbeck (CM) — OVR: 73 [Conf: 0.74]
-      Finishing: 92 | ShortPass: 77 | Tackling: 77 | Dribbling: 68 | Stamina: 62
-    - Enock Mwepu (CM) — OVR: 73 [Conf: 0.63]
-      Finishing: 83 | ShortPass: 77 | Tackling: 77 | Dribbling: 71 | Stamina: 57
-    - Romelu Lukaku (CM) — OVR: 73 [Conf: 0.76]
-      Finishing: 95 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 63
-    - Jeffrey Schlupp (CM) — OVR: 73 [Conf: 0.81]
-      Finishing: 87 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 66
-    - Michael Olise (CM) — OVR: 73 [Conf: 0.66]
-      Finishing: 83 | ShortPass: 77 | Tackling: 77 | Dribbling: 73 | Stamina: 58
-    - Odsonne Edouard (CM) — OVR: 73 [Conf: 0.76]
-      Finishing: 91 | ShortPass: 78 | Tackling: 77 | Dribbling: 68 | Stamina: 63
-    - Raphaël Varane (CM) — OVR: 73 [Conf: 0.81]
-      Finishing: 81 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 66
-    - Ryan Fraser (CM) — OVR: 73 [Conf: 0.73]
-      Finishing: 83 | ShortPass: 77 | Tackling: 77 | Dribbling: 69 | Stamina: 61
-    - Jacob Murphy (CM) — OVR: 73 [Conf: 0.73]
-      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 68 | Stamina: 61
-    - Miguel Almirón (CM) — OVR: 73 [Conf: 0.79]
-      Finishing: 81 | ShortPass: 78 | Tackling: 78 | Dribbling: 63 | Stamina: 65
-    - Davinson Sánchez (CM) — OVR: 73 [Conf: 0.77]
-      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 64
-    - Cristian Romero (CM) — OVR: 73 [Conf: 0.81]
-      Finishing: 81 | ShortPass: 78 | Tackling: 78 | Dribbling: 63 | Stamina: 66
-    - Rob Holding (CM) — OVR: 73 [Conf: 0.59]
-      Finishing: 72 | ShortPass: 75 | Tackling: 74 | Dribbling: 74 | Stamina: 62
-    - Takehiro Tomiyasu (CM) — OVR: 73 [Conf: 0.61]
-      Finishing: 63 | ShortPass: 76 | Tackling: 75 | Dribbling: 75 | Stamina: 62
-    - Pontus Jansson (CM) — OVR: 73 [Conf: 0.66]
-      Finishing: 71 | ShortPass: 76 | Tackling: 75 | Dribbling: 74 | Stamina: 64
-    - Shandon Baptiste (CM) — OVR: 73 [Conf: 0.58]
-      Finishing: 63 | ShortPass: 75 | Tackling: 75 | Dribbling: 76 | Stamina: 61
-    - Anthony Elanga (CM) — OVR: 73 [Conf: 0.55]
-      Finishing: 65 | ShortPass: 75 | Tackling: 73 | Dribbling: 81 | Stamina: 60
-    - Matt Targett (CM) — OVR: 73 [Conf: 0.60]
-      Finishing: 60 | ShortPass: 75 | Tackling: 75 | Dribbling: 73 | Stamina: 62
-    - Matt Doherty (CM) — OVR: 73 [Conf: 0.63]
-      Finishing: 68 | ShortPass: 76 | Tackling: 75 | Dribbling: 74 | Stamina: 63
-    - Kevin Schade (CM) — OVR: 73 [Conf: 0.51]
-      Finishing: 78 | ShortPass: 74 | Tackling: 74 | Dribbling: 80 | Stamina: 59
-    - Connor Roberts (CM) — OVR: 73 [Conf: 0.67]
-      Finishing: 59 | ShortPass: 76 | Tackling: 76 | Dribbling: 68 | Stamina: 65
-    - Aaron Ramsey (CM) — OVR: 73 [Conf: 0.58]
-      Finishing: 63 | ShortPass: 75 | Tackling: 74 | Dribbling: 78 | Stamina: 61
-    - Sofyan Amrabat (CM) — OVR: 73 [Conf: 0.72]
-      Finishing: 58 | ShortPass: 76 | Tackling: 76 | Dribbling: 70 | Stamina: 66
-    - Sandro Tonali (CM) — OVR: 73 [Conf: 0.56]
-      Finishing: 72 | ShortPass: 74 | Tackling: 75 | Dribbling: 78 | Stamina: 60
-    - Oliver Skipp (CM) — OVR: 73 [Conf: 0.61]
-      Finishing: 63 | ShortPass: 76 | Tackling: 75 | Dribbling: 76 | Stamina: 61
-    - Gabriel Fernando de Jesus (CM) — OVR: 73 [Conf: 0.60]
-      Finishing: 81 | ShortPass: 75 | Tackling: 75 | Dribbling: 76 | Stamina: 62
-    - Jorge Luiz Frello Filho (CM) — OVR: 73 [Conf: 0.66]
-      Finishing: 59 | ShortPass: 76 | Tackling: 76 | Dribbling: 71 | Stamina: 63
-    - Oleksandr Zinchenko (CM) — OVR: 73 [Conf: 0.58]
-      Finishing: 64 | ShortPass: 75 | Tackling: 74 | Dribbling: 76 | Stamina: 61
-    - Raheem Sterling (CM) — OVR: 73 [Conf: 0.58]
-      Finishing: 66 | ShortPass: 75 | Tackling: 74 | Dribbling: 78 | Stamina: 61
-    - Nathan Aké (CM) — OVR: 73 [Conf: 0.64]
-      Finishing: 63 | ShortPass: 76 | Tackling: 75 | Dribbling: 74 | Stamina: 63
-    - John Stones (CM) — OVR: 73 [Conf: 0.59]
-      Finishing: 75 | ShortPass: 75 | Tackling: 74 | Dribbling: 74 | Stamina: 61
-    - Mason Mount (CM) — OVR: 73 [Conf: 0.63]
-      Finishing: 73 | ShortPass: 75 | Tackling: 74 | Dribbling: 76 | Stamina: 62
-    - Richarlison de Andrade (CM) — OVR: 73 [Conf: 0.56]
-      Finishing: 98 | ShortPass: 75 | Tackling: 74 | Dribbling: 76 | Stamina: 60
-    - Mikey Moore (CM) — OVR: 73 [Conf: 0.52]
-      Finishing: 67 | ShortPass: 74 | Tackling: 73 | Dribbling: 82 | Stamina: 59
-    - Cédric Soares (CM) — OVR: 72 [Conf: 0.74]
-      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 64 | Stamina: 62
-    - Nicolas Pépé (CM) — OVR: 72 [Conf: 0.56]
-      Finishing: 80 | ShortPass: 76 | Tackling: 75 | Dribbling: 72 | Stamina: 54
-    - Nuno Varela Tavares (CM) — OVR: 72 [Conf: 0.67]
-      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 65 | Stamina: 58
-    - Shane Duffy (CM) — OVR: 72 [Conf: 0.73]
-      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 64 | Stamina: 61
-    - Adam Webster (CM) — OVR: 72 [Conf: 0.73]
-      Finishing: 83 | ShortPass: 77 | Tackling: 77 | Dribbling: 63 | Stamina: 61
-    - Kepa Arrizabalaga (GK) — OVR: 72 [Conf: 0.49]
-      Finishing: 54 | ShortPass: 70 | Tackling: 64 | Dribbling: 46 | Stamina: 53
-    - Hakim Ziyech (CM) — OVR: 72 [Conf: 0.70]
-      Finishing: 88 | ShortPass: 77 | Tackling: 77 | Dribbling: 67 | Stamina: 60
-    - Timo Werner (CM) — OVR: 72 [Conf: 0.69]
-      Finishing: 88 | ShortPass: 77 | Tackling: 77 | Dribbling: 66 | Stamina: 59
-    - Christian Pulisic (CM) — OVR: 72 [Conf: 0.69]
-      Finishing: 91 | ShortPass: 77 | Tackling: 77 | Dribbling: 66 | Stamina: 60
-    - Callum Hudson-Odoi (CM) — OVR: 72 [Conf: 0.62]
-      Finishing: 81 | ShortPass: 77 | Tackling: 76 | Dribbling: 70 | Stamina: 56
-    - Trevoh Chalobah (CM) — OVR: 72 [Conf: 0.73]
-      Finishing: 85 | ShortPass: 77 | Tackling: 77 | Dribbling: 64 | Stamina: 61
-    - Christian Benteke (CM) — OVR: 72 [Conf: 0.66]
-      Finishing: 90 | ShortPass: 77 | Tackling: 77 | Dribbling: 65 | Stamina: 58
-    - Jean-Philippe Mateta (CM) — OVR: 72 [Conf: 0.66]
-      Finishing: 90 | ShortPass: 77 | Tackling: 77 | Dribbling: 65 | Stamina: 58
-    - Marcus Rashford (CM) — OVR: 72 [Conf: 0.68]
-      Finishing: 87 | ShortPass: 77 | Tackling: 77 | Dribbling: 66 | Stamina: 59
-    - Mason Greenwood (CM) — OVR: 72 [Conf: 0.69]
-      Finishing: 90 | ShortPass: 77 | Tackling: 77 | Dribbling: 66 | Stamina: 59
-    - Anthony Elanga (CM) — OVR: 72 [Conf: 0.68]
-      Finishing: 83 | ShortPass: 77 | Tackling: 77 | Dribbling: 67 | Stamina: 59
-    - Callum Wilson (CM) — OVR: 72 [Conf: 0.72]
-      Finishing: 97 | ShortPass: 77 | Tackling: 77 | Dribbling: 63 | Stamina: 61
-    - Javier Manquillo (CM) — OVR: 72 [Conf: 0.69]
-      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 67 | Stamina: 59
-    - Sean Longstaff (CM) — OVR: 72 [Conf: 0.73]
-      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 64 | Stamina: 61
-    - Matt Doherty (CM) — OVR: 72 [Conf: 0.60]
-      Finishing: 83 | ShortPass: 76 | Tackling: 76 | Dribbling: 73 | Stamina: 56
-    - Jakub Kiwior (CM) — OVR: 72 [Conf: 0.55]
-      Finishing: 80 | ShortPass: 74 | Tackling: 74 | Dribbling: 77 | Stamina: 60
-    - Kristoffer Ajer (CM) — OVR: 72 [Conf: 0.67]
-      Finishing: 59 | ShortPass: 76 | Tackling: 75 | Dribbling: 66 | Stamina: 64
-    - Denis Zakaria (CM) — OVR: 72 [Conf: 0.55]
-      Finishing: 67 | ShortPass: 74 | Tackling: 74 | Dribbling: 77 | Stamina: 60
-    - Pierre-Emerick Aubameyang (CM) — OVR: 72 [Conf: 0.58]
-      Finishing: 72 | ShortPass: 75 | Tackling: 74 | Dribbling: 73 | Stamina: 61
-    - Luka Milivojevic (CM) — OVR: 72 [Conf: 0.57]
-      Finishing: 64 | ShortPass: 75 | Tackling: 75 | Dribbling: 73 | Stamina: 61
-    - Sergio Gómez (CM) — OVR: 72 [Conf: 0.51]
-      Finishing: 64 | ShortPass: 74 | Tackling: 73 | Dribbling: 74 | Stamina: 59
-    - Cristiano Ronaldo dos Santos Aveiro (CM) — OVR: 72 [Conf: 0.57]
-      Finishing: 73 | ShortPass: 75 | Tackling: 74 | Dribbling: 72 | Stamina: 61
-    - Emile Smith Rowe (CM) — OVR: 72 [Conf: 0.52]
-      Finishing: 67 | ShortPass: 74 | Tackling: 73 | Dribbling: 78 | Stamina: 59
-    - Rico Henry (CM) — OVR: 72 [Conf: 0.55]
-      Finishing: 61 | ShortPass: 74 | Tackling: 74 | Dribbling: 74 | Stamina: 60
-    - Hannes Delcroix (CM) — OVR: 72 [Conf: 0.59]
-      Finishing: 63 | ShortPass: 75 | Tackling: 75 | Dribbling: 72 | Stamina: 61
-    - Oscar Bobb (CM) — OVR: 72 [Conf: 0.25]
-      Finishing: 79 | ShortPass: 73 | Tackling: 72 | Dribbling: 77 | Stamina: 59
-    - Mason Mount (CM) — OVR: 72 [Conf: 0.57]
-      Finishing: 70 | ShortPass: 75 | Tackling: 75 | Dribbling: 73 | Stamina: 61
-    - Amad Diallo (CM) — OVR: 72 [Conf: 0.53]
-      Finishing: 72 | ShortPass: 74 | Tackling: 74 | Dribbling: 76 | Stamina: 59
-    - Anthony Martial (CM) — OVR: 72 [Conf: 0.56]
-      Finishing: 73 | ShortPass: 74 | Tackling: 75 | Dribbling: 72 | Stamina: 60
-    - Lisandro Martínez (CM) — OVR: 72 [Conf: 0.63]
-      Finishing: 59 | ShortPass: 76 | Tackling: 75 | Dribbling: 69 | Stamina: 63
-    - Joseph Willock (CM) — OVR: 72 [Conf: 0.55]
-      Finishing: 71 | ShortPass: 74 | Tackling: 73 | Dribbling: 77 | Stamina: 60
-    - Fábio Freitas Gouveia Carvalho (CM) — OVR: 72 [Conf: 0.54]
-      Finishing: 79 | ShortPass: 74 | Tackling: 74 | Dribbling: 74 | Stamina: 59
-    - João Félix Sequeira (CM) — OVR: 72 [Conf: 0.52]
-      Finishing: 83 | ShortPass: 74 | Tackling: 73 | Dribbling: 76 | Stamina: 59
-    - Cheick Doucouré (CM) — OVR: 72 [Conf: 0.55]
-      Finishing: 63 | ShortPass: 74 | Tackling: 74 | Dribbling: 72 | Stamina: 60
-    - Justin Devenny (CM) — OVR: 72 [Conf: 0.56]
-      Finishing: 70 | ShortPass: 75 | Tackling: 74 | Dribbling: 75 | Stamina: 60
-    - James McAtee (CM) — OVR: 72 [Conf: 0.52]
-      Finishing: 98 | ShortPass: 74 | Tackling: 73 | Dribbling: 78 | Stamina: 59
-    - Victor Lindelöf (CM) — OVR: 72 [Conf: 0.62]
-      Finishing: 59 | ShortPass: 76 | Tackling: 75 | Dribbling: 66 | Stamina: 63
-    - Sven Botman (CM) — OVR: 72 [Conf: 0.55]
-      Finishing: 65 | ShortPass: 74 | Tackling: 73 | Dribbling: 75 | Stamina: 61
-    - Pierre-Emerick Aubameyang (CM) — OVR: 71 [Conf: 0.64]
-      Finishing: 89 | ShortPass: 77 | Tackling: 77 | Dribbling: 65 | Stamina: 57
-    - Ben White (CM) — OVR: 71 [Conf: 0.81]
-      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 42 | Stamina: 78
-    - Tyrick Mitchell (CM) — OVR: 71 [Conf: 0.81]
-      Finishing: 56 | ShortPass: 78 | Tackling: 79 | Dribbling: 43 | Stamina: 78
-    - Joachim Andersen (CM) — OVR: 71 [Conf: 0.81]
-      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 44 | Stamina: 78
-    - John Stones (CM) — OVR: 71 [Conf: 0.66]
-      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 63 | Stamina: 58
-    - Fernando Luiz Rosa (CM) — OVR: 71 [Conf: 0.62]
-      Finishing: 83 | ShortPass: 77 | Tackling: 76 | Dribbling: 65 | Stamina: 56
-    - Isaac Hayden (CM) — OVR: 71 [Conf: 0.63]
-      Finishing: 81 | ShortPass: 77 | Tackling: 76 | Dribbling: 63 | Stamina: 56
-    - Bruno Guimarães Rodriguez Moura (CM) — OVR: 71 [Conf: 0.64]
-      Finishing: 91 | ShortPass: 77 | Tackling: 76 | Dribbling: 65 | Stamina: 57
-    - Eric Dier (CM) — OVR: 71 [Conf: 0.81]
-      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 42 | Stamina: 78
-    - Carney Chukwuemeka (CM) — OVR: 71 [Conf: 0.51]
-      Finishing: 65 | ShortPass: 74 | Tackling: 73 | Dribbling: 73 | Stamina: 59
-    - Chris Richards (CM) — OVR: 71 [Conf: 0.55]
-      Finishing: 65 | ShortPass: 74 | Tackling: 74 | Dribbling: 69 | Stamina: 60
-    - Cole Palmer (CM) — OVR: 71 [Conf: 0.51]
-      Finishing: 64 | ShortPass: 74 | Tackling: 73 | Dribbling: 71 | Stamina: 59
-    - Fábio Ferreira Vieira (CM) — OVR: 71 [Conf: 0.25]
-      Finishing: 74 | ShortPass: 73 | Tackling: 72 | Dribbling: 75 | Stamina: 59
-    - Reiss Nelson (CM) — OVR: 71 [Conf: 0.24]
-      Finishing: 66 | ShortPass: 73 | Tackling: 73 | Dribbling: 73 | Stamina: 58
-    - Mike Trésor (CM) — OVR: 71 [Conf: 0.53]
-      Finishing: 63 | ShortPass: 74 | Tackling: 73 | Dribbling: 71 | Stamina: 59
-    - Manor Solomon (CM) — OVR: 71 [Conf: 0.24]
-      Finishing: 65 | ShortPass: 73 | Tackling: 72 | Dribbling: 76 | Stamina: 59
-    - Kieran Tierney (CM) — OVR: 71 [Conf: 0.24]
-      Finishing: 71 | ShortPass: 73 | Tackling: 73 | Dribbling: 72 | Stamina: 59
-    - Nathaniel Clyne (CM) — OVR: 71 [Conf: 0.57]
-      Finishing: 60 | ShortPass: 75 | Tackling: 74 | Dribbling: 68 | Stamina: 60
-    - Abdukodir Khusanov (CM) — OVR: 71 [Conf: 0.58]
-      Finishing: 60 | ShortPass: 75 | Tackling: 75 | Dribbling: 66 | Stamina: 61
-    - Luke Shaw (CM) — OVR: 71 [Conf: 0.53]
-      Finishing: 61 | ShortPass: 74 | Tackling: 73 | Dribbling: 70 | Stamina: 60
-    - Rob Holding (CM) — OVR: 70 [Conf: 0.60]
-      Finishing: 81 | ShortPass: 76 | Tackling: 76 | Dribbling: 63 | Stamina: 55
-    - Edward Nketiah (CM) — OVR: 70 [Conf: 0.59]
-      Finishing: 93 | ShortPass: 76 | Tackling: 75 | Dribbling: 65 | Stamina: 55
-    - Moisés Caicedo (CM) — OVR: 70 [Conf: 0.56]
-      Finishing: 80 | ShortPass: 76 | Tackling: 75 | Dribbling: 65 | Stamina: 54
-    - Benjamin Chilwell (CM) — OVR: 70 [Conf: 0.53]
-      Finishing: 86 | ShortPass: 75 | Tackling: 75 | Dribbling: 66 | Stamina: 54
-    - Jack Butland (GK) — OVR: 70 [Conf: 0.58]
-      Finishing: 54 | ShortPass: 69 | Tackling: 69 | Dribbling: 43 | Stamina: 55
-    - Eberechi Eze (CM) — OVR: 70 [Conf: 0.54]
-      Finishing: 80 | ShortPass: 75 | Tackling: 75 | Dribbling: 65 | Stamina: 54
-    - Joel Ward (CM) — OVR: 70 [Conf: 0.81]
-      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 42 | Stamina: 75
-    - Nathan Aké (CM) — OVR: 70 [Conf: 0.61]
-      Finishing: 83 | ShortPass: 76 | Tackling: 76 | Dribbling: 63 | Stamina: 56
-    - Zack Steffen (GK) — OVR: 70 [Conf: 0.22]
-      Finishing: 54 | ShortPass: 70 | Tackling: 56 | Dribbling: 50 | Stamina: 55
-    - Edinson Cavani (CM) — OVR: 70 [Conf: 0.58]
-      Finishing: 83 | ShortPass: 76 | Tackling: 75 | Dribbling: 65 | Stamina: 55
-    - Alex Nicolao Telles (CM) — OVR: 70 [Conf: 0.78]
-      Finishing: 57 | ShortPass: 78 | Tackling: 78 | Dribbling: 48 | Stamina: 64
-    - Victor Lindelöf (CM) — OVR: 70 [Conf: 0.81]
-      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 43 | Stamina: 73
-    - Steven Bergwijn (CM) — OVR: 70 [Conf: 0.53]
-      Finishing: 86 | ShortPass: 75 | Tackling: 75 | Dribbling: 68 | Stamina: 54
-    - Tanguy Ndombele (CM) — OVR: 70 [Conf: 0.52]
-      Finishing: 80 | ShortPass: 75 | Tackling: 74 | Dribbling: 65 | Stamina: 55
-    - Reiss Nelson (CM) — OVR: 70 [Conf: 0.23]
-      Finishing: 86 | ShortPass: 73 | Tackling: 72 | Dribbling: 73 | Stamina: 55
-    - Keane Lewis-Potter (CM) — OVR: 70 [Conf: 0.51]
-      Finishing: 64 | ShortPass: 73 | Tackling: 73 | Dribbling: 70 | Stamina: 59
-    - Armando Broja (CM) — OVR: 70 [Conf: 0.25]
-      Finishing: 73 | ShortPass: 73 | Tackling: 73 | Dribbling: 71 | Stamina: 59
-    - James Tomkins (CM) — OVR: 70 [Conf: 0.51]
-      Finishing: 69 | ShortPass: 74 | Tackling: 73 | Dribbling: 67 | Stamina: 59
-    - Stefan Ortega Moreno (GK) — OVR: 70 [Conf: 0.25]
-      Finishing: 54 | ShortPass: 69 | Tackling: 62 | Dribbling: 56 | Stamina: 57
-    - Kalvin Phillips (CM) — OVR: 70 [Conf: 0.25]
-      Finishing: 65 | ShortPass: 73 | Tackling: 72 | Dribbling: 67 | Stamina: 59
-    - Martin Dubravka (GK) — OVR: 70 [Conf: 0.23]
-      Finishing: 54 | ShortPass: 68 | Tackling: 58 | Dribbling: 51 | Stamina: 56
-    - Ryan Fraser (CM) — OVR: 70 [Conf: 0.51]
-      Finishing: 65 | ShortPass: 73 | Tackling: 73 | Dribbling: 71 | Stamina: 59
-    - David Raya Martin (GK) — OVR: 70 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 69 | Tackling: 76 | Dribbling: 69 | Stamina: 91
-    - Shandon Baptiste (CM) — OVR: 70 [Conf: 0.24]
-      Finishing: 73 | ShortPass: 73 | Tackling: 71 | Dribbling: 70 | Stamina: 59
-    - Hjalmar Ekdal (CM) — OVR: 70 [Conf: 0.56]
-      Finishing: 60 | ShortPass: 74 | Tackling: 75 | Dribbling: 66 | Stamina: 60
-    - Matheus França de Oliveira (CM) — OVR: 70 [Conf: 0.23]
-      Finishing: 66 | ShortPass: 73 | Tackling: 71 | Dribbling: 71 | Stamina: 58
-    - Hannibal Mejbri (CM) — OVR: 70 [Conf: 0.22]
-      Finishing: 85 | ShortPass: 71 | Tackling: 71 | Dribbling: 74 | Stamina: 58
-    - Facundo Pellistri Rebollo (CM) — OVR: 70 [Conf: 0.23]
-      Finishing: 68 | ShortPass: 72 | Tackling: 71 | Dribbling: 72 | Stamina: 58
-    - Bryan Gil Salvatierra (CM) — OVR: 70 [Conf: 0.24]
-      Finishing: 67 | ShortPass: 73 | Tackling: 72 | Dribbling: 70 | Stamina: 59
-    - Radu Dragusin (CM) — OVR: 70 [Conf: 0.54]
-      Finishing: 61 | ShortPass: 74 | Tackling: 73 | Dribbling: 64 | Stamina: 60
-    - Kiernan Dewsbury-Hall (CM) — OVR: 70 [Conf: 0.24]
-      Finishing: 65 | ShortPass: 73 | Tackling: 72 | Dribbling: 70 | Stamina: 59
-    - Mykhailo Mudryk (CM) — OVR: 70 [Conf: 0.23]
-      Finishing: 67 | ShortPass: 72 | Tackling: 71 | Dribbling: 71 | Stamina: 58
-    - Tyrique George (CM) — OVR: 70 [Conf: 0.23]
-      Finishing: 79 | ShortPass: 72 | Tackling: 72 | Dribbling: 73 | Stamina: 58
-    - Benjamin Chilwell (CM) — OVR: 70 [Conf: 0.24]
-      Finishing: 71 | ShortPass: 73 | Tackling: 73 | Dribbling: 71 | Stamina: 58
-    - Romain Esse (CM) — OVR: 70 [Conf: 0.23]
-      Finishing: 74 | ShortPass: 72 | Tackling: 71 | Dribbling: 73 | Stamina: 58
-    - Harry Amass (CM) — OVR: 70 [Conf: 0.53]
-      Finishing: 61 | ShortPass: 74 | Tackling: 73 | Dribbling: 64 | Stamina: 60
-    - Lloyd Kelly (CM) — OVR: 70 [Conf: 0.26]
-      Finishing: 64 | ShortPass: 73 | Tackling: 72 | Dribbling: 71 | Stamina: 60
-    - Lewis Miley (CM) — OVR: 70 [Conf: 0.49]
-      Finishing: 72 | ShortPass: 73 | Tackling: 73 | Dribbling: 68 | Stamina: 58
-    - Callum Wilson (CM) — OVR: 70 [Conf: 0.51]
-      Finishing: 64 | ShortPass: 74 | Tackling: 73 | Dribbling: 66 | Stamina: 59
-    - Bernd Leno (GK) — OVR: 69 [Conf: 0.49]
-      Finishing: 54 | ShortPass: 68 | Tackling: 64 | Dribbling: 46 | Stamina: 52
-    - Takehiro Tomiyasu (CM) — OVR: 69 [Conf: 0.78]
-      Finishing: 57 | ShortPass: 78 | Tackling: 78 | Dribbling: 44 | Stamina: 64
-    - Adam Lallana (CM) — OVR: 69 [Conf: 0.76]
-      Finishing: 57 | ShortPass: 78 | Tackling: 77 | Dribbling: 44 | Stamina: 63
-    - Solomon March (CM) — OVR: 69 [Conf: 0.80]
-      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 45 | Stamina: 65
-    - Tariq Lamptey (CM) — OVR: 69 [Conf: 0.75]
-      Finishing: 57 | ShortPass: 78 | Tackling: 77 | Dribbling: 45 | Stamina: 63
-    - Jakub Moder (CM) — OVR: 69 [Conf: 0.79]
-      Finishing: 57 | ShortPass: 78 | Tackling: 77 | Dribbling: 47 | Stamina: 64
-    - Ruben Loftus-Cheek (CM) — OVR: 69 [Conf: 0.72]
-      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 48 | Stamina: 61
-    - James Tomkins (CM) — OVR: 69 [Conf: 0.53]
-      Finishing: 80 | ShortPass: 75 | Tackling: 74 | Dribbling: 63 | Stamina: 55
-    - James McArthur (CM) — OVR: 69 [Conf: 0.73]
-      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 49 | Stamina: 61
-    - Cheikhou Kouyaté (CM) — OVR: 69 [Conf: 0.81]
-      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 43 | Stamina: 68
-    - Kyle Walker (CM) — OVR: 69 [Conf: 0.80]
-      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 45 | Stamina: 65
-    - Ferran Torres (CM) — OVR: 69 [Conf: 0.48]
-      Finishing: 83 | ShortPass: 73 | Tackling: 73 | Dribbling: 67 | Stamina: 54
-    - Nemanja Matic (CM) — OVR: 69 [Conf: 0.72]
-      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 49 | Stamina: 61
-    - Luke Shaw (CM) — OVR: 69 [Conf: 0.77]
-      Finishing: 57 | ShortPass: 78 | Tackling: 77 | Dribbling: 47 | Stamina: 63
-    - Jesse Lingard (CM) — OVR: 69 [Conf: 0.49]
-      Finishing: 82 | ShortPass: 74 | Tackling: 73 | Dribbling: 63 | Stamina: 55
-    - Aaron Wan-Bissaka (CM) — OVR: 69 [Conf: 0.81]
-      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 43 | Stamina: 66
-    - José Diogo Dalot Teixeira (CM) — OVR: 69 [Conf: 0.81]
-      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 43 | Stamina: 66
-    - Matt Ritchie (CM) — OVR: 69 [Conf: 0.71]
-      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 49 | Stamina: 60
-    - Emil Krafth (CM) — OVR: 69 [Conf: 0.77]
-      Finishing: 57 | ShortPass: 78 | Tackling: 78 | Dribbling: 44 | Stamina: 64
-    - Kieran Trippier (CM) — OVR: 69 [Conf: 0.51]
-      Finishing: 83 | ShortPass: 74 | Tackling: 73 | Dribbling: 63 | Stamina: 54
-    - Rodrigo Bentancur (CM) — OVR: 69 [Conf: 0.71]
-      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 49 | Stamina: 60
-    - Emile Smith Rowe (CM) — OVR: 69 [Conf: 0.22]
-      Finishing: 67 | ShortPass: 72 | Tackling: 70 | Dribbling: 69 | Stamina: 55
-    - David de Gea (GK) — OVR: 69 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 69 | Tackling: 77 | Dribbling: 69 | Stamina: 92
-    - Donny van de Beek (CM) — OVR: 69 [Conf: 0.23]
-      Finishing: 63 | ShortPass: 72 | Tackling: 70 | Dribbling: 66 | Stamina: 59
-    - Nick Pope (GK) — OVR: 69 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 69 | Tackling: 77 | Dribbling: 69 | Stamina: 92
-    - Lucas Rodrigues Moura da Silva (CM) — OVR: 69 [Conf: 0.22]
-      Finishing: 76 | ShortPass: 72 | Tackling: 71 | Dribbling: 68 | Stamina: 56
-    - Pape Matar Sarr (CM) — OVR: 69 [Conf: 0.24]
-      Finishing: 63 | ShortPass: 73 | Tackling: 71 | Dribbling: 66 | Stamina: 59
-    - Bryan Gil Salvatierra (CM) — OVR: 69 [Conf: 0.23]
-      Finishing: 64 | ShortPass: 72 | Tackling: 71 | Dribbling: 68 | Stamina: 59
-    - Aaron Ramsdale (GK) — OVR: 69 [Conf: 0.59]
-      Finishing: 54 | ShortPass: 69 | Tackling: 66 | Dribbling: 61 | Stamina: 60
-    - Ederson Santana de Moraes (GK) — OVR: 69 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 69 | Tackling: 77 | Dribbling: 68 | Stamina: 91
-    - Stefan Ortega Moreno (GK) — OVR: 69 [Conf: 0.60]
-      Finishing: 54 | ShortPass: 69 | Tackling: 66 | Dribbling: 62 | Stamina: 60
-    - Willy Kambwala (CM) — OVR: 69 [Conf: 0.51]
-      Finishing: 61 | ShortPass: 73 | Tackling: 74 | Dribbling: 63 | Stamina: 59
-    - Nick Pope (GK) — OVR: 69 [Conf: 0.86]
-      Finishing: 54 | ShortPass: 69 | Tackling: 74 | Dribbling: 66 | Stamina: 71
-    - David Raya Martin (GK) — OVR: 69 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 69 | Tackling: 77 | Dribbling: 69 | Stamina: 92
-    - Norberto Murara Neto (GK) — OVR: 69 [Conf: 0.24]
-      Finishing: 54 | ShortPass: 67 | Tackling: 60 | Dribbling: 54 | Stamina: 57
-    - Benoît Badiashile (CM) — OVR: 69 [Conf: 0.51]
-      Finishing: 61 | ShortPass: 74 | Tackling: 73 | Dribbling: 63 | Stamina: 59
-    - Josh Acheampong (CM) — OVR: 69 [Conf: 0.23]
-      Finishing: 67 | ShortPass: 72 | Tackling: 71 | Dribbling: 66 | Stamina: 59
-    - Jonny Evans (CM) — OVR: 69 [Conf: 0.51]
-      Finishing: 62 | ShortPass: 73 | Tackling: 73 | Dribbling: 64 | Stamina: 59
-    - Miguel Almirón (CM) — OVR: 69 [Conf: 0.23]
-      Finishing: 69 | ShortPass: 72 | Tackling: 71 | Dribbling: 68 | Stamina: 58
-    - Martin Dubravka (GK) — OVR: 69 [Conf: 0.71]
-      Finishing: 54 | ShortPass: 68 | Tackling: 72 | Dribbling: 64 | Stamina: 64
-    - Emil Krafth (CM) — OVR: 69 [Conf: 0.50]
-      Finishing: 61 | ShortPass: 74 | Tackling: 73 | Dribbling: 62 | Stamina: 59
-    - Mohamed Naser El Sayed Elneny (CM) — OVR: 68 [Conf: 0.59]
-      Finishing: 59 | ShortPass: 76 | Tackling: 76 | Dribbling: 51 | Stamina: 55
-    - Albert Sambi Lokonga (CM) — OVR: 68 [Conf: 0.66]
-      Finishing: 58 | ShortPass: 77 | Tackling: 77 | Dribbling: 45 | Stamina: 58
-    - Jason Steele (GK) — OVR: 68 [Conf: 0.22]
-      Finishing: 54 | ShortPass: 68 | Tackling: 56 | Dribbling: 49 | Stamina: 55
-    - Ross Barkley (CM) — OVR: 68 [Conf: 0.22]
-      Finishing: 78 | ShortPass: 72 | Tackling: 71 | Dribbling: 63 | Stamina: 56
-    - Andreas Christensen (CM) — OVR: 68 [Conf: 0.74]
-      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 44 | Stamina: 62
-    - Will Hughes (CM) — OVR: 68 [Conf: 0.64]
-      Finishing: 58 | ShortPass: 77 | Tackling: 76 | Dribbling: 49 | Stamina: 57
-    - Nathaniel Clyne (CM) — OVR: 68 [Conf: 0.71]
-      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 45 | Stamina: 60
-    - Oleksandr Zinchenko (CM) — OVR: 68 [Conf: 0.64]
-      Finishing: 58 | ShortPass: 77 | Tackling: 77 | Dribbling: 50 | Stamina: 57
-    - Anthony Martial (CM) — OVR: 68 [Conf: 0.23]
-      Finishing: 78 | ShortPass: 73 | Tackling: 71 | Dribbling: 63 | Stamina: 55
-    - Ciaran Clark (CM) — OVR: 68 [Conf: 0.63]
-      Finishing: 58 | ShortPass: 77 | Tackling: 76 | Dribbling: 49 | Stamina: 56
-    - Harry Winks (CM) — OVR: 68 [Conf: 0.61]
-      Finishing: 58 | ShortPass: 76 | Tackling: 76 | Dribbling: 49 | Stamina: 56
-    - Ryan Sessegnon (CM) — OVR: 68 [Conf: 0.64]
-      Finishing: 58 | ShortPass: 77 | Tackling: 77 | Dribbling: 50 | Stamina: 57
-    - Oliver Skipp (CM) — OVR: 68 [Conf: 0.71]
-      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 44 | Stamina: 60
-    - Aaron Ramsdale (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 69 | Tackling: 77 | Dribbling: 69 | Stamina: 92
-    - David Raya Martin (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 68 | Tackling: 76 | Dribbling: 69 | Stamina: 92
-    - Kepa Arrizabalaga (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 68 | Tackling: 76 | Dribbling: 68 | Stamina: 89
-    - Vicente Guaita (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 68 | Tackling: 76 | Dribbling: 68 | Stamina: 87
-    - Sam Johnstone (GK) — OVR: 68 [Conf: 0.68]
-      Finishing: 54 | ShortPass: 69 | Tackling: 70 | Dribbling: 63 | Stamina: 63
-    - Joseph Whitworth (GK) — OVR: 68 [Conf: 0.24]
-      Finishing: 54 | ShortPass: 67 | Tackling: 61 | Dribbling: 54 | Stamina: 56
-    - Ederson Santana de Moraes (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 69 | Tackling: 77 | Dribbling: 69 | Stamina: 91
-    - Jamaal Lascelles (CM) — OVR: 68 [Conf: 0.24]
-      Finishing: 63 | ShortPass: 73 | Tackling: 71 | Dribbling: 61 | Stamina: 59
-    - Hugo Lloris (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 68 | Tackling: 75 | Dribbling: 67 | Stamina: 83
-    - Japhet Tanganga (CM) — OVR: 68 [Conf: 0.23]
-      Finishing: 64 | ShortPass: 72 | Tackling: 71 | Dribbling: 61 | Stamina: 59
-    - Arnaut Danjuma (CM) — OVR: 68 [Conf: 0.23]
-      Finishing: 78 | ShortPass: 72 | Tackling: 71 | Dribbling: 63 | Stamina: 58
-    - Thomas Strakosha (GK) — OVR: 68 [Conf: 0.23]
-      Finishing: 54 | ShortPass: 68 | Tackling: 56 | Dribbling: 50 | Stamina: 56
-    - Manuel Benson Hedilazio (CM) — OVR: 68 [Conf: 0.22]
-      Finishing: 65 | ShortPass: 71 | Tackling: 70 | Dribbling: 65 | Stamina: 58
-    - Naouirou Ahamada (CM) — OVR: 68 [Conf: 0.48]
-      Finishing: 63 | ShortPass: 74 | Tackling: 73 | Dribbling: 59 | Stamina: 55
-    - Sam Johnstone (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 69 | Tackling: 75 | Dribbling: 67 | Stamina: 78
-    - Jairo Riedewald (CM) — OVR: 68 [Conf: 0.24]
-      Finishing: 63 | ShortPass: 73 | Tackling: 72 | Dribbling: 61 | Stamina: 59
-    - Jesurun Rak-Sakyi (CM) — OVR: 68 [Conf: 0.22]
-      Finishing: 67 | ShortPass: 71 | Tackling: 71 | Dribbling: 67 | Stamina: 56
-    - André Onana (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 68 | Tackling: 76 | Dribbling: 69 | Stamina: 92
-    - Loris Karius (GK) — OVR: 68 [Conf: 0.22]
-      Finishing: 54 | ShortPass: 66 | Tackling: 56 | Dribbling: 51 | Stamina: 56
-    - Eric Dier (CM) — OVR: 68 [Conf: 0.23]
-      Finishing: 63 | ShortPass: 73 | Tackling: 72 | Dribbling: 60 | Stamina: 58
-    - Ben Mee (CM) — OVR: 68 [Conf: 0.24]
-      Finishing: 63 | ShortPass: 72 | Tackling: 73 | Dribbling: 61 | Stamina: 59
-    - Hákon Valdimarsson (GK) — OVR: 68 [Conf: 0.23]
-      Finishing: 54 | ShortPass: 69 | Tackling: 60 | Dribbling: 49 | Stamina: 57
-    - Renato Palma Veiga (CM) — OVR: 68 [Conf: 0.23]
-      Finishing: 63 | ShortPass: 72 | Tackling: 72 | Dribbling: 60 | Stamina: 58
-    - Robert Sánchez (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 68 | Tackling: 76 | Dribbling: 68 | Stamina: 91
-    - Dean Henderson (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 68 | Tackling: 77 | Dribbling: 69 | Stamina: 92
-    - Jeffrey Schlupp (CM) — OVR: 68 [Conf: 0.22]
-      Finishing: 68 | ShortPass: 71 | Tackling: 70 | Dribbling: 66 | Stamina: 57
-    - Ederson Santana de Moraes (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 69 | Tackling: 75 | Dribbling: 68 | Stamina: 84
-    - Antony Matheus dos Santos (CM) — OVR: 68 [Conf: 0.22]
-      Finishing: 68 | ShortPass: 71 | Tackling: 71 | Dribbling: 66 | Stamina: 56
-    - Tyrell Malacia (CM) — OVR: 68 [Conf: 0.22]
-      Finishing: 64 | ShortPass: 71 | Tackling: 69 | Dribbling: 64 | Stamina: 60
-    - André Onana (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 68 | Tackling: 77 | Dribbling: 69 | Stamina: 91
-    - Ayden Heaven (CM) — OVR: 68 [Conf: 0.23]
-      Finishing: 63 | ShortPass: 72 | Tackling: 71 | Dribbling: 61 | Stamina: 59
-    - Chido Obi-Martin (CM) — OVR: 68 [Conf: 0.23]
-      Finishing: 67 | ShortPass: 72 | Tackling: 71 | Dribbling: 63 | Stamina: 58
-    - Tyler Fredricson (CM) — OVR: 68 [Conf: 0.23]
-      Finishing: 63 | ShortPass: 72 | Tackling: 71 | Dribbling: 61 | Stamina: 59
-    - Nick Pope (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 68 | Tackling: 76 | Dribbling: 68 | Stamina: 89
-    - Brandon Austin (GK) — OVR: 68 [Conf: 0.22]
-      Finishing: 54 | ShortPass: 68 | Tackling: 56 | Dribbling: 51 | Stamina: 56
-    - Sergio Reguilón (CM) — OVR: 68 [Conf: 0.23]
-      Finishing: 63 | ShortPass: 72 | Tackling: 72 | Dribbling: 65 | Stamina: 58
-    - Steven Alzate (CM) — OVR: 67 [Conf: 0.50]
-      Finishing: 61 | ShortPass: 74 | Tackling: 74 | Dribbling: 51 | Stamina: 55
-    - Saúl Ñíguez (CM) — OVR: 67 [Conf: 0.52]
-      Finishing: 60 | ShortPass: 75 | Tackling: 74 | Dribbling: 53 | Stamina: 54
-    - Luka Milivojevic (CM) — OVR: 67 [Conf: 0.58]
-      Finishing: 59 | ShortPass: 76 | Tackling: 76 | Dribbling: 47 | Stamina: 55
-    - Cole Palmer (CM) — OVR: 67 [Conf: 0.22]
-      Finishing: 64 | ShortPass: 71 | Tackling: 70 | Dribbling: 62 | Stamina: 57
-    - Axel Tuanzebe (CM) — OVR: 67 [Conf: 0.52]
-      Finishing: 60 | ShortPass: 75 | Tackling: 75 | Dribbling: 50 | Stamina: 54
-    - Karl Darlow (GK) — OVR: 67 [Conf: 0.57]
-      Finishing: 54 | ShortPass: 68 | Tackling: 67 | Dribbling: 43 | Stamina: 55
-    - Federico Fernández (CM) — OVR: 67 [Conf: 0.53]
-      Finishing: 60 | ShortPass: 75 | Tackling: 74 | Dribbling: 51 | Stamina: 55
-    - Freddie Woodman (GK) — OVR: 67 [Conf: 0.49]
-      Finishing: 54 | ShortPass: 67 | Tackling: 64 | Dribbling: 46 | Stamina: 53
-    - Japhet Tanganga (CM) — OVR: 67 [Conf: 0.57]
-      Finishing: 59 | ShortPass: 76 | Tackling: 76 | Dribbling: 47 | Stamina: 55
-    - Giovani Lo Celso (CM) — OVR: 67 [Conf: 0.23]
-      Finishing: 62 | ShortPass: 73 | Tackling: 72 | Dribbling: 56 | Stamina: 55
-    - Mohamed Naser El Sayed Elneny (CM) — OVR: 67 [Conf: 0.22]
-      Finishing: 65 | ShortPass: 71 | Tackling: 70 | Dribbling: 61 | Stamina: 58
-    - Saman Ghoddos (CM) — OVR: 67 [Conf: 0.22]
-      Finishing: 64 | ShortPass: 71 | Tackling: 70 | Dribbling: 62 | Stamina: 56
-    - Edouard Mendy (GK) — OVR: 67 [Conf: 0.69]
-      Finishing: 54 | ShortPass: 68 | Tackling: 70 | Dribbling: 63 | Stamina: 64
-    - Fraser Forster (GK) — OVR: 67 [Conf: 0.81]
-      Finishing: 54 | ShortPass: 68 | Tackling: 72 | Dribbling: 65 | Stamina: 69
-    - Mark Flekken (GK) — OVR: 67 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 68 | Tackling: 77 | Dribbling: 69 | Stamina: 92
-    - Arijanet Muric (GK) — OVR: 67 [Conf: 0.71]
-      Finishing: 54 | ShortPass: 67 | Tackling: 72 | Dribbling: 64 | Stamina: 63
-    - Anass Zaroury (CM) — OVR: 67 [Conf: 0.23]
-      Finishing: 64 | ShortPass: 72 | Tackling: 71 | Dribbling: 60 | Stamina: 58
-    - James Trafford (GK) — OVR: 67 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 67 | Tackling: 76 | Dribbling: 68 | Stamina: 89
-    - Nathan Redmond (CM) — OVR: 67 [Conf: 0.22]
-      Finishing: 64 | ShortPass: 71 | Tackling: 71 | Dribbling: 62 | Stamina: 56
-    - Dean Henderson (GK) — OVR: 67 [Conf: 0.95]
-      Finishing: 54 | ShortPass: 68 | Tackling: 74 | Dribbling: 66 | Stamina: 75
-    - Martin Dubravka (GK) — OVR: 67 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 67 | Tackling: 73 | Dribbling: 67 | Stamina: 78
-    - Matt Ritchie (CM) — OVR: 67 [Conf: 0.22]
-      Finishing: 92 | ShortPass: 71 | Tackling: 70 | Dribbling: 61 | Stamina: 57
-    - Ivan Perišić (CM) — OVR: 67 [Conf: 0.22]
-      Finishing: 65 | ShortPass: 71 | Tackling: 69 | Dribbling: 65 | Stamina: 57
-    - Guglielmo Vicario (GK) — OVR: 67 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 68 | Tackling: 77 | Dribbling: 69 | Stamina: 92
-    - Mark Flekken (GK) — OVR: 67 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 67 | Tackling: 76 | Dribbling: 69 | Stamina: 92
-    - Igor Thiago Nascimento Rodrigues (CM) — OVR: 67 [Conf: 0.23]
-      Finishing: 63 | ShortPass: 72 | Tackling: 71 | Dribbling: 60 | Stamina: 58
-    - Filip Jørgensen (GK) — OVR: 67 [Conf: 0.59]
-      Finishing: 54 | ShortPass: 68 | Tackling: 66 | Dribbling: 61 | Stamina: 60
-    - Chadi Riad Dnanou (CM) — OVR: 67 [Conf: 0.22]
-      Finishing: 65 | ShortPass: 71 | Tackling: 69 | Dribbling: 61 | Stamina: 58
-    - Stefan Ortega Moreno (GK) — OVR: 67 [Conf: 0.77]
-      Finishing: 54 | ShortPass: 68 | Tackling: 72 | Dribbling: 65 | Stamina: 68
-    - Jahmai Simpson-Pusey (CM) — OVR: 67 [Conf: 0.22]
-      Finishing: 64 | ShortPass: 71 | Tackling: 70 | Dribbling: 61 | Stamina: 58
-    - Altay Bayindir (GK) — OVR: 67 [Conf: 0.53]
-      Finishing: 54 | ShortPass: 67 | Tackling: 64 | Dribbling: 58 | Stamina: 57
-    - Toby Collyer (CM) — OVR: 67 [Conf: 0.22]
-      Finishing: 63 | ShortPass: 72 | Tackling: 71 | Dribbling: 60 | Stamina: 55
-    - William Osula (CM) — OVR: 67 [Conf: 0.22]
-      Finishing: 84 | ShortPass: 71 | Tackling: 70 | Dribbling: 63 | Stamina: 56
-    - Fraser Forster (GK) — OVR: 67 [Conf: 0.62]
-      Finishing: 54 | ShortPass: 67 | Tackling: 66 | Dribbling: 63 | Stamina: 60
-    - Guglielmo Vicario (GK) — OVR: 67 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 68 | Tackling: 74 | Dribbling: 67 | Stamina: 82
-    - Antonín Kinsky (GK) — OVR: 67 [Conf: 0.59]
-      Finishing: 54 | ShortPass: 67 | Tackling: 66 | Dribbling: 61 | Stamina: 60
-    - Pablo Marí (CM) — OVR: 66 [Conf: 0.23]
-      Finishing: 63 | ShortPass: 72 | Tackling: 72 | Dribbling: 56 | Stamina: 55
-    - Sead Kolasinac (CM) — OVR: 66 [Conf: 0.22]
-      Finishing: 64 | ShortPass: 71 | Tackling: 70 | Dribbling: 58 | Stamina: 58
-    - Ainsley Maitland-Niles (CM) — OVR: 66 [Conf: 0.23]
-      Finishing: 62 | ShortPass: 73 | Tackling: 73 | Dribbling: 54 | Stamina: 55
-    - Aaron Connolly (CM) — OVR: 66 [Conf: 0.22]
-      Finishing: 63 | ShortPass: 72 | Tackling: 71 | Dribbling: 57 | Stamina: 55
-    - Malang Sarr (CM) — OVR: 66 [Conf: 0.53]
-      Finishing: 59 | ShortPass: 75 | Tackling: 74 | Dribbling: 49 | Stamina: 54
-    - Jairo Riedewald (CM) — OVR: 66 [Conf: 0.22]
-      Finishing: 64 | ShortPass: 71 | Tackling: 70 | Dribbling: 58 | Stamina: 57
-    - Eric Bailly (CM) — OVR: 66 [Conf: 0.23]
-      Finishing: 62 | ShortPass: 73 | Tackling: 71 | Dribbling: 56 | Stamina: 55
-    - Juan Mata (CM) — OVR: 66 [Conf: 0.23]
-      Finishing: 62 | ShortPass: 73 | Tackling: 72 | Dribbling: 54 | Stamina: 55
-    - Phil Jones (CM) — OVR: 66 [Conf: 0.22]
-      Finishing: 63 | ShortPass: 72 | Tackling: 70 | Dribbling: 57 | Stamina: 55
-    - Paul Dummett (CM) — OVR: 66 [Conf: 0.23]
-      Finishing: 63 | ShortPass: 72 | Tackling: 72 | Dribbling: 55 | Stamina: 55
-    - Jamal Lewis (CM) — OVR: 66 [Conf: 0.23]
-      Finishing: 62 | ShortPass: 73 | Tackling: 73 | Dribbling: 54 | Stamina: 55
-    - David Ozoh (CM) — OVR: 66 [Conf: 0.22]
-      Finishing: 63 | ShortPass: 72 | Tackling: 71 | Dribbling: 57 | Stamina: 56
-    - Rico Henry (CM) — OVR: 66 [Conf: 0.22]
-      Finishing: 65 | ShortPass: 71 | Tackling: 70 | Dribbling: 58 | Stamina: 57
-    - Paris Maghoma (CM) — OVR: 66 [Conf: 0.22]
-      Finishing: 65 | ShortPass: 71 | Tackling: 70 | Dribbling: 59 | Stamina: 57
-    - Rúnar Alex Rúnarsson (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Willian Borges Da Silva (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Héctor Bellerín (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Lucas Torreira (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Konstantinos Mavropanos (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mattéo Guendouzi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - William Saliba (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Folarin Balogun (CM) — UNRATED (Insufficient playing time (69 mins < 90 mins threshold))
-    - Reiss Nelson (CM) — UNRATED (Insufficient playing time (19 mins < 90 mins threshold))
-    - Karl Hein (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Arthur Okonkwo (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Charlie Patino (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Omari Hutchinson (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Salah-Eddine Oulad M'hand (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mika Biereth (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ryan Alebiosu (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Zach Awe (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Zak Swanson (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mazeed Ogungbo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Marcelo Flores (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Miguel Azeez (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alex Kirk (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Davy Pröpper (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mathew Ryan (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alireza Jahanbakhsh (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Bernardo Fernandes Da Silva Junior (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Kjell Scherpen (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Florin Andone (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Andi Zeqiri (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Michal Karbownik (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Taylor Richards (CM) — UNRATED (Insufficient playing time (23 mins < 90 mins threshold))
-    - Haydon Roberts (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jürgen Locadia (CM) — UNRATED (Insufficient playing time (22 mins < 90 mins threshold))
-    - Jeremy Sarmiento (CM) — UNRATED (Insufficient playing time (44 mins < 90 mins threshold))
-    - Ed Turns (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Marc Leonard (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Evan Ferguson (CM) — UNRATED (Insufficient playing time (22 mins < 90 mins threshold))
-    - Thomas McGill (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Odeluga Offiah (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Olivier Giroud (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Michy Batshuayi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Tammy Abraham (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ethan Ampadu (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Emerson Palmieri dos Santos (CM) — UNRATED (Insufficient playing time (4 mins < 90 mins threshold))
-    - Marcus Bettinelli (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Lewis Hall (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Harvey Vale (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Robert Kenedy Nunes do Nascimento (CM) — UNRATED (Insufficient playing time (58 mins < 90 mins threshold))
-    - Martin Kelly (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jarosław Jach (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Nathan Ferguson (CM) — UNRATED (Insufficient playing time (8 mins < 90 mins threshold))
-    - Reece Hannam (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jesurun Rak-Sakyi (CM) — UNRATED (Insufficient playing time (79 mins < 90 mins threshold))
-    - Robert Street (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Scott Banks (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Remi Matthews (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Tayo Adaramola (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Benjamin Mendy (CM) — UNRATED (Insufficient playing time (78 mins < 90 mins threshold))
-    - Samuel Edozie (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Tommy Doyle (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Scott Carson (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Luke Mbete (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Joshua Wilson-Esbrand (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Romeo Lavia (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Cieran Slicker (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - James McAtee (CM) — UNRATED (Insufficient playing time (18 mins < 90 mins threshold))
-    - Conrad Egan-Riley (CM) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
-    - Kayky da Silva Chagas (CM) — UNRATED (Insufficient playing time (6 mins < 90 mins threshold))
-    - Liam Delap (CM) — UNRATED (Insufficient playing time (8 mins < 90 mins threshold))
-    - Dean Henderson (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Tom Heaton (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Andreas Pereira (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Amad Diallo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Hannibal Mejbri (CM) — UNRATED (Insufficient playing time (67 mins < 90 mins threshold))
-    - Alejandro Garnacho Ferreyra (CM) — UNRATED (Insufficient playing time (12 mins < 90 mins threshold))
-    - Shola Shoretire (CM) — UNRATED (Insufficient playing time (15 mins < 90 mins threshold))
-    - Álvaro Fernández Carreras (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Charlie Savage (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jeff Hendrick (CM) — UNRATED (Insufficient playing time (69 mins < 90 mins threshold))
-    - Dwight Gayle (CM) — UNRATED (Insufficient playing time (34 mins < 90 mins threshold))
-    - Matthew Longstaff (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mark Gillespie (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Joe White (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Elliot Anderson (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Lucas De Bolle (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Joe Hart (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Toby Alderweireld (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Erik Lamela (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Serge Aurier (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Joe Rodon (CM) — UNRATED (Insufficient playing time (87 mins < 90 mins threshold))
-    - Pierluigi Gollini (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Bryan Gil Salvatierra (CM) — UNRATED (Insufficient playing time (86 mins < 90 mins threshold))
-    - Dane Scarlett (CM) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
-    - Dilan Markanday (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Tobi Omole (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Brandon Austin (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Harvey White (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alfie Devine (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jamie Bowden (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Marcel Lavinier (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Matthew Craig (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Nicolas Pépé (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Nuno Varela Tavares (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Pablo Marí (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Lucas Torreira (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Matt Turner (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Marcus Oliveira Alencar (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
-    - Matthew Smith (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ethan Nwaneri (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
-    - Lino Sousa (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Karl Hein (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Amario Cozier-Duberry (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Nathan Butler-Oyedeji (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Reuell Walters (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mauro Bandeira (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Sergi Canós (CM) — UNRATED (Insufficient playing time (73 mins < 90 mins threshold))
-    - Mads Bech Sørensen (CM) — UNRATED (Insufficient playing time (18 mins < 90 mins threshold))
-    - Charlie Goode (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Marcus Forss (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Dominic Thompson (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mads Bidstrup (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ellery Balcombe (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Thomas Strakosha (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Finley Stevens (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Halil Dervişoğlu (CM) — UNRATED (Insufficient playing time (6 mins < 90 mins threshold))
-    - Ryan Trevitt (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Matthew Cox (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Tristan Crama (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Yegor Yarmolyuk (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Michael Olakigbe (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Marcos Alonso (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ross Barkley (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Timo Werner (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Robert Kenedy Nunes do Nascimento (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Malang Sarr (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Callum Hudson-Odoi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ethan Ampadu (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Harvey Vale (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Marcus Bettinelli (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Omari Hutchinson (CM) — UNRATED (Insufficient playing time (22 mins < 90 mins threshold))
-    - Bashir Humphreys (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - David Datro Fofana (CM) — UNRATED (Insufficient playing time (68 mins < 90 mins threshold))
-    - Andrey Nascimento dos Santos (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ethan Wady (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alfie Gilchrist (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - James McArthur (CM) — UNRATED (Insufficient playing time (50 mins < 90 mins threshold))
-    - Christian Benteke (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jairo Riedewald (CM) — UNRATED (Insufficient playing time (60 mins < 90 mins threshold))
-    - Jesurun Rak-Sakyi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Malcolm Ebiowei (CM) — UNRATED (Insufficient playing time (31 mins < 90 mins threshold))
-    - Nathan Ferguson (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Remi Matthews (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Luke Plange (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Kaden Rodney (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Killian Phillips (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - John-Kymani Gordon (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Kofi Balmer (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Owen Goodman (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jack Wells-Morrison (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - David Ozoh (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
-    - Naouirou Ahamada (CM) — UNRATED (Insufficient playing time (87 mins < 90 mins threshold))
-    - Tayo Adaramola (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Zack Steffen (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - James McAtee (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Luke Mbete (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Joshua Wilson-Esbrand (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Liam Delap (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Scott Carson (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Claudio Gomes (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ben Knight (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Máximo Perrone (CM) — UNRATED (Insufficient playing time (18 mins < 90 mins threshold))
-    - Alex Robertson (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Shea Charles (CM) — UNRATED (Insufficient playing time (27 mins < 90 mins threshold))
-    - Nico O'Reilly (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jack Butland (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Phil Jones (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alex Nicolao Telles (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Eric Bailly (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Brandon Williams (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Facundo Pellistri Rebollo (CM) — UNRATED (Insufficient playing time (60 mins < 90 mins threshold))
-    - Tom Heaton (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Amad Diallo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Zidane Iqbal (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Matej Kovár (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Kobbie Mainoo (CM) — UNRATED (Insufficient playing time (10 mins < 90 mins threshold))
-    - Nathan Bishop (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Shola Shoretire (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Rhys Bennett (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Marc Jurado Gomez (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Matt Ritchie (CM) — UNRATED (Insufficient playing time (35 mins < 90 mins threshold))
-    - Federico Fernández (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ciaran Clark (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Karl Darlow (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Dwight Gayle (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Paul Dummett (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Javier Manquillo (CM) — UNRATED (Insufficient playing time (34 mins < 90 mins threshold))
-    - Emil Krafth (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
-    - Jamal Lewis (CM) — UNRATED (Insufficient playing time (9 mins < 90 mins threshold))
-    - Jeff Hendrick (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Harrison Ashby (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Loris Karius (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Garang Kuol (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Lewis Miley (CM) — UNRATED (Insufficient playing time (14 mins < 90 mins threshold))
-    - Mark Gillespie (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Harry Winks (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Steven Bergwijn (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Sergio Reguilón (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Joe Rodon (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Dane Scarlett (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Harvey White (CM) — UNRATED (Insufficient playing time (4 mins < 90 mins threshold))
-    - Brandon Austin (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alfie Devine (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Troy Parrott (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Djed Spence (CM) — UNRATED (Insufficient playing time (5 mins < 90 mins threshold))
-    - Romaine Mundle (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - George Abbott (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
-    - Matthew Craig (CM) — UNRATED (Insufficient playing time (13 mins < 90 mins threshold))
-    - Yago de Santiago Alonso (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Folarin Balogun (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Cédric Soares (CM) — UNRATED (Insufficient playing time (59 mins < 90 mins threshold))
-    - Mohamed Naser El Sayed Elneny (CM) — UNRATED (Insufficient playing time (25 mins < 90 mins threshold))
-    - Marcus Oliveira Alencar (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Nicolas Pépé (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Rúnar Alex Rúnarsson (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Kieran Tierney (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Granit Xhaka (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jurriën Timber (CM) — UNRATED (Insufficient playing time (70 mins < 90 mins threshold))
-    - Karl Hein (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Charles Sagoe (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Reuell Walters (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Bradley Ibrahim (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Myles Lewis-Skelly (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ethan Nwaneri (CM) — UNRATED (Insufficient playing time (13 mins < 90 mins threshold))
-    - Mauro Bandeira (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - James Sweet (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ellery Balcombe (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mads Bech Sørensen (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mads Bidstrup (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Sergi Canós (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Matthew Cox (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Pelenda Joshua Dasilva (CM) — UNRATED (Insufficient playing time (22 mins < 90 mins threshold))
-    - Halil Dervişoğlu (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Charlie Goode (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ryan Trevitt (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Michael Olakigbe (CM) — UNRATED (Insufficient playing time (51 mins < 90 mins threshold))
-    - Ethan Brierley (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ji-Soo Kim (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Valintino Adedokun (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Myles Peart-Harris (CM) — UNRATED (Insufficient playing time (11 mins < 90 mins threshold))
-    - Vincent Angelini (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Hákon Valdimarsson (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Benjamin Fredrick (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Benjamin Arthur (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Yunus Konak (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Enock Agyei (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Samuel Bastien (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Darko Churlinov (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jack Cork (CM) — UNRATED (Insufficient playing time (25 mins < 90 mins threshold))
-    - Dara Costelloe (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Conrad Egan-Riley (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Denis Franchi (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Luke McNally (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Michael Obafemi (CM) — UNRATED (Insufficient playing time (19 mins < 90 mins threshold))
-    - Bailey Peacock-Farrell (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Bobby Thomas (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Scott Twine (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Lawrence Vigouroux (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Wout Weghorst (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Owen Dodgson (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Han-Noah Massengo (CM) — UNRATED (Insufficient playing time (14 mins < 90 mins threshold))
-    - Rob Holding (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Malcolm Ebiowei (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Vicente Guaita (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Remi Matthews (GK) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
-    - Jake O'Brien (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Luke Plange (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - James Tomkins (CM) — UNRATED (Insufficient playing time (8 mins < 90 mins threshold))
-    - Joseph Whitworth (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - John-Kymani Gordon (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ademola Ola-Adebomi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jadan Raymond (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Tayo Adaramola (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Franco Umeh-Chibueze (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Kaden Rodney (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Roshaun Mathurin (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - João Pedro Cavaco Cancelo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Scott Carson (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Shea Charles (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Aymeric Laporte (CM) — UNRATED (Insufficient playing time (11 mins < 90 mins threshold))
-    - Riyad Mahrez (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Máximo Perrone (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Sergio Gómez (CM) — UNRATED (Insufficient playing time (48 mins < 90 mins threshold))
-    - Zack Steffen (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mahamadou Susoho (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Micah Hamilton (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jacob Wright (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alex Nicolao Telles (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Brandon Williams (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Eric Bailly (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Álvaro Fernández Carreras (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Frederico Rodrigues de Paula Santos (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Tom Heaton (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Tyrell Malacia (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jadon Sancho (CM) — UNRATED (Insufficient playing time (76 mins < 90 mins threshold))
-    - Shola Shoretire (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Donny van de Beek (CM) — UNRATED (Insufficient playing time (2 mins < 90 mins threshold))
-    - Omari Forson (CM) — UNRATED (Insufficient playing time (67 mins < 90 mins threshold))
-    - Radek Vítek (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Daniel Gore (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
-    - Altay Bayindir (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Joe Hugill (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Rhys Bennett (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Toby Collyer (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Habeeb Ogunneye (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Dermot Mee (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Harry Amass (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ethan Wheatley (CM) — UNRATED (Insufficient playing time (13 mins < 90 mins threshold))
-    - Louis Jackson (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Harrison Ashby (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Karl Darlow (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ryan Fraser (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mark Gillespie (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Isaac Hayden (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jeff Hendrick (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Garang Kuol (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jamal Lewis (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Javier Manquillo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Allan Saint-Maximin (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Matt Targett (CM) — UNRATED (Insufficient playing time (77 mins < 90 mins threshold))
-    - Kell Watts (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Paul Dummett (CM) — UNRATED (Insufficient playing time (18 mins < 90 mins threshold))
-    - Alex Murphy (CM) — UNRATED (Insufficient playing time (11 mins < 90 mins threshold))
-    - Amadou Diallo (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
-    - Ben Parkinson (CM) — UNRATED (Insufficient playing time (24 mins < 90 mins threshold))
-    - Michael Ndiweni (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
-    - Joe White (CM) — UNRATED (Insufficient playing time (12 mins < 90 mins threshold))
-    - Travis Hernes (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Brandon Austin (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Fraser Forster (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Harry Kane (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Hugo Lloris (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Tanguy Ndombele (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Joe Rodon (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Davinson Sánchez (CM) — UNRATED (Insufficient playing time (76 mins < 90 mins threshold))
-    - Ryan Sessegnon (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Djed Spence (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Japhet Tanganga (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alfie Whiteman (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Dane Scarlett (CM) — UNRATED (Insufficient playing time (19 mins < 90 mins threshold))
-    - Alejo Véliz (CM) — UNRATED (Insufficient playing time (45 mins < 90 mins threshold))
-    - Ashley Phillips (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jamie Donley (CM) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
-    - Alfie Dorrington (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Yago de Santiago Alonso (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mikey Moore (CM) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
-    - Tyrese Hall (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Fábio Ferreira Vieira (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Karl Hein (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Takehiro Tomiyasu (CM) — UNRATED (Insufficient playing time (6 mins < 90 mins threshold))
-    - Salah-Eddine Oulad M'hand (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Tommy Setford (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Maldini Kacurri (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ismeal Kabia (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Josh Nichols (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Nathan Butler-Oyedeji (CM) — UNRATED (Insufficient playing time (6 mins < 90 mins threshold))
-    - Mikel Arteta (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jack Porter (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jimi Gower (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jack Henry-Francis (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Brayden Clarke (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ethan Brierley (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Pelenda Joshua Dasilva (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Aaron Hickey (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ji-Soo Kim (CM) — UNRATED (Insufficient playing time (28 mins < 90 mins threshold))
-    - Yunus Konak (CM) — UNRATED (Insufficient playing time (53 mins < 90 mins threshold))
-    - Frank Onyeka (CM) — UNRATED (Insufficient playing time (23 mins < 90 mins threshold))
-    - Myles Peart-Harris (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ivan Toney (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mathias Jorgensen (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ryan Trevitt (CM) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
-    - Gustavo Nunes Fernandes Gomes (CM) — UNRATED (Insufficient playing time (11 mins < 90 mins threshold))
-    - Jayden Meghoma (CM) — UNRATED (Insufficient playing time (4 mins < 90 mins threshold))
-    - Tony Yogane (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Benjamin Arthur (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Thomas Frank (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Julian Eyestone (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Iwan Morgan (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Benjamin Fredrick (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Andrey Nascimento dos Santos (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ângelo Gabriel Borges Damaceno (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Lucas Bergström (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Marcus Bettinelli (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Cesare Casadei (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Carney Chukwuemeka (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - David Datro Fofana (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Deivid Washington de Souza Eugênio (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Conor Gallagher (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alfie Gilchrist (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Omari Kellyman (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Romelu Lukaku (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Malang Sarr (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Marc Guiu Paz (CM) — UNRATED (Insufficient playing time (71 mins < 90 mins threshold))
-    - Đorđe Petrović (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Caleb Wiley (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Samuel Rak-Sakyi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Enzo Maresca (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mathis Amougou (CM) — UNRATED (Insufficient playing time (7 mins < 90 mins threshold))
-    - Aaron Anselmino (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Shumaira Mheuka (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
-    - Ishé Samuels-Smith (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Genesis Antwi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Naouirou Ahamada (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Malcolm Ebiowei (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Rob Holding (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Matheus França de Oliveira (CM) — UNRATED (Insufficient playing time (52 mins < 90 mins threshold))
-    - Remi Matthews (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - David Ozoh (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jesurun Rak-Sakyi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Joel Ward (CM) — UNRATED (Insufficient playing time (71 mins < 90 mins threshold))
-    - Matt Turner (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Franco Umeh-Chibueze (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Asher Agbinone (CM) — UNRATED (Insufficient playing time (4 mins < 90 mins threshold))
-    - Kaden Rodney (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Caleb Kporha (CM) — UNRATED (Insufficient playing time (11 mins < 90 mins threshold))
-    - Zach Marsh (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Oliver Glasner (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Oscar Bobb (CM) — UNRATED (Insufficient playing time (14 mins < 90 mins threshold))
-    - Scott Carson (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Julián Álvarez (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - João Pedro Cavaco Cancelo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Rodrigo Hernandez (CM) — UNRATED (Insufficient playing time (72 mins < 90 mins threshold))
-    - Issa Kaboré (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jacob Wright (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Joshua Wilson-Esbrand (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Divin Mubama (CM) — UNRATED (Insufficient playing time (27 mins < 90 mins threshold))
-    - Max Alleyne (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Spike Brits (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Vitor de Oliveira Nunes dos Reis (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
-    - Pep Guardiola (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Claudio Echeverri (CM) — UNRATED (Insufficient playing time (5 mins < 90 mins threshold))
-    - Hannibal Mejbri (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Tom Heaton (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Scott McTominay (CM) — UNRATED (Insufficient playing time (17 mins < 90 mins threshold))
-    - Facundo Pellistri Rebollo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ethan Wheatley (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jack Fletcher (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jayce Fitzgerald (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Godwill Kukonki (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ruben Filipe Marques Diogo Amorim (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Elyh Harrison (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jack Moorhouse (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Sékou Koné (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Hubert Graczyk (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Dermot Mee (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alex Murphy (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Isaac Hayden (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Garang Kuol (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jamaal Lascelles (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jamal Lewis (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Odysseas Vlachodimos (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - John Ruddy (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Matt Targett (CM) — UNRATED (Insufficient playing time (20 mins < 90 mins threshold))
-    - Joe White (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Miodrag Pivaš (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Eddie Howe (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Sean Neave (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ashley Phillips (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Bryan Gil Salvatierra (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alfie Devine (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Emerson Aparecido Leite de Souza Junior (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Pierre-Emile Højbjerg (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Giovani Lo Celso (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Dane Scarlett (CM) — UNRATED (Insufficient playing time (31 mins < 90 mins threshold))
-    - Manor Solomon (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alejo Véliz (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alfie Whiteman (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Will Lankshear (CM) — UNRATED (Insufficient playing time (10 mins < 90 mins threshold))
-    - Callum Olusesi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Malachi Hardy (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Luca Williams-Barnett (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alfie Dorrington (CM) — UNRATED (Insufficient playing time (13 mins < 90 mins threshold))
-    - Maeson King (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Min-Hyeok Yang (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Damola Ajayi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ange Postecoglou (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Dante Cassanova (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
 
   CLUB: Fulham FC
   -----------------------------------
@@ -3865,6 +2095,1245 @@ COMPETITION: EPL
     - Christian Chigozie (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Taylan Harris (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
 
+  CLUB: Manchester City FC
+  -----------------------------------
+    - Ederson Santana de Moraes (GK) — OVR: 91 [Conf: 0.81]
+      Finishing: 54 | ShortPass: 80 | Tackling: 77 | Dribbling: 40 | Stamina: 78
+    - Julián Álvarez (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 81 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 91
+    - Phil Foden (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 87 | ShortPass: 79 | Tackling: 79 | Dribbling: 99 | Stamina: 91
+    - Kevin De Bruyne (CM) — OVR: 84 [Conf: 0.99]
+      Finishing: 75 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 87
+    - Bernardo Mota Veiga de Carvalho e Silva (CM) — OVR: 84 [Conf: 0.99]
+      Finishing: 72 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 89
+    - Rodrigo Hernandez (CM) — OVR: 84 [Conf: 0.99]
+      Finishing: 74 | ShortPass: 79 | Tackling: 78 | Dribbling: 98 | Stamina: 91
+    - Riyad Mahrez (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 75 | ShortPass: 79 | Tackling: 78 | Dribbling: 98 | Stamina: 80
+    - Jack Grealish (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 73 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 82
+    - Rodrigo Hernandez (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 79 | Tackling: 79 | Dribbling: 89 | Stamina: 91
+    - Bernardo Mota Veiga de Carvalho e Silva (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 79 | Tackling: 78 | Dribbling: 91 | Stamina: 91
+    - Ilkay Gündogan (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 79 | Tackling: 78 | Dribbling: 97 | Stamina: 84
+    - Ilkay Gündogan (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 79 | ShortPass: 79 | Tackling: 78 | Dribbling: 93 | Stamina: 86
+    - Bernardo Mota Veiga de Carvalho e Silva (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 79 | Tackling: 78 | Dribbling: 91 | Stamina: 84
+    - Phil Foden (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 86 | ShortPass: 79 | Tackling: 78 | Dribbling: 97 | Stamina: 79
+    - Erling Haaland (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 99 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 91
+    - Jérémy Doku (CM) — OVR: 82 [Conf: 0.94]
+      Finishing: 70 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 75
+    - Kevin De Bruyne (CM) — OVR: 82 [Conf: 0.98]
+      Finishing: 75 | ShortPass: 79 | Tackling: 77 | Dribbling: 99 | Stamina: 76
+    - Phil Foden (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 80 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 78
+    - Joško Gvardiol (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 79 | Tackling: 79 | Dribbling: 87 | Stamina: 92
+    - Mateo Kovacic (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 75 | ShortPass: 79 | Tackling: 78 | Dribbling: 90 | Stamina: 84
+    - Sávio 'Savinho' Moreira de Oliveira (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 79 | Tackling: 77 | Dribbling: 98 | Stamina: 78
+    - Manuel Akanji (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 88
+    - Rúben Santos Gato Alves Dias (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 89
+    - Erling Haaland (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 99 | ShortPass: 79 | Tackling: 78 | Dribbling: 85 | Stamina: 89
+    - Kyle Walker (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 59 | ShortPass: 79 | Tackling: 78 | Dribbling: 84 | Stamina: 91
+    - Joško Gvardiol (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 69 | ShortPass: 79 | Tackling: 78 | Dribbling: 85 | Stamina: 85
+    - Erling Haaland (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 99 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 91
+    - Matheus Luiz Nunes (CM) — OVR: 81 [Conf: 0.97]
+      Finishing: 64 | ShortPass: 79 | Tackling: 78 | Dribbling: 91 | Stamina: 76
+    - Manuel Akanji (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 85
+    - Kevin De Bruyne (CM) — OVR: 80 [Conf: 0.83]
+      Finishing: 77 | ShortPass: 77 | Tackling: 76 | Dribbling: 96 | Stamina: 70
+    - Jérémy Doku (CM) — OVR: 80 [Conf: 0.90]
+      Finishing: 71 | ShortPass: 78 | Tackling: 78 | Dribbling: 94 | Stamina: 74
+    - Rúben Santos Gato Alves Dias (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 85
+    - Nathan Aké (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 79
+    - Nathan Aké (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 81
+    - Manuel Akanji (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 81
+    - Rico Lewis (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 64 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 79
+    - Kyle Walker (CM) — OVR: 78 [Conf: 0.99]
+      Finishing: 60 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 80
+    - John Stones (CM) — OVR: 78 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 78
+    - Rúben Santos Gato Alves Dias (CM) — OVR: 78 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 78 | Stamina: 81
+    - Julián Álvarez (CM) — OVR: 78 [Conf: 0.86]
+      Finishing: 87 | ShortPass: 78 | Tackling: 77 | Dribbling: 85 | Stamina: 73
+    - Rico Lewis (CM) — OVR: 78 [Conf: 0.71]
+      Finishing: 66 | ShortPass: 76 | Tackling: 76 | Dribbling: 92 | Stamina: 66
+    - Mateo Kovacic (CM) — OVR: 78 [Conf: 0.91]
+      Finishing: 65 | ShortPass: 78 | Tackling: 77 | Dribbling: 85 | Stamina: 74
+    - João Pedro Cavaco Cancelo (CM) — OVR: 77 [Conf: 0.81]
+      Finishing: 82 | ShortPass: 79 | Tackling: 79 | Dribbling: 70 | Stamina: 78
+    - João Pedro Cavaco Cancelo (CM) — OVR: 77 [Conf: 0.85]
+      Finishing: 69 | ShortPass: 77 | Tackling: 77 | Dribbling: 82 | Stamina: 71
+    - Jack Grealish (CM) — OVR: 77 [Conf: 0.73]
+      Finishing: 74 | ShortPass: 77 | Tackling: 76 | Dribbling: 88 | Stamina: 67
+    - Omar Marmoush (CM) — OVR: 77 [Conf: 0.81]
+      Finishing: 87 | ShortPass: 77 | Tackling: 77 | Dribbling: 85 | Stamina: 69
+    - Kevin De Bruyne (CM) — OVR: 76 [Conf: 0.81]
+      Finishing: 99 | ShortPass: 79 | Tackling: 78 | Dribbling: 70 | Stamina: 71
+    - Bernardo Mota Veiga de Carvalho e Silva (CM) — OVR: 76 [Conf: 0.81]
+      Finishing: 90 | ShortPass: 78 | Tackling: 78 | Dribbling: 69 | Stamina: 78
+    - John Stones (CM) — OVR: 76 [Conf: 0.77]
+      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 78 | Stamina: 68
+    - Matheus Luiz Nunes (CM) — OVR: 76 [Conf: 0.68]
+      Finishing: 64 | ShortPass: 76 | Tackling: 76 | Dribbling: 85 | Stamina: 65
+    - Raheem Sterling (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 99 | ShortPass: 78 | Tackling: 78 | Dribbling: 69 | Stamina: 70
+    - Aymeric Laporte (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 85 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 78
+    - Rúben Santos Gato Alves Dias (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 67 | Stamina: 74
+    - Gabriel Fernando de Jesus (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 93 | ShortPass: 78 | Tackling: 78 | Dribbling: 72 | Stamina: 66
+    - Phil Foden (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 94 | ShortPass: 78 | Tackling: 78 | Dribbling: 69 | Stamina: 70
+    - Rodrigo Hernandez (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 89 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 78
+    - Aymeric Laporte (CM) — OVR: 75 [Conf: 0.74]
+      Finishing: 61 | ShortPass: 77 | Tackling: 77 | Dribbling: 77 | Stamina: 67
+    - Rico Lewis (CM) — OVR: 75 [Conf: 0.67]
+      Finishing: 73 | ShortPass: 76 | Tackling: 76 | Dribbling: 82 | Stamina: 64
+    - Jack Grealish (CM) — OVR: 75 [Conf: 0.64]
+      Finishing: 67 | ShortPass: 76 | Tackling: 76 | Dribbling: 83 | Stamina: 63
+    - Kyle Walker (CM) — OVR: 75 [Conf: 0.71]
+      Finishing: 58 | ShortPass: 77 | Tackling: 76 | Dribbling: 75 | Stamina: 66
+    - Jack Grealish (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 85 | ShortPass: 78 | Tackling: 78 | Dribbling: 66 | Stamina: 67
+    - Ilkay Gündogan (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 93 | ShortPass: 78 | Tackling: 78 | Dribbling: 69 | Stamina: 66
+    - Riyad Mahrez (CM) — OVR: 74 [Conf: 0.74]
+      Finishing: 99 | ShortPass: 78 | Tackling: 77 | Dribbling: 72 | Stamina: 62
+    - Nico O'Reilly (CM) — OVR: 74 [Conf: 0.59]
+      Finishing: 76 | ShortPass: 75 | Tackling: 75 | Dribbling: 80 | Stamina: 61
+    - Nico González (CM) — OVR: 74 [Conf: 0.67]
+      Finishing: 69 | ShortPass: 76 | Tackling: 75 | Dribbling: 77 | Stamina: 64
+    - Nathan Aké (CM) — OVR: 73 [Conf: 0.64]
+      Finishing: 63 | ShortPass: 76 | Tackling: 75 | Dribbling: 74 | Stamina: 63
+    - John Stones (CM) — OVR: 73 [Conf: 0.59]
+      Finishing: 75 | ShortPass: 75 | Tackling: 74 | Dribbling: 74 | Stamina: 61
+    - Sergio Gómez (CM) — OVR: 72 [Conf: 0.51]
+      Finishing: 64 | ShortPass: 74 | Tackling: 73 | Dribbling: 74 | Stamina: 59
+    - Oscar Bobb (CM) — OVR: 72 [Conf: 0.25]
+      Finishing: 79 | ShortPass: 73 | Tackling: 72 | Dribbling: 77 | Stamina: 59
+    - James McAtee (CM) — OVR: 72 [Conf: 0.52]
+      Finishing: 98 | ShortPass: 74 | Tackling: 73 | Dribbling: 78 | Stamina: 59
+    - John Stones (CM) — OVR: 71 [Conf: 0.66]
+      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 63 | Stamina: 58
+    - Fernando Luiz Rosa (CM) — OVR: 71 [Conf: 0.62]
+      Finishing: 83 | ShortPass: 77 | Tackling: 76 | Dribbling: 65 | Stamina: 56
+    - Cole Palmer (CM) — OVR: 71 [Conf: 0.51]
+      Finishing: 64 | ShortPass: 74 | Tackling: 73 | Dribbling: 71 | Stamina: 59
+    - Abdukodir Khusanov (CM) — OVR: 71 [Conf: 0.58]
+      Finishing: 60 | ShortPass: 75 | Tackling: 75 | Dribbling: 66 | Stamina: 61
+    - Nathan Aké (CM) — OVR: 70 [Conf: 0.61]
+      Finishing: 83 | ShortPass: 76 | Tackling: 76 | Dribbling: 63 | Stamina: 56
+    - Zack Steffen (GK) — OVR: 70 [Conf: 0.22]
+      Finishing: 54 | ShortPass: 70 | Tackling: 56 | Dribbling: 50 | Stamina: 55
+    - Stefan Ortega Moreno (GK) — OVR: 70 [Conf: 0.25]
+      Finishing: 54 | ShortPass: 69 | Tackling: 62 | Dribbling: 56 | Stamina: 57
+    - Kalvin Phillips (CM) — OVR: 70 [Conf: 0.25]
+      Finishing: 65 | ShortPass: 73 | Tackling: 72 | Dribbling: 67 | Stamina: 59
+    - Kyle Walker (CM) — OVR: 69 [Conf: 0.80]
+      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 45 | Stamina: 65
+    - Ferran Torres (CM) — OVR: 69 [Conf: 0.48]
+      Finishing: 83 | ShortPass: 73 | Tackling: 73 | Dribbling: 67 | Stamina: 54
+    - Ederson Santana de Moraes (GK) — OVR: 69 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 69 | Tackling: 77 | Dribbling: 68 | Stamina: 91
+    - Stefan Ortega Moreno (GK) — OVR: 69 [Conf: 0.60]
+      Finishing: 54 | ShortPass: 69 | Tackling: 66 | Dribbling: 62 | Stamina: 60
+    - Oleksandr Zinchenko (CM) — OVR: 68 [Conf: 0.64]
+      Finishing: 58 | ShortPass: 77 | Tackling: 77 | Dribbling: 50 | Stamina: 57
+    - Ederson Santana de Moraes (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 69 | Tackling: 77 | Dribbling: 69 | Stamina: 91
+    - Ederson Santana de Moraes (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 69 | Tackling: 75 | Dribbling: 68 | Stamina: 84
+    - Cole Palmer (CM) — OVR: 67 [Conf: 0.22]
+      Finishing: 64 | ShortPass: 71 | Tackling: 70 | Dribbling: 62 | Stamina: 57
+    - Stefan Ortega Moreno (GK) — OVR: 67 [Conf: 0.77]
+      Finishing: 54 | ShortPass: 68 | Tackling: 72 | Dribbling: 65 | Stamina: 68
+    - Jahmai Simpson-Pusey (CM) — OVR: 67 [Conf: 0.22]
+      Finishing: 64 | ShortPass: 71 | Tackling: 70 | Dribbling: 61 | Stamina: 58
+    - Benjamin Mendy (CM) — UNRATED (Insufficient playing time (78 mins < 90 mins threshold))
+    - Samuel Edozie (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Tommy Doyle (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Scott Carson (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Luke Mbete (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Joshua Wilson-Esbrand (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Romeo Lavia (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Cieran Slicker (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - James McAtee (CM) — UNRATED (Insufficient playing time (18 mins < 90 mins threshold))
+    - Conrad Egan-Riley (CM) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
+    - Kayky da Silva Chagas (CM) — UNRATED (Insufficient playing time (6 mins < 90 mins threshold))
+    - Liam Delap (CM) — UNRATED (Insufficient playing time (8 mins < 90 mins threshold))
+    - Zack Steffen (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - James McAtee (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Luke Mbete (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Joshua Wilson-Esbrand (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Liam Delap (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Scott Carson (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Claudio Gomes (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ben Knight (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Máximo Perrone (CM) — UNRATED (Insufficient playing time (18 mins < 90 mins threshold))
+    - Alex Robertson (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Shea Charles (CM) — UNRATED (Insufficient playing time (27 mins < 90 mins threshold))
+    - Nico O'Reilly (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - João Pedro Cavaco Cancelo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Scott Carson (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Shea Charles (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Aymeric Laporte (CM) — UNRATED (Insufficient playing time (11 mins < 90 mins threshold))
+    - Riyad Mahrez (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Máximo Perrone (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Sergio Gómez (CM) — UNRATED (Insufficient playing time (48 mins < 90 mins threshold))
+    - Zack Steffen (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mahamadou Susoho (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Micah Hamilton (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jacob Wright (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Oscar Bobb (CM) — UNRATED (Insufficient playing time (14 mins < 90 mins threshold))
+    - Scott Carson (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Julián Álvarez (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - João Pedro Cavaco Cancelo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Rodrigo Hernandez (CM) — UNRATED (Insufficient playing time (72 mins < 90 mins threshold))
+    - Issa Kaboré (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jacob Wright (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Joshua Wilson-Esbrand (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Divin Mubama (CM) — UNRATED (Insufficient playing time (27 mins < 90 mins threshold))
+    - Max Alleyne (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Spike Brits (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Vitor de Oliveira Nunes dos Reis (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
+    - Pep Guardiola (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Claudio Echeverri (CM) — UNRATED (Insufficient playing time (5 mins < 90 mins threshold))
+
+  CLUB: Manchester United FC
+  -----------------------------------
+    - Aaron Ramsdale (GK) — OVR: 91 [Conf: 0.81]
+      Finishing: 54 | ShortPass: 75 | Tackling: 77 | Dribbling: 40 | Stamina: 78
+    - David de Gea (GK) — OVR: 91 [Conf: 0.81]
+      Finishing: 54 | ShortPass: 72 | Tackling: 77 | Dribbling: 40 | Stamina: 78
+    - Martin Ødegaard (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 84 | ShortPass: 79 | Tackling: 79 | Dribbling: 99 | Stamina: 92
+    - Gabriel Teodoro Martinelli Silva (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 85 | ShortPass: 79 | Tackling: 79 | Dribbling: 99 | Stamina: 91
+    - Bruno Miguel Borges Fernandes (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 75 | ShortPass: 79 | Tackling: 79 | Dribbling: 99 | Stamina: 92
+    - Martin Ødegaard (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 73 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 92
+    - Bukayo Saka (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 88 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 92
+    - Bruno Miguel Borges Fernandes (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 78 | ShortPass: 79 | Tackling: 79 | Dribbling: 99 | Stamina: 92
+    - Bruno Miguel Borges Fernandes (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 77 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 92
+    - Bukayo Saka (CM) — OVR: 84 [Conf: 0.99]
+      Finishing: 83 | ShortPass: 79 | Tackling: 79 | Dribbling: 94 | Stamina: 92
+    - Leandro Trossard (CM) — OVR: 84 [Conf: 0.99]
+      Finishing: 78 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 84
+    - Martin Ødegaard (CM) — OVR: 84 [Conf: 0.99]
+      Finishing: 69 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 85
+    - Declan Rice (CM) — OVR: 84 [Conf: 0.99]
+      Finishing: 69 | ShortPass: 79 | Tackling: 78 | Dribbling: 98 | Stamina: 91
+    - Granit Xhaka (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 73 | ShortPass: 79 | Tackling: 79 | Dribbling: 90 | Stamina: 92
+    - Ben White (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 79 | Tackling: 79 | Dribbling: 89 | Stamina: 92
+    - Gabriel Teodoro Martinelli Silva (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 77 | ShortPass: 79 | Tackling: 78 | Dribbling: 98 | Stamina: 81
+    - Ben White (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 72 | ShortPass: 79 | Tackling: 79 | Dribbling: 90 | Stamina: 92
+    - Declan Rice (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 72 | ShortPass: 79 | Tackling: 79 | Dribbling: 92 | Stamina: 92
+    - Leandro Trossard (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 77 | ShortPass: 79 | Tackling: 78 | Dribbling: 91 | Stamina: 89
+    - Luke Shaw (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 79 | Tackling: 78 | Dribbling: 87 | Stamina: 89
+    - Marcus Rashford (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 90 | ShortPass: 79 | Tackling: 79 | Dribbling: 87 | Stamina: 91
+    - Christian Eriksen (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 79 | Tackling: 78 | Dribbling: 91 | Stamina: 82
+    - Carlos Henrique Casimiro (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 71 | ShortPass: 79 | Tackling: 78 | Dribbling: 91 | Stamina: 83
+    - Kai Havertz (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 85 | ShortPass: 79 | Tackling: 78 | Dribbling: 90 | Stamina: 90
+    - José Diogo Dalot Teixeira (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 78 | Tackling: 79 | Dribbling: 85 | Stamina: 92
+    - Alejandro Garnacho Ferreyra (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 77 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 89
+    - Gabriel Teodoro Martinelli Silva (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 79 | ShortPass: 79 | Tackling: 78 | Dribbling: 93 | Stamina: 85
+    - Bukayo Saka (CM) — OVR: 82 [Conf: 0.98]
+      Finishing: 80 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 77
+    - Thomas Partey (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 79 | Tackling: 78 | Dribbling: 87 | Stamina: 91
+    - Amad Diallo (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 79 | ShortPass: 79 | Tackling: 78 | Dribbling: 95 | Stamina: 79
+    - Thomas Partey (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 79 | Tackling: 78 | Dribbling: 86 | Stamina: 88
+    - Gabriel Magalhães (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 78 | Tackling: 79 | Dribbling: 81 | Stamina: 92
+    - Gabriel Fernando de Jesus (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 90 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 82
+    - Oleksandr Zinchenko (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 64 | ShortPass: 79 | Tackling: 78 | Dribbling: 87 | Stamina: 83
+    - Jadon Sancho (CM) — OVR: 81 [Conf: 0.97]
+      Finishing: 77 | ShortPass: 78 | Tackling: 78 | Dribbling: 95 | Stamina: 76
+    - Gabriel Magalhães (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 78 | Tackling: 79 | Dribbling: 81 | Stamina: 92
+    - William Saliba (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 78 | Tackling: 79 | Dribbling: 82 | Stamina: 92
+    - Marcus Rashford (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 77 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 84
+    - Jurriën Timber (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 87
+    - William Saliba (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 78 | Tackling: 79 | Dribbling: 82 | Stamina: 92
+    - José Diogo Dalot Teixeira (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 85 | Stamina: 91
+    - Alejandro Garnacho Ferreyra (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 77 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 83
+    - Noussair Mazraoui (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 60 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 91
+    - William Saliba (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 87
+    - Jorge Luiz Frello Filho (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 83
+    - José Diogo Dalot Teixeira (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 64 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 83
+    - Antony Matheus dos Santos (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 75 | ShortPass: 78 | Tackling: 78 | Dribbling: 87 | Stamina: 78
+    - Leandro Trossard (CM) — OVR: 80 [Conf: 0.95]
+      Finishing: 89 | ShortPass: 78 | Tackling: 77 | Dribbling: 92 | Stamina: 76
+    - Oleksandr Zinchenko (CM) — OVR: 80 [Conf: 0.98]
+      Finishing: 67 | ShortPass: 78 | Tackling: 78 | Dribbling: 91 | Stamina: 77
+    - Gabriel Magalhães (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 86
+    - Kai Havertz (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 86 | ShortPass: 78 | Tackling: 78 | Dribbling: 85 | Stamina: 79
+    - Lisandro Martínez (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 83
+    - Gabriel Fernando de Jesus (CM) — OVR: 79 [Conf: 0.91]
+      Finishing: 77 | ShortPass: 78 | Tackling: 77 | Dribbling: 90 | Stamina: 74
+    - Carlos Henrique Casimiro (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 81
+    - Kobbie Mainoo (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 72 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 80
+    - Rasmus Højlund (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 83
+    - Myles Lewis-Skelly (CM) — OVR: 79 [Conf: 0.86]
+      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 91 | Stamina: 72
+    - Carlos Henrique Casimiro (CM) — OVR: 79 [Conf: 0.92]
+      Finishing: 65 | ShortPass: 78 | Tackling: 77 | Dribbling: 86 | Stamina: 74
+    - Rasmus Højlund (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 72 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 81
+    - Kobbie Mainoo (CM) — OVR: 79 [Conf: 0.97]
+      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 86 | Stamina: 76
+    - Lisandro Martínez (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 69 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 78
+    - Matthijs de Ligt (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 78 | Tackling: 78 | Dribbling: 79 | Stamina: 83
+    - Raphaël Varane (CM) — OVR: 78 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 79 | Stamina: 80
+    - Frederico Rodrigues de Paula Santos (CM) — OVR: 78 [Conf: 0.80]
+      Finishing: 70 | ShortPass: 77 | Tackling: 77 | Dribbling: 85 | Stamina: 70
+    - Aaron Wan-Bissaka (CM) — OVR: 78 [Conf: 0.89]
+      Finishing: 63 | ShortPass: 77 | Tackling: 77 | Dribbling: 83 | Stamina: 73
+    - Antony Matheus dos Santos (CM) — OVR: 78 [Conf: 0.85]
+      Finishing: 69 | ShortPass: 77 | Tackling: 77 | Dribbling: 85 | Stamina: 71
+    - Christian Eriksen (CM) — OVR: 78 [Conf: 0.78]
+      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 88 | Stamina: 69
+    - Harry Maguire (CM) — OVR: 78 [Conf: 0.96]
+      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 76
+    - Scott McTominay (CM) — OVR: 78 [Conf: 0.99]
+      Finishing: 78 | ShortPass: 78 | Tackling: 78 | Dribbling: 79 | Stamina: 79
+    - Aaron Wan-Bissaka (CM) — OVR: 78 [Conf: 0.99]
+      Finishing: 57 | ShortPass: 78 | Tackling: 78 | Dribbling: 76 | Stamina: 78
+    - Mikel Merino (CM) — OVR: 78 [Conf: 0.93]
+      Finishing: 82 | ShortPass: 78 | Tackling: 77 | Dribbling: 83 | Stamina: 75
+    - Harry Maguire (CM) — OVR: 78 [Conf: 0.99]
+      Finishing: 64 | ShortPass: 78 | Tackling: 78 | Dribbling: 78 | Stamina: 78
+    - Manuel Ugarte (CM) — OVR: 78 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 78
+    - Victor Lindelöf (CM) — OVR: 77 [Conf: 0.85]
+      Finishing: 62 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 72
+    - Anthony Martial (CM) — OVR: 77 [Conf: 0.74]
+      Finishing: 90 | ShortPass: 77 | Tackling: 76 | Dribbling: 84 | Stamina: 67
+    - Tyrell Malacia (CM) — OVR: 77 [Conf: 0.86]
+      Finishing: 62 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 72
+    - Jakub Kiwior (CM) — OVR: 77 [Conf: 0.76]
+      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 85 | Stamina: 68
+    - Ethan Nwaneri (CM) — OVR: 77 [Conf: 0.72]
+      Finishing: 77 | ShortPass: 76 | Tackling: 76 | Dribbling: 88 | Stamina: 66
+    - Ben White (CM) — OVR: 77 [Conf: 0.81]
+      Finishing: 60 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 70
+    - Christian Eriksen (CM) — OVR: 77 [Conf: 0.75]
+      Finishing: 67 | ShortPass: 77 | Tackling: 77 | Dribbling: 86 | Stamina: 67
+    - Joshua Zirkzee (CM) — OVR: 77 [Conf: 0.86]
+      Finishing: 75 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 72
+    - Bukayo Saka (CM) — OVR: 76 [Conf: 0.81]
+      Finishing: 93 | ShortPass: 78 | Tackling: 79 | Dribbling: 69 | Stamina: 78
+    - Martin Ødegaard (CM) — OVR: 76 [Conf: 0.81]
+      Finishing: 89 | ShortPass: 78 | Tackling: 79 | Dribbling: 66 | Stamina: 78
+    - Bruno Miguel Borges Fernandes (CM) — OVR: 76 [Conf: 0.81]
+      Finishing: 91 | ShortPass: 78 | Tackling: 79 | Dribbling: 68 | Stamina: 78
+    - Edward Nketiah (CM) — OVR: 76 [Conf: 0.74]
+      Finishing: 86 | ShortPass: 77 | Tackling: 76 | Dribbling: 81 | Stamina: 68
+    - Scott McTominay (CM) — OVR: 76 [Conf: 0.77]
+      Finishing: 67 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 69
+    - Wout Weghorst (CM) — OVR: 76 [Conf: 0.69]
+      Finishing: 66 | ShortPass: 76 | Tackling: 76 | Dribbling: 83 | Stamina: 64
+    - Edward Nketiah (CM) — OVR: 76 [Conf: 0.75]
+      Finishing: 83 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 68
+    - Takehiro Tomiyasu (CM) — OVR: 76 [Conf: 0.76]
+      Finishing: 70 | ShortPass: 77 | Tackling: 77 | Dribbling: 79 | Stamina: 69
+    - Victor Lindelöf (CM) — OVR: 76 [Conf: 0.85]
+      Finishing: 65 | ShortPass: 77 | Tackling: 77 | Dribbling: 79 | Stamina: 71
+    - Raphaël Varane (CM) — OVR: 76 [Conf: 0.87]
+      Finishing: 64 | ShortPass: 77 | Tackling: 77 | Dribbling: 75 | Stamina: 72
+    - Riccardo Calafiori (CM) — OVR: 76 [Conf: 0.74]
+      Finishing: 72 | ShortPass: 77 | Tackling: 76 | Dribbling: 80 | Stamina: 67
+    - Alexandre Lacazette (CM) — OVR: 75 [Conf: 0.80]
+      Finishing: 87 | ShortPass: 78 | Tackling: 78 | Dribbling: 72 | Stamina: 65
+    - Granit Xhaka (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 73
+    - Gabriel Magalhães (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 86 | ShortPass: 78 | Tackling: 79 | Dribbling: 63 | Stamina: 78
+    - Gabriel Teodoro Martinelli Silva (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 90 | ShortPass: 78 | Tackling: 78 | Dribbling: 70 | Stamina: 66
+    - Harry Maguire (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 63 | Stamina: 75
+    - Scott McTominay (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 73
+    - Cristiano Ronaldo dos Santos Aveiro (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 99 | ShortPass: 78 | Tackling: 78 | Dribbling: 66 | Stamina: 74
+    - Fábio Ferreira Vieira (CM) — OVR: 75 [Conf: 0.55]
+      Finishing: 71 | ShortPass: 75 | Tackling: 75 | Dribbling: 85 | Stamina: 59
+    - Marcel Sabitzer (CM) — OVR: 75 [Conf: 0.62]
+      Finishing: 63 | ShortPass: 76 | Tackling: 74 | Dribbling: 83 | Stamina: 62
+    - Jorge Luiz Frello Filho (CM) — OVR: 75 [Conf: 0.71]
+      Finishing: 58 | ShortPass: 76 | Tackling: 76 | Dribbling: 78 | Stamina: 66
+    - Jakub Kiwior (CM) — OVR: 75 [Conf: 0.73]
+      Finishing: 67 | ShortPass: 77 | Tackling: 76 | Dribbling: 79 | Stamina: 66
+    - Luke Shaw (CM) — OVR: 75 [Conf: 0.74]
+      Finishing: 58 | ShortPass: 77 | Tackling: 76 | Dribbling: 75 | Stamina: 66
+    - Jonny Evans (CM) — OVR: 75 [Conf: 0.87]
+      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 70 | Stamina: 72
+    - Leny Yoro (CM) — OVR: 75 [Conf: 0.79]
+      Finishing: 62 | ShortPass: 77 | Tackling: 76 | Dribbling: 76 | Stamina: 69
+    - Patrick Dorgu (CM) — OVR: 75 [Conf: 0.70]
+      Finishing: 61 | ShortPass: 76 | Tackling: 76 | Dribbling: 80 | Stamina: 65
+    - Thomas Partey (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 69
+    - Kieran Tierney (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 81 | ShortPass: 78 | Tackling: 78 | Dribbling: 66 | Stamina: 67
+    - Emile Smith Rowe (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 97 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 67
+    - Paul Pogba (CM) — OVR: 74 [Conf: 0.71]
+      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 74 | Stamina: 60
+    - Frederico Rodrigues de Paula Santos (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 86 | ShortPass: 78 | Tackling: 78 | Dribbling: 68 | Stamina: 69
+    - Jadon Sancho (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 85 | ShortPass: 78 | Tackling: 78 | Dribbling: 67 | Stamina: 67
+    - Kieran Tierney (CM) — OVR: 74 [Conf: 0.64]
+      Finishing: 62 | ShortPass: 76 | Tackling: 75 | Dribbling: 74 | Stamina: 64
+    - Harry Maguire (CM) — OVR: 74 [Conf: 0.66]
+      Finishing: 63 | ShortPass: 76 | Tackling: 75 | Dribbling: 74 | Stamina: 64
+    - Alejandro Garnacho Ferreyra (CM) — OVR: 74 [Conf: 0.58]
+      Finishing: 81 | ShortPass: 75 | Tackling: 74 | Dribbling: 80 | Stamina: 61
+    - Thomas Partey (CM) — OVR: 74 [Conf: 0.67]
+      Finishing: 61 | ShortPass: 76 | Tackling: 76 | Dribbling: 77 | Stamina: 64
+    - Raphaël Varane (CM) — OVR: 73 [Conf: 0.81]
+      Finishing: 81 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 66
+    - Rob Holding (CM) — OVR: 73 [Conf: 0.59]
+      Finishing: 72 | ShortPass: 75 | Tackling: 74 | Dribbling: 74 | Stamina: 62
+    - Takehiro Tomiyasu (CM) — OVR: 73 [Conf: 0.61]
+      Finishing: 63 | ShortPass: 76 | Tackling: 75 | Dribbling: 75 | Stamina: 62
+    - Anthony Elanga (CM) — OVR: 73 [Conf: 0.55]
+      Finishing: 65 | ShortPass: 75 | Tackling: 73 | Dribbling: 81 | Stamina: 60
+    - Sofyan Amrabat (CM) — OVR: 73 [Conf: 0.72]
+      Finishing: 58 | ShortPass: 76 | Tackling: 76 | Dribbling: 70 | Stamina: 66
+    - Gabriel Fernando de Jesus (CM) — OVR: 73 [Conf: 0.60]
+      Finishing: 81 | ShortPass: 75 | Tackling: 75 | Dribbling: 76 | Stamina: 62
+    - Jorge Luiz Frello Filho (CM) — OVR: 73 [Conf: 0.66]
+      Finishing: 59 | ShortPass: 76 | Tackling: 76 | Dribbling: 71 | Stamina: 63
+    - Oleksandr Zinchenko (CM) — OVR: 73 [Conf: 0.58]
+      Finishing: 64 | ShortPass: 75 | Tackling: 74 | Dribbling: 76 | Stamina: 61
+    - Raheem Sterling (CM) — OVR: 73 [Conf: 0.58]
+      Finishing: 66 | ShortPass: 75 | Tackling: 74 | Dribbling: 78 | Stamina: 61
+    - Mason Mount (CM) — OVR: 73 [Conf: 0.63]
+      Finishing: 73 | ShortPass: 75 | Tackling: 74 | Dribbling: 76 | Stamina: 62
+    - Cédric Soares (CM) — OVR: 72 [Conf: 0.74]
+      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 64 | Stamina: 62
+    - Nicolas Pépé (CM) — OVR: 72 [Conf: 0.56]
+      Finishing: 80 | ShortPass: 76 | Tackling: 75 | Dribbling: 72 | Stamina: 54
+    - Nuno Varela Tavares (CM) — OVR: 72 [Conf: 0.67]
+      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 65 | Stamina: 58
+    - Marcus Rashford (CM) — OVR: 72 [Conf: 0.68]
+      Finishing: 87 | ShortPass: 77 | Tackling: 77 | Dribbling: 66 | Stamina: 59
+    - Mason Greenwood (CM) — OVR: 72 [Conf: 0.69]
+      Finishing: 90 | ShortPass: 77 | Tackling: 77 | Dribbling: 66 | Stamina: 59
+    - Anthony Elanga (CM) — OVR: 72 [Conf: 0.68]
+      Finishing: 83 | ShortPass: 77 | Tackling: 77 | Dribbling: 67 | Stamina: 59
+    - Jakub Kiwior (CM) — OVR: 72 [Conf: 0.55]
+      Finishing: 80 | ShortPass: 74 | Tackling: 74 | Dribbling: 77 | Stamina: 60
+    - Cristiano Ronaldo dos Santos Aveiro (CM) — OVR: 72 [Conf: 0.57]
+      Finishing: 73 | ShortPass: 75 | Tackling: 74 | Dribbling: 72 | Stamina: 61
+    - Emile Smith Rowe (CM) — OVR: 72 [Conf: 0.52]
+      Finishing: 67 | ShortPass: 74 | Tackling: 73 | Dribbling: 78 | Stamina: 59
+    - Mason Mount (CM) — OVR: 72 [Conf: 0.57]
+      Finishing: 70 | ShortPass: 75 | Tackling: 75 | Dribbling: 73 | Stamina: 61
+    - Amad Diallo (CM) — OVR: 72 [Conf: 0.53]
+      Finishing: 72 | ShortPass: 74 | Tackling: 74 | Dribbling: 76 | Stamina: 59
+    - Anthony Martial (CM) — OVR: 72 [Conf: 0.56]
+      Finishing: 73 | ShortPass: 74 | Tackling: 75 | Dribbling: 72 | Stamina: 60
+    - Lisandro Martínez (CM) — OVR: 72 [Conf: 0.63]
+      Finishing: 59 | ShortPass: 76 | Tackling: 75 | Dribbling: 69 | Stamina: 63
+    - Victor Lindelöf (CM) — OVR: 72 [Conf: 0.62]
+      Finishing: 59 | ShortPass: 76 | Tackling: 75 | Dribbling: 66 | Stamina: 63
+    - Pierre-Emerick Aubameyang (CM) — OVR: 71 [Conf: 0.64]
+      Finishing: 89 | ShortPass: 77 | Tackling: 77 | Dribbling: 65 | Stamina: 57
+    - Ben White (CM) — OVR: 71 [Conf: 0.81]
+      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 42 | Stamina: 78
+    - Fábio Ferreira Vieira (CM) — OVR: 71 [Conf: 0.25]
+      Finishing: 74 | ShortPass: 73 | Tackling: 72 | Dribbling: 75 | Stamina: 59
+    - Reiss Nelson (CM) — OVR: 71 [Conf: 0.24]
+      Finishing: 66 | ShortPass: 73 | Tackling: 73 | Dribbling: 73 | Stamina: 58
+    - Kieran Tierney (CM) — OVR: 71 [Conf: 0.24]
+      Finishing: 71 | ShortPass: 73 | Tackling: 73 | Dribbling: 72 | Stamina: 59
+    - Luke Shaw (CM) — OVR: 71 [Conf: 0.53]
+      Finishing: 61 | ShortPass: 74 | Tackling: 73 | Dribbling: 70 | Stamina: 60
+    - Rob Holding (CM) — OVR: 70 [Conf: 0.60]
+      Finishing: 81 | ShortPass: 76 | Tackling: 76 | Dribbling: 63 | Stamina: 55
+    - Edward Nketiah (CM) — OVR: 70 [Conf: 0.59]
+      Finishing: 93 | ShortPass: 76 | Tackling: 75 | Dribbling: 65 | Stamina: 55
+    - Edinson Cavani (CM) — OVR: 70 [Conf: 0.58]
+      Finishing: 83 | ShortPass: 76 | Tackling: 75 | Dribbling: 65 | Stamina: 55
+    - Alex Nicolao Telles (CM) — OVR: 70 [Conf: 0.78]
+      Finishing: 57 | ShortPass: 78 | Tackling: 78 | Dribbling: 48 | Stamina: 64
+    - Victor Lindelöf (CM) — OVR: 70 [Conf: 0.81]
+      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 43 | Stamina: 73
+    - Reiss Nelson (CM) — OVR: 70 [Conf: 0.23]
+      Finishing: 86 | ShortPass: 73 | Tackling: 72 | Dribbling: 73 | Stamina: 55
+    - David Raya Martin (GK) — OVR: 70 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 69 | Tackling: 76 | Dribbling: 69 | Stamina: 91
+    - Hannibal Mejbri (CM) — OVR: 70 [Conf: 0.22]
+      Finishing: 85 | ShortPass: 71 | Tackling: 71 | Dribbling: 74 | Stamina: 58
+    - Facundo Pellistri Rebollo (CM) — OVR: 70 [Conf: 0.23]
+      Finishing: 68 | ShortPass: 72 | Tackling: 71 | Dribbling: 72 | Stamina: 58
+    - Harry Amass (CM) — OVR: 70 [Conf: 0.53]
+      Finishing: 61 | ShortPass: 74 | Tackling: 73 | Dribbling: 64 | Stamina: 60
+    - Bernd Leno (GK) — OVR: 69 [Conf: 0.49]
+      Finishing: 54 | ShortPass: 68 | Tackling: 64 | Dribbling: 46 | Stamina: 52
+    - Takehiro Tomiyasu (CM) — OVR: 69 [Conf: 0.78]
+      Finishing: 57 | ShortPass: 78 | Tackling: 78 | Dribbling: 44 | Stamina: 64
+    - Nemanja Matic (CM) — OVR: 69 [Conf: 0.72]
+      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 49 | Stamina: 61
+    - Luke Shaw (CM) — OVR: 69 [Conf: 0.77]
+      Finishing: 57 | ShortPass: 78 | Tackling: 77 | Dribbling: 47 | Stamina: 63
+    - Jesse Lingard (CM) — OVR: 69 [Conf: 0.49]
+      Finishing: 82 | ShortPass: 74 | Tackling: 73 | Dribbling: 63 | Stamina: 55
+    - Aaron Wan-Bissaka (CM) — OVR: 69 [Conf: 0.81]
+      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 43 | Stamina: 66
+    - José Diogo Dalot Teixeira (CM) — OVR: 69 [Conf: 0.81]
+      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 43 | Stamina: 66
+    - Emile Smith Rowe (CM) — OVR: 69 [Conf: 0.22]
+      Finishing: 67 | ShortPass: 72 | Tackling: 70 | Dribbling: 69 | Stamina: 55
+    - David de Gea (GK) — OVR: 69 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 69 | Tackling: 77 | Dribbling: 69 | Stamina: 92
+    - Donny van de Beek (CM) — OVR: 69 [Conf: 0.23]
+      Finishing: 63 | ShortPass: 72 | Tackling: 70 | Dribbling: 66 | Stamina: 59
+    - Aaron Ramsdale (GK) — OVR: 69 [Conf: 0.59]
+      Finishing: 54 | ShortPass: 69 | Tackling: 66 | Dribbling: 61 | Stamina: 60
+    - Willy Kambwala (CM) — OVR: 69 [Conf: 0.51]
+      Finishing: 61 | ShortPass: 73 | Tackling: 74 | Dribbling: 63 | Stamina: 59
+    - David Raya Martin (GK) — OVR: 69 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 69 | Tackling: 77 | Dribbling: 69 | Stamina: 92
+    - Norberto Murara Neto (GK) — OVR: 69 [Conf: 0.24]
+      Finishing: 54 | ShortPass: 67 | Tackling: 60 | Dribbling: 54 | Stamina: 57
+    - Jonny Evans (CM) — OVR: 69 [Conf: 0.51]
+      Finishing: 62 | ShortPass: 73 | Tackling: 73 | Dribbling: 64 | Stamina: 59
+    - Mohamed Naser El Sayed Elneny (CM) — OVR: 68 [Conf: 0.59]
+      Finishing: 59 | ShortPass: 76 | Tackling: 76 | Dribbling: 51 | Stamina: 55
+    - Albert Sambi Lokonga (CM) — OVR: 68 [Conf: 0.66]
+      Finishing: 58 | ShortPass: 77 | Tackling: 77 | Dribbling: 45 | Stamina: 58
+    - Anthony Martial (CM) — OVR: 68 [Conf: 0.23]
+      Finishing: 78 | ShortPass: 73 | Tackling: 71 | Dribbling: 63 | Stamina: 55
+    - Aaron Ramsdale (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 69 | Tackling: 77 | Dribbling: 69 | Stamina: 92
+    - André Onana (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 68 | Tackling: 76 | Dribbling: 69 | Stamina: 92
+    - Antony Matheus dos Santos (CM) — OVR: 68 [Conf: 0.22]
+      Finishing: 68 | ShortPass: 71 | Tackling: 71 | Dribbling: 66 | Stamina: 56
+    - Tyrell Malacia (CM) — OVR: 68 [Conf: 0.22]
+      Finishing: 64 | ShortPass: 71 | Tackling: 69 | Dribbling: 64 | Stamina: 60
+    - André Onana (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 68 | Tackling: 77 | Dribbling: 69 | Stamina: 91
+    - Ayden Heaven (CM) — OVR: 68 [Conf: 0.23]
+      Finishing: 63 | ShortPass: 72 | Tackling: 71 | Dribbling: 61 | Stamina: 59
+    - Chido Obi-Martin (CM) — OVR: 68 [Conf: 0.23]
+      Finishing: 67 | ShortPass: 72 | Tackling: 71 | Dribbling: 63 | Stamina: 58
+    - Tyler Fredricson (CM) — OVR: 68 [Conf: 0.23]
+      Finishing: 63 | ShortPass: 72 | Tackling: 71 | Dribbling: 61 | Stamina: 59
+    - Axel Tuanzebe (CM) — OVR: 67 [Conf: 0.52]
+      Finishing: 60 | ShortPass: 75 | Tackling: 75 | Dribbling: 50 | Stamina: 54
+    - Mohamed Naser El Sayed Elneny (CM) — OVR: 67 [Conf: 0.22]
+      Finishing: 65 | ShortPass: 71 | Tackling: 70 | Dribbling: 61 | Stamina: 58
+    - Altay Bayindir (GK) — OVR: 67 [Conf: 0.53]
+      Finishing: 54 | ShortPass: 67 | Tackling: 64 | Dribbling: 58 | Stamina: 57
+    - Toby Collyer (CM) — OVR: 67 [Conf: 0.22]
+      Finishing: 63 | ShortPass: 72 | Tackling: 71 | Dribbling: 60 | Stamina: 55
+    - Pablo Marí (CM) — OVR: 66 [Conf: 0.23]
+      Finishing: 63 | ShortPass: 72 | Tackling: 72 | Dribbling: 56 | Stamina: 55
+    - Sead Kolasinac (CM) — OVR: 66 [Conf: 0.22]
+      Finishing: 64 | ShortPass: 71 | Tackling: 70 | Dribbling: 58 | Stamina: 58
+    - Ainsley Maitland-Niles (CM) — OVR: 66 [Conf: 0.23]
+      Finishing: 62 | ShortPass: 73 | Tackling: 73 | Dribbling: 54 | Stamina: 55
+    - Eric Bailly (CM) — OVR: 66 [Conf: 0.23]
+      Finishing: 62 | ShortPass: 73 | Tackling: 71 | Dribbling: 56 | Stamina: 55
+    - Juan Mata (CM) — OVR: 66 [Conf: 0.23]
+      Finishing: 62 | ShortPass: 73 | Tackling: 72 | Dribbling: 54 | Stamina: 55
+    - Phil Jones (CM) — OVR: 66 [Conf: 0.22]
+      Finishing: 63 | ShortPass: 72 | Tackling: 70 | Dribbling: 57 | Stamina: 55
+    - Rúnar Alex Rúnarsson (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Willian Borges Da Silva (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Héctor Bellerín (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Lucas Torreira (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Konstantinos Mavropanos (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mattéo Guendouzi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - William Saliba (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Folarin Balogun (CM) — UNRATED (Insufficient playing time (69 mins < 90 mins threshold))
+    - Reiss Nelson (CM) — UNRATED (Insufficient playing time (19 mins < 90 mins threshold))
+    - Karl Hein (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Arthur Okonkwo (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Charlie Patino (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Omari Hutchinson (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Salah-Eddine Oulad M'hand (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mika Biereth (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ryan Alebiosu (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Zach Awe (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Zak Swanson (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mazeed Ogungbo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Marcelo Flores (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Miguel Azeez (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Alex Kirk (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Dean Henderson (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Tom Heaton (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Andreas Pereira (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Amad Diallo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Hannibal Mejbri (CM) — UNRATED (Insufficient playing time (67 mins < 90 mins threshold))
+    - Alejandro Garnacho Ferreyra (CM) — UNRATED (Insufficient playing time (12 mins < 90 mins threshold))
+    - Shola Shoretire (CM) — UNRATED (Insufficient playing time (15 mins < 90 mins threshold))
+    - Álvaro Fernández Carreras (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Charlie Savage (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Nicolas Pépé (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Nuno Varela Tavares (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Pablo Marí (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Lucas Torreira (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Matt Turner (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Marcus Oliveira Alencar (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
+    - Matthew Smith (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ethan Nwaneri (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
+    - Lino Sousa (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Karl Hein (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Amario Cozier-Duberry (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Nathan Butler-Oyedeji (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Reuell Walters (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mauro Bandeira (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jack Butland (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Phil Jones (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Alex Nicolao Telles (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Eric Bailly (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Brandon Williams (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Facundo Pellistri Rebollo (CM) — UNRATED (Insufficient playing time (60 mins < 90 mins threshold))
+    - Tom Heaton (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Amad Diallo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Zidane Iqbal (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Matej Kovár (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Kobbie Mainoo (CM) — UNRATED (Insufficient playing time (10 mins < 90 mins threshold))
+    - Nathan Bishop (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Shola Shoretire (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Rhys Bennett (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Marc Jurado Gomez (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Folarin Balogun (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Cédric Soares (CM) — UNRATED (Insufficient playing time (59 mins < 90 mins threshold))
+    - Mohamed Naser El Sayed Elneny (CM) — UNRATED (Insufficient playing time (25 mins < 90 mins threshold))
+    - Marcus Oliveira Alencar (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Nicolas Pépé (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Rúnar Alex Rúnarsson (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Kieran Tierney (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Granit Xhaka (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jurriën Timber (CM) — UNRATED (Insufficient playing time (70 mins < 90 mins threshold))
+    - Karl Hein (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Charles Sagoe (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Reuell Walters (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Bradley Ibrahim (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Myles Lewis-Skelly (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ethan Nwaneri (CM) — UNRATED (Insufficient playing time (13 mins < 90 mins threshold))
+    - Mauro Bandeira (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - James Sweet (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Alex Nicolao Telles (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Brandon Williams (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Eric Bailly (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Álvaro Fernández Carreras (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Frederico Rodrigues de Paula Santos (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Tom Heaton (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Tyrell Malacia (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jadon Sancho (CM) — UNRATED (Insufficient playing time (76 mins < 90 mins threshold))
+    - Shola Shoretire (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Donny van de Beek (CM) — UNRATED (Insufficient playing time (2 mins < 90 mins threshold))
+    - Omari Forson (CM) — UNRATED (Insufficient playing time (67 mins < 90 mins threshold))
+    - Radek Vítek (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Daniel Gore (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
+    - Altay Bayindir (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Joe Hugill (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Rhys Bennett (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Toby Collyer (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Habeeb Ogunneye (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Dermot Mee (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Harry Amass (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ethan Wheatley (CM) — UNRATED (Insufficient playing time (13 mins < 90 mins threshold))
+    - Louis Jackson (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Fábio Ferreira Vieira (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Karl Hein (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Takehiro Tomiyasu (CM) — UNRATED (Insufficient playing time (6 mins < 90 mins threshold))
+    - Salah-Eddine Oulad M'hand (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Tommy Setford (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Maldini Kacurri (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ismeal Kabia (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Josh Nichols (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Nathan Butler-Oyedeji (CM) — UNRATED (Insufficient playing time (6 mins < 90 mins threshold))
+    - Mikel Arteta (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jack Porter (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jimi Gower (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jack Henry-Francis (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Brayden Clarke (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Hannibal Mejbri (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Tom Heaton (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Scott McTominay (CM) — UNRATED (Insufficient playing time (17 mins < 90 mins threshold))
+    - Facundo Pellistri Rebollo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ethan Wheatley (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jack Fletcher (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jayce Fitzgerald (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Godwill Kukonki (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ruben Filipe Marques Diogo Amorim (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Elyh Harrison (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jack Moorhouse (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Sékou Koné (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Hubert Graczyk (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Dermot Mee (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+
+  CLUB: Newcastle United FC
+  -----------------------------------
+    - Robert Sánchez (GK) — OVR: 91 [Conf: 0.81]
+      Finishing: 54 | ShortPass: 74 | Tackling: 77 | Dribbling: 40 | Stamina: 78
+    - Martin Dubravka (GK) — OVR: 91 [Conf: 0.81]
+      Finishing: 54 | ShortPass: 73 | Tackling: 75 | Dribbling: 40 | Stamina: 73
+    - Kieran Trippier (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 79 | Tackling: 79 | Dribbling: 99 | Stamina: 92
+    - Mikkel Damsgaard (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 79 | Tackling: 79 | Dribbling: 99 | Stamina: 91
+    - Bryan Mbeumo (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 87 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 92
+    - Bryan Mbeumo (CM) — OVR: 84 [Conf: 0.99]
+      Finishing: 78 | ShortPass: 79 | Tackling: 79 | Dribbling: 95 | Stamina: 91
+    - Bruno Guimarães Rodriguez Moura (CM) — OVR: 84 [Conf: 0.99]
+      Finishing: 72 | ShortPass: 79 | Tackling: 79 | Dribbling: 96 | Stamina: 92
+    - Anthony Gordon (CM) — OVR: 84 [Conf: 0.99]
+      Finishing: 80 | ShortPass: 79 | Tackling: 78 | Dribbling: 96 | Stamina: 91
+    - Kieran Trippier (CM) — OVR: 84 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 84
+    - Jacob Murphy (CM) — OVR: 84 [Conf: 0.99]
+      Finishing: 77 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 86
+    - Ivan Toney (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 94 | ShortPass: 79 | Tackling: 78 | Dribbling: 89 | Stamina: 92
+    - Mathias Jensen (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 71 | ShortPass: 79 | Tackling: 78 | Dribbling: 93 | Stamina: 91
+    - Joseph Willock (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 79 | Tackling: 78 | Dribbling: 92 | Stamina: 89
+    - Bruno Guimarães Rodriguez Moura (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 79 | Tackling: 79 | Dribbling: 89 | Stamina: 91
+    - Vitaly Janelt (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 62 | ShortPass: 79 | Tackling: 79 | Dribbling: 88 | Stamina: 92
+    - Mathias Jensen (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 75 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 84
+    - Keane Lewis-Potter (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 79 | Tackling: 79 | Dribbling: 91 | Stamina: 92
+    - Bruno Guimarães Rodriguez Moura (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 79 | Tackling: 79 | Dribbling: 92 | Stamina: 92
+    - Anthony Gordon (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 76 | ShortPass: 79 | Tackling: 78 | Dribbling: 95 | Stamina: 87
+    - Rico Henry (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 79 | Tackling: 79 | Dribbling: 86 | Stamina: 92
+    - Miguel Almirón (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 82 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 88
+    - Sean Longstaff (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 79 | Tackling: 78 | Dribbling: 87 | Stamina: 88
+    - Bryan Mbeumo (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 84 | ShortPass: 79 | Tackling: 78 | Dribbling: 97 | Stamina: 80
+    - Christian Nørgaard (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 79 | Tackling: 78 | Dribbling: 87 | Stamina: 88
+    - Sean Longstaff (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 72 | ShortPass: 79 | Tackling: 78 | Dribbling: 87 | Stamina: 91
+    - Harvey Barnes (CM) — OVR: 82 [Conf: 0.97]
+      Finishing: 84 | ShortPass: 79 | Tackling: 78 | Dribbling: 95 | Stamina: 77
+    - Alexander Isak (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 99 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 91
+    - Tino Livramento (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 60 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 91
+    - Sandro Tonali (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 79 | Tackling: 78 | Dribbling: 87 | Stamina: 90
+    - Ethan Pinnock (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 91
+    - Ben Mee (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 78 | Tackling: 79 | Dribbling: 82 | Stamina: 92
+    - Dan Burn (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 78 | Tackling: 79 | Dribbling: 82 | Stamina: 92
+    - Fabian Schär (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 78 | Tackling: 79 | Dribbling: 84 | Stamina: 92
+    - Joelinton Cássio Apolinário de Lira (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 74 | ShortPass: 78 | Tackling: 78 | Dribbling: 85 | Stamina: 91
+    - Sven Botman (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 62 | ShortPass: 78 | Tackling: 79 | Dribbling: 82 | Stamina: 92
+    - Nathan Collins (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 90
+    - Yoane Wissa (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 85 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 88
+    - Dan Burn (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 78 | Tackling: 79 | Dribbling: 83 | Stamina: 91
+    - Alexander Isak (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 99 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 85
+    - Fabian Schär (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 69 | ShortPass: 78 | Tackling: 79 | Dribbling: 83 | Stamina: 92
+    - Nathan Collins (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 64 | ShortPass: 78 | Tackling: 79 | Dribbling: 84 | Stamina: 92
+    - Christian Nørgaard (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 71 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 91
+    - Yoane Wissa (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 92 | ShortPass: 78 | Tackling: 78 | Dribbling: 85 | Stamina: 91
+    - Dan Burn (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 78 | Tackling: 79 | Dribbling: 82 | Stamina: 92
+    - Lewis Hall (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 59 | ShortPass: 79 | Tackling: 78 | Dribbling: 85 | Stamina: 84
+    - Joelinton Cássio Apolinário de Lira (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 71 | ShortPass: 79 | Tackling: 78 | Dribbling: 86 | Stamina: 86
+    - Fabian Schär (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 91
+    - Vitaly Janelt (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 69 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 84
+    - Callum Wilson (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 99 | ShortPass: 78 | Tackling: 78 | Dribbling: 86 | Stamina: 79
+    - Kristoffer Ajer (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 88 | Stamina: 78
+    - Ethan Pinnock (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 88
+    - Miguel Almirón (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 71 | ShortPass: 78 | Tackling: 78 | Dribbling: 88 | Stamina: 80
+    - Vitaly Janelt (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 79 | Tackling: 78 | Dribbling: 83 | Stamina: 84
+    - Kevin Schade (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 85 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 85
+    - Sepp van den Berg (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 89
+    - Christian Nørgaard (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 78 | Tackling: 78 | Dribbling: 85 | Stamina: 78
+    - Jacob Murphy (CM) — OVR: 79 [Conf: 0.82]
+      Finishing: 75 | ShortPass: 77 | Tackling: 77 | Dribbling: 92 | Stamina: 70
+    - Mads Roerslev Rasmussen (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 81
+    - Sergio Reguilón (CM) — OVR: 79 [Conf: 0.93]
+      Finishing: 62 | ShortPass: 78 | Tackling: 77 | Dribbling: 88 | Stamina: 74
+    - Pelenda Joshua Dasilva (CM) — OVR: 78 [Conf: 0.85]
+      Finishing: 74 | ShortPass: 77 | Tackling: 77 | Dribbling: 84 | Stamina: 72
+    - Yoane Wissa (CM) — OVR: 78 [Conf: 0.92]
+      Finishing: 81 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 75
+    - Aaron Hickey (CM) — OVR: 78 [Conf: 0.99]
+      Finishing: 60 | ShortPass: 78 | Tackling: 78 | Dribbling: 79 | Stamina: 80
+    - Anthony Gordon (CM) — OVR: 78 [Conf: 0.92]
+      Finishing: 75 | ShortPass: 78 | Tackling: 77 | Dribbling: 83 | Stamina: 75
+    - Allan Saint-Maximin (CM) — OVR: 78 [Conf: 0.78]
+      Finishing: 67 | ShortPass: 77 | Tackling: 77 | Dribbling: 89 | Stamina: 68
+    - Alexander Isak (CM) — OVR: 78 [Conf: 0.92]
+      Finishing: 89 | ShortPass: 78 | Tackling: 77 | Dribbling: 83 | Stamina: 74
+    - Keane Lewis-Potter (CM) — OVR: 78 [Conf: 0.88]
+      Finishing: 75 | ShortPass: 77 | Tackling: 77 | Dribbling: 85 | Stamina: 73
+    - Ivan Toney (CM) — OVR: 78 [Conf: 0.89]
+      Finishing: 77 | ShortPass: 77 | Tackling: 77 | Dribbling: 84 | Stamina: 73
+    - Neal Maupay (CM) — OVR: 78 [Conf: 0.86]
+      Finishing: 80 | ShortPass: 77 | Tackling: 77 | Dribbling: 85 | Stamina: 72
+    - Jacob Murphy (CM) — OVR: 78 [Conf: 0.81]
+      Finishing: 72 | ShortPass: 77 | Tackling: 77 | Dribbling: 89 | Stamina: 69
+    - Ethan Pinnock (CM) — OVR: 78 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 80
+    - Mads Roerslev Rasmussen (CM) — OVR: 78 [Conf: 0.76]
+      Finishing: 65 | ShortPass: 77 | Tackling: 77 | Dribbling: 91 | Stamina: 68
+    - Ben Mee (CM) — OVR: 77 [Conf: 0.84]
+      Finishing: 70 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 71
+    - Frank Onyeka (CM) — OVR: 77 [Conf: 0.77]
+      Finishing: 67 | ShortPass: 77 | Tackling: 77 | Dribbling: 84 | Stamina: 69
+    - Sven Botman (CM) — OVR: 77 [Conf: 0.87]
+      Finishing: 72 | ShortPass: 77 | Tackling: 77 | Dribbling: 79 | Stamina: 72
+    - Joelinton Cássio Apolinário de Lira (CM) — OVR: 77 [Conf: 0.84]
+      Finishing: 70 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 71
+    - Lewis Miley (CM) — OVR: 77 [Conf: 0.82]
+      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 70
+    - Kristoffer Ajer (CM) — OVR: 77 [Conf: 0.90]
+      Finishing: 62 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 73
+    - Yegor Yarmoliuk (CM) — OVR: 77 [Conf: 0.88]
+      Finishing: 62 | ShortPass: 77 | Tackling: 77 | Dribbling: 82 | Stamina: 73
+    - Leandro Trossard (CM) — OVR: 76 [Conf: 0.81]
+      Finishing: 90 | ShortPass: 78 | Tackling: 78 | Dribbling: 66 | Stamina: 78
+    - Allan Saint-Maximin (CM) — OVR: 76 [Conf: 0.81]
+      Finishing: 86 | ShortPass: 78 | Tackling: 78 | Dribbling: 68 | Stamina: 78
+    - Mads Roerslev Rasmussen (CM) — OVR: 76 [Conf: 0.77]
+      Finishing: 62 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 68
+    - Mikkel Damsgaard (CM) — OVR: 76 [Conf: 0.72]
+      Finishing: 66 | ShortPass: 77 | Tackling: 76 | Dribbling: 82 | Stamina: 66
+    - Aaron Hickey (CM) — OVR: 76 [Conf: 0.66]
+      Finishing: 66 | ShortPass: 76 | Tackling: 76 | Dribbling: 84 | Stamina: 64
+    - Mathias Jorgensen (CM) — OVR: 76 [Conf: 0.77]
+      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 78 | Stamina: 68
+    - Elliot Anderson (CM) — OVR: 76 [Conf: 0.74]
+      Finishing: 65 | ShortPass: 77 | Tackling: 76 | Dribbling: 83 | Stamina: 67
+    - Emil Krafth (CM) — OVR: 76 [Conf: 0.69]
+      Finishing: 66 | ShortPass: 76 | Tackling: 76 | Dribbling: 84 | Stamina: 66
+    - Harvey Barnes (CM) — OVR: 76 [Conf: 0.66]
+      Finishing: 85 | ShortPass: 76 | Tackling: 76 | Dribbling: 83 | Stamina: 64
+    - Tino Livramento (CM) — OVR: 76 [Conf: 0.82]
+      Finishing: 67 | ShortPass: 77 | Tackling: 77 | Dribbling: 78 | Stamina: 71
+    - Mathias Jensen (CM) — OVR: 76 [Conf: 0.68]
+      Finishing: 63 | ShortPass: 76 | Tackling: 76 | Dribbling: 86 | Stamina: 65
+    - Kieran Trippier (CM) — OVR: 76 [Conf: 0.84]
+      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 76 | Stamina: 71
+    - Joseph Willock (CM) — OVR: 76 [Conf: 0.76]
+      Finishing: 64 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 68
+    - Lewis Dunk (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 63 | Stamina: 76
+    - Joël Veltman (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 78
+    - Neal Maupay (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 92 | ShortPass: 78 | Tackling: 78 | Dribbling: 66 | Stamina: 72
+    - Marc Cucurella (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 82 | ShortPass: 78 | Tackling: 79 | Dribbling: 64 | Stamina: 78
+    - Matt Targett (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 78
+    - Dan Burn (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 74
+    - Chris Wood (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 87 | ShortPass: 78 | Tackling: 78 | Dribbling: 63 | Stamina: 78
+    - Joelinton Cássio Apolinário de Lira (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 85 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 76
+    - Frank Onyeka (CM) — OVR: 75 [Conf: 0.68]
+      Finishing: 64 | ShortPass: 76 | Tackling: 76 | Dribbling: 78 | Stamina: 65
+    - Mathias Jorgensen (CM) — OVR: 75 [Conf: 0.76]
+      Finishing: 64 | ShortPass: 77 | Tackling: 76 | Dribbling: 77 | Stamina: 68
+    - Mikkel Damsgaard (CM) — OVR: 75 [Conf: 0.66]
+      Finishing: 63 | ShortPass: 76 | Tackling: 76 | Dribbling: 80 | Stamina: 64
+    - Saman Ghoddos (CM) — OVR: 75 [Conf: 0.64]
+      Finishing: 72 | ShortPass: 76 | Tackling: 76 | Dribbling: 81 | Stamina: 64
+    - Lewis Hall (CM) — OVR: 75 [Conf: 0.66]
+      Finishing: 71 | ShortPass: 76 | Tackling: 75 | Dribbling: 80 | Stamina: 64
+    - Jamaal Lascelles (CM) — OVR: 75 [Conf: 0.78]
+      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 75 | Stamina: 68
+    - Callum Wilson (CM) — OVR: 75 [Conf: 0.72]
+      Finishing: 98 | ShortPass: 77 | Tackling: 76 | Dribbling: 77 | Stamina: 67
+    - Michael Kayode (CM) — OVR: 75 [Conf: 0.59]
+      Finishing: 66 | ShortPass: 75 | Tackling: 74 | Dribbling: 84 | Stamina: 61
+    - Pascal Groß (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 68 | Stamina: 69
+    - Yves Bissouma (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 81 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 70
+    - Alexis Mac Allister (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 88 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 70
+    - Joseph Willock (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 66 | Stamina: 69
+    - Jonjo Shelvey (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 68
+    - Jamaal Lascelles (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 69
+    - Fabian Schär (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 70
+    - Kevin Schade (CM) — OVR: 74 [Conf: 0.64]
+      Finishing: 67 | ShortPass: 76 | Tackling: 75 | Dribbling: 78 | Stamina: 64
+    - Elliot Anderson (CM) — OVR: 74 [Conf: 0.53]
+      Finishing: 66 | ShortPass: 74 | Tackling: 74 | Dribbling: 83 | Stamina: 59
+    - Yegor Yarmoliuk (CM) — OVR: 74 [Conf: 0.62]
+      Finishing: 65 | ShortPass: 76 | Tackling: 75 | Dribbling: 80 | Stamina: 63
+    - Sean Longstaff (CM) — OVR: 74 [Conf: 0.66]
+      Finishing: 64 | ShortPass: 76 | Tackling: 76 | Dribbling: 75 | Stamina: 64
+    - Danny Welbeck (CM) — OVR: 73 [Conf: 0.74]
+      Finishing: 92 | ShortPass: 77 | Tackling: 77 | Dribbling: 68 | Stamina: 62
+    - Enock Mwepu (CM) — OVR: 73 [Conf: 0.63]
+      Finishing: 83 | ShortPass: 77 | Tackling: 77 | Dribbling: 71 | Stamina: 57
+    - Ryan Fraser (CM) — OVR: 73 [Conf: 0.73]
+      Finishing: 83 | ShortPass: 77 | Tackling: 77 | Dribbling: 69 | Stamina: 61
+    - Jacob Murphy (CM) — OVR: 73 [Conf: 0.73]
+      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 68 | Stamina: 61
+    - Miguel Almirón (CM) — OVR: 73 [Conf: 0.79]
+      Finishing: 81 | ShortPass: 78 | Tackling: 78 | Dribbling: 63 | Stamina: 65
+    - Pontus Jansson (CM) — OVR: 73 [Conf: 0.66]
+      Finishing: 71 | ShortPass: 76 | Tackling: 75 | Dribbling: 74 | Stamina: 64
+    - Shandon Baptiste (CM) — OVR: 73 [Conf: 0.58]
+      Finishing: 63 | ShortPass: 75 | Tackling: 75 | Dribbling: 76 | Stamina: 61
+    - Matt Targett (CM) — OVR: 73 [Conf: 0.60]
+      Finishing: 60 | ShortPass: 75 | Tackling: 75 | Dribbling: 73 | Stamina: 62
+    - Kevin Schade (CM) — OVR: 73 [Conf: 0.51]
+      Finishing: 78 | ShortPass: 74 | Tackling: 74 | Dribbling: 80 | Stamina: 59
+    - Sandro Tonali (CM) — OVR: 73 [Conf: 0.56]
+      Finishing: 72 | ShortPass: 74 | Tackling: 75 | Dribbling: 78 | Stamina: 60
+    - Shane Duffy (CM) — OVR: 72 [Conf: 0.73]
+      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 64 | Stamina: 61
+    - Adam Webster (CM) — OVR: 72 [Conf: 0.73]
+      Finishing: 83 | ShortPass: 77 | Tackling: 77 | Dribbling: 63 | Stamina: 61
+    - Callum Wilson (CM) — OVR: 72 [Conf: 0.72]
+      Finishing: 97 | ShortPass: 77 | Tackling: 77 | Dribbling: 63 | Stamina: 61
+    - Javier Manquillo (CM) — OVR: 72 [Conf: 0.69]
+      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 67 | Stamina: 59
+    - Sean Longstaff (CM) — OVR: 72 [Conf: 0.73]
+      Finishing: 81 | ShortPass: 77 | Tackling: 77 | Dribbling: 64 | Stamina: 61
+    - Kristoffer Ajer (CM) — OVR: 72 [Conf: 0.67]
+      Finishing: 59 | ShortPass: 76 | Tackling: 75 | Dribbling: 66 | Stamina: 64
+    - Rico Henry (CM) — OVR: 72 [Conf: 0.55]
+      Finishing: 61 | ShortPass: 74 | Tackling: 74 | Dribbling: 74 | Stamina: 60
+    - Joseph Willock (CM) — OVR: 72 [Conf: 0.55]
+      Finishing: 71 | ShortPass: 74 | Tackling: 73 | Dribbling: 77 | Stamina: 60
+    - Fábio Freitas Gouveia Carvalho (CM) — OVR: 72 [Conf: 0.54]
+      Finishing: 79 | ShortPass: 74 | Tackling: 74 | Dribbling: 74 | Stamina: 59
+    - Sven Botman (CM) — OVR: 72 [Conf: 0.55]
+      Finishing: 65 | ShortPass: 74 | Tackling: 73 | Dribbling: 75 | Stamina: 61
+    - Isaac Hayden (CM) — OVR: 71 [Conf: 0.63]
+      Finishing: 81 | ShortPass: 77 | Tackling: 76 | Dribbling: 63 | Stamina: 56
+    - Bruno Guimarães Rodriguez Moura (CM) — OVR: 71 [Conf: 0.64]
+      Finishing: 91 | ShortPass: 77 | Tackling: 76 | Dribbling: 65 | Stamina: 57
+    - Moisés Caicedo (CM) — OVR: 70 [Conf: 0.56]
+      Finishing: 80 | ShortPass: 76 | Tackling: 75 | Dribbling: 65 | Stamina: 54
+    - Keane Lewis-Potter (CM) — OVR: 70 [Conf: 0.51]
+      Finishing: 64 | ShortPass: 73 | Tackling: 73 | Dribbling: 70 | Stamina: 59
+    - Martin Dubravka (GK) — OVR: 70 [Conf: 0.23]
+      Finishing: 54 | ShortPass: 68 | Tackling: 58 | Dribbling: 51 | Stamina: 56
+    - Ryan Fraser (CM) — OVR: 70 [Conf: 0.51]
+      Finishing: 65 | ShortPass: 73 | Tackling: 73 | Dribbling: 71 | Stamina: 59
+    - Shandon Baptiste (CM) — OVR: 70 [Conf: 0.24]
+      Finishing: 73 | ShortPass: 73 | Tackling: 71 | Dribbling: 70 | Stamina: 59
+    - Lloyd Kelly (CM) — OVR: 70 [Conf: 0.26]
+      Finishing: 64 | ShortPass: 73 | Tackling: 72 | Dribbling: 71 | Stamina: 60
+    - Lewis Miley (CM) — OVR: 70 [Conf: 0.49]
+      Finishing: 72 | ShortPass: 73 | Tackling: 73 | Dribbling: 68 | Stamina: 58
+    - Callum Wilson (CM) — OVR: 70 [Conf: 0.51]
+      Finishing: 64 | ShortPass: 74 | Tackling: 73 | Dribbling: 66 | Stamina: 59
+    - Adam Lallana (CM) — OVR: 69 [Conf: 0.76]
+      Finishing: 57 | ShortPass: 78 | Tackling: 77 | Dribbling: 44 | Stamina: 63
+    - Solomon March (CM) — OVR: 69 [Conf: 0.80]
+      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 45 | Stamina: 65
+    - Tariq Lamptey (CM) — OVR: 69 [Conf: 0.75]
+      Finishing: 57 | ShortPass: 78 | Tackling: 77 | Dribbling: 45 | Stamina: 63
+    - Jakub Moder (CM) — OVR: 69 [Conf: 0.79]
+      Finishing: 57 | ShortPass: 78 | Tackling: 77 | Dribbling: 47 | Stamina: 64
+    - Matt Ritchie (CM) — OVR: 69 [Conf: 0.71]
+      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 49 | Stamina: 60
+    - Emil Krafth (CM) — OVR: 69 [Conf: 0.77]
+      Finishing: 57 | ShortPass: 78 | Tackling: 78 | Dribbling: 44 | Stamina: 64
+    - Kieran Trippier (CM) — OVR: 69 [Conf: 0.51]
+      Finishing: 83 | ShortPass: 74 | Tackling: 73 | Dribbling: 63 | Stamina: 54
+    - Nick Pope (GK) — OVR: 69 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 69 | Tackling: 77 | Dribbling: 69 | Stamina: 92
+    - Nick Pope (GK) — OVR: 69 [Conf: 0.86]
+      Finishing: 54 | ShortPass: 69 | Tackling: 74 | Dribbling: 66 | Stamina: 71
+    - Miguel Almirón (CM) — OVR: 69 [Conf: 0.23]
+      Finishing: 69 | ShortPass: 72 | Tackling: 71 | Dribbling: 68 | Stamina: 58
+    - Martin Dubravka (GK) — OVR: 69 [Conf: 0.71]
+      Finishing: 54 | ShortPass: 68 | Tackling: 72 | Dribbling: 64 | Stamina: 64
+    - Emil Krafth (CM) — OVR: 69 [Conf: 0.50]
+      Finishing: 61 | ShortPass: 74 | Tackling: 73 | Dribbling: 62 | Stamina: 59
+    - Jason Steele (GK) — OVR: 68 [Conf: 0.22]
+      Finishing: 54 | ShortPass: 68 | Tackling: 56 | Dribbling: 49 | Stamina: 55
+    - Ciaran Clark (CM) — OVR: 68 [Conf: 0.63]
+      Finishing: 58 | ShortPass: 77 | Tackling: 76 | Dribbling: 49 | Stamina: 56
+    - David Raya Martin (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 68 | Tackling: 76 | Dribbling: 69 | Stamina: 92
+    - Jamaal Lascelles (CM) — OVR: 68 [Conf: 0.24]
+      Finishing: 63 | ShortPass: 73 | Tackling: 71 | Dribbling: 61 | Stamina: 59
+    - Thomas Strakosha (GK) — OVR: 68 [Conf: 0.23]
+      Finishing: 54 | ShortPass: 68 | Tackling: 56 | Dribbling: 50 | Stamina: 56
+    - Loris Karius (GK) — OVR: 68 [Conf: 0.22]
+      Finishing: 54 | ShortPass: 66 | Tackling: 56 | Dribbling: 51 | Stamina: 56
+    - Ben Mee (CM) — OVR: 68 [Conf: 0.24]
+      Finishing: 63 | ShortPass: 72 | Tackling: 73 | Dribbling: 61 | Stamina: 59
+    - Hákon Valdimarsson (GK) — OVR: 68 [Conf: 0.23]
+      Finishing: 54 | ShortPass: 69 | Tackling: 60 | Dribbling: 49 | Stamina: 57
+    - Nick Pope (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 68 | Tackling: 76 | Dribbling: 68 | Stamina: 89
+    - Steven Alzate (CM) — OVR: 67 [Conf: 0.50]
+      Finishing: 61 | ShortPass: 74 | Tackling: 74 | Dribbling: 51 | Stamina: 55
+    - Karl Darlow (GK) — OVR: 67 [Conf: 0.57]
+      Finishing: 54 | ShortPass: 68 | Tackling: 67 | Dribbling: 43 | Stamina: 55
+    - Federico Fernández (CM) — OVR: 67 [Conf: 0.53]
+      Finishing: 60 | ShortPass: 75 | Tackling: 74 | Dribbling: 51 | Stamina: 55
+    - Freddie Woodman (GK) — OVR: 67 [Conf: 0.49]
+      Finishing: 54 | ShortPass: 67 | Tackling: 64 | Dribbling: 46 | Stamina: 53
+    - Saman Ghoddos (CM) — OVR: 67 [Conf: 0.22]
+      Finishing: 64 | ShortPass: 71 | Tackling: 70 | Dribbling: 62 | Stamina: 56
+    - Mark Flekken (GK) — OVR: 67 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 68 | Tackling: 77 | Dribbling: 69 | Stamina: 92
+    - Martin Dubravka (GK) — OVR: 67 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 67 | Tackling: 73 | Dribbling: 67 | Stamina: 78
+    - Matt Ritchie (CM) — OVR: 67 [Conf: 0.22]
+      Finishing: 92 | ShortPass: 71 | Tackling: 70 | Dribbling: 61 | Stamina: 57
+    - Mark Flekken (GK) — OVR: 67 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 67 | Tackling: 76 | Dribbling: 69 | Stamina: 92
+    - Igor Thiago Nascimento Rodrigues (CM) — OVR: 67 [Conf: 0.23]
+      Finishing: 63 | ShortPass: 72 | Tackling: 71 | Dribbling: 60 | Stamina: 58
+    - William Osula (CM) — OVR: 67 [Conf: 0.22]
+      Finishing: 84 | ShortPass: 71 | Tackling: 70 | Dribbling: 63 | Stamina: 56
+    - Aaron Connolly (CM) — OVR: 66 [Conf: 0.22]
+      Finishing: 63 | ShortPass: 72 | Tackling: 71 | Dribbling: 57 | Stamina: 55
+    - Paul Dummett (CM) — OVR: 66 [Conf: 0.23]
+      Finishing: 63 | ShortPass: 72 | Tackling: 72 | Dribbling: 55 | Stamina: 55
+    - Jamal Lewis (CM) — OVR: 66 [Conf: 0.23]
+      Finishing: 62 | ShortPass: 73 | Tackling: 73 | Dribbling: 54 | Stamina: 55
+    - Rico Henry (CM) — OVR: 66 [Conf: 0.22]
+      Finishing: 65 | ShortPass: 71 | Tackling: 70 | Dribbling: 58 | Stamina: 57
+    - Paris Maghoma (CM) — OVR: 66 [Conf: 0.22]
+      Finishing: 65 | ShortPass: 71 | Tackling: 70 | Dribbling: 59 | Stamina: 57
+    - Davy Pröpper (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mathew Ryan (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Alireza Jahanbakhsh (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Bernardo Fernandes Da Silva Junior (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Kjell Scherpen (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Florin Andone (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Andi Zeqiri (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Michal Karbownik (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Taylor Richards (CM) — UNRATED (Insufficient playing time (23 mins < 90 mins threshold))
+    - Haydon Roberts (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jürgen Locadia (CM) — UNRATED (Insufficient playing time (22 mins < 90 mins threshold))
+    - Jeremy Sarmiento (CM) — UNRATED (Insufficient playing time (44 mins < 90 mins threshold))
+    - Ed Turns (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Marc Leonard (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Evan Ferguson (CM) — UNRATED (Insufficient playing time (22 mins < 90 mins threshold))
+    - Thomas McGill (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Odeluga Offiah (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jeff Hendrick (CM) — UNRATED (Insufficient playing time (69 mins < 90 mins threshold))
+    - Dwight Gayle (CM) — UNRATED (Insufficient playing time (34 mins < 90 mins threshold))
+    - Matthew Longstaff (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mark Gillespie (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Joe White (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Elliot Anderson (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Lucas De Bolle (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Sergi Canós (CM) — UNRATED (Insufficient playing time (73 mins < 90 mins threshold))
+    - Mads Bech Sørensen (CM) — UNRATED (Insufficient playing time (18 mins < 90 mins threshold))
+    - Charlie Goode (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Marcus Forss (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Dominic Thompson (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mads Bidstrup (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ellery Balcombe (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Thomas Strakosha (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Finley Stevens (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Halil Dervişoğlu (CM) — UNRATED (Insufficient playing time (6 mins < 90 mins threshold))
+    - Ryan Trevitt (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Matthew Cox (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Tristan Crama (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Yegor Yarmolyuk (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Michael Olakigbe (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Matt Ritchie (CM) — UNRATED (Insufficient playing time (35 mins < 90 mins threshold))
+    - Federico Fernández (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ciaran Clark (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Karl Darlow (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Dwight Gayle (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Paul Dummett (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Javier Manquillo (CM) — UNRATED (Insufficient playing time (34 mins < 90 mins threshold))
+    - Emil Krafth (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
+    - Jamal Lewis (CM) — UNRATED (Insufficient playing time (9 mins < 90 mins threshold))
+    - Jeff Hendrick (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Harrison Ashby (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Loris Karius (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Garang Kuol (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Lewis Miley (CM) — UNRATED (Insufficient playing time (14 mins < 90 mins threshold))
+    - Mark Gillespie (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ellery Balcombe (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mads Bech Sørensen (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mads Bidstrup (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Sergi Canós (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Matthew Cox (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Pelenda Joshua Dasilva (CM) — UNRATED (Insufficient playing time (22 mins < 90 mins threshold))
+    - Halil Dervişoğlu (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Charlie Goode (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ryan Trevitt (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Michael Olakigbe (CM) — UNRATED (Insufficient playing time (51 mins < 90 mins threshold))
+    - Ethan Brierley (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ji-Soo Kim (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Valintino Adedokun (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Myles Peart-Harris (CM) — UNRATED (Insufficient playing time (11 mins < 90 mins threshold))
+    - Vincent Angelini (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Hákon Valdimarsson (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Benjamin Fredrick (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Benjamin Arthur (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Yunus Konak (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Harrison Ashby (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Karl Darlow (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ryan Fraser (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mark Gillespie (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Isaac Hayden (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jeff Hendrick (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Garang Kuol (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jamal Lewis (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Javier Manquillo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Allan Saint-Maximin (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Matt Targett (CM) — UNRATED (Insufficient playing time (77 mins < 90 mins threshold))
+    - Kell Watts (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Paul Dummett (CM) — UNRATED (Insufficient playing time (18 mins < 90 mins threshold))
+    - Alex Murphy (CM) — UNRATED (Insufficient playing time (11 mins < 90 mins threshold))
+    - Amadou Diallo (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
+    - Ben Parkinson (CM) — UNRATED (Insufficient playing time (24 mins < 90 mins threshold))
+    - Michael Ndiweni (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
+    - Joe White (CM) — UNRATED (Insufficient playing time (12 mins < 90 mins threshold))
+    - Travis Hernes (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ethan Brierley (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Pelenda Joshua Dasilva (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Aaron Hickey (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ji-Soo Kim (CM) — UNRATED (Insufficient playing time (28 mins < 90 mins threshold))
+    - Yunus Konak (CM) — UNRATED (Insufficient playing time (53 mins < 90 mins threshold))
+    - Frank Onyeka (CM) — UNRATED (Insufficient playing time (23 mins < 90 mins threshold))
+    - Myles Peart-Harris (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ivan Toney (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mathias Jorgensen (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ryan Trevitt (CM) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
+    - Gustavo Nunes Fernandes Gomes (CM) — UNRATED (Insufficient playing time (11 mins < 90 mins threshold))
+    - Jayden Meghoma (CM) — UNRATED (Insufficient playing time (4 mins < 90 mins threshold))
+    - Tony Yogane (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Benjamin Arthur (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Thomas Frank (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Julian Eyestone (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Iwan Morgan (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Benjamin Fredrick (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Alex Murphy (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Isaac Hayden (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Garang Kuol (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jamaal Lascelles (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jamal Lewis (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Odysseas Vlachodimos (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - John Ruddy (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Matt Targett (CM) — UNRATED (Insufficient playing time (20 mins < 90 mins threshold))
+    - Joe White (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Miodrag Pivaš (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Eddie Howe (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Sean Neave (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+
   CLUB: Norwich
   -----------------------------------
     - Tim Krul (GK) — OVR: 84 [Conf: 0.81]
@@ -4627,6 +4096,549 @@ COMPETITION: EPL
     - Simon Rusk (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Jayden Moore (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
 
+  CLUB: Tottenham Hotspur FC
+  -----------------------------------
+    - Edouard Mendy (GK) — OVR: 91 [Conf: 0.81]
+      Finishing: 54 | ShortPass: 76 | Tackling: 77 | Dribbling: 40 | Stamina: 78
+    - Hugo Lloris (GK) — OVR: 91 [Conf: 0.81]
+      Finishing: 54 | ShortPass: 77 | Tackling: 77 | Dribbling: 40 | Stamina: 78
+    - Pedro Porro (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 79 | Tackling: 79 | Dribbling: 98 | Stamina: 92
+    - Heung-Min Son (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 87 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 91
+    - Enzo Fernández (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 72 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 92
+    - Cole Palmer (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 87 | ShortPass: 79 | Tackling: 79 | Dribbling: 99 | Stamina: 92
+    - Dejan Kulusevski (CM) — OVR: 84 [Conf: 0.99]
+      Finishing: 75 | ShortPass: 79 | Tackling: 78 | Dribbling: 98 | Stamina: 91
+    - Harry Kane (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 97 | ShortPass: 79 | Tackling: 79 | Dribbling: 89 | Stamina: 92
+    - Heung-Min Son (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 79 | ShortPass: 79 | Tackling: 78 | Dribbling: 91 | Stamina: 91
+    - Pierre-Emile Højbjerg (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 69 | ShortPass: 79 | Tackling: 79 | Dribbling: 88 | Stamina: 92
+    - Ivan Perišić (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 64 | ShortPass: 79 | Tackling: 78 | Dribbling: 97 | Stamina: 82
+    - James Maddison (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 74 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 83
+    - Pedro Lomba Neto (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 71 | ShortPass: 79 | Tackling: 78 | Dribbling: 96 | Stamina: 84
+    - Pedro Porro (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 79 | Tackling: 78 | Dribbling: 93 | Stamina: 89
+    - Heung-Min Son (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 78 | ShortPass: 79 | Tackling: 78 | Dribbling: 98 | Stamina: 83
+    - Kai Havertz (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 79 | ShortPass: 79 | Tackling: 78 | Dribbling: 87 | Stamina: 89
+    - Dejan Kulusevski (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 79 | Tackling: 78 | Dribbling: 96 | Stamina: 82
+    - Dara O'Shea (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 74 | ShortPass: 78 | Tackling: 78 | Dribbling: 86 | Stamina: 91
+    - Brennan Johnson (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 76 | ShortPass: 79 | Tackling: 78 | Dribbling: 92 | Stamina: 85
+    - Micky van de Ven (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 76 | ShortPass: 78 | Tackling: 78 | Dribbling: 91 | Stamina: 86
+    - Marc Cucurella (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 79 | Tackling: 79 | Dribbling: 85 | Stamina: 92
+    - Dejan Kulusevski (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 75 | ShortPass: 79 | Tackling: 78 | Dribbling: 90 | Stamina: 86
+    - James Maddison (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 82 | ShortPass: 79 | Tackling: 78 | Dribbling: 99 | Stamina: 78
+    - Raheem Sterling (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 78 | ShortPass: 78 | Tackling: 78 | Dribbling: 91 | Stamina: 79
+    - Josh Brownhill (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 79 | Tackling: 78 | Dribbling: 85 | Stamina: 84
+    - Josh Cullen (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 78 | Tackling: 78 | Dribbling: 88 | Stamina: 82
+    - Sander Berge (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 92
+    - Wilson Odobert (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 69 | ShortPass: 79 | Tackling: 78 | Dribbling: 88 | Stamina: 83
+    - Cristian Romero (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 78 | Tackling: 79 | Dribbling: 83 | Stamina: 91
+    - Destiny Udogie (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 79 | Tackling: 78 | Dribbling: 86 | Stamina: 86
+    - Moisés Caicedo (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 78 | Tackling: 79 | Dribbling: 84 | Stamina: 92
+    - Levi Colwill (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 78 | Tackling: 79 | Dribbling: 83 | Stamina: 92
+    - Nicolas Jackson (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 82 | ShortPass: 79 | Tackling: 78 | Dribbling: 86 | Stamina: 84
+    - Brennan Johnson (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 85 | ShortPass: 79 | Tackling: 78 | Dribbling: 86 | Stamina: 83
+    - Thiago Emiliano da Silva (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 86
+    - Mason Mount (CM) — OVR: 80 [Conf: 0.97]
+      Finishing: 70 | ShortPass: 78 | Tackling: 78 | Dribbling: 89 | Stamina: 76
+    - Eric Dier (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 91
+    - Unknown Player (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 85
+    - Cristian Romero (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 86
+    - Charlie Taylor (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 69 | ShortPass: 78 | Tackling: 78 | Dribbling: 85 | Stamina: 85
+    - Victor da Silva (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 85
+    - Yves Bissouma (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 86 | Stamina: 82
+    - Pape Matar Sarr (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 69 | ShortPass: 78 | Tackling: 78 | Dribbling: 87 | Stamina: 82
+    - Malo Gusto (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 86 | Stamina: 78
+    - Noni Madueke (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 80 | ShortPass: 78 | Tackling: 78 | Dribbling: 88 | Stamina: 81
+    - Jadon Sancho (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 69 | ShortPass: 78 | Tackling: 78 | Dribbling: 90 | Stamina: 77
+    - Dominic Solanke (CM) — OVR: 80 [Conf: 0.99]
+      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 84
+    - Mateo Kovacic (CM) — OVR: 79 [Conf: 0.96]
+      Finishing: 64 | ShortPass: 78 | Tackling: 77 | Dribbling: 85 | Stamina: 76
+    - Ruben Loftus-Cheek (CM) — OVR: 79 [Conf: 0.94]
+      Finishing: 62 | ShortPass: 78 | Tackling: 77 | Dribbling: 86 | Stamina: 74
+    - Benjamin Chilwell (CM) — OVR: 79 [Conf: 0.87]
+      Finishing: 69 | ShortPass: 77 | Tackling: 77 | Dribbling: 90 | Stamina: 72
+    - Reece James (CM) — OVR: 79 [Conf: 0.83]
+      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 92 | Stamina: 70
+    - Conor Gallagher (CM) — OVR: 79 [Conf: 0.95]
+      Finishing: 71 | ShortPass: 78 | Tackling: 77 | Dribbling: 85 | Stamina: 75
+    - Enzo Fernández (CM) — OVR: 79 [Conf: 0.93]
+      Finishing: 61 | ShortPass: 78 | Tackling: 77 | Dribbling: 90 | Stamina: 74
+    - Clément Lenglet (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 81
+    - Lyle Foster (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 73 | ShortPass: 78 | Tackling: 77 | Dribbling: 83 | Stamina: 80
+    - Zeki Amdouni (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 75 | ShortPass: 78 | Tackling: 78 | Dribbling: 83 | Stamina: 80
+    - Trevoh Chalobah (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 80
+    - Pape Matar Sarr (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 71 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 80
+    - Djed Spence (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 78
+    - Destiny Udogie (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 62 | ShortPass: 78 | Tackling: 78 | Dribbling: 84 | Stamina: 80
+    - Marc Cucurella (CM) — OVR: 78 [Conf: 0.97]
+      Finishing: 60 | ShortPass: 78 | Tackling: 78 | Dribbling: 80 | Stamina: 76
+    - César Azpilicueta (CM) — OVR: 78 [Conf: 0.91]
+      Finishing: 62 | ShortPass: 78 | Tackling: 77 | Dribbling: 84 | Stamina: 74
+    - Kalidou Koulibaly (CM) — OVR: 78 [Conf: 0.99]
+      Finishing: 69 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 78
+    - Emerson Aparecido Leite de Souza Junior (CM) — OVR: 78 [Conf: 0.98]
+      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 82 | Stamina: 77
+    - Pedro Porro (CM) — OVR: 78 [Conf: 0.79]
+      Finishing: 72 | ShortPass: 77 | Tackling: 77 | Dribbling: 87 | Stamina: 69
+    - Johann Berg Gudmundsson (CM) — OVR: 78 [Conf: 0.79]
+      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 87 | Stamina: 69
+    - Jacob Bruun Larsen (CM) — OVR: 78 [Conf: 0.84]
+      Finishing: 83 | ShortPass: 77 | Tackling: 77 | Dribbling: 84 | Stamina: 71
+    - Richarlison de Andrade (CM) — OVR: 78 [Conf: 0.92]
+      Finishing: 99 | ShortPass: 78 | Tackling: 77 | Dribbling: 84 | Stamina: 74
+    - Rodrigo Bentancur (CM) — OVR: 78 [Conf: 0.96]
+      Finishing: 68 | ShortPass: 78 | Tackling: 78 | Dribbling: 81 | Stamina: 76
+    - Harry Kane (CM) — OVR: 77 [Conf: 0.81]
+      Finishing: 99 | ShortPass: 79 | Tackling: 78 | Dribbling: 70 | Stamina: 78
+    - Heung-Min Son (CM) — OVR: 77 [Conf: 0.81]
+      Finishing: 99 | ShortPass: 79 | Tackling: 79 | Dribbling: 70 | Stamina: 78
+    - Trevoh Chalobah (CM) — OVR: 77 [Conf: 0.95]
+      Finishing: 61 | ShortPass: 78 | Tackling: 77 | Dribbling: 76 | Stamina: 75
+    - Rodrigo Bentancur (CM) — OVR: 77 [Conf: 0.91]
+      Finishing: 76 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 74
+    - Oliver Skipp (CM) — OVR: 77 [Conf: 0.92]
+      Finishing: 69 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 74
+    - Yves Bissouma (CM) — OVR: 77 [Conf: 0.73]
+      Finishing: 66 | ShortPass: 77 | Tackling: 76 | Dribbling: 86 | Stamina: 67
+    - Richarlison de Andrade (CM) — OVR: 77 [Conf: 0.75]
+      Finishing: 70 | ShortPass: 77 | Tackling: 76 | Dribbling: 84 | Stamina: 67
+    - Lorenz Assignon (CM) — OVR: 77 [Conf: 0.83]
+      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 82 | Stamina: 70
+    - Pierre-Emile Højbjerg (CM) — OVR: 77 [Conf: 0.78]
+      Finishing: 61 | ShortPass: 77 | Tackling: 77 | Dribbling: 82 | Stamina: 70
+    - Tosin Adarabioyo (CM) — OVR: 77 [Conf: 0.87]
+      Finishing: 65 | ShortPass: 77 | Tackling: 77 | Dribbling: 79 | Stamina: 72
+    - Yves Bissouma (CM) — OVR: 77 [Conf: 0.88]
+      Finishing: 72 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 72
+    - Unknown Player (CM) — OVR: 77 [Conf: 0.85]
+      Finishing: 62 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 71
+    - Cristian Romero (CM) — OVR: 77 [Conf: 0.90]
+      Finishing: 66 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 73
+    - Antonio Rüdiger (CM) — OVR: 76 [Conf: 0.81]
+      Finishing: 84 | ShortPass: 78 | Tackling: 79 | Dribbling: 65 | Stamina: 78
+    - Mason Mount (CM) — OVR: 76 [Conf: 0.81]
+      Finishing: 95 | ShortPass: 79 | Tackling: 78 | Dribbling: 72 | Stamina: 73
+    - Pierre-Emile Højbjerg (CM) — OVR: 76 [Conf: 0.81]
+      Finishing: 83 | ShortPass: 78 | Tackling: 79 | Dribbling: 65 | Stamina: 78
+    - Wesley Fofana (CM) — OVR: 76 [Conf: 0.85]
+      Finishing: 65 | ShortPass: 77 | Tackling: 77 | Dribbling: 77 | Stamina: 72
+    - João Félix Sequeira (CM) — OVR: 76 [Conf: 0.73]
+      Finishing: 80 | ShortPass: 77 | Tackling: 76 | Dribbling: 82 | Stamina: 66
+    - Ameen Al-Dakhil (CM) — OVR: 76 [Conf: 0.76]
+      Finishing: 67 | ShortPass: 77 | Tackling: 77 | Dribbling: 78 | Stamina: 68
+    - Jordan Beyer (CM) — OVR: 76 [Conf: 0.83]
+      Finishing: 63 | ShortPass: 77 | Tackling: 77 | Dribbling: 77 | Stamina: 70
+    - Luca Koleosho (CM) — OVR: 76 [Conf: 0.76]
+      Finishing: 68 | ShortPass: 77 | Tackling: 76 | Dribbling: 82 | Stamina: 67
+    - Maxime Esteve (CM) — OVR: 76 [Conf: 0.85]
+      Finishing: 62 | ShortPass: 77 | Tackling: 77 | Dribbling: 78 | Stamina: 71
+    - Rodrigo Bentancur (CM) — OVR: 76 [Conf: 0.76]
+      Finishing: 68 | ShortPass: 77 | Tackling: 76 | Dribbling: 82 | Stamina: 67
+    - Unknown Player (CM) — OVR: 76 [Conf: 0.77]
+      Finishing: 69 | ShortPass: 77 | Tackling: 77 | Dribbling: 78 | Stamina: 68
+    - Emerson Aparecido Leite de Souza Junior (CM) — OVR: 76 [Conf: 0.78]
+      Finishing: 70 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 69
+    - Timo Werner (CM) — OVR: 76 [Conf: 0.69]
+      Finishing: 75 | ShortPass: 76 | Tackling: 76 | Dribbling: 86 | Stamina: 64
+    - Reece James (CM) — OVR: 76 [Conf: 0.76]
+      Finishing: 67 | ShortPass: 77 | Tackling: 77 | Dribbling: 81 | Stamina: 68
+    - Lucas Bergvall (CM) — OVR: 76 [Conf: 0.79]
+      Finishing: 61 | ShortPass: 77 | Tackling: 77 | Dribbling: 78 | Stamina: 70
+    - Archie Gray (CM) — OVR: 76 [Conf: 0.99]
+      Finishing: 57 | ShortPass: 78 | Tackling: 78 | Dribbling: 70 | Stamina: 77
+    - Micky van de Ven (CM) — OVR: 76 [Conf: 0.76]
+      Finishing: 63 | ShortPass: 77 | Tackling: 76 | Dribbling: 81 | Stamina: 67
+    - Mathys Tel (CM) — OVR: 76 [Conf: 0.72]
+      Finishing: 74 | ShortPass: 76 | Tackling: 76 | Dribbling: 85 | Stamina: 66
+    - Thiago Emiliano da Silva (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 84 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 77
+    - Marcos Alonso (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 86 | ShortPass: 78 | Tackling: 78 | Dribbling: 67 | Stamina: 70
+    - Reece James (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 89 | ShortPass: 78 | Tackling: 78 | Dribbling: 72 | Stamina: 66
+    - Unknown Player (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 75
+    - Hakim Ziyech (CM) — OVR: 75 [Conf: 0.61]
+      Finishing: 63 | ShortPass: 76 | Tackling: 75 | Dribbling: 83 | Stamina: 62
+    - Lewis Hall (CM) — OVR: 75 [Conf: 0.64]
+      Finishing: 63 | ShortPass: 76 | Tackling: 75 | Dribbling: 81 | Stamina: 63
+    - Benoît Badiashile (CM) — OVR: 75 [Conf: 0.71]
+      Finishing: 68 | ShortPass: 76 | Tackling: 76 | Dribbling: 76 | Stamina: 66
+    - Mykhailo Mudryk (CM) — OVR: 75 [Conf: 0.62]
+      Finishing: 66 | ShortPass: 76 | Tackling: 75 | Dribbling: 82 | Stamina: 63
+    - Ryan Sessegnon (CM) — OVR: 75 [Conf: 0.68]
+      Finishing: 73 | ShortPass: 76 | Tackling: 76 | Dribbling: 81 | Stamina: 64
+    - Romeo Lavia (CM) — OVR: 75 [Conf: 0.70]
+      Finishing: 63 | ShortPass: 76 | Tackling: 76 | Dribbling: 78 | Stamina: 64
+    - Christopher Nkunku (CM) — OVR: 75 [Conf: 0.70]
+      Finishing: 80 | ShortPass: 76 | Tackling: 76 | Dribbling: 80 | Stamina: 66
+    - Wesley Fofana (CM) — OVR: 75 [Conf: 0.81]
+      Finishing: 60 | ShortPass: 77 | Tackling: 77 | Dribbling: 76 | Stamina: 69
+    - Radu Dragusin (CM) — OVR: 75 [Conf: 0.83]
+      Finishing: 58 | ShortPass: 77 | Tackling: 77 | Dribbling: 70 | Stamina: 71
+    - Timo Werner (CM) — OVR: 75 [Conf: 0.56]
+      Finishing: 65 | ShortPass: 75 | Tackling: 75 | Dribbling: 84 | Stamina: 61
+    - Wilson Odobert (CM) — OVR: 75 [Conf: 0.69]
+      Finishing: 69 | ShortPass: 76 | Tackling: 76 | Dribbling: 79 | Stamina: 65
+    - César Azpilicueta (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 66 | Stamina: 69
+    - Jorge Luiz Frello Filho (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 89 | ShortPass: 78 | Tackling: 78 | Dribbling: 65 | Stamina: 72
+    - Mateo Kovacic (CM) — OVR: 74 [Conf: 0.75]
+      Finishing: 83 | ShortPass: 78 | Tackling: 77 | Dribbling: 69 | Stamina: 63
+    - N'Golo Kanté (CM) — OVR: 74 [Conf: 0.80]
+      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 69 | Stamina: 65
+    - Kai Havertz (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 93 | ShortPass: 78 | Tackling: 78 | Dribbling: 67 | Stamina: 66
+    - Lucas Rodrigues Moura da Silva (CM) — OVR: 74 [Conf: 0.80]
+      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 69 | Stamina: 65
+    - Sergio Reguilón (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 67 | Stamina: 67
+    - Emerson Aparecido Leite de Souza Junior (CM) — OVR: 74 [Conf: 0.81]
+      Finishing: 82 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 72
+    - Dejan Kulusevski (CM) — OVR: 74 [Conf: 0.69]
+      Finishing: 91 | ShortPass: 77 | Tackling: 77 | Dribbling: 74 | Stamina: 59
+    - N'Golo Kanté (CM) — OVR: 74 [Conf: 0.58]
+      Finishing: 64 | ShortPass: 75 | Tackling: 74 | Dribbling: 80 | Stamina: 61
+    - Christian Pulisic (CM) — OVR: 74 [Conf: 0.67]
+      Finishing: 69 | ShortPass: 76 | Tackling: 76 | Dribbling: 76 | Stamina: 64
+    - Noni Madueke (CM) — OVR: 74 [Conf: 0.62]
+      Finishing: 70 | ShortPass: 76 | Tackling: 75 | Dribbling: 79 | Stamina: 62
+    - Davinson Sánchez (CM) — OVR: 74 [Conf: 0.68]
+      Finishing: 63 | ShortPass: 76 | Tackling: 76 | Dribbling: 75 | Stamina: 65
+    - Jay Rodriguez (CM) — OVR: 74 [Conf: 0.66]
+      Finishing: 75 | ShortPass: 76 | Tackling: 76 | Dribbling: 75 | Stamina: 64
+    - David Datro Fofana (CM) — OVR: 74 [Conf: 0.70]
+      Finishing: 81 | ShortPass: 76 | Tackling: 76 | Dribbling: 75 | Stamina: 66
+    - Giovani Lo Celso (CM) — OVR: 74 [Conf: 0.56]
+      Finishing: 75 | ShortPass: 75 | Tackling: 74 | Dribbling: 84 | Stamina: 60
+    - Kevin Danso (CM) — OVR: 74 [Conf: 0.69]
+      Finishing: 61 | ShortPass: 76 | Tackling: 76 | Dribbling: 72 | Stamina: 65
+    - Romelu Lukaku (CM) — OVR: 73 [Conf: 0.76]
+      Finishing: 95 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 63
+    - Davinson Sánchez (CM) — OVR: 73 [Conf: 0.77]
+      Finishing: 83 | ShortPass: 78 | Tackling: 78 | Dribbling: 64 | Stamina: 64
+    - Cristian Romero (CM) — OVR: 73 [Conf: 0.81]
+      Finishing: 81 | ShortPass: 78 | Tackling: 78 | Dribbling: 63 | Stamina: 66
+    - Matt Doherty (CM) — OVR: 73 [Conf: 0.63]
+      Finishing: 68 | ShortPass: 76 | Tackling: 75 | Dribbling: 74 | Stamina: 63
+    - Connor Roberts (CM) — OVR: 73 [Conf: 0.67]
+      Finishing: 59 | ShortPass: 76 | Tackling: 76 | Dribbling: 68 | Stamina: 65
+    - Aaron Ramsey (CM) — OVR: 73 [Conf: 0.58]
+      Finishing: 63 | ShortPass: 75 | Tackling: 74 | Dribbling: 78 | Stamina: 61
+    - Oliver Skipp (CM) — OVR: 73 [Conf: 0.61]
+      Finishing: 63 | ShortPass: 76 | Tackling: 75 | Dribbling: 76 | Stamina: 61
+    - Richarlison de Andrade (CM) — OVR: 73 [Conf: 0.56]
+      Finishing: 98 | ShortPass: 75 | Tackling: 74 | Dribbling: 76 | Stamina: 60
+    - Mikey Moore (CM) — OVR: 73 [Conf: 0.52]
+      Finishing: 67 | ShortPass: 74 | Tackling: 73 | Dribbling: 82 | Stamina: 59
+    - Kepa Arrizabalaga (GK) — OVR: 72 [Conf: 0.49]
+      Finishing: 54 | ShortPass: 70 | Tackling: 64 | Dribbling: 46 | Stamina: 53
+    - Hakim Ziyech (CM) — OVR: 72 [Conf: 0.70]
+      Finishing: 88 | ShortPass: 77 | Tackling: 77 | Dribbling: 67 | Stamina: 60
+    - Timo Werner (CM) — OVR: 72 [Conf: 0.69]
+      Finishing: 88 | ShortPass: 77 | Tackling: 77 | Dribbling: 66 | Stamina: 59
+    - Christian Pulisic (CM) — OVR: 72 [Conf: 0.69]
+      Finishing: 91 | ShortPass: 77 | Tackling: 77 | Dribbling: 66 | Stamina: 60
+    - Callum Hudson-Odoi (CM) — OVR: 72 [Conf: 0.62]
+      Finishing: 81 | ShortPass: 77 | Tackling: 76 | Dribbling: 70 | Stamina: 56
+    - Trevoh Chalobah (CM) — OVR: 72 [Conf: 0.73]
+      Finishing: 85 | ShortPass: 77 | Tackling: 77 | Dribbling: 64 | Stamina: 61
+    - Matt Doherty (CM) — OVR: 72 [Conf: 0.60]
+      Finishing: 83 | ShortPass: 76 | Tackling: 76 | Dribbling: 73 | Stamina: 56
+    - Denis Zakaria (CM) — OVR: 72 [Conf: 0.55]
+      Finishing: 67 | ShortPass: 74 | Tackling: 74 | Dribbling: 77 | Stamina: 60
+    - Pierre-Emerick Aubameyang (CM) — OVR: 72 [Conf: 0.58]
+      Finishing: 72 | ShortPass: 75 | Tackling: 74 | Dribbling: 73 | Stamina: 61
+    - Hannes Delcroix (CM) — OVR: 72 [Conf: 0.59]
+      Finishing: 63 | ShortPass: 75 | Tackling: 75 | Dribbling: 72 | Stamina: 61
+    - João Félix Sequeira (CM) — OVR: 72 [Conf: 0.52]
+      Finishing: 83 | ShortPass: 74 | Tackling: 73 | Dribbling: 76 | Stamina: 59
+    - Eric Dier (CM) — OVR: 71 [Conf: 0.81]
+      Finishing: 56 | ShortPass: 78 | Tackling: 78 | Dribbling: 42 | Stamina: 78
+    - Carney Chukwuemeka (CM) — OVR: 71 [Conf: 0.51]
+      Finishing: 65 | ShortPass: 74 | Tackling: 73 | Dribbling: 73 | Stamina: 59
+    - Mike Trésor (CM) — OVR: 71 [Conf: 0.53]
+      Finishing: 63 | ShortPass: 74 | Tackling: 73 | Dribbling: 71 | Stamina: 59
+    - Manor Solomon (CM) — OVR: 71 [Conf: 0.24]
+      Finishing: 65 | ShortPass: 73 | Tackling: 72 | Dribbling: 76 | Stamina: 59
+    - Benjamin Chilwell (CM) — OVR: 70 [Conf: 0.53]
+      Finishing: 86 | ShortPass: 75 | Tackling: 75 | Dribbling: 66 | Stamina: 54
+    - Steven Bergwijn (CM) — OVR: 70 [Conf: 0.53]
+      Finishing: 86 | ShortPass: 75 | Tackling: 75 | Dribbling: 68 | Stamina: 54
+    - Tanguy Ndombele (CM) — OVR: 70 [Conf: 0.52]
+      Finishing: 80 | ShortPass: 75 | Tackling: 74 | Dribbling: 65 | Stamina: 55
+    - Armando Broja (CM) — OVR: 70 [Conf: 0.25]
+      Finishing: 73 | ShortPass: 73 | Tackling: 73 | Dribbling: 71 | Stamina: 59
+    - Hjalmar Ekdal (CM) — OVR: 70 [Conf: 0.56]
+      Finishing: 60 | ShortPass: 74 | Tackling: 75 | Dribbling: 66 | Stamina: 60
+    - Bryan Gil Salvatierra (CM) — OVR: 70 [Conf: 0.24]
+      Finishing: 67 | ShortPass: 73 | Tackling: 72 | Dribbling: 70 | Stamina: 59
+    - Radu Dragusin (CM) — OVR: 70 [Conf: 0.54]
+      Finishing: 61 | ShortPass: 74 | Tackling: 73 | Dribbling: 64 | Stamina: 60
+    - Kiernan Dewsbury-Hall (CM) — OVR: 70 [Conf: 0.24]
+      Finishing: 65 | ShortPass: 73 | Tackling: 72 | Dribbling: 70 | Stamina: 59
+    - Mykhailo Mudryk (CM) — OVR: 70 [Conf: 0.23]
+      Finishing: 67 | ShortPass: 72 | Tackling: 71 | Dribbling: 71 | Stamina: 58
+    - Tyrique George (CM) — OVR: 70 [Conf: 0.23]
+      Finishing: 79 | ShortPass: 72 | Tackling: 72 | Dribbling: 73 | Stamina: 58
+    - Ruben Loftus-Cheek (CM) — OVR: 69 [Conf: 0.72]
+      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 48 | Stamina: 61
+    - Rodrigo Bentancur (CM) — OVR: 69 [Conf: 0.71]
+      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 49 | Stamina: 60
+    - Lucas Rodrigues Moura da Silva (CM) — OVR: 69 [Conf: 0.22]
+      Finishing: 76 | ShortPass: 72 | Tackling: 71 | Dribbling: 68 | Stamina: 56
+    - Pape Matar Sarr (CM) — OVR: 69 [Conf: 0.24]
+      Finishing: 63 | ShortPass: 73 | Tackling: 71 | Dribbling: 66 | Stamina: 59
+    - Bryan Gil Salvatierra (CM) — OVR: 69 [Conf: 0.23]
+      Finishing: 64 | ShortPass: 72 | Tackling: 71 | Dribbling: 68 | Stamina: 59
+    - Benoît Badiashile (CM) — OVR: 69 [Conf: 0.51]
+      Finishing: 61 | ShortPass: 74 | Tackling: 73 | Dribbling: 63 | Stamina: 59
+    - Josh Acheampong (CM) — OVR: 69 [Conf: 0.23]
+      Finishing: 67 | ShortPass: 72 | Tackling: 71 | Dribbling: 66 | Stamina: 59
+    - Ross Barkley (CM) — OVR: 68 [Conf: 0.22]
+      Finishing: 78 | ShortPass: 72 | Tackling: 71 | Dribbling: 63 | Stamina: 56
+    - Andreas Christensen (CM) — OVR: 68 [Conf: 0.74]
+      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 44 | Stamina: 62
+    - Harry Winks (CM) — OVR: 68 [Conf: 0.61]
+      Finishing: 58 | ShortPass: 76 | Tackling: 76 | Dribbling: 49 | Stamina: 56
+    - Ryan Sessegnon (CM) — OVR: 68 [Conf: 0.64]
+      Finishing: 58 | ShortPass: 77 | Tackling: 77 | Dribbling: 50 | Stamina: 57
+    - Oliver Skipp (CM) — OVR: 68 [Conf: 0.71]
+      Finishing: 57 | ShortPass: 77 | Tackling: 77 | Dribbling: 44 | Stamina: 60
+    - Kepa Arrizabalaga (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 68 | Tackling: 76 | Dribbling: 68 | Stamina: 89
+    - Hugo Lloris (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 68 | Tackling: 75 | Dribbling: 67 | Stamina: 83
+    - Japhet Tanganga (CM) — OVR: 68 [Conf: 0.23]
+      Finishing: 64 | ShortPass: 72 | Tackling: 71 | Dribbling: 61 | Stamina: 59
+    - Arnaut Danjuma (CM) — OVR: 68 [Conf: 0.23]
+      Finishing: 78 | ShortPass: 72 | Tackling: 71 | Dribbling: 63 | Stamina: 58
+    - Manuel Benson Hedilazio (CM) — OVR: 68 [Conf: 0.22]
+      Finishing: 65 | ShortPass: 71 | Tackling: 70 | Dribbling: 65 | Stamina: 58
+    - Eric Dier (CM) — OVR: 68 [Conf: 0.23]
+      Finishing: 63 | ShortPass: 73 | Tackling: 72 | Dribbling: 60 | Stamina: 58
+    - Renato Palma Veiga (CM) — OVR: 68 [Conf: 0.23]
+      Finishing: 63 | ShortPass: 72 | Tackling: 72 | Dribbling: 60 | Stamina: 58
+    - Robert Sánchez (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 68 | Tackling: 76 | Dribbling: 68 | Stamina: 91
+    - Brandon Austin (GK) — OVR: 68 [Conf: 0.22]
+      Finishing: 54 | ShortPass: 68 | Tackling: 56 | Dribbling: 51 | Stamina: 56
+    - Sergio Reguilón (CM) — OVR: 68 [Conf: 0.23]
+      Finishing: 63 | ShortPass: 72 | Tackling: 72 | Dribbling: 65 | Stamina: 58
+    - Saúl Ñíguez (CM) — OVR: 67 [Conf: 0.52]
+      Finishing: 60 | ShortPass: 75 | Tackling: 74 | Dribbling: 53 | Stamina: 54
+    - Japhet Tanganga (CM) — OVR: 67 [Conf: 0.57]
+      Finishing: 59 | ShortPass: 76 | Tackling: 76 | Dribbling: 47 | Stamina: 55
+    - Giovani Lo Celso (CM) — OVR: 67 [Conf: 0.23]
+      Finishing: 62 | ShortPass: 73 | Tackling: 72 | Dribbling: 56 | Stamina: 55
+    - Edouard Mendy (GK) — OVR: 67 [Conf: 0.69]
+      Finishing: 54 | ShortPass: 68 | Tackling: 70 | Dribbling: 63 | Stamina: 64
+    - Fraser Forster (GK) — OVR: 67 [Conf: 0.81]
+      Finishing: 54 | ShortPass: 68 | Tackling: 72 | Dribbling: 65 | Stamina: 69
+    - Arijanet Muric (GK) — OVR: 67 [Conf: 0.71]
+      Finishing: 54 | ShortPass: 67 | Tackling: 72 | Dribbling: 64 | Stamina: 63
+    - Anass Zaroury (CM) — OVR: 67 [Conf: 0.23]
+      Finishing: 64 | ShortPass: 72 | Tackling: 71 | Dribbling: 60 | Stamina: 58
+    - James Trafford (GK) — OVR: 67 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 67 | Tackling: 76 | Dribbling: 68 | Stamina: 89
+    - Nathan Redmond (CM) — OVR: 67 [Conf: 0.22]
+      Finishing: 64 | ShortPass: 71 | Tackling: 71 | Dribbling: 62 | Stamina: 56
+    - Ivan Perišić (CM) — OVR: 67 [Conf: 0.22]
+      Finishing: 65 | ShortPass: 71 | Tackling: 69 | Dribbling: 65 | Stamina: 57
+    - Guglielmo Vicario (GK) — OVR: 67 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 68 | Tackling: 77 | Dribbling: 69 | Stamina: 92
+    - Filip Jørgensen (GK) — OVR: 67 [Conf: 0.59]
+      Finishing: 54 | ShortPass: 68 | Tackling: 66 | Dribbling: 61 | Stamina: 60
+    - Fraser Forster (GK) — OVR: 67 [Conf: 0.62]
+      Finishing: 54 | ShortPass: 67 | Tackling: 66 | Dribbling: 63 | Stamina: 60
+    - Guglielmo Vicario (GK) — OVR: 67 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 68 | Tackling: 74 | Dribbling: 67 | Stamina: 82
+    - Antonín Kinsky (GK) — OVR: 67 [Conf: 0.59]
+      Finishing: 54 | ShortPass: 67 | Tackling: 66 | Dribbling: 61 | Stamina: 60
+    - Malang Sarr (CM) — OVR: 66 [Conf: 0.53]
+      Finishing: 59 | ShortPass: 75 | Tackling: 74 | Dribbling: 49 | Stamina: 54
+    - Olivier Giroud (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Michy Batshuayi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Tammy Abraham (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ethan Ampadu (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Emerson Palmieri dos Santos (CM) — UNRATED (Insufficient playing time (4 mins < 90 mins threshold))
+    - Marcus Bettinelli (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Lewis Hall (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Harvey Vale (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Robert Kenedy Nunes do Nascimento (CM) — UNRATED (Insufficient playing time (58 mins < 90 mins threshold))
+    - Joe Hart (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Toby Alderweireld (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Erik Lamela (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Serge Aurier (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Joe Rodon (CM) — UNRATED (Insufficient playing time (87 mins < 90 mins threshold))
+    - Pierluigi Gollini (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Bryan Gil Salvatierra (CM) — UNRATED (Insufficient playing time (86 mins < 90 mins threshold))
+    - Dane Scarlett (CM) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
+    - Dilan Markanday (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Tobi Omole (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Brandon Austin (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Harvey White (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Alfie Devine (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jamie Bowden (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Marcel Lavinier (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Matthew Craig (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Marcos Alonso (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ross Barkley (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Timo Werner (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Robert Kenedy Nunes do Nascimento (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Malang Sarr (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Callum Hudson-Odoi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ethan Ampadu (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Harvey Vale (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Marcus Bettinelli (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Omari Hutchinson (CM) — UNRATED (Insufficient playing time (22 mins < 90 mins threshold))
+    - Bashir Humphreys (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - David Datro Fofana (CM) — UNRATED (Insufficient playing time (68 mins < 90 mins threshold))
+    - Andrey Nascimento dos Santos (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ethan Wady (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Alfie Gilchrist (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Harry Winks (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Steven Bergwijn (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Sergio Reguilón (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Joe Rodon (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Dane Scarlett (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Harvey White (CM) — UNRATED (Insufficient playing time (4 mins < 90 mins threshold))
+    - Brandon Austin (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Alfie Devine (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Troy Parrott (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Djed Spence (CM) — UNRATED (Insufficient playing time (5 mins < 90 mins threshold))
+    - Romaine Mundle (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - George Abbott (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
+    - Matthew Craig (CM) — UNRATED (Insufficient playing time (13 mins < 90 mins threshold))
+    - Yago de Santiago Alonso (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Enock Agyei (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Samuel Bastien (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Darko Churlinov (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jack Cork (CM) — UNRATED (Insufficient playing time (25 mins < 90 mins threshold))
+    - Dara Costelloe (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Conrad Egan-Riley (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Denis Franchi (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Luke McNally (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Michael Obafemi (CM) — UNRATED (Insufficient playing time (19 mins < 90 mins threshold))
+    - Bailey Peacock-Farrell (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Bobby Thomas (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Scott Twine (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Lawrence Vigouroux (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Wout Weghorst (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Owen Dodgson (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Han-Noah Massengo (CM) — UNRATED (Insufficient playing time (14 mins < 90 mins threshold))
+    - Brandon Austin (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Fraser Forster (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Harry Kane (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Hugo Lloris (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Tanguy Ndombele (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Joe Rodon (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Davinson Sánchez (CM) — UNRATED (Insufficient playing time (76 mins < 90 mins threshold))
+    - Ryan Sessegnon (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Djed Spence (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Japhet Tanganga (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Alfie Whiteman (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Dane Scarlett (CM) — UNRATED (Insufficient playing time (19 mins < 90 mins threshold))
+    - Alejo Véliz (CM) — UNRATED (Insufficient playing time (45 mins < 90 mins threshold))
+    - Ashley Phillips (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jamie Donley (CM) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
+    - Alfie Dorrington (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Yago de Santiago Alonso (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mikey Moore (CM) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
+    - Tyrese Hall (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Andrey Nascimento dos Santos (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ângelo Gabriel Borges Damaceno (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Lucas Bergström (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Marcus Bettinelli (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Cesare Casadei (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Carney Chukwuemeka (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - David Datro Fofana (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Deivid Washington de Souza Eugênio (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Conor Gallagher (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Alfie Gilchrist (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Omari Kellyman (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Romelu Lukaku (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Malang Sarr (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Marc Guiu Paz (CM) — UNRATED (Insufficient playing time (71 mins < 90 mins threshold))
+    - Đorđe Petrović (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Caleb Wiley (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Samuel Rak-Sakyi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Enzo Maresca (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mathis Amougou (CM) — UNRATED (Insufficient playing time (7 mins < 90 mins threshold))
+    - Aaron Anselmino (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Shumaira Mheuka (CM) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
+    - Ishé Samuels-Smith (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Genesis Antwi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ashley Phillips (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Bryan Gil Salvatierra (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Alfie Devine (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Emerson Aparecido Leite de Souza Junior (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Pierre-Emile Højbjerg (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Giovani Lo Celso (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Dane Scarlett (CM) — UNRATED (Insufficient playing time (31 mins < 90 mins threshold))
+    - Manor Solomon (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Alejo Véliz (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Alfie Whiteman (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Will Lankshear (CM) — UNRATED (Insufficient playing time (10 mins < 90 mins threshold))
+    - Callum Olusesi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Malachi Hardy (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Luca Williams-Barnett (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Alfie Dorrington (CM) — UNRATED (Insufficient playing time (13 mins < 90 mins threshold))
+    - Maeson King (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Min-Hyeok Yang (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Damola Ajayi (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ange Postecoglou (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Dante Cassanova (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+
   CLUB: Watford FC
   -----------------------------------
     - Ben Foster (GK) — OVR: 82 [Conf: 0.81]
@@ -5210,6 +5222,15 @@ COMPETITION: LALIGA
     - Unknown Player (CM) — OVR: 74 [Conf: 0.89]
       Finishing: 80 | ShortPass: 77 | Tackling: 60 | Dribbling: 78 | Stamina: 70
 
+  CLUB: AC Milan
+  -----------------------------------
+    - Matteo Gabbia (CB) — OVR: 81 [Conf: 0.86]
+      Finishing: 69 | ShortPass: 96 | Tackling: 81 | Dribbling: 75 | Stamina: 71
+
+  CLUB: AC Monza
+  -----------------------------------
+    - Alejandro Darío Gómez Villaverde (CM) — UNRATED (Insufficient playing time (39 mins < 90 mins threshold))
+
   CLUB: AD Alcorcón
   -----------------------------------
     - Óscar Rivas (CB) — OVR: 85 [Conf: 0.96]
@@ -5283,6 +5304,166 @@ COMPETITION: LALIGA
   -----------------------------------
     - Kaiky Fernandes Melo (CB) — OVR: 75 [Conf: 0.73]
       Finishing: 61 | ShortPass: 72 | Tackling: 77 | Dribbling: 76 | Stamina: 67
+
+  CLUB: Athletic Club
+  -----------------------------------
+    - Ane Azkona (ST) — OVR: 91 [Conf: 0.99]
+      Finishing: 95 | ShortPass: 44 | Tackling: 45 | Dribbling: 93 | Stamina: 85
+    - Lucía García (ST) — OVR: 91 [Conf: 0.99]
+      Finishing: 98 | ShortPass: 44 | Tackling: 45 | Dribbling: 92 | Stamina: 85
+    - Gorka Guruzeta (ST) — OVR: 89 [Conf: 0.99]
+      Finishing: 91 | ShortPass: 59 | Tackling: 69 | Dribbling: 87 | Stamina: 84
+    - Yulema Corres (ST) — OVR: 89 [Conf: 0.83]
+      Finishing: 94 | ShortPass: 46 | Tackling: 47 | Dribbling: 85 | Stamina: 66
+    - Yeray Álvarez (CB) — OVR: 88 [Conf: 0.99]
+      Finishing: 55 | ShortPass: 80 | Tackling: 91 | Dribbling: 70 | Stamina: 80
+    - Iñaki Williams (ST) — OVR: 87 [Conf: 0.99]
+      Finishing: 87 | ShortPass: 64 | Tackling: 59 | Dribbling: 86 | Stamina: 92
+    - Íñigo Martínez (CB) — OVR: 87 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 78 | Tackling: 89 | Dribbling: 80 | Stamina: 87
+    - Ainize Barea Núñez (ST) — OVR: 87 [Conf: 0.96]
+      Finishing: 91 | ShortPass: 45 | Tackling: 46 | Dribbling: 85 | Stamina: 69
+    - Iñaki Williams (ST) — OVR: 83 [Conf: 0.99]
+      Finishing: 83 | ShortPass: 56 | Tackling: 56 | Dribbling: 82 | Stamina: 90
+    - Erika Vázquez (ST) — OVR: 83 [Conf: 0.82]
+      Finishing: 89 | ShortPass: 46 | Tackling: 47 | Dribbling: 76 | Stamina: 61
+    - Dani Vivian (CB) — OVR: 82 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 77 | Tackling: 83 | Dribbling: 80 | Stamina: 81
+    - Iker Muniain (ST) — OVR: 81 [Conf: 0.99]
+      Finishing: 75 | ShortPass: 78 | Tackling: 57 | Dribbling: 93 | Stamina: 91
+    - Nekane Díez (ST) — OVR: 81 [Conf: 0.64]
+      Finishing: 84 | ShortPass: 50 | Tackling: 50 | Dribbling: 84 | Stamina: 57
+    - Ander Herrera (CM) — OVR: 80 [Conf: 0.83]
+      Finishing: 61 | ShortPass: 92 | Tackling: 84 | Dribbling: 64 | Stamina: 61
+    - Nicholas Williams Arthuer (ST) — OVR: 80 [Conf: 0.99]
+      Finishing: 77 | ShortPass: 63 | Tackling: 56 | Dribbling: 87 | Stamina: 84
+    - Aitor Paredes (CB) — OVR: 79 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 84 | Tackling: 78 | Dribbling: 74 | Stamina: 91
+    - Alex Berenguer (ST) — OVR: 79 [Conf: 0.95]
+      Finishing: 84 | ShortPass: 60 | Tackling: 63 | Dribbling: 70 | Stamina: 69
+    - Yeray Álvarez (CB) — OVR: 79 [Conf: 0.85]
+      Finishing: 60 | ShortPass: 84 | Tackling: 80 | Dribbling: 70 | Stamina: 69
+    - Óscar De Marcos (CB) — OVR: 79 [Conf: 0.97]
+      Finishing: 71 | ShortPass: 76 | Tackling: 80 | Dribbling: 89 | Stamina: 77
+    - Beñat Prados (CM) — OVR: 78 [Conf: 0.92]
+      Finishing: 65 | ShortPass: 81 | Tackling: 84 | Dribbling: 73 | Stamina: 70
+    - Yuri Berchiche (CB) — OVR: 78 [Conf: 0.99]
+      Finishing: 69 | ShortPass: 81 | Tackling: 78 | Dribbling: 76 | Stamina: 80
+    - Íñigo Ruíz de Galarreta (CM) — OVR: 78 [Conf: 0.99]
+      Finishing: 62 | ShortPass: 82 | Tackling: 70 | Dribbling: 73 | Stamina: 82
+    - Dani Vivian (CB) — OVR: 77 [Conf: 0.99]
+      Finishing: 56 | ShortPass: 85 | Tackling: 74 | Dribbling: 72 | Stamina: 92
+    - Mikel Vesga (CM) — OVR: 77 [Conf: 0.94]
+      Finishing: 71 | ShortPass: 78 | Tackling: 89 | Dribbling: 71 | Stamina: 71
+    - Mikel Balenziaga (CB) — OVR: 77 [Conf: 0.99]
+      Finishing: 60 | ShortPass: 69 | Tackling: 78 | Dribbling: 76 | Stamina: 81
+    - Yuri Berchiche (CB) — OVR: 77 [Conf: 0.77]
+      Finishing: 67 | ShortPass: 75 | Tackling: 79 | Dribbling: 79 | Stamina: 68
+    - Unai Vencedor (CM) — OVR: 76 [Conf: 0.99]
+      Finishing: 58 | ShortPass: 79 | Tackling: 63 | Dribbling: 70 | Stamina: 85
+    - Asier Villalibre (ST) — OVR: 75 [Conf: 0.69]
+      Finishing: 81 | ShortPass: 58 | Tackling: 61 | Dribbling: 66 | Stamina: 56
+    - Íñigo Lekue (CB) — OVR: 75 [Conf: 0.99]
+      Finishing: 55 | ShortPass: 78 | Tackling: 74 | Dribbling: 68 | Stamina: 80
+    - Daniel García Carrillo (CM) — OVR: 75 [Conf: 0.99]
+      Finishing: 59 | ShortPass: 75 | Tackling: 72 | Dribbling: 72 | Stamina: 82
+    - Iker Muniain (ST) — OVR: 74 [Conf: 0.73]
+      Finishing: 81 | ShortPass: 77 | Tackling: 55 | Dribbling: 63 | Stamina: 56
+    - Imanol García de Albéniz (CB) — OVR: 74 [Conf: 0.61]
+      Finishing: 57 | ShortPass: 75 | Tackling: 75 | Dribbling: 61 | Stamina: 63
+    - Alex Berenguer (ST) — OVR: 74 [Conf: 0.99]
+      Finishing: 72 | ShortPass: 64 | Tackling: 71 | Dribbling: 78 | Stamina: 80
+    - Mikel Vesga (CM) — OVR: 74 [Conf: 0.90]
+      Finishing: 68 | ShortPass: 77 | Tackling: 81 | Dribbling: 65 | Stamina: 67
+    - Nicolás Serrano (ST) — OVR: 74 [Conf: 0.61]
+      Finishing: 81 | ShortPass: 60 | Tackling: 65 | Dribbling: 65 | Stamina: 56
+    - Íñigo Lekue (CB) — OVR: 74 [Conf: 0.99]
+      Finishing: 60 | ShortPass: 72 | Tackling: 74 | Dribbling: 80 | Stamina: 80
+    - Alex Petxarroman (CB) — OVR: 73 [Conf: 0.66]
+      Finishing: 64 | ShortPass: 72 | Tackling: 75 | Dribbling: 66 | Stamina: 59
+    - Asier Villalibre (ST) — OVR: 73 [Conf: 0.71]
+      Finishing: 80 | ShortPass: 55 | Tackling: 63 | Dribbling: 61 | Stamina: 56
+    - Oihan Sancet (CM) — OVR: 72 [Conf: 0.99]
+      Finishing: 71 | ShortPass: 71 | Tackling: 60 | Dribbling: 78 | Stamina: 79
+    - Óscar De Marcos (CB) — OVR: 72 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 80 | Tackling: 70 | Dribbling: 85 | Stamina: 84
+    - Unai Núñez (CB) — OVR: 72 [Conf: 0.63]
+      Finishing: 59 | ShortPass: 79 | Tackling: 73 | Dribbling: 68 | Stamina: 64
+    - Daniel García Carrillo (CM) — OVR: 70 [Conf: 0.73]
+      Finishing: 69 | ShortPass: 75 | Tackling: 74 | Dribbling: 64 | Stamina: 59
+    - Unai Simón (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 60 | Tackling: 46 | Dribbling: 69 | Stamina: 92
+    - Oihan Sancet (CM) — OVR: 68 [Conf: 0.92]
+      Finishing: 82 | ShortPass: 66 | Tackling: 60 | Dribbling: 76 | Stamina: 69
+    - Unai Simón (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 59 | Tackling: 46 | Dribbling: 69 | Stamina: 93
+    - Julen Agirrezabala (GK) — OVR: 67 [Conf: 0.25]
+      Finishing: 54 | ShortPass: 60 | Tackling: 50 | Dribbling: 51 | Stamina: 58
+    - Julen Agirrezabala (GK) — OVR: 67 [Conf: 0.52]
+      Finishing: 54 | ShortPass: 57 | Tackling: 49 | Dribbling: 61 | Stamina: 60
+    - Nicholas Williams Arthuer (ST) — OVR: 67 [Conf: 0.89]
+      Finishing: 69 | ShortPass: 61 | Tackling: 61 | Dribbling: 64 | Stamina: 64
+    - Raúl García (CM) — OVR: 67 [Conf: 0.99]
+      Finishing: 77 | ShortPass: 62 | Tackling: 70 | Dribbling: 72 | Stamina: 74
+    - Mikel Jauregizar (CM) — OVR: 66 [Conf: 0.25]
+      Finishing: 64 | ShortPass: 72 | Tackling: 65 | Dribbling: 59 | Stamina: 56
+    - Oier Zarraga (CM) — OVR: 66 [Conf: 0.86]
+      Finishing: 65 | ShortPass: 71 | Tackling: 68 | Dribbling: 58 | Stamina: 60
+    - Malcom Abdulai Ares Djaló (ST) — OVR: 65 [Conf: 0.29]
+      Finishing: 69 | ShortPass: 62 | Tackling: 64 | Dribbling: 59 | Stamina: 56
+    - Raúl García (CM) — OVR: 64 [Conf: 0.69]
+      Finishing: 69 | ShortPass: 67 | Tackling: 79 | Dribbling: 54 | Stamina: 55
+    - Unai Gómez (CM) — OVR: 64 [Conf: 0.79]
+      Finishing: 77 | ShortPass: 64 | Tackling: 66 | Dribbling: 67 | Stamina: 58
+    - Andrea De la Nava (GK) — OVR: 63 [Conf: 0.52]
+      Finishing: 54 | ShortPass: 48 | Tackling: 47 | Dribbling: 61 | Stamina: 59
+    - Oihane Valdezate (CM) — OVR: 62 [Conf: 0.99]
+      Finishing: 81 | ShortPass: 46 | Tackling: 46 | Dribbling: 92 | Stamina: 88
+    - María Asunción Quiñones Goikoetxea (GK) — OVR: 62 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 50 | Tackling: 44 | Dribbling: 69 | Stamina: 85
+    - Paula Arana (ST) — OVR: 61 [Conf: 0.82]
+      Finishing: 61 | ShortPass: 48 | Tackling: 48 | Dribbling: 60 | Stamina: 61
+    - Clara Pinedo (CM) — OVR: 60 [Conf: 0.53]
+      Finishing: 78 | ShortPass: 58 | Tackling: 58 | Dribbling: 70 | Stamina: 58
+    - Irene Oguiza (CM) — OVR: 59 [Conf: 0.93]
+      Finishing: 83 | ShortPass: 48 | Tackling: 48 | Dribbling: 86 | Stamina: 72
+    - Sophie Istillart (CM) — OVR: 56 [Conf: 0.60]
+      Finishing: 60 | ShortPass: 54 | Tackling: 55 | Dribbling: 61 | Stamina: 59
+    - Itxaso Uriarte (CM) — OVR: 55 [Conf: 0.85]
+      Finishing: 58 | ShortPass: 50 | Tackling: 50 | Dribbling: 62 | Stamina: 64
+    - Mariana Cerro (CM) — OVR: 55 [Conf: 0.64]
+      Finishing: 60 | ShortPass: 55 | Tackling: 54 | Dribbling: 56 | Stamina: 57
+    - Marta Unzué (CM) — OVR: 55 [Conf: 0.96]
+      Finishing: 57 | ShortPass: 48 | Tackling: 48 | Dribbling: 63 | Stamina: 72
+    - Naroa Uriarte (CB) — OVR: 54 [Conf: 0.68]
+      Finishing: 79 | ShortPass: 50 | Tackling: 52 | Dribbling: 84 | Stamina: 66
+    - Eunate Arraiza (CB) — OVR: 52 [Conf: 0.85]
+      Finishing: 56 | ShortPass: 49 | Tackling: 50 | Dribbling: 61 | Stamina: 66
+    - Vanesa Gimbert (CB) — OVR: 52 [Conf: 0.77]
+      Finishing: 82 | ShortPass: 49 | Tackling: 50 | Dribbling: 85 | Stamina: 68
+    - Garazi Murua (CB) — OVR: 51 [Conf: 0.99]
+      Finishing: 81 | ShortPass: 47 | Tackling: 48 | Dribbling: 86 | Stamina: 76
+    - Ainhoa Vicente Moraza (CB) — OVR: 51 [Conf: 0.99]
+      Finishing: 55 | ShortPass: 46 | Tackling: 47 | Dribbling: 71 | Stamina: 85
+    - Oihane Hernández (CB) — OVR: 51 [Conf: 0.99]
+      Finishing: 55 | ShortPass: 47 | Tackling: 48 | Dribbling: 67 | Stamina: 76
+    - Aingeru Olabarrieta (ST) — UNRATED (Insufficient playing time (8 mins < 90 mins threshold))
+    - Hugo Rincón (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Unai Egiluz (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Álex Padilla (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Aitor Paredes (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ander Capa (CB) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
+    - Ander Iruarrizaga (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Jokin Ezkieta (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Juan Artola (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Luis Bilbao (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ana Urzainqui (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ane Elexpuru (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Leyre Monente (ST) — UNRATED (Insufficient playing time (35 mins < 90 mins threshold))
+    - Maite Zubieta (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Naia Landaluze (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Paula Esteban (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Sara Ortega (ST) — UNRATED (Insufficient playing time (2 mins < 90 mins threshold))
 
   CLUB: Atlético de Madrid
   -----------------------------------
@@ -5500,6 +5681,112 @@ COMPETITION: LALIGA
     - Filip Malbasic (ST) — OVR: 64 [Conf: 0.58]
       Finishing: 67 | ShortPass: 57 | Tackling: 58 | Dribbling: 59 | Stamina: 57
     - Óscar López (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+
+  CLUB: CA Osasuna
+  -----------------------------------
+    - Ante Budimir (ST) — OVR: 89 [Conf: 0.99]
+      Finishing: 91 | ShortPass: 52 | Tackling: 73 | Dribbling: 83 | Stamina: 87
+    - Nacho Vidal (CB) — OVR: 89 [Conf: 0.99]
+      Finishing: 56 | ShortPass: 67 | Tackling: 92 | Dribbling: 72 | Stamina: 92
+    - David García (CB) — OVR: 88 [Conf: 0.99]
+      Finishing: 64 | ShortPass: 76 | Tackling: 90 | Dribbling: 75 | Stamina: 93
+    - Ante Budimir (ST) — OVR: 82 [Conf: 0.99]
+      Finishing: 86 | ShortPass: 54 | Tackling: 74 | Dribbling: 76 | Stamina: 75
+    - Unai García (CB) — OVR: 82 [Conf: 0.89]
+      Finishing: 56 | ShortPass: 68 | Tackling: 85 | Dribbling: 67 | Stamina: 73
+    - Aridane Hernández (CB) — OVR: 81 [Conf: 0.81]
+      Finishing: 56 | ShortPass: 74 | Tackling: 84 | Dribbling: 66 | Stamina: 69
+    - Lucas Torró (CM) — OVR: 81 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 75 | Tackling: 93 | Dribbling: 78 | Stamina: 92
+    - David García (CB) — OVR: 80 [Conf: 0.99]
+      Finishing: 57 | ShortPass: 83 | Tackling: 80 | Dribbling: 74 | Stamina: 86
+    - Jorge Herrando (CB) — OVR: 79 [Conf: 0.96]
+      Finishing: 56 | ShortPass: 73 | Tackling: 80 | Dribbling: 69 | Stamina: 77
+    - Moi Gómez (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 74 | ShortPass: 83 | Tackling: 65 | Dribbling: 80 | Stamina: 79
+    - Jon Moncayola (CM) — OVR: 76 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 75 | Tackling: 64 | Dribbling: 78 | Stamina: 91
+    - Kike García (ST) — OVR: 76 [Conf: 0.99]
+      Finishing: 79 | ShortPass: 58 | Tackling: 63 | Dribbling: 69 | Stamina: 74
+    - Manu Sánchez (CB) — OVR: 76 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 68 | Tackling: 77 | Dribbling: 77 | Stamina: 83
+    - Alejandro Catena (CB) — OVR: 75 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 80 | Tackling: 73 | Dribbling: 78 | Stamina: 89
+    - Iker Muñoz (CM) — OVR: 75 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 78 | Tackling: 74 | Dribbling: 72 | Stamina: 74
+    - Jon Moncayola (CM) — OVR: 75 [Conf: 0.99]
+      Finishing: 64 | ShortPass: 79 | Tackling: 67 | Dribbling: 71 | Stamina: 74
+    - Lucas Torró (CM) — OVR: 75 [Conf: 0.99]
+      Finishing: 64 | ShortPass: 74 | Tackling: 88 | Dribbling: 69 | Stamina: 74
+    - Chimy Ávila (ST) — OVR: 75 [Conf: 0.99]
+      Finishing: 78 | ShortPass: 56 | Tackling: 65 | Dribbling: 68 | Stamina: 74
+    - Unai García (CB) — OVR: 74 [Conf: 0.61]
+      Finishing: 70 | ShortPass: 65 | Tackling: 77 | Dribbling: 68 | Stamina: 64
+    - Rubén García (ST) — OVR: 73 [Conf: 0.94]
+      Finishing: 74 | ShortPass: 67 | Tackling: 71 | Dribbling: 73 | Stamina: 70
+    - Jonás Ramalho (CB) — OVR: 73 [Conf: 0.24]
+      Finishing: 59 | ShortPass: 69 | Tackling: 75 | Dribbling: 68 | Stamina: 66
+    - Juan Cruz Álvaro Armada (CB) — OVR: 73 [Conf: 0.99]
+      Finishing: 55 | ShortPass: 75 | Tackling: 72 | Dribbling: 70 | Stamina: 81
+    - Kike Barja (ST) — OVR: 73 [Conf: 0.79]
+      Finishing: 77 | ShortPass: 64 | Tackling: 65 | Dribbling: 67 | Stamina: 60
+    - Rubén García (ST) — OVR: 73 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 70 | Tackling: 68 | Dribbling: 81 | Stamina: 84
+    - Johan Mojica (CM) — OVR: 72 [Conf: 0.99]
+      Finishing: 58 | ShortPass: 74 | Tackling: 69 | Dribbling: 68 | Stamina: 78
+    - José Arnaiz (ST) — OVR: 72 [Conf: 0.80]
+      Finishing: 76 | ShortPass: 62 | Tackling: 60 | Dribbling: 66 | Stamina: 60
+    - Darko Brasanac (CM) — OVR: 72 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 68 | Tackling: 67 | Dribbling: 78 | Stamina: 84
+    - Juan Cruz Álvaro Armada (CB) — OVR: 71 [Conf: 0.97]
+      Finishing: 55 | ShortPass: 75 | Tackling: 70 | Dribbling: 65 | Stamina: 75
+    - José Ángel Valdés Díaz (CB) — OVR: 71 [Conf: 0.84]
+      Finishing: 66 | ShortPass: 78 | Tackling: 71 | Dribbling: 69 | Stamina: 65
+    - Kike Barja (ST) — OVR: 70 [Conf: 0.31]
+      Finishing: 73 | ShortPass: 60 | Tackling: 65 | Dribbling: 66 | Stamina: 56
+    - Iker Benito (ST) — OVR: 70 [Conf: 0.23]
+      Finishing: 74 | ShortPass: 56 | Tackling: 60 | Dribbling: 65 | Stamina: 59
+    - Jesús Areso (CB) — OVR: 69 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 68 | Tackling: 66 | Dribbling: 77 | Stamina: 91
+    - Rubén Peña (ST) — OVR: 69 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 62 | Tackling: 72 | Dribbling: 78 | Stamina: 82
+    - Aimar Oroz (ST) — OVR: 68 [Conf: 0.99]
+      Finishing: 64 | ShortPass: 72 | Tackling: 64 | Dribbling: 72 | Stamina: 84
+    - Pablo Ibáñez (CM) — OVR: 68 [Conf: 0.85]
+      Finishing: 67 | ShortPass: 69 | Tackling: 74 | Dribbling: 64 | Stamina: 61
+    - Unai Dufur (CM) — OVR: 68 [Conf: 0.22]
+      Finishing: 65 | ShortPass: 70 | Tackling: 73 | Dribbling: 64 | Stamina: 61
+    - Sergio Herrera (GK) — OVR: 67 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 61 | Tackling: 48 | Dribbling: 69 | Stamina: 92
+    - Javi Martínez (CM) — OVR: 67 [Conf: 0.79]
+      Finishing: 65 | ShortPass: 71 | Tackling: 73 | Dribbling: 60 | Stamina: 58
+    - Sergio Herrera (GK) — OVR: 67 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 59 | Tackling: 48 | Dribbling: 69 | Stamina: 93
+    - Aitor Fernández (GK) — OVR: 66 [Conf: 0.59]
+      Finishing: 54 | ShortPass: 58 | Tackling: 48 | Dribbling: 62 | Stamina: 61
+    - Jesús Areso (CB) — OVR: 66 [Conf: 0.24]
+      Finishing: 59 | ShortPass: 63 | Tackling: 67 | Dribbling: 65 | Stamina: 64
+    - Juan Pérez (GK) — OVR: 66 [Conf: 0.23]
+      Finishing: 54 | ShortPass: 55 | Tackling: 50 | Dribbling: 57 | Stamina: 58
+    - Roberto Torres (CM) — OVR: 66 [Conf: 0.78]
+      Finishing: 74 | ShortPass: 70 | Tackling: 62 | Dribbling: 65 | Stamina: 56
+    - Iñigo Pérez (CM) — OVR: 64 [Conf: 0.57]
+      Finishing: 72 | ShortPass: 67 | Tackling: 61 | Dribbling: 64 | Stamina: 58
+    - Oier Sanjurjo (CM) — OVR: 64 [Conf: 0.77]
+      Finishing: 63 | ShortPass: 69 | Tackling: 67 | Dribbling: 56 | Stamina: 57
+    - Unknown Player (CM) — OVR: 62 [Conf: 0.90]
+      Finishing: 81 | ShortPass: 59 | Tackling: 65 | Dribbling: 65 | Stamina: 64
+    - Asier Osambela (CM) — UNRATED (Insufficient playing time (9 mins < 90 mins threshold))
+    - Dimitrios Stamatakis (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Iñigo Arguibide (CB) — UNRATED (Insufficient playing time (16 mins < 90 mins threshold))
+    - Jorge Moreno (CM) — UNRATED (Insufficient playing time (13 mins < 90 mins threshold))
+    - Max Svensson (CM) — UNRATED (Insufficient playing time (2 mins < 90 mins threshold))
+    - Pablo Valencia (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Xabier Huarte Armendáriz (CM) — UNRATED (Insufficient playing time (8 mins < 90 mins threshold))
+    - Iván Martínez Gonzálvez (ST) — UNRATED (Insufficient playing time (16 mins < 90 mins threshold))
+    - Darío Ramos (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Pau Martínez (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Yoel Ramírez (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
 
   CLUB: CD Leganés
   -----------------------------------
@@ -5945,6 +6232,175 @@ COMPETITION: LALIGA
     - Raúl Parra (CB) — UNRATED (Insufficient playing time (88 mins < 90 mins threshold))
     - Victor Wehbi Aznar Ussen (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
 
+  CLUB: Deportivo Alavés
+  -----------------------------------
+    - José Luis Mato Sanmartín (ST) — OVR: 88 [Conf: 0.99]
+      Finishing: 89 | ShortPass: 61 | Tackling: 77 | Dribbling: 85 | Stamina: 92
+    - Nahuel Tenaglia (CB) — OVR: 88 [Conf: 0.78]
+      Finishing: 59 | ShortPass: 62 | Tackling: 94 | Dribbling: 72 | Stamina: 69
+    - Rubén Duarte (CB) — OVR: 88 [Conf: 0.99]
+      Finishing: 60 | ShortPass: 64 | Tackling: 92 | Dribbling: 83 | Stamina: 90
+    - Lice Chamorro (ST) — OVR: 88 [Conf: 0.99]
+      Finishing: 91 | ShortPass: 45 | Tackling: 46 | Dribbling: 86 | Stamina: 74
+    - Carla Armengol (ST) — OVR: 85 [Conf: 0.99]
+      Finishing: 85 | ShortPass: 45 | Tackling: 46 | Dribbling: 87 | Stamina: 76
+    - Florian Lejeune (CB) — OVR: 84 [Conf: 0.99]
+      Finishing: 56 | ShortPass: 72 | Tackling: 85 | Dribbling: 73 | Stamina: 93
+    - Marta San Adrián Rocandio (ST) — OVR: 83 [Conf: 0.79]
+      Finishing: 89 | ShortPass: 47 | Tackling: 49 | Dribbling: 77 | Stamina: 60
+    - Sara Carrillo (ST) — OVR: 83 [Conf: 0.87]
+      Finishing: 88 | ShortPass: 46 | Tackling: 47 | Dribbling: 78 | Stamina: 66
+    - Rafa Marín (CB) — OVR: 82 [Conf: 0.99]
+      Finishing: 59 | ShortPass: 72 | Tackling: 84 | Dribbling: 71 | Stamina: 87
+    - Nahuel Tenaglia (CB) — OVR: 80 [Conf: 0.85]
+      Finishing: 64 | ShortPass: 65 | Tackling: 84 | Dribbling: 62 | Stamina: 65
+    - Samu Omorodion (ST) — OVR: 80 [Conf: 0.99]
+      Finishing: 84 | ShortPass: 54 | Tackling: 60 | Dribbling: 71 | Stamina: 76
+    - Matt Miazga (CB) — OVR: 80 [Conf: 0.69]
+      Finishing: 62 | ShortPass: 68 | Tackling: 84 | Dribbling: 75 | Stamina: 67
+    - Abdel Abqar (CB) — OVR: 78 [Conf: 0.99]
+      Finishing: 60 | ShortPass: 64 | Tackling: 80 | Dribbling: 79 | Stamina: 85
+    - Aleksandar Sedlar (CB) — OVR: 78 [Conf: 0.72]
+      Finishing: 64 | ShortPass: 73 | Tackling: 80 | Dribbling: 75 | Stamina: 68
+    - Rubén Duarte (CB) — OVR: 78 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 65 | Tackling: 81 | Dribbling: 74 | Stamina: 78
+    - Víctor Laguardia (CB) — OVR: 78 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 70 | Tackling: 77 | Dribbling: 81 | Stamina: 93
+    - Joaquín Navarro Jiménez (CB) — OVR: 78 [Conf: 0.88]
+      Finishing: 61 | ShortPass: 64 | Tackling: 81 | Dribbling: 76 | Stamina: 73
+    - Ander Guevara (CM) — OVR: 77 [Conf: 0.99]
+      Finishing: 62 | ShortPass: 76 | Tackling: 69 | Dribbling: 74 | Stamina: 90
+    - Andoni Gorosabel (CB) — OVR: 77 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 67 | Tackling: 77 | Dribbling: 82 | Stamina: 91
+    - Martín Aguirregabiria (CB) — OVR: 77 [Conf: 0.96]
+      Finishing: 56 | ShortPass: 65 | Tackling: 80 | Dribbling: 65 | Stamina: 73
+    - Carlos Vicente (ST) — OVR: 76 [Conf: 0.83]
+      Finishing: 76 | ShortPass: 56 | Tackling: 63 | Dribbling: 79 | Stamina: 65
+    - Kike García (ST) — OVR: 76 [Conf: 0.92]
+      Finishing: 81 | ShortPass: 55 | Tackling: 61 | Dribbling: 68 | Stamina: 67
+    - Antonio Blanco (CM) — OVR: 75 [Conf: 0.99]
+      Finishing: 60 | ShortPass: 72 | Tackling: 78 | Dribbling: 74 | Stamina: 85
+    - Mamadou Loum (CM) — OVR: 74 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 67 | Tackling: 90 | Dribbling: 71 | Stamina: 84
+    - Manu Vallejo (ST) — OVR: 73 [Conf: 0.59]
+      Finishing: 78 | ShortPass: 59 | Tackling: 62 | Dribbling: 67 | Stamina: 55
+    - Jon Guridi (CM) — OVR: 72 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 65 | Tackling: 68 | Dribbling: 79 | Stamina: 91
+    - Álex Sola (CB) — OVR: 72 [Conf: 0.88]
+      Finishing: 62 | ShortPass: 61 | Tackling: 73 | Dribbling: 71 | Stamina: 70
+    - Carlos Benavídez (CM) — OVR: 71 [Conf: 0.85]
+      Finishing: 78 | ShortPass: 69 | Tackling: 92 | Dribbling: 68 | Stamina: 61
+    - Antonio Moya (CB) — OVR: 71 [Conf: 0.91]
+      Finishing: 59 | ShortPass: 67 | Tackling: 72 | Dribbling: 66 | Stamina: 70
+    - Luis Rioja (CM) — OVR: 70 [Conf: 0.99]
+      Finishing: 74 | ShortPass: 62 | Tackling: 61 | Dribbling: 82 | Stamina: 87
+    - Gonzalo Escalante (CM) — OVR: 70 [Conf: 0.86]
+      Finishing: 82 | ShortPass: 62 | Tackling: 82 | Dribbling: 80 | Stamina: 70
+    - Tomás Pina (CM) — OVR: 70 [Conf: 0.92]
+      Finishing: 59 | ShortPass: 71 | Tackling: 77 | Dribbling: 62 | Stamina: 69
+    - Javi López (CB) — OVR: 69 [Conf: 0.59]
+      Finishing: 58 | ShortPass: 66 | Tackling: 70 | Dribbling: 60 | Stamina: 61
+    - Luis Rioja (CM) — OVR: 69 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 60 | Tackling: 59 | Dribbling: 82 | Stamina: 91
+    - Giuliano Simeone (ST) — OVR: 68 [Conf: 0.68]
+      Finishing: 70 | ShortPass: 58 | Tackling: 60 | Dribbling: 66 | Stamina: 59
+    - Javi López (CB) — OVR: 68 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 65 | Tackling: 66 | Dribbling: 72 | Stamina: 86
+    - Joaquín Panichelli (ST) — OVR: 68 [Conf: 0.26]
+      Finishing: 72 | ShortPass: 55 | Tackling: 72 | Dribbling: 63 | Stamina: 57
+    - Edgar Méndez (ST) — OVR: 68 [Conf: 0.96]
+      Finishing: 68 | ShortPass: 56 | Tackling: 65 | Dribbling: 67 | Stamina: 71
+    - John Guidetti (ST) — OVR: 68 [Conf: 0.28]
+      Finishing: 72 | ShortPass: 58 | Tackling: 56 | Dribbling: 63 | Stamina: 57
+    - Miguel de la Fuente (ST) — OVR: 68 [Conf: 0.78]
+      Finishing: 70 | ShortPass: 55 | Tackling: 59 | Dribbling: 64 | Stamina: 60
+    - Abdulai Mukarama (ST) — OVR: 68 [Conf: 0.24]
+      Finishing: 71 | ShortPass: 53 | Tackling: 57 | Dribbling: 63 | Stamina: 58
+    - Antonio Sivera (GK) — OVR: 67 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 58 | Tackling: 48 | Dribbling: 69 | Stamina: 92
+    - Antonio Sivera (GK) — OVR: 67 [Conf: 0.25]
+      Finishing: 54 | ShortPass: 59 | Tackling: 49 | Dribbling: 56 | Stamina: 58
+    - Facundo Pellistri (ST) — OVR: 67 [Conf: 0.75]
+      Finishing: 69 | ShortPass: 56 | Tackling: 63 | Dribbling: 66 | Stamina: 57
+    - David Remeseiro Salgueiro (ST) — OVR: 67 [Conf: 0.69]
+      Finishing: 66 | ShortPass: 55 | Tackling: 66 | Dribbling: 71 | Stamina: 61
+    - Jesús Owono (GK) — OVR: 67 [Conf: 0.22]
+      Finishing: 54 | ShortPass: 56 | Tackling: 50 | Dribbling: 55 | Stamina: 58
+    - Jesús Owono (GK) — OVR: 66 [Conf: 0.52]
+      Finishing: 54 | ShortPass: 58 | Tackling: 50 | Dribbling: 61 | Stamina: 60
+    - Fernando Pacheco (GK) — OVR: 66 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 58 | Tackling: 47 | Dribbling: 69 | Stamina: 92
+    - Neike Barga (GK) — OVR: 65 [Conf: 0.22]
+      Finishing: 54 | ShortPass: 51 | Tackling: 50 | Dribbling: 55 | Stamina: 58
+    - Ianis Hagi (CM) — OVR: 64 [Conf: 0.78]
+      Finishing: 66 | ShortPass: 64 | Tackling: 70 | Dribbling: 66 | Stamina: 58
+    - Pere Pons (CM) — OVR: 64 [Conf: 0.91]
+      Finishing: 64 | ShortPass: 62 | Tackling: 67 | Dribbling: 66 | Stamina: 68
+    - Xeber Alkain (CM) — OVR: 63 [Conf: 0.28]
+      Finishing: 62 | ShortPass: 66 | Tackling: 65 | Dribbling: 57 | Stamina: 57
+    - Manuel García (ST) — OVR: 63 [Conf: 0.84]
+      Finishing: 63 | ShortPass: 72 | Tackling: 65 | Dribbling: 63 | Stamina: 61
+    - Jana Xin Henseler Gallego (GK) — OVR: 63 [Conf: 0.56]
+      Finishing: 54 | ShortPass: 51 | Tackling: 47 | Dribbling: 61 | Stamina: 59
+    - Abde Rebbach (CM) — OVR: 61 [Conf: 0.76]
+      Finishing: 68 | ShortPass: 62 | Tackling: 63 | Dribbling: 60 | Stamina: 57
+    - Cristina Cornejo (GK) — OVR: 61 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 48 | Tackling: 44 | Dribbling: 68 | Stamina: 82
+    - Míriam Diéguez (CM) — OVR: 61 [Conf: 0.99]
+      Finishing: 84 | ShortPass: 47 | Tackling: 46 | Dribbling: 91 | Stamina: 82
+    - Ane Miren Martínez (CM) — OVR: 60 [Conf: 0.99]
+      Finishing: 83 | ShortPass: 47 | Tackling: 47 | Dribbling: 87 | Stamina: 79
+    - Alba Aznar (CM) — OVR: 59 [Conf: 0.93]
+      Finishing: 83 | ShortPass: 48 | Tackling: 48 | Dribbling: 86 | Stamina: 71
+    - Unknown Player (CM) — OVR: 58 [Conf: 0.94]
+      Finishing: 81 | ShortPass: 48 | Tackling: 48 | Dribbling: 80 | Stamina: 70
+    - Miku Ito (CM) — OVR: 58 [Conf: 0.86]
+      Finishing: 81 | ShortPass: 49 | Tackling: 51 | Dribbling: 79 | Stamina: 65
+    - Gema Soliveres (CM) — OVR: 56 [Conf: 0.81]
+      Finishing: 81 | ShortPass: 50 | Tackling: 51 | Dribbling: 71 | Stamina: 61
+    - Itziar Gastearena Artola (CB) — OVR: 55 [Conf: 0.60]
+      Finishing: 57 | ShortPass: 53 | Tackling: 54 | Dribbling: 65 | Stamina: 63
+    - Vera Martínez (CB) — OVR: 55 [Conf: 0.67]
+      Finishing: 57 | ShortPass: 52 | Tackling: 54 | Dribbling: 61 | Stamina: 62
+    - Irati Urruzola Bermúdez (CB) — OVR: 54 [Conf: 0.72]
+      Finishing: 78 | ShortPass: 51 | Tackling: 52 | Dribbling: 77 | Stamina: 64
+    - Nerea Nevado (CB) — OVR: 52 [Conf: 0.91]
+      Finishing: 64 | ShortPass: 49 | Tackling: 50 | Dribbling: 83 | Stamina: 68
+    - Sonia García Majarín (CB) — OVR: 52 [Conf: 0.99]
+      Finishing: 55 | ShortPass: 46 | Tackling: 47 | Dribbling: 71 | Stamina: 87
+    - Cristina Isabel Sánchez Auñón (CB) — OVR: 51 [Conf: 0.99]
+      Finishing: 55 | ShortPass: 46 | Tackling: 47 | Dribbling: 68 | Stamina: 80
+    - Garazi Facila (CB) — OVR: 51 [Conf: 0.97]
+      Finishing: 55 | ShortPass: 47 | Tackling: 48 | Dribbling: 66 | Stamina: 75
+    - Osinachi Ohale (CB) — OVR: 51 [Conf: 0.99]
+      Finishing: 83 | ShortPass: 46 | Tackling: 47 | Dribbling: 92 | Stamina: 83
+    - Adrián Rodríguez (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ander Sánchez (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Eneko Ortiz (CB) — UNRATED (Insufficient playing time (13 mins < 90 mins threshold))
+    - Gaizka García (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Giorgi Gagua (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Joseda Álvarez (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Rúben Montero (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Selu Diallo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Tomás Mendes (CM) — UNRATED (Insufficient playing time (5 mins < 90 mins threshold))
+    - Unai Ropero (ST) — UNRATED (Insufficient playing time (5 mins < 90 mins threshold))
+    - Victor Parada (CB) — UNRATED (Insufficient playing time (2 mins < 90 mins threshold))
+    - Unknown Player (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Abdel Abqar (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Adrián Rodríguez (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Alan Godoy (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Alexandru Mircea Tirlea (CM) — UNRATED (Insufficient playing time (14 mins < 90 mins threshold))
+    - Giorgi Gagua (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Iván Sanz (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Marc Tenas (ST) — UNRATED (Insufficient playing time (51 mins < 90 mins threshold))
+    - Oscar Medina (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Saul García (CB) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
+    - Tomás Mendes (CM) — UNRATED (Insufficient playing time (8 mins < 90 mins threshold))
+    - Unai Ropero (ST) — UNRATED (Insufficient playing time (11 mins < 90 mins threshold))
+    - Alejandro Balboa Bandeira (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Elene Errasti (ST) — UNRATED (Insufficient playing time (74 mins < 90 mins threshold))
+    - María Ortiz de Pinedo Otxoa (ST) — UNRATED (Insufficient playing time (61 mins < 90 mins threshold))
+
   CLUB: Elche CF
   -----------------------------------
     - Helibelton Palacios Zapata (CB) — OVR: 83 [Conf: 0.99]
@@ -6018,10 +6474,26 @@ COMPETITION: LALIGA
       Finishing: 98 | ShortPass: 72 | Tackling: 52 | Dribbling: 78 | Stamina: 75
     - Sergio Busquets (CM) — OVR: 91 [Conf: 0.99]
       Finishing: 65 | ShortPass: 99 | Tackling: 82 | Dribbling: 79 | Stamina: 93
+    - Asisat Oshoala (ST) — OVR: 91 [Conf: 0.82]
+      Finishing: 99 | ShortPass: 47 | Tackling: 48 | Dribbling: 84 | Stamina: 63
+    - Caroline Hansen (ST) — OVR: 91 [Conf: 0.94]
+      Finishing: 93 | ShortPass: 47 | Tackling: 46 | Dribbling: 99 | Stamina: 73
+    - Claudia Pina (ST) — OVR: 91 [Conf: 0.87]
+      Finishing: 99 | ShortPass: 48 | Tackling: 47 | Dribbling: 88 | Stamina: 62
+    - Fridolina Rolfö (ST) — OVR: 91 [Conf: 0.92]
+      Finishing: 99 | ShortPass: 47 | Tackling: 47 | Dribbling: 93 | Stamina: 69
+    - Jennifer Hermoso (ST) — OVR: 91 [Conf: 0.90]
+      Finishing: 99 | ShortPass: 47 | Tackling: 47 | Dribbling: 90 | Stamina: 67
+    - Lieke Martens (ST) — OVR: 91 [Conf: 0.88]
+      Finishing: 99 | ShortPass: 48 | Tackling: 47 | Dribbling: 95 | Stamina: 66
+    - María Francesca Caldentey Oliver (ST) — OVR: 91 [Conf: 0.78]
+      Finishing: 99 | ShortPass: 47 | Tackling: 47 | Dribbling: 92 | Stamina: 65
     - Frenkie de Jong (CM) — OVR: 90 [Conf: 0.96]
       Finishing: 74 | ShortPass: 99 | Tackling: 75 | Dribbling: 89 | Stamina: 76
     - Unknown Player (CM) — OVR: 90 [Conf: 0.99]
       Finishing: 72 | ShortPass: 99 | Tackling: 62 | Dribbling: 86 | Stamina: 91
+    - Bruna Vilamala (ST) — OVR: 89 [Conf: 0.25]
+      Finishing: 99 | ShortPass: 52 | Tackling: 54 | Dribbling: 77 | Stamina: 58
     - Unknown Player (CM) — OVR: 88 [Conf: 0.99]
       Finishing: 68 | ShortPass: 99 | Tackling: 76 | Dribbling: 78 | Stamina: 80
     - Frenkie de Jong (CM) — OVR: 86 [Conf: 0.99]
@@ -6118,8 +6590,42 @@ COMPETITION: LALIGA
       Finishing: 67 | ShortPass: 69 | Tackling: 66 | Dribbling: 67 | Stamina: 57
     - Alejandro Balde (CB) — OVR: 66 [Conf: 0.25]
       Finishing: 59 | ShortPass: 78 | Tackling: 65 | Dribbling: 63 | Stamina: 62
+    - Catalina Coll (GK) — OVR: 65 [Conf: 0.65]
+      Finishing: 54 | ShortPass: 52 | Tackling: 46 | Dribbling: 64 | Stamina: 63
+    - Gemma Font (GK) — OVR: 65 [Conf: 0.57]
+      Finishing: 54 | ShortPass: 50 | Tackling: 47 | Dribbling: 60 | Stamina: 59
+    - Sandra Paños (GK) — OVR: 65 [Conf: 0.90]
+      Finishing: 54 | ShortPass: 50 | Tackling: 44 | Dribbling: 67 | Stamina: 73
     - Unknown Player (CM) — OVR: 64 [Conf: 0.81]
       Finishing: 98 | ShortPass: 61 | Tackling: 55 | Dribbling: 76 | Stamina: 66
+    - Alexia Putellas (CM) — OVR: 62 [Conf: 0.99]
+      Finishing: 99 | ShortPass: 49 | Tackling: 48 | Dribbling: 96 | Stamina: 74
+    - Patricia Guijarro Gutiérrez (CM) — OVR: 62 [Conf: 0.99]
+      Finishing: 86 | ShortPass: 48 | Tackling: 48 | Dribbling: 96 | Stamina: 78
+    - Aitana Bonmatí (CM) — OVR: 61 [Conf: 0.97]
+      Finishing: 99 | ShortPass: 49 | Tackling: 48 | Dribbling: 91 | Stamina: 72
+    - María Pérez (CM) — OVR: 60 [Conf: 0.25]
+      Finishing: 64 | ShortPass: 63 | Tackling: 62 | Dribbling: 57 | Stamina: 55
+    - Ona Baradad (CM) — OVR: 60 [Conf: 0.26]
+      Finishing: 80 | ShortPass: 59 | Tackling: 59 | Dribbling: 66 | Stamina: 57
+    - Ingrid Engen (CM) — OVR: 58 [Conf: 0.86]
+      Finishing: 83 | ShortPass: 50 | Tackling: 50 | Dribbling: 76 | Stamina: 64
+    - Jana Fernández (CB) — OVR: 55 [Conf: 0.65]
+      Finishing: 80 | ShortPass: 52 | Tackling: 54 | Dribbling: 74 | Stamina: 61
+    - Ana-Maria Crnogorcevic (CB) — OVR: 53 [Conf: 0.82]
+      Finishing: 86 | ShortPass: 50 | Tackling: 51 | Dribbling: 81 | Stamina: 65
+    - Andrea Pereira (CB) — OVR: 52 [Conf: 0.84]
+      Finishing: 56 | ShortPass: 49 | Tackling: 50 | Dribbling: 61 | Stamina: 66
+    - Maria Pilar León (CB) — OVR: 52 [Conf: 0.98]
+      Finishing: 82 | ShortPass: 47 | Tackling: 49 | Dribbling: 93 | Stamina: 77
+    - Melanie Serrano (CB) — OVR: 52 [Conf: 0.83]
+      Finishing: 84 | ShortPass: 50 | Tackling: 50 | Dribbling: 77 | Stamina: 63
+    - Irene Paredes (CB) — OVR: 51 [Conf: 0.97]
+      Finishing: 85 | ShortPass: 47 | Tackling: 48 | Dribbling: 87 | Stamina: 76
+    - Leila Ouahabi (CB) — OVR: 51 [Conf: 0.90]
+      Finishing: 82 | ShortPass: 48 | Tackling: 48 | Dribbling: 84 | Stamina: 70
+    - Marta Torrejón (CB) — OVR: 51 [Conf: 0.99]
+      Finishing: 86 | ShortPass: 46 | Tackling: 47 | Dribbling: 94 | Stamina: 86
     - Aleix Garrido (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Ander Astralaga (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Diego Kochen (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
@@ -6140,6 +6646,12 @@ COMPETITION: LALIGA
     - Lucas De Vega Lima (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Mika Mármol (CB) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
     - Álvaro Sanz (CM) — UNRATED (Insufficient playing time (27 mins < 90 mins threshold))
+    - Ariadna Mingueza (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Esther Laborde (CB) — UNRATED (Insufficient playing time (70 mins < 90 mins threshold))
+    - Julia Bartel (CM) — UNRATED (Insufficient playing time (75 mins < 90 mins threshold))
+    - Martina Fernández (CM) — UNRATED (Insufficient playing time (16 mins < 90 mins threshold))
+    - María Molina (CB) — UNRATED (Insufficient playing time (16 mins < 90 mins threshold))
+    - Ornella Vignola (ST) — UNRATED (Insufficient playing time (14 mins < 90 mins threshold))
 
   CLUB: FC Bayern
   -----------------------------------
@@ -6208,1166 +6720,6 @@ COMPETITION: LALIGA
   -----------------------------------
     - Álvaro Odriozola (CB) — OVR: 66 [Conf: 0.98]
       Finishing: 68 | ShortPass: 79 | Tackling: 63 | Dribbling: 78 | Stamina: 76
-
-  CLUB: Free Agent
-  -----------------------------------
-    - Sergi Cardona (CB) — OVR: 91 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 86 | Tackling: 92 | Dribbling: 75 | Stamina: 91
-    - Vinícius José Paixão de Oliveira Júnior (ST) — OVR: 91 [Conf: 0.99]
-      Finishing: 99 | ShortPass: 65 | Tackling: 54 | Dribbling: 84 | Stamina: 76
-    - Unknown Player (CM) — OVR: 91 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 98 | Tackling: 91 | Dribbling: 79 | Stamina: 89
-    - Karim Benzema (ST) — OVR: 91 [Conf: 0.99]
-      Finishing: 99 | ShortPass: 78 | Tackling: 52 | Dribbling: 92 | Stamina: 90
-    - Vinícius José Paixão de Oliveira Júnior (ST) — OVR: 91 [Conf: 0.99]
-      Finishing: 97 | ShortPass: 77 | Tackling: 58 | Dribbling: 90 | Stamina: 89
-    - Jonathan Viera (ST) — OVR: 91 [Conf: 0.99]
-      Finishing: 92 | ShortPass: 96 | Tackling: 57 | Dribbling: 89 | Stamina: 91
-    - Sergi Cardona (CB) — OVR: 91 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 83 | Tackling: 94 | Dribbling: 80 | Stamina: 93
-    - Umar Sadiq (ST) — OVR: 91 [Conf: 0.99]
-      Finishing: 92 | ShortPass: 54 | Tackling: 58 | Dribbling: 86 | Stamina: 92
-    - Alba Redondo (ST) — OVR: 91 [Conf: 0.99]
-      Finishing: 99 | ShortPass: 45 | Tackling: 45 | Dribbling: 88 | Stamina: 77
-    - Ane Azkona (ST) — OVR: 91 [Conf: 0.99]
-      Finishing: 95 | ShortPass: 44 | Tackling: 45 | Dribbling: 93 | Stamina: 85
-    - Asisat Oshoala (ST) — OVR: 91 [Conf: 0.82]
-      Finishing: 99 | ShortPass: 47 | Tackling: 48 | Dribbling: 84 | Stamina: 63
-    - Caroline Hansen (ST) — OVR: 91 [Conf: 0.94]
-      Finishing: 93 | ShortPass: 47 | Tackling: 46 | Dribbling: 99 | Stamina: 73
-    - Claudia Pina (ST) — OVR: 91 [Conf: 0.87]
-      Finishing: 99 | ShortPass: 48 | Tackling: 47 | Dribbling: 88 | Stamina: 62
-    - Esther González (ST) — OVR: 91 [Conf: 0.99]
-      Finishing: 99 | ShortPass: 44 | Tackling: 45 | Dribbling: 93 | Stamina: 83
-    - Fridolina Rolfö (ST) — OVR: 91 [Conf: 0.92]
-      Finishing: 99 | ShortPass: 47 | Tackling: 47 | Dribbling: 93 | Stamina: 69
-    - Jennifer Hermoso (ST) — OVR: 91 [Conf: 0.90]
-      Finishing: 99 | ShortPass: 47 | Tackling: 47 | Dribbling: 90 | Stamina: 67
-    - Lieke Martens (ST) — OVR: 91 [Conf: 0.88]
-      Finishing: 99 | ShortPass: 48 | Tackling: 47 | Dribbling: 95 | Stamina: 66
-    - Lucía García (ST) — OVR: 91 [Conf: 0.99]
-      Finishing: 98 | ShortPass: 44 | Tackling: 45 | Dribbling: 92 | Stamina: 85
-    - María Francesca Caldentey Oliver (ST) — OVR: 91 [Conf: 0.78]
-      Finishing: 99 | ShortPass: 47 | Tackling: 47 | Dribbling: 92 | Stamina: 65
-    - Federico Valverde (CM) — OVR: 90 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 99 | Tackling: 71 | Dribbling: 82 | Stamina: 90
-    - Kirian Rodríguez (CM) — OVR: 90 [Conf: 0.99]
-      Finishing: 72 | ShortPass: 99 | Tackling: 66 | Dribbling: 83 | Stamina: 92
-    - Elisa del Estal Mateu (ST) — OVR: 90 [Conf: 0.82]
-      Finishing: 99 | ShortPass: 47 | Tackling: 48 | Dribbling: 76 | Stamina: 60
-    - Giovana Queiroz Costa (ST) — OVR: 90 [Conf: 0.91]
-      Finishing: 97 | ShortPass: 45 | Tackling: 47 | Dribbling: 81 | Stamina: 67
-    - Ante Budimir (ST) — OVR: 89 [Conf: 0.99]
-      Finishing: 91 | ShortPass: 52 | Tackling: 73 | Dribbling: 83 | Stamina: 87
-    - Aurélien Tchouaméni (CM) — OVR: 89 [Conf: 0.99]
-      Finishing: 69 | ShortPass: 99 | Tackling: 81 | Dribbling: 77 | Stamina: 80
-    - Gorka Guruzeta (ST) — OVR: 89 [Conf: 0.99]
-      Finishing: 91 | ShortPass: 59 | Tackling: 69 | Dribbling: 87 | Stamina: 84
-    - Luka Modric (CM) — OVR: 89 [Conf: 0.99]
-      Finishing: 71 | ShortPass: 99 | Tackling: 61 | Dribbling: 90 | Stamina: 80
-    - Nacho Vidal (CB) — OVR: 89 [Conf: 0.99]
-      Finishing: 56 | ShortPass: 67 | Tackling: 92 | Dribbling: 72 | Stamina: 92
-    - Bruna Vilamala (ST) — OVR: 89 [Conf: 0.25]
-      Finishing: 99 | ShortPass: 52 | Tackling: 54 | Dribbling: 77 | Stamina: 58
-    - Yulema Corres (ST) — OVR: 89 [Conf: 0.83]
-      Finishing: 94 | ShortPass: 46 | Tackling: 47 | Dribbling: 85 | Stamina: 66
-    - Toni Kroos (CM) — OVR: 88 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 99 | Tackling: 71 | Dribbling: 81 | Stamina: 78
-    - David García (CB) — OVR: 88 [Conf: 0.99]
-      Finishing: 64 | ShortPass: 76 | Tackling: 90 | Dribbling: 75 | Stamina: 93
-    - José Luis Mato Sanmartín (ST) — OVR: 88 [Conf: 0.99]
-      Finishing: 89 | ShortPass: 61 | Tackling: 77 | Dribbling: 85 | Stamina: 92
-    - Nahuel Tenaglia (CB) — OVR: 88 [Conf: 0.78]
-      Finishing: 59 | ShortPass: 62 | Tackling: 94 | Dribbling: 72 | Stamina: 69
-    - Rubén Duarte (CB) — OVR: 88 [Conf: 0.99]
-      Finishing: 60 | ShortPass: 64 | Tackling: 92 | Dribbling: 83 | Stamina: 90
-    - Yeray Álvarez (CB) — OVR: 88 [Conf: 0.99]
-      Finishing: 55 | ShortPass: 80 | Tackling: 91 | Dribbling: 70 | Stamina: 80
-    - Jesé Rodríguez Ruiz (ST) — OVR: 88 [Conf: 0.99]
-      Finishing: 87 | ShortPass: 58 | Tackling: 53 | Dribbling: 88 | Stamina: 91
-    - Jessica Martínez (ST) — OVR: 88 [Conf: 0.97]
-      Finishing: 92 | ShortPass: 45 | Tackling: 46 | Dribbling: 86 | Stamina: 73
-    - Lice Chamorro (ST) — OVR: 88 [Conf: 0.99]
-      Finishing: 91 | ShortPass: 45 | Tackling: 46 | Dribbling: 86 | Stamina: 74
-    - Toni Payne (ST) — OVR: 88 [Conf: 0.99]
-      Finishing: 89 | ShortPass: 44 | Tackling: 45 | Dribbling: 89 | Stamina: 81
-    - José Manuel Arias Copete (CB) — OVR: 87 [Conf: 0.89]
-      Finishing: 62 | ShortPass: 72 | Tackling: 92 | Dribbling: 73 | Stamina: 74
-    - Eduardo Camavinga (CM) — OVR: 87 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 97 | Tackling: 85 | Dribbling: 74 | Stamina: 74
-    - Iñaki Williams (ST) — OVR: 87 [Conf: 0.99]
-      Finishing: 87 | ShortPass: 64 | Tackling: 59 | Dribbling: 86 | Stamina: 92
-    - Jude Bellingham (CM) — OVR: 87 [Conf: 0.99]
-      Finishing: 99 | ShortPass: 93 | Tackling: 68 | Dribbling: 91 | Stamina: 85
-    - Toni Kroos (CM) — OVR: 87 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 99 | Tackling: 63 | Dribbling: 77 | Stamina: 82
-    - Íñigo Martínez (CB) — OVR: 87 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 78 | Tackling: 89 | Dribbling: 80 | Stamina: 87
-    - Dyego Wilverson Ferreira Sousa (ST) — OVR: 87 [Conf: 0.71]
-      Finishing: 97 | ShortPass: 63 | Tackling: 72 | Dribbling: 73 | Stamina: 56
-    - Athenea Del Castillo (ST) — OVR: 87 [Conf: 0.99]
-      Finishing: 89 | ShortPass: 44 | Tackling: 46 | Dribbling: 87 | Stamina: 77
-    - Isadora Damasceno Freitas (ST) — OVR: 87 [Conf: 0.99]
-      Finishing: 89 | ShortPass: 44 | Tackling: 46 | Dribbling: 87 | Stamina: 78
-    - Ainize Barea Núñez (ST) — OVR: 87 [Conf: 0.96]
-      Finishing: 91 | ShortPass: 45 | Tackling: 46 | Dribbling: 85 | Stamina: 69
-    - José Luis Mato Sanmartín (ST) — OVR: 86 [Conf: 0.97]
-      Finishing: 95 | ShortPass: 56 | Tackling: 60 | Dribbling: 69 | Stamina: 73
-    - Unknown Player (CM) — OVR: 86 [Conf: 0.96]
-      Finishing: 61 | ShortPass: 99 | Tackling: 77 | Dribbling: 69 | Stamina: 71
-    - Éder Gabriel Militão (CB) — OVR: 86 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 93 | Tackling: 85 | Dribbling: 79 | Stamina: 93
-    - Samuel de Almeida Costa (CM) — OVR: 86 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 87 | Tackling: 82 | Dribbling: 84 | Stamina: 92
-    - Nahikari García (ST) — OVR: 86 [Conf: 0.89]
-      Finishing: 90 | ShortPass: 46 | Tackling: 47 | Dribbling: 84 | Stamina: 66
-    - Antonio Raíllo (CB) — OVR: 85 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 81 | Tackling: 86 | Dribbling: 80 | Stamina: 85
-    - Unknown Player (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 59 | ShortPass: 94 | Tackling: 68 | Dribbling: 72 | Stamina: 90
-    - Mika Mármol (CB) — OVR: 85 [Conf: 0.99]
-      Finishing: 55 | ShortPass: 99 | Tackling: 83 | Dribbling: 71 | Stamina: 93
-    - Rodrygo Silva de Goes (ST) — OVR: 85 [Conf: 0.99]
-      Finishing: 86 | ShortPass: 73 | Tackling: 53 | Dribbling: 81 | Stamina: 84
-    - Eric Curbelo (CB) — OVR: 85 [Conf: 0.99]
-      Finishing: 74 | ShortPass: 98 | Tackling: 84 | Dribbling: 85 | Stamina: 91
-    - Kirian Rodríguez (CM) — OVR: 85 [Conf: 0.99]
-      Finishing: 75 | ShortPass: 92 | Tackling: 61 | Dribbling: 82 | Stamina: 88
-    - Carla Armengol (ST) — OVR: 85 [Conf: 0.99]
-      Finishing: 85 | ShortPass: 45 | Tackling: 46 | Dribbling: 87 | Stamina: 76
-    - Luka Modric (CM) — OVR: 84 [Conf: 0.97]
-      Finishing: 70 | ShortPass: 99 | Tackling: 66 | Dribbling: 72 | Stamina: 71
-    - Florian Lejeune (CB) — OVR: 84 [Conf: 0.99]
-      Finishing: 56 | ShortPass: 72 | Tackling: 85 | Dribbling: 73 | Stamina: 93
-    - Pablo Maffeo (CB) — OVR: 84 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 63 | Tackling: 86 | Dribbling: 80 | Stamina: 92
-    - César De la Hoz (CM) — OVR: 84 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 85 | Tackling: 84 | Dribbling: 77 | Stamina: 90
-    - Francisco Jesús Crespo (ST) — OVR: 84 [Conf: 0.73]
-      Finishing: 91 | ShortPass: 60 | Tackling: 64 | Dribbling: 74 | Stamina: 62
-    - Srdjan Babic (CB) — OVR: 84 [Conf: 0.99]
-      Finishing: 59 | ShortPass: 94 | Tackling: 83 | Dribbling: 74 | Stamina: 93
-    - Caroline Møller (ST) — OVR: 84 [Conf: 0.89]
-      Finishing: 88 | ShortPass: 45 | Tackling: 47 | Dribbling: 80 | Stamina: 67
-    - Olga Carmona (ST) — OVR: 84 [Conf: 0.99]
-      Finishing: 85 | ShortPass: 45 | Tackling: 45 | Dribbling: 86 | Stamina: 74
-    - Aleksandar Radovanovic (CB) — OVR: 83 [Conf: 0.62]
-      Finishing: 57 | ShortPass: 70 | Tackling: 87 | Dribbling: 67 | Stamina: 66
-    - Iñaki Williams (ST) — OVR: 83 [Conf: 0.99]
-      Finishing: 83 | ShortPass: 56 | Tackling: 56 | Dribbling: 82 | Stamina: 90
-    - Erick Ferigra (CB) — OVR: 83 [Conf: 0.78]
-      Finishing: 56 | ShortPass: 85 | Tackling: 85 | Dribbling: 64 | Stamina: 68
-    - Fabio González (CM) — OVR: 83 [Conf: 0.95]
-      Finishing: 60 | ShortPass: 95 | Tackling: 76 | Dribbling: 67 | Stamina: 70
-    - Omenuke Mfulu (CM) — OVR: 83 [Conf: 0.99]
-      Finishing: 56 | ShortPass: 88 | Tackling: 80 | Dribbling: 70 | Stamina: 85
-    - Raúl Rodríguez Navas (CB) — OVR: 83 [Conf: 0.99]
-      Finishing: 60 | ShortPass: 99 | Tackling: 81 | Dribbling: 77 | Stamina: 92
-    - Andrea Falcón (ST) — OVR: 83 [Conf: 0.67]
-      Finishing: 87 | ShortPass: 49 | Tackling: 50 | Dribbling: 83 | Stamina: 60
-    - Erika Vázquez (ST) — OVR: 83 [Conf: 0.82]
-      Finishing: 89 | ShortPass: 46 | Tackling: 47 | Dribbling: 76 | Stamina: 61
-    - Giovanna Crivelari Anselmo (ST) — OVR: 83 [Conf: 0.77]
-      Finishing: 90 | ShortPass: 47 | Tackling: 49 | Dribbling: 75 | Stamina: 59
-    - Kosovare Asllani (ST) — OVR: 83 [Conf: 0.77]
-      Finishing: 89 | ShortPass: 46 | Tackling: 49 | Dribbling: 78 | Stamina: 61
-    - Millene Cabral Vieira (ST) — OVR: 83 [Conf: 0.88]
-      Finishing: 87 | ShortPass: 46 | Tackling: 47 | Dribbling: 78 | Stamina: 66
-    - Natasa Andonova (ST) — OVR: 83 [Conf: 0.85]
-      Finishing: 88 | ShortPass: 46 | Tackling: 47 | Dribbling: 79 | Stamina: 63
-    - Marta San Adrián Rocandio (ST) — OVR: 83 [Conf: 0.79]
-      Finishing: 89 | ShortPass: 47 | Tackling: 49 | Dribbling: 77 | Stamina: 60
-    - Sara Carrillo (ST) — OVR: 83 [Conf: 0.87]
-      Finishing: 88 | ShortPass: 46 | Tackling: 47 | Dribbling: 78 | Stamina: 66
-    - Cristian Herrera (ST) — OVR: 82 [Conf: 0.26]
-      Finishing: 91 | ShortPass: 61 | Tackling: 52 | Dribbling: 72 | Stamina: 57
-    - Edgar González (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 64 | ShortPass: 82 | Tackling: 85 | Dribbling: 74 | Stamina: 89
-    - Giovanni González (CB) — OVR: 82 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 70 | Tackling: 84 | Dribbling: 77 | Stamina: 86
-    - Lucas Robertone (CM) — OVR: 82 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 82 | Tackling: 84 | Dribbling: 80 | Stamina: 85
-    - Rafa Marín (CB) — OVR: 82 [Conf: 0.99]
-      Finishing: 59 | ShortPass: 72 | Tackling: 84 | Dribbling: 71 | Stamina: 87
-    - Saúl Coco (CB) — OVR: 82 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 88 | Tackling: 82 | Dribbling: 73 | Stamina: 84
-    - Ante Budimir (ST) — OVR: 82 [Conf: 0.99]
-      Finishing: 86 | ShortPass: 54 | Tackling: 74 | Dribbling: 76 | Stamina: 75
-    - Dani Vivian (CB) — OVR: 82 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 77 | Tackling: 83 | Dribbling: 80 | Stamina: 81
-    - Eduardo Camavinga (CM) — OVR: 82 [Conf: 0.87]
-      Finishing: 70 | ShortPass: 93 | Tackling: 86 | Dribbling: 67 | Stamina: 65
-    - Unai García (CB) — OVR: 82 [Conf: 0.89]
-      Finishing: 56 | ShortPass: 68 | Tackling: 85 | Dribbling: 67 | Stamina: 73
-    - Vedat Muriqi (ST) — OVR: 82 [Conf: 0.88]
-      Finishing: 82 | ShortPass: 58 | Tackling: 76 | Dribbling: 84 | Stamina: 75
-    - Juan José Nieto Zarzoso (CB) — OVR: 82 [Conf: 0.67]
-      Finishing: 57 | ShortPass: 71 | Tackling: 87 | Dribbling: 57 | Stamina: 60
-    - Carolina Férez (ST) — OVR: 82 [Conf: 0.81]
-      Finishing: 89 | ShortPass: 46 | Tackling: 49 | Dribbling: 74 | Stamina: 59
-    - Luis Suárez (ST) — OVR: 81 [Conf: 0.75]
-      Finishing: 88 | ShortPass: 57 | Tackling: 56 | Dribbling: 71 | Stamina: 64
-    - Matija Nastasic (CB) — OVR: 81 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 73 | Tackling: 82 | Dribbling: 76 | Stamina: 85
-    - Matteo Gabbia (CB) — OVR: 81 [Conf: 0.86]
-      Finishing: 69 | ShortPass: 96 | Tackling: 81 | Dribbling: 75 | Stamina: 71
-    - Vedat Muriqi (ST) — OVR: 81 [Conf: 0.99]
-      Finishing: 80 | ShortPass: 58 | Tackling: 72 | Dribbling: 80 | Stamina: 86
-    - Aridane Hernández (CB) — OVR: 81 [Conf: 0.81]
-      Finishing: 56 | ShortPass: 74 | Tackling: 84 | Dribbling: 66 | Stamina: 69
-    - Franco Russo (CB) — OVR: 81 [Conf: 0.92]
-      Finishing: 64 | ShortPass: 72 | Tackling: 83 | Dribbling: 76 | Stamina: 75
-    - Iker Muniain (ST) — OVR: 81 [Conf: 0.99]
-      Finishing: 75 | ShortPass: 78 | Tackling: 57 | Dribbling: 93 | Stamina: 91
-    - Lucas Torró (CM) — OVR: 81 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 75 | Tackling: 93 | Dribbling: 78 | Stamina: 92
-    - Largie Ramazani (ST) — OVR: 81 [Conf: 0.99]
-      Finishing: 84 | ShortPass: 59 | Tackling: 60 | Dribbling: 76 | Stamina: 79
-    - Nekane Díez (ST) — OVR: 81 [Conf: 0.64]
-      Finishing: 84 | ShortPass: 50 | Tackling: 50 | Dribbling: 84 | Stamina: 57
-    - Ander Herrera (CM) — OVR: 80 [Conf: 0.83]
-      Finishing: 61 | ShortPass: 92 | Tackling: 84 | Dribbling: 64 | Stamina: 61
-    - Dani Ceballos (CM) — OVR: 80 [Conf: 0.73]
-      Finishing: 62 | ShortPass: 99 | Tackling: 63 | Dribbling: 65 | Stamina: 56
-    - David García (CB) — OVR: 80 [Conf: 0.99]
-      Finishing: 57 | ShortPass: 83 | Tackling: 80 | Dribbling: 74 | Stamina: 86
-    - Martin Valjent (CB) — OVR: 80 [Conf: 0.99]
-      Finishing: 55 | ShortPass: 72 | Tackling: 80 | Dribbling: 71 | Stamina: 88
-    - Nahuel Tenaglia (CB) — OVR: 80 [Conf: 0.85]
-      Finishing: 64 | ShortPass: 65 | Tackling: 84 | Dribbling: 62 | Stamina: 65
-    - Nicholas Williams Arthuer (ST) — OVR: 80 [Conf: 0.99]
-      Finishing: 77 | ShortPass: 63 | Tackling: 56 | Dribbling: 87 | Stamina: 84
-    - Samu Omorodion (ST) — OVR: 80 [Conf: 0.99]
-      Finishing: 84 | ShortPass: 54 | Tackling: 60 | Dribbling: 71 | Stamina: 76
-    - Martin Valjent (CB) — OVR: 80 [Conf: 0.99]
-      Finishing: 58 | ShortPass: 73 | Tackling: 79 | Dribbling: 78 | Stamina: 93
-    - Matt Miazga (CB) — OVR: 80 [Conf: 0.69]
-      Finishing: 62 | ShortPass: 68 | Tackling: 84 | Dribbling: 75 | Stamina: 67
-    - José Ignacio Fernández Iglesias (CB) — OVR: 80 [Conf: 0.94]
-      Finishing: 72 | ShortPass: 91 | Tackling: 81 | Dribbling: 72 | Stamina: 72
-    - Aitor Buñuel (CB) — OVR: 80 [Conf: 0.67]
-      Finishing: 57 | ShortPass: 71 | Tackling: 83 | Dribbling: 62 | Stamina: 63
-    - Enzo Loiodice (CM) — OVR: 80 [Conf: 0.94]
-      Finishing: 64 | ShortPass: 87 | Tackling: 75 | Dribbling: 73 | Stamina: 73
-    - Marta Cardona De Miguel (ST) — OVR: 80 [Conf: 0.27]
-      Finishing: 87 | ShortPass: 50 | Tackling: 53 | Dribbling: 71 | Stamina: 56
-    - Aitor Paredes (CB) — OVR: 79 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 84 | Tackling: 78 | Dribbling: 74 | Stamina: 91
-    - Alex Berenguer (ST) — OVR: 79 [Conf: 0.95]
-      Finishing: 84 | ShortPass: 60 | Tackling: 63 | Dribbling: 70 | Stamina: 69
-    - Enzo Loiodice (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 87 | Tackling: 76 | Dribbling: 70 | Stamina: 71
-    - Jorge Herrando (CB) — OVR: 79 [Conf: 0.96]
-      Finishing: 56 | ShortPass: 73 | Tackling: 80 | Dribbling: 69 | Stamina: 77
-    - Moi Gómez (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 74 | ShortPass: 83 | Tackling: 65 | Dribbling: 80 | Stamina: 79
-    - Yeray Álvarez (CB) — OVR: 79 [Conf: 0.85]
-      Finishing: 60 | ShortPass: 84 | Tackling: 80 | Dribbling: 70 | Stamina: 69
-    - Dani Carvajal (CB) — OVR: 79 [Conf: 0.94]
-      Finishing: 62 | ShortPass: 89 | Tackling: 79 | Dribbling: 71 | Stamina: 73
-    - Unknown Player (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 78 | Tackling: 85 | Dribbling: 74 | Stamina: 84
-    - Federico Valverde (CM) — OVR: 79 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 89 | Tackling: 71 | Dribbling: 67 | Stamina: 74
-    - Óscar De Marcos (CB) — OVR: 79 [Conf: 0.97]
-      Finishing: 71 | ShortPass: 76 | Tackling: 80 | Dribbling: 89 | Stamina: 77
-    - Rodrigo Ely (CB) — OVR: 79 [Conf: 0.74]
-      Finishing: 71 | ShortPass: 88 | Tackling: 80 | Dribbling: 78 | Stamina: 69
-    - Lorena Navarro (ST) — OVR: 79 [Conf: 0.66]
-      Finishing: 84 | ShortPass: 48 | Tackling: 50 | Dribbling: 74 | Stamina: 57
-    - Abdel Abqar (CB) — OVR: 78 [Conf: 0.99]
-      Finishing: 60 | ShortPass: 64 | Tackling: 80 | Dribbling: 79 | Stamina: 85
-    - Abdón Prats (ST) — OVR: 78 [Conf: 0.88]
-      Finishing: 85 | ShortPass: 53 | Tackling: 60 | Dribbling: 67 | Stamina: 64
-    - Adri Embarba (ST) — OVR: 78 [Conf: 0.99]
-      Finishing: 75 | ShortPass: 62 | Tackling: 66 | Dribbling: 81 | Stamina: 86
-    - Aleksandar Sedlar (CB) — OVR: 78 [Conf: 0.72]
-      Finishing: 64 | ShortPass: 73 | Tackling: 80 | Dribbling: 75 | Stamina: 68
-    - Anthony Lozano (ST) — OVR: 78 [Conf: 0.70]
-      Finishing: 82 | ShortPass: 55 | Tackling: 64 | Dribbling: 73 | Stamina: 63
-    - Beñat Prados (CM) — OVR: 78 [Conf: 0.92]
-      Finishing: 65 | ShortPass: 81 | Tackling: 84 | Dribbling: 73 | Stamina: 70
-    - Dani Carvajal (CB) — OVR: 78 [Conf: 0.99]
-      Finishing: 72 | ShortPass: 87 | Tackling: 76 | Dribbling: 83 | Stamina: 83
-    - Marc Cardona (ST) — OVR: 78 [Conf: 0.76]
-      Finishing: 86 | ShortPass: 61 | Tackling: 60 | Dribbling: 66 | Stamina: 57
-    - Marc Pubill (CB) — OVR: 78 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 67 | Tackling: 80 | Dribbling: 81 | Stamina: 79
-    - Rubén Duarte (CB) — OVR: 78 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 65 | Tackling: 81 | Dribbling: 74 | Stamina: 78
-    - Yuri Berchiche (CB) — OVR: 78 [Conf: 0.99]
-      Finishing: 69 | ShortPass: 81 | Tackling: 78 | Dribbling: 76 | Stamina: 80
-    - Íñigo Ruíz de Galarreta (CM) — OVR: 78 [Conf: 0.99]
-      Finishing: 62 | ShortPass: 82 | Tackling: 70 | Dribbling: 73 | Stamina: 82
-    - Álex Pozo (CM) — OVR: 78 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 78 | Tackling: 70 | Dribbling: 75 | Stamina: 90
-    - Antonio Raíllo (CB) — OVR: 78 [Conf: 0.91]
-      Finishing: 71 | ShortPass: 72 | Tackling: 80 | Dribbling: 83 | Stamina: 77
-    - Jesús Vallejo (CB) — OVR: 78 [Conf: 0.53]
-      Finishing: 58 | ShortPass: 80 | Tackling: 80 | Dribbling: 66 | Stamina: 64
-    - Roberto González (ST) — OVR: 78 [Conf: 0.79]
-      Finishing: 83 | ShortPass: 60 | Tackling: 61 | Dribbling: 72 | Stamina: 60
-    - Víctor Laguardia (CB) — OVR: 78 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 70 | Tackling: 77 | Dribbling: 81 | Stamina: 93
-    - Joaquín Navarro Jiménez (CB) — OVR: 78 [Conf: 0.88]
-      Finishing: 61 | ShortPass: 64 | Tackling: 81 | Dribbling: 76 | Stamina: 73
-    - Armando Sadiku (ST) — OVR: 78 [Conf: 0.82]
-      Finishing: 84 | ShortPass: 54 | Tackling: 55 | Dribbling: 69 | Stamina: 63
-    - Francisco Portillo (ST) — OVR: 78 [Conf: 0.99]
-      Finishing: 73 | ShortPass: 78 | Tackling: 60 | Dribbling: 87 | Stamina: 87
-    - Ander Guevara (CM) — OVR: 77 [Conf: 0.99]
-      Finishing: 62 | ShortPass: 76 | Tackling: 69 | Dribbling: 74 | Stamina: 90
-    - Andoni Gorosabel (CB) — OVR: 77 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 67 | Tackling: 77 | Dribbling: 82 | Stamina: 91
-    - Dani Vivian (CB) — OVR: 77 [Conf: 0.99]
-      Finishing: 56 | ShortPass: 85 | Tackling: 74 | Dribbling: 72 | Stamina: 92
-    - Dion Lopy (CM) — OVR: 77 [Conf: 0.99]
-      Finishing: 64 | ShortPass: 77 | Tackling: 78 | Dribbling: 76 | Stamina: 77
-    - Javi Llabrés (ST) — OVR: 77 [Conf: 0.31]
-      Finishing: 85 | ShortPass: 60 | Tackling: 65 | Dribbling: 64 | Stamina: 56
-    - Lucas Vázquez (ST) — OVR: 77 [Conf: 0.91]
-      Finishing: 79 | ShortPass: 87 | Tackling: 71 | Dribbling: 77 | Stamina: 66
-    - Leonardo Micali Carrilho Baptistão (ST) — OVR: 77 [Conf: 0.99]
-      Finishing: 80 | ShortPass: 59 | Tackling: 66 | Dribbling: 72 | Stamina: 75
-    - Mikel Vesga (CM) — OVR: 77 [Conf: 0.94]
-      Finishing: 71 | ShortPass: 78 | Tackling: 89 | Dribbling: 71 | Stamina: 71
-    - Samuel de Almeida Costa (CM) — OVR: 77 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 74 | Tackling: 92 | Dribbling: 70 | Stamina: 82
-    - Siebe Van der Heyden (CB) — OVR: 77 [Conf: 0.26]
-      Finishing: 58 | ShortPass: 63 | Tackling: 81 | Dribbling: 65 | Stamina: 64
-    - Álex Suárez (CB) — OVR: 77 [Conf: 0.99]
-      Finishing: 74 | ShortPass: 86 | Tackling: 74 | Dribbling: 90 | Stamina: 89
-    - Gareth Bale (ST) — OVR: 77 [Conf: 0.26]
-      Finishing: 82 | ShortPass: 56 | Tackling: 60 | Dribbling: 71 | Stamina: 61
-    - Íñigo Ruíz de Galarreta (CM) — OVR: 77 [Conf: 0.91]
-      Finishing: 63 | ShortPass: 80 | Tackling: 80 | Dribbling: 74 | Stamina: 70
-    - Jaume Costa (CB) — OVR: 77 [Conf: 0.99]
-      Finishing: 59 | ShortPass: 69 | Tackling: 78 | Dribbling: 77 | Stamina: 78
-    - Martín Aguirregabiria (CB) — OVR: 77 [Conf: 0.96]
-      Finishing: 56 | ShortPass: 65 | Tackling: 80 | Dribbling: 65 | Stamina: 73
-    - Mikel Balenziaga (CB) — OVR: 77 [Conf: 0.99]
-      Finishing: 60 | ShortPass: 69 | Tackling: 78 | Dribbling: 76 | Stamina: 81
-    - Salvador Sevilla (CM) — OVR: 77 [Conf: 0.94]
-      Finishing: 76 | ShortPass: 86 | Tackling: 63 | Dribbling: 72 | Stamina: 70
-    - Yuri Berchiche (CB) — OVR: 77 [Conf: 0.77]
-      Finishing: 67 | ShortPass: 75 | Tackling: 79 | Dribbling: 79 | Stamina: 68
-    - Juan Brandáriz Movilla (CB) — OVR: 77 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 92 | Tackling: 74 | Dribbling: 74 | Stamina: 86
-    - Daniel Filipe Martins Carriço (CB) — OVR: 77 [Conf: 0.25]
-      Finishing: 59 | ShortPass: 77 | Tackling: 79 | Dribbling: 63 | Stamina: 62
-    - Iván Martos (CB) — OVR: 77 [Conf: 0.66]
-      Finishing: 57 | ShortPass: 86 | Tackling: 78 | Dribbling: 64 | Stamina: 64
-    - Carlos Vicente (ST) — OVR: 76 [Conf: 0.83]
-      Finishing: 76 | ShortPass: 56 | Tackling: 63 | Dribbling: 79 | Stamina: 65
-    - César Montes (CB) — OVR: 76 [Conf: 0.99]
-      Finishing: 59 | ShortPass: 78 | Tackling: 75 | Dribbling: 76 | Stamina: 80
-    - Daley Sinkgraven (CB) — OVR: 76 [Conf: 0.58]
-      Finishing: 58 | ShortPass: 81 | Tackling: 77 | Dribbling: 63 | Stamina: 63
-    - Javi Muñoz (CM) — OVR: 76 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 76 | Tackling: 65 | Dribbling: 76 | Stamina: 89
-    - Kike García (ST) — OVR: 76 [Conf: 0.92]
-      Finishing: 81 | ShortPass: 55 | Tackling: 61 | Dribbling: 68 | Stamina: 67
-    - José Ignacio Fernández Iglesias (CB) — OVR: 76 [Conf: 0.99]
-      Finishing: 58 | ShortPass: 97 | Tackling: 73 | Dribbling: 67 | Stamina: 77
-    - Francisco Jesús Crespo (ST) — OVR: 76 [Conf: 0.68]
-      Finishing: 83 | ShortPass: 66 | Tackling: 65 | Dribbling: 66 | Stamina: 57
-    - Sandro Ramírez (ST) — OVR: 76 [Conf: 0.99]
-      Finishing: 74 | ShortPass: 65 | Tackling: 55 | Dribbling: 79 | Stamina: 75
-    - Álex Centelles (CB) — OVR: 76 [Conf: 0.76]
-      Finishing: 61 | ShortPass: 70 | Tackling: 78 | Dribbling: 76 | Stamina: 67
-    - Éder Gabriel Militão (CB) — OVR: 76 [Conf: 0.61]
-      Finishing: 65 | ShortPass: 88 | Tackling: 76 | Dribbling: 72 | Stamina: 63
-    - Fernando Niño (ST) — OVR: 76 [Conf: 0.80]
-      Finishing: 81 | ShortPass: 57 | Tackling: 71 | Dribbling: 68 | Stamina: 60
-    - Jon Moncayola (CM) — OVR: 76 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 75 | Tackling: 64 | Dribbling: 78 | Stamina: 91
-    - Kike García (ST) — OVR: 76 [Conf: 0.99]
-      Finishing: 79 | ShortPass: 58 | Tackling: 63 | Dribbling: 69 | Stamina: 74
-    - Manu Sánchez (CB) — OVR: 76 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 68 | Tackling: 77 | Dribbling: 77 | Stamina: 83
-    - Rodrygo Silva de Goes (ST) — OVR: 76 [Conf: 0.94]
-      Finishing: 79 | ShortPass: 71 | Tackling: 60 | Dribbling: 73 | Stamina: 68
-    - Unai Vencedor (CM) — OVR: 76 [Conf: 0.99]
-      Finishing: 58 | ShortPass: 79 | Tackling: 63 | Dribbling: 70 | Stamina: 85
-    - Adalberto Peñaranda (ST) — OVR: 76 [Conf: 0.74]
-      Finishing: 82 | ShortPass: 60 | Tackling: 64 | Dribbling: 68 | Stamina: 58
-    - Alejandro Catena (CB) — OVR: 75 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 80 | Tackling: 73 | Dribbling: 78 | Stamina: 89
-    - Antonio Blanco (CM) — OVR: 75 [Conf: 0.99]
-      Finishing: 60 | ShortPass: 72 | Tackling: 78 | Dribbling: 74 | Stamina: 85
-    - Asier Villalibre (ST) — OVR: 75 [Conf: 0.69]
-      Finishing: 81 | ShortPass: 58 | Tackling: 61 | Dribbling: 66 | Stamina: 56
-    - Juan Brandáriz Movilla (CB) — OVR: 75 [Conf: 0.99]
-      Finishing: 58 | ShortPass: 79 | Tackling: 73 | Dribbling: 73 | Stamina: 87
-    - Iker Muñoz (CM) — OVR: 75 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 78 | Tackling: 74 | Dribbling: 72 | Stamina: 74
-    - Jon Moncayola (CM) — OVR: 75 [Conf: 0.99]
-      Finishing: 64 | ShortPass: 79 | Tackling: 67 | Dribbling: 71 | Stamina: 74
-    - Julián Araujo (CB) — OVR: 75 [Conf: 0.92]
-      Finishing: 63 | ShortPass: 75 | Tackling: 75 | Dribbling: 67 | Stamina: 71
-    - Lucas Torró (CM) — OVR: 75 [Conf: 0.99]
-      Finishing: 64 | ShortPass: 74 | Tackling: 88 | Dribbling: 69 | Stamina: 74
-    - Manu Morlanes (CM) — OVR: 75 [Conf: 0.96]
-      Finishing: 66 | ShortPass: 78 | Tackling: 80 | Dribbling: 70 | Stamina: 67
-    - Íñigo Lekue (CB) — OVR: 75 [Conf: 0.99]
-      Finishing: 55 | ShortPass: 78 | Tackling: 74 | Dribbling: 68 | Stamina: 80
-    - Chimy Ávila (ST) — OVR: 75 [Conf: 0.99]
-      Finishing: 78 | ShortPass: 56 | Tackling: 65 | Dribbling: 68 | Stamina: 74
-    - Dani Ceballos (CM) — OVR: 75 [Conf: 0.28]
-      Finishing: 69 | ShortPass: 87 | Tackling: 71 | Dribbling: 62 | Stamina: 55
-    - Daniel García Carrillo (CM) — OVR: 75 [Conf: 0.99]
-      Finishing: 59 | ShortPass: 75 | Tackling: 72 | Dribbling: 72 | Stamina: 82
-    - Iddrisu Baba (CM) — OVR: 75 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 71 | Tackling: 83 | Dribbling: 78 | Stamina: 79
-    - Ángel Rodríguez (ST) — OVR: 75 [Conf: 0.94]
-      Finishing: 76 | ShortPass: 54 | Tackling: 58 | Dribbling: 73 | Stamina: 70
-    - Juan Villar (ST) — OVR: 75 [Conf: 0.29]
-      Finishing: 83 | ShortPass: 60 | Tackling: 61 | Dribbling: 65 | Stamina: 56
-    - Lucas Robertone (CM) — OVR: 75 [Conf: 0.99]
-      Finishing: 71 | ShortPass: 74 | Tackling: 73 | Dribbling: 79 | Stamina: 78
-    - Álex Suárez (CB) — OVR: 75 [Conf: 0.25]
-      Finishing: 64 | ShortPass: 92 | Tackling: 75 | Dribbling: 76 | Stamina: 63
-    - Sladjana Bulatovic (ST) — OVR: 75 [Conf: 0.85]
-      Finishing: 79 | ShortPass: 47 | Tackling: 47 | Dribbling: 70 | Stamina: 62
-    - Brahim Díaz (CM) — OVR: 74 [Conf: 0.94]
-      Finishing: 87 | ShortPass: 78 | Tackling: 63 | Dribbling: 76 | Stamina: 70
-    - Cyle Larin (ST) — OVR: 74 [Conf: 0.99]
-      Finishing: 76 | ShortPass: 53 | Tackling: 67 | Dribbling: 69 | Stamina: 74
-    - David Alaba (CB) — OVR: 74 [Conf: 0.80]
-      Finishing: 61 | ShortPass: 98 | Tackling: 72 | Dribbling: 80 | Stamina: 70
-    - Eric Curbelo (CB) — OVR: 74 [Conf: 0.22]
-      Finishing: 60 | ShortPass: 73 | Tackling: 76 | Dribbling: 65 | Stamina: 65
-    - Iker Muniain (ST) — OVR: 74 [Conf: 0.73]
-      Finishing: 81 | ShortPass: 77 | Tackling: 55 | Dribbling: 63 | Stamina: 56
-    - Imanol García de Albéniz (CB) — OVR: 74 [Conf: 0.61]
-      Finishing: 57 | ShortPass: 75 | Tackling: 75 | Dribbling: 61 | Stamina: 63
-    - Jaume Costa (CB) — OVR: 74 [Conf: 0.97]
-      Finishing: 60 | ShortPass: 62 | Tackling: 75 | Dribbling: 70 | Stamina: 75
-    - Juan Herzog (CB) — OVR: 74 [Conf: 0.25]
-      Finishing: 76 | ShortPass: 91 | Tackling: 73 | Dribbling: 75 | Stamina: 64
-    - Largie Ramazani (ST) — OVR: 74 [Conf: 0.95]
-      Finishing: 75 | ShortPass: 51 | Tackling: 60 | Dribbling: 73 | Stamina: 69
-    - Munir El Haddadi (ST) — OVR: 74 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 62 | Tackling: 62 | Dribbling: 78 | Stamina: 86
-    - Nemanja Radonjic (ST) — OVR: 74 [Conf: 0.59]
-      Finishing: 79 | ShortPass: 58 | Tackling: 61 | Dribbling: 68 | Stamina: 57
-    - Omar Mascarell (CM) — OVR: 74 [Conf: 0.95]
-      Finishing: 57 | ShortPass: 78 | Tackling: 83 | Dribbling: 60 | Stamina: 71
-    - Antonio Latorre Grueso (CB) — OVR: 74 [Conf: 0.94]
-      Finishing: 60 | ShortPass: 65 | Tackling: 76 | Dribbling: 69 | Stamina: 72
-    - Unai García (CB) — OVR: 74 [Conf: 0.61]
-      Finishing: 70 | ShortPass: 65 | Tackling: 77 | Dribbling: 68 | Stamina: 64
-    - Abdón Prats (ST) — OVR: 74 [Conf: 0.74]
-      Finishing: 82 | ShortPass: 57 | Tackling: 63 | Dribbling: 62 | Stamina: 57
-    - Alex Berenguer (ST) — OVR: 74 [Conf: 0.99]
-      Finishing: 72 | ShortPass: 64 | Tackling: 71 | Dribbling: 78 | Stamina: 80
-    - Brian Oliván (CB) — OVR: 74 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 64 | Tackling: 74 | Dribbling: 77 | Stamina: 83
-    - Giovanni González (CB) — OVR: 74 [Conf: 0.57]
-      Finishing: 67 | ShortPass: 69 | Tackling: 77 | Dribbling: 63 | Stamina: 60
-    - Francisco Román Alarcón Suárez (CM) — OVR: 74 [Conf: 0.61]
-      Finishing: 74 | ShortPass: 86 | Tackling: 70 | Dribbling: 62 | Stamina: 56
-    - Mamadou Loum (CM) — OVR: 74 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 67 | Tackling: 90 | Dribbling: 71 | Stamina: 84
-    - Mikel Vesga (CM) — OVR: 74 [Conf: 0.90]
-      Finishing: 68 | ShortPass: 77 | Tackling: 81 | Dribbling: 65 | Stamina: 67
-    - Nicolás Serrano (ST) — OVR: 74 [Conf: 0.61]
-      Finishing: 81 | ShortPass: 60 | Tackling: 65 | Dribbling: 65 | Stamina: 56
-    - Íñigo Lekue (CB) — OVR: 74 [Conf: 0.99]
-      Finishing: 60 | ShortPass: 72 | Tackling: 74 | Dribbling: 80 | Stamina: 80
-    - Íñigo Eguaras (CM) — OVR: 74 [Conf: 0.68]
-      Finishing: 69 | ShortPass: 85 | Tackling: 68 | Dribbling: 63 | Stamina: 58
-    - Iddrisu Baba (CM) — OVR: 73 [Conf: 0.92]
-      Finishing: 61 | ShortPass: 76 | Tackling: 79 | Dribbling: 64 | Stamina: 69
-    - Jonathan Viera (ST) — OVR: 73 [Conf: 0.72]
-      Finishing: 70 | ShortPass: 75 | Tackling: 60 | Dribbling: 83 | Stamina: 65
-    - Nacho Vidal (CB) — OVR: 73 [Conf: 0.57]
-      Finishing: 63 | ShortPass: 69 | Tackling: 75 | Dribbling: 68 | Stamina: 63
-    - Rubén García (ST) — OVR: 73 [Conf: 0.94]
-      Finishing: 74 | ShortPass: 67 | Tackling: 71 | Dribbling: 73 | Stamina: 70
-    - Aleksandar Sedlar (CB) — OVR: 73 [Conf: 0.59]
-      Finishing: 58 | ShortPass: 71 | Tackling: 75 | Dribbling: 58 | Stamina: 60
-    - Alex Petxarroman (CB) — OVR: 73 [Conf: 0.66]
-      Finishing: 64 | ShortPass: 72 | Tackling: 75 | Dribbling: 66 | Stamina: 59
-    - Asier Villalibre (ST) — OVR: 73 [Conf: 0.71]
-      Finishing: 80 | ShortPass: 55 | Tackling: 63 | Dribbling: 61 | Stamina: 56
-    - Dani Rodríguez (CM) — OVR: 73 [Conf: 0.99]
-      Finishing: 67 | ShortPass: 66 | Tackling: 68 | Dribbling: 79 | Stamina: 91
-    - Javi Llabrés (ST) — OVR: 73 [Conf: 0.24]
-      Finishing: 77 | ShortPass: 60 | Tackling: 59 | Dribbling: 68 | Stamina: 58
-    - Jonás Ramalho (CB) — OVR: 73 [Conf: 0.24]
-      Finishing: 59 | ShortPass: 69 | Tackling: 75 | Dribbling: 68 | Stamina: 66
-    - Juan Cruz Álvaro Armada (CB) — OVR: 73 [Conf: 0.99]
-      Finishing: 55 | ShortPass: 75 | Tackling: 72 | Dribbling: 70 | Stamina: 81
-    - Kike Barja (ST) — OVR: 73 [Conf: 0.79]
-      Finishing: 77 | ShortPass: 64 | Tackling: 65 | Dribbling: 67 | Stamina: 60
-    - Luka Jovic (ST) — OVR: 73 [Conf: 0.63]
-      Finishing: 77 | ShortPass: 56 | Tackling: 58 | Dribbling: 69 | Stamina: 55
-    - Manu Vallejo (ST) — OVR: 73 [Conf: 0.59]
-      Finishing: 78 | ShortPass: 59 | Tackling: 62 | Dribbling: 67 | Stamina: 55
-    - Unknown Player (CM) — OVR: 73 [Conf: 0.98]
-      Finishing: 93 | ShortPass: 78 | Tackling: 56 | Dribbling: 74 | Stamina: 73
-    - Rubén García (ST) — OVR: 73 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 70 | Tackling: 68 | Dribbling: 81 | Stamina: 84
-    - Fran García (CB) — OVR: 72 [Conf: 0.91]
-      Finishing: 61 | ShortPass: 86 | Tackling: 71 | Dribbling: 67 | Stamina: 70
-    - Johan Mojica (CM) — OVR: 72 [Conf: 0.99]
-      Finishing: 58 | ShortPass: 74 | Tackling: 69 | Dribbling: 68 | Stamina: 78
-    - Jon Guridi (CM) — OVR: 72 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 65 | Tackling: 68 | Dribbling: 79 | Stamina: 91
-    - José Arnaiz (ST) — OVR: 72 [Conf: 0.80]
-      Finishing: 76 | ShortPass: 62 | Tackling: 60 | Dribbling: 66 | Stamina: 60
-    - Marcos Peña (CM) — OVR: 72 [Conf: 0.57]
-      Finishing: 63 | ShortPass: 76 | Tackling: 83 | Dribbling: 63 | Stamina: 59
-    - Oihan Sancet (CM) — OVR: 72 [Conf: 0.99]
-      Finishing: 71 | ShortPass: 71 | Tackling: 60 | Dribbling: 78 | Stamina: 79
-    - Sergi Darder (CM) — OVR: 72 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 71 | Tackling: 65 | Dribbling: 74 | Stamina: 78
-    - Álex Sola (CB) — OVR: 72 [Conf: 0.88]
-      Finishing: 62 | ShortPass: 61 | Tackling: 73 | Dribbling: 71 | Stamina: 70
-    - Óscar De Marcos (CB) — OVR: 72 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 80 | Tackling: 70 | Dribbling: 85 | Stamina: 84
-    - Antonio Sánchez (CM) — OVR: 72 [Conf: 0.96]
-      Finishing: 64 | ShortPass: 71 | Tackling: 84 | Dribbling: 67 | Stamina: 71
-    - Darko Brasanac (CM) — OVR: 72 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 68 | Tackling: 67 | Dribbling: 78 | Stamina: 84
-    - David Alaba (CB) — OVR: 72 [Conf: 0.99]
-      Finishing: 66 | ShortPass: 98 | Tackling: 66 | Dribbling: 84 | Stamina: 92
-    - Eden Hazard (ST) — OVR: 72 [Conf: 0.74]
-      Finishing: 74 | ShortPass: 75 | Tackling: 55 | Dribbling: 72 | Stamina: 58
-    - Hernâni Jorge Santos Fortes (ST) — OVR: 72 [Conf: 0.24]
-      Finishing: 77 | ShortPass: 58 | Tackling: 58 | Dribbling: 65 | Stamina: 59
-    - Lucas Vázquez (ST) — OVR: 72 [Conf: 0.99]
-      Finishing: 72 | ShortPass: 90 | Tackling: 72 | Dribbling: 70 | Stamina: 74
-    - Unai Núñez (CB) — OVR: 72 [Conf: 0.63]
-      Finishing: 59 | ShortPass: 79 | Tackling: 73 | Dribbling: 68 | Stamina: 64
-    - Alejandro Díez Salomon (CB) — OVR: 72 [Conf: 0.66]
-      Finishing: 61 | ShortPass: 73 | Tackling: 73 | Dribbling: 68 | Stamina: 61
-    - Saúl Coco (CB) — OVR: 72 [Conf: 0.68]
-      Finishing: 59 | ShortPass: 85 | Tackling: 71 | Dribbling: 72 | Stamina: 66
-    - Álex Centelles (CB) — OVR: 72 [Conf: 0.94]
-      Finishing: 63 | ShortPass: 77 | Tackling: 72 | Dribbling: 78 | Stamina: 73
-    - Alberto Moleiro (CM) — OVR: 71 [Conf: 0.99]
-      Finishing: 70 | ShortPass: 71 | Tackling: 57 | Dribbling: 77 | Stamina: 74
-    - Carlos Benavídez (CM) — OVR: 71 [Conf: 0.85]
-      Finishing: 78 | ShortPass: 69 | Tackling: 92 | Dribbling: 68 | Stamina: 61
-    - Dani Rodríguez (CM) — OVR: 71 [Conf: 0.99]
-      Finishing: 62 | ShortPass: 66 | Tackling: 66 | Dribbling: 74 | Stamina: 90
-    - Juan Cruz Álvaro Armada (CB) — OVR: 71 [Conf: 0.97]
-      Finishing: 55 | ShortPass: 75 | Tackling: 70 | Dribbling: 65 | Stamina: 75
-    - Pablo Maffeo (CB) — OVR: 71 [Conf: 0.92]
-      Finishing: 67 | ShortPass: 63 | Tackling: 72 | Dribbling: 79 | Stamina: 71
-    - José Ángel Valdés Díaz (CB) — OVR: 71 [Conf: 0.84]
-      Finishing: 66 | ShortPass: 78 | Tackling: 71 | Dribbling: 69 | Stamina: 65
-    - Ferland Mendy (CB) — OVR: 71 [Conf: 0.99]
-      Finishing: 68 | ShortPass: 95 | Tackling: 67 | Dribbling: 81 | Stamina: 78
-    - Mariano Díaz (ST) — OVR: 71 [Conf: 0.57]
-      Finishing: 76 | ShortPass: 55 | Tackling: 60 | Dribbling: 65 | Stamina: 57
-    - Miguel Gutiérrez (CB) — OVR: 71 [Conf: 0.24]
-      Finishing: 59 | ShortPass: 78 | Tackling: 71 | Dribbling: 72 | Stamina: 65
-    - Rodrigo Battaglia (CM) — OVR: 71 [Conf: 0.86]
-      Finishing: 60 | ShortPass: 74 | Tackling: 82 | Dribbling: 62 | Stamina: 64
-    - Antonio Moya (CB) — OVR: 71 [Conf: 0.91]
-      Finishing: 59 | ShortPass: 67 | Tackling: 72 | Dribbling: 66 | Stamina: 70
-    - Alberto Moleiro (CM) — OVR: 71 [Conf: 0.99]
-      Finishing: 71 | ShortPass: 72 | Tackling: 62 | Dribbling: 70 | Stamina: 77
-    - Rafael Sebastián Mújica García (ST) — OVR: 71 [Conf: 0.70]
-      Finishing: 75 | ShortPass: 53 | Tackling: 63 | Dribbling: 64 | Stamina: 58
-    - Óscar Clemente (CM) — OVR: 71 [Conf: 0.81]
-      Finishing: 71 | ShortPass: 77 | Tackling: 61 | Dribbling: 72 | Stamina: 62
-    - Daniel García Carrillo (CM) — OVR: 70 [Conf: 0.73]
-      Finishing: 69 | ShortPass: 75 | Tackling: 74 | Dribbling: 64 | Stamina: 59
-    - Kike Barja (ST) — OVR: 70 [Conf: 0.31]
-      Finishing: 73 | ShortPass: 60 | Tackling: 65 | Dribbling: 66 | Stamina: 56
-    - Luis Rioja (CM) — OVR: 70 [Conf: 0.99]
-      Finishing: 74 | ShortPass: 62 | Tackling: 61 | Dribbling: 82 | Stamina: 87
-    - Marko Milovanovic (ST) — OVR: 70 [Conf: 0.58]
-      Finishing: 77 | ShortPass: 56 | Tackling: 65 | Dribbling: 59 | Stamina: 57
-    - Sergio Arribas (CM) — OVR: 70 [Conf: 0.99]
-      Finishing: 82 | ShortPass: 68 | Tackling: 67 | Dribbling: 73 | Stamina: 77
-    - Álex Pozo (CM) — OVR: 70 [Conf: 0.82]
-      Finishing: 66 | ShortPass: 74 | Tackling: 68 | Dribbling: 68 | Stamina: 61
-    - Gonzalo Escalante (CM) — OVR: 70 [Conf: 0.86]
-      Finishing: 82 | ShortPass: 62 | Tackling: 82 | Dribbling: 80 | Stamina: 70
-    - Iker Benito (ST) — OVR: 70 [Conf: 0.23]
-      Finishing: 74 | ShortPass: 56 | Tackling: 60 | Dribbling: 65 | Stamina: 59
-    - Unknown Player (CM) — OVR: 70 [Conf: 0.56]
-      Finishing: 83 | ShortPass: 66 | Tackling: 88 | Dribbling: 76 | Stamina: 60
-    - Tomás Pina (CM) — OVR: 70 [Conf: 0.92]
-      Finishing: 59 | ShortPass: 71 | Tackling: 77 | Dribbling: 62 | Stamina: 69
-    - Arvin Appiah (ST) — OVR: 70 [Conf: 0.83]
-      Finishing: 73 | ShortPass: 61 | Tackling: 59 | Dribbling: 69 | Stamina: 61
-    - Sergio Akieme (CB) — OVR: 70 [Conf: 0.99]
-      Finishing: 62 | ShortPass: 75 | Tackling: 67 | Dribbling: 74 | Stamina: 84
-    - Álvaro Lemos (ST) — OVR: 70 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 91
-    - Andrii Lunin (GK) — OVR: 69 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 64 | Tackling: 49 | Dribbling: 68 | Stamina: 79
-    - Dominik Greif (GK) — OVR: 69 [Conf: 0.22]
-      Finishing: 54 | ShortPass: 64 | Tackling: 50 | Dribbling: 55 | Stamina: 57
-    - Fabio González (CM) — OVR: 69 [Conf: 0.24]
-      Finishing: 64 | ShortPass: 77 | Tackling: 66 | Dribbling: 58 | Stamina: 57
-    - Ferland Mendy (CB) — OVR: 69 [Conf: 0.98]
-      Finishing: 63 | ShortPass: 96 | Tackling: 65 | Dribbling: 82 | Stamina: 77
-    - Jesús Areso (CB) — OVR: 69 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 68 | Tackling: 66 | Dribbling: 77 | Stamina: 91
-    - José Ángel Gómez Campaña (CM) — OVR: 69 [Conf: 0.26]
-      Finishing: 64 | ShortPass: 79 | Tackling: 70 | Dribbling: 57 | Stamina: 55
-    - Kepa Arrizabalaga Revuelta (GK) — OVR: 69 [Conf: 0.81]
-      Finishing: 54 | ShortPass: 64 | Tackling: 47 | Dribbling: 65 | Stamina: 69
-    - Rubén Peña (ST) — OVR: 69 [Conf: 0.99]
-      Finishing: 63 | ShortPass: 62 | Tackling: 72 | Dribbling: 78 | Stamina: 82
-    - Shon Weissman (ST) — OVR: 69 [Conf: 0.62]
-      Finishing: 73 | ShortPass: 53 | Tackling: 59 | Dribbling: 62 | Stamina: 58
-    - Thibaut Courtois (GK) — OVR: 69 [Conf: 0.51]
-      Finishing: 54 | ShortPass: 65 | Tackling: 48 | Dribbling: 61 | Stamina: 58
-    - Andrii Lunin (GK) — OVR: 69 [Conf: 0.23]
-      Finishing: 54 | ShortPass: 66 | Tackling: 50 | Dribbling: 57 | Stamina: 58
-    - Javi López (CB) — OVR: 69 [Conf: 0.59]
-      Finishing: 58 | ShortPass: 66 | Tackling: 70 | Dribbling: 60 | Stamina: 61
-    - Luis Rioja (CM) — OVR: 69 [Conf: 0.99]
-      Finishing: 65 | ShortPass: 60 | Tackling: 59 | Dribbling: 82 | Stamina: 91
-    - Matthew Hoppe (ST) — OVR: 69 [Conf: 0.24]
-      Finishing: 71 | ShortPass: 57 | Tackling: 59 | Dribbling: 68 | Stamina: 59
-    - Benito Ramírez (CM) — OVR: 69 [Conf: 0.93]
-      Finishing: 72 | ShortPass: 70 | Tackling: 65 | Dribbling: 70 | Stamina: 67
-    - Francisco José Sánchez Rodríguez (ST) — OVR: 69 [Conf: 0.86]
-      Finishing: 72 | ShortPass: 73 | Tackling: 61 | Dribbling: 64 | Stamina: 62
-    - Aarón Escandell (GK) — OVR: 68 [Conf: 0.23]
-      Finishing: 54 | ShortPass: 66 | Tackling: 51 | Dribbling: 52 | Stamina: 58
-    - Aimar Oroz (ST) — OVR: 68 [Conf: 0.99]
-      Finishing: 64 | ShortPass: 72 | Tackling: 64 | Dribbling: 72 | Stamina: 84
-    - Antonio Sánchez (CM) — OVR: 68 [Conf: 0.93]
-      Finishing: 73 | ShortPass: 66 | Tackling: 66 | Dribbling: 75 | Stamina: 70
-    - Arda Güler (CM) — OVR: 68 [Conf: 0.58]
-      Finishing: 90 | ShortPass: 76 | Tackling: 57 | Dribbling: 65 | Stamina: 58
-    - Bruno Alberto Langa (CB) — OVR: 68 [Conf: 0.69]
-      Finishing: 65 | ShortPass: 68 | Tackling: 68 | Dribbling: 71 | Stamina: 66
-    - Giuliano Simeone (ST) — OVR: 68 [Conf: 0.68]
-      Finishing: 70 | ShortPass: 58 | Tackling: 60 | Dribbling: 66 | Stamina: 59
-    - Gonzalo Melero (CM) — OVR: 68 [Conf: 0.84]
-      Finishing: 66 | ShortPass: 73 | Tackling: 65 | Dribbling: 61 | Stamina: 61
-    - Ibrahima Koné (ST) — OVR: 68 [Conf: 0.28]
-      Finishing: 72 | ShortPass: 55 | Tackling: 60 | Dribbling: 63 | Stamina: 57
-    - Javi López (CB) — OVR: 68 [Conf: 0.99]
-      Finishing: 61 | ShortPass: 65 | Tackling: 66 | Dribbling: 72 | Stamina: 86
-    - Joaquín Panichelli (ST) — OVR: 68 [Conf: 0.26]
-      Finishing: 72 | ShortPass: 55 | Tackling: 72 | Dribbling: 63 | Stamina: 57
-    - Marvin Olawale Akinlabi Park (CM) — OVR: 68 [Conf: 0.99]
-      Finishing: 60 | ShortPass: 68 | Tackling: 69 | Dribbling: 66 | Stamina: 72
-    - Pablo Ibáñez (CM) — OVR: 68 [Conf: 0.85]
-      Finishing: 67 | ShortPass: 69 | Tackling: 74 | Dribbling: 64 | Stamina: 61
-    - Unai Simón (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 60 | Tackling: 46 | Dribbling: 69 | Stamina: 92
-    - Álvaro Vallés (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 70 | Tackling: 49 | Dribbling: 69 | Stamina: 93
-    - Amath Ndiaye (ST) — OVR: 68 [Conf: 0.79]
-      Finishing: 68 | ShortPass: 58 | Tackling: 67 | Dribbling: 69 | Stamina: 61
-    - Edgar Méndez (ST) — OVR: 68 [Conf: 0.96]
-      Finishing: 68 | ShortPass: 56 | Tackling: 65 | Dribbling: 67 | Stamina: 71
-    - John Guidetti (ST) — OVR: 68 [Conf: 0.28]
-      Finishing: 72 | ShortPass: 58 | Tackling: 56 | Dribbling: 63 | Stamina: 57
-    - Marcelo Vieira Da Silva Junior (CB) — OVR: 68 [Conf: 0.64]
-      Finishing: 64 | ShortPass: 90 | Tackling: 66 | Dribbling: 72 | Stamina: 61
-    - Miguel de la Fuente (ST) — OVR: 68 [Conf: 0.78]
-      Finishing: 70 | ShortPass: 55 | Tackling: 59 | Dribbling: 64 | Stamina: 60
-    - Oihan Sancet (CM) — OVR: 68 [Conf: 0.92]
-      Finishing: 82 | ShortPass: 66 | Tackling: 60 | Dribbling: 76 | Stamina: 69
-    - Thibaut Courtois (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 63 | Tackling: 46 | Dribbling: 69 | Stamina: 93
-    - Unai Dufur (CM) — OVR: 68 [Conf: 0.22]
-      Finishing: 65 | ShortPass: 70 | Tackling: 73 | Dribbling: 64 | Stamina: 61
-    - Unai Simón (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 59 | Tackling: 46 | Dribbling: 69 | Stamina: 93
-    - Fernando Martínez (GK) — OVR: 68 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 61 | Tackling: 46 | Dribbling: 70 | Stamina: 93
-    - Álvaro Vallés (GK) — OVR: 68 [Conf: 0.88]
-      Finishing: 54 | ShortPass: 63 | Tackling: 47 | Dribbling: 67 | Stamina: 74
-    - Abdulai Mukarama (ST) — OVR: 68 [Conf: 0.24]
-      Finishing: 71 | ShortPass: 53 | Tackling: 57 | Dribbling: 63 | Stamina: 58
-    - Antonio Sivera (GK) — OVR: 67 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 58 | Tackling: 48 | Dribbling: 69 | Stamina: 92
-    - Diego Mariño (GK) — OVR: 67 [Conf: 0.22]
-      Finishing: 54 | ShortPass: 58 | Tackling: 51 | Dribbling: 55 | Stamina: 58
-    - Iván Cuéllar (GK) — OVR: 67 [Conf: 0.22]
-      Finishing: 54 | ShortPass: 56 | Tackling: 50 | Dribbling: 55 | Stamina: 58
-    - Julen Agirrezabala (GK) — OVR: 67 [Conf: 0.25]
-      Finishing: 54 | ShortPass: 60 | Tackling: 50 | Dribbling: 51 | Stamina: 58
-    - Predrag Rajkovic (GK) — OVR: 67 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 60 | Tackling: 47 | Dribbling: 69 | Stamina: 93
-    - Sergio Herrera (GK) — OVR: 67 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 61 | Tackling: 48 | Dribbling: 69 | Stamina: 92
-    - Álvaro Lemos (ST) — OVR: 67 [Conf: 0.25]
-      Finishing: 68 | ShortPass: 63 | Tackling: 67 | Dribbling: 67 | Stamina: 60
-    - Antonio Sivera (GK) — OVR: 67 [Conf: 0.25]
-      Finishing: 54 | ShortPass: 59 | Tackling: 49 | Dribbling: 56 | Stamina: 58
-    - Dominik Greif (GK) — OVR: 67 [Conf: 0.22]
-      Finishing: 54 | ShortPass: 58 | Tackling: 50 | Dribbling: 55 | Stamina: 58
-    - Facundo Pellistri (ST) — OVR: 67 [Conf: 0.75]
-      Finishing: 69 | ShortPass: 56 | Tackling: 63 | Dribbling: 66 | Stamina: 57
-    - David Remeseiro Salgueiro (ST) — OVR: 67 [Conf: 0.69]
-      Finishing: 66 | ShortPass: 55 | Tackling: 66 | Dribbling: 71 | Stamina: 61
-    - Javi Martínez (CM) — OVR: 67 [Conf: 0.79]
-      Finishing: 65 | ShortPass: 71 | Tackling: 73 | Dribbling: 60 | Stamina: 58
-    - Jesús Owono (GK) — OVR: 67 [Conf: 0.22]
-      Finishing: 54 | ShortPass: 56 | Tackling: 50 | Dribbling: 55 | Stamina: 58
-    - Julen Agirrezabala (GK) — OVR: 67 [Conf: 0.52]
-      Finishing: 54 | ShortPass: 57 | Tackling: 49 | Dribbling: 61 | Stamina: 60
-    - Kang-In Lee (CM) — OVR: 67 [Conf: 0.91]
-      Finishing: 71 | ShortPass: 68 | Tackling: 60 | Dribbling: 70 | Stamina: 66
-    - Leonardo Román Riquelme (GK) — OVR: 67 [Conf: 0.23]
-      Finishing: 54 | ShortPass: 59 | Tackling: 50 | Dribbling: 57 | Stamina: 58
-    - Manuel Reina (GK) — OVR: 67 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 58 | Tackling: 47 | Dribbling: 68 | Stamina: 79
-    - Nicholas Williams Arthuer (ST) — OVR: 67 [Conf: 0.89]
-      Finishing: 69 | ShortPass: 61 | Tackling: 61 | Dribbling: 64 | Stamina: 64
-    - Raúl García (CM) — OVR: 67 [Conf: 0.99]
-      Finishing: 77 | ShortPass: 62 | Tackling: 70 | Dribbling: 72 | Stamina: 74
-    - Sergio Herrera (GK) — OVR: 67 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 59 | Tackling: 48 | Dribbling: 69 | Stamina: 93
-    - Giorgi Makaridze (GK) — OVR: 67 [Conf: 0.22]
-      Finishing: 54 | ShortPass: 62 | Tackling: 52 | Dribbling: 55 | Stamina: 58
-    - José Javier Robles Belmonte (ST) — OVR: 67 [Conf: 0.27]
-      Finishing: 71 | ShortPass: 61 | Tackling: 71 | Dribbling: 61 | Stamina: 58
-    - José Carlos Lazo (CM) — OVR: 67 [Conf: 0.88]
-      Finishing: 80 | ShortPass: 69 | Tackling: 59 | Dribbling: 68 | Stamina: 65
-    - Maikel Mesa (CM) — OVR: 67 [Conf: 0.74]
-      Finishing: 74 | ShortPass: 73 | Tackling: 68 | Dribbling: 60 | Stamina: 55
-    - Raúl Fernández (GK) — OVR: 67 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 59 | Tackling: 47 | Dribbling: 69 | Stamina: 89
-    - Carla Bautista (ST) — OVR: 67 [Conf: 0.25]
-      Finishing: 70 | ShortPass: 52 | Tackling: 55 | Dribbling: 62 | Stamina: 57
-    - Aitor Fernández (GK) — OVR: 66 [Conf: 0.59]
-      Finishing: 54 | ShortPass: 58 | Tackling: 48 | Dribbling: 62 | Stamina: 61
-    - Benito Ramírez (CM) — OVR: 66 [Conf: 0.68]
-      Finishing: 73 | ShortPass: 71 | Tackling: 64 | Dribbling: 64 | Stamina: 55
-    - Fernando Martínez (GK) — OVR: 66 [Conf: 0.52]
-      Finishing: 54 | ShortPass: 59 | Tackling: 50 | Dribbling: 61 | Stamina: 60
-    - Jesús Owono (GK) — OVR: 66 [Conf: 0.52]
-      Finishing: 54 | ShortPass: 58 | Tackling: 50 | Dribbling: 61 | Stamina: 60
-    - Luís Manuel Arantes Maximiano (GK) — OVR: 66 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 61 | Tackling: 47 | Dribbling: 69 | Stamina: 92
-    - Mikel Jauregizar (CM) — OVR: 66 [Conf: 0.25]
-      Finishing: 64 | ShortPass: 72 | Tackling: 65 | Dribbling: 59 | Stamina: 56
-    - Fernando Pacheco (GK) — OVR: 66 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 58 | Tackling: 47 | Dribbling: 69 | Stamina: 92
-    - Jesús Areso (CB) — OVR: 66 [Conf: 0.24]
-      Finishing: 59 | ShortPass: 63 | Tackling: 67 | Dribbling: 65 | Stamina: 64
-    - Juan Pérez (GK) — OVR: 66 [Conf: 0.23]
-      Finishing: 54 | ShortPass: 55 | Tackling: 50 | Dribbling: 57 | Stamina: 58
-    - Oier Zarraga (CM) — OVR: 66 [Conf: 0.86]
-      Finishing: 65 | ShortPass: 71 | Tackling: 68 | Dribbling: 58 | Stamina: 60
-    - Roberto Torres (CM) — OVR: 66 [Conf: 0.78]
-      Finishing: 74 | ShortPass: 70 | Tackling: 62 | Dribbling: 65 | Stamina: 56
-    - Arnau Puigmal (CM) — OVR: 66 [Conf: 0.90]
-      Finishing: 77 | ShortPass: 68 | Tackling: 63 | Dribbling: 66 | Stamina: 65
-    - Malcom Abdulai Ares Djaló (ST) — OVR: 65 [Conf: 0.29]
-      Finishing: 69 | ShortPass: 62 | Tackling: 64 | Dribbling: 59 | Stamina: 56
-    - Sory Kaba (ST) — OVR: 65 [Conf: 0.73]
-      Finishing: 66 | ShortPass: 56 | Tackling: 66 | Dribbling: 63 | Stamina: 60
-    - Sergio Rico (GK) — OVR: 65 [Conf: 0.82]
-      Finishing: 54 | ShortPass: 58 | Tackling: 47 | Dribbling: 66 | Stamina: 71
-    - Catalina Coll (GK) — OVR: 65 [Conf: 0.65]
-      Finishing: 54 | ShortPass: 52 | Tackling: 46 | Dribbling: 64 | Stamina: 63
-    - Eva Navarro (ST) — OVR: 65 [Conf: 0.56]
-      Finishing: 65 | ShortPass: 49 | Tackling: 51 | Dribbling: 68 | Stamina: 59
-    - Gemma Font (GK) — OVR: 65 [Conf: 0.57]
-      Finishing: 54 | ShortPass: 50 | Tackling: 47 | Dribbling: 60 | Stamina: 59
-    - Neike Barga (GK) — OVR: 65 [Conf: 0.22]
-      Finishing: 54 | ShortPass: 51 | Tackling: 50 | Dribbling: 55 | Stamina: 58
-    - Sandra Paños (GK) — OVR: 65 [Conf: 0.90]
-      Finishing: 54 | ShortPass: 50 | Tackling: 44 | Dribbling: 67 | Stamina: 73
-    - Ianis Hagi (CM) — OVR: 64 [Conf: 0.78]
-      Finishing: 66 | ShortPass: 64 | Tackling: 70 | Dribbling: 66 | Stamina: 58
-    - Raúl García (CM) — OVR: 64 [Conf: 0.69]
-      Finishing: 69 | ShortPass: 67 | Tackling: 79 | Dribbling: 54 | Stamina: 55
-    - Unai Gómez (CM) — OVR: 64 [Conf: 0.79]
-      Finishing: 77 | ShortPass: 64 | Tackling: 66 | Dribbling: 67 | Stamina: 58
-    - Iñigo Pérez (CM) — OVR: 64 [Conf: 0.57]
-      Finishing: 72 | ShortPass: 67 | Tackling: 61 | Dribbling: 64 | Stamina: 58
-    - Oier Sanjurjo (CM) — OVR: 64 [Conf: 0.77]
-      Finishing: 63 | ShortPass: 69 | Tackling: 67 | Dribbling: 56 | Stamina: 57
-    - Pere Pons (CM) — OVR: 64 [Conf: 0.91]
-      Finishing: 64 | ShortPass: 62 | Tackling: 67 | Dribbling: 66 | Stamina: 68
-    - Takefusa Kubo (CM) — OVR: 64 [Conf: 0.96]
-      Finishing: 64 | ShortPass: 63 | Tackling: 64 | Dribbling: 64 | Stamina: 70
-    - Claudio Mendes (CM) — OVR: 64 [Conf: 0.24]
-      Finishing: 70 | ShortPass: 65 | Tackling: 66 | Dribbling: 63 | Stamina: 58
-    - Andreea Paraluta (GK) — OVR: 64 [Conf: 0.81]
-      Finishing: 54 | ShortPass: 50 | Tackling: 45 | Dribbling: 65 | Stamina: 69
-    - Mar Segarra (GK) — OVR: 64 [Conf: 0.24]
-      Finishing: 54 | ShortPass: 51 | Tackling: 48 | Dribbling: 59 | Stamina: 58
-    - María López Valenzuela (GK) — OVR: 64 [Conf: 0.54]
-      Finishing: 54 | ShortPass: 52 | Tackling: 47 | Dribbling: 61 | Stamina: 59
-    - María Isabel Rodríguez (GK) — OVR: 64 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 51 | Tackling: 44 | Dribbling: 69 | Stamina: 86
-    - Méline Gerard (GK) — OVR: 64 [Conf: 0.24]
-      Finishing: 54 | ShortPass: 48 | Tackling: 48 | Dribbling: 59 | Stamina: 58
-    - Luka Romero (CM) — OVR: 63 [Conf: 0.63]
-      Finishing: 81 | ShortPass: 66 | Tackling: 60 | Dribbling: 63 | Stamina: 58
-    - Xeber Alkain (CM) — OVR: 63 [Conf: 0.28]
-      Finishing: 62 | ShortPass: 66 | Tackling: 65 | Dribbling: 57 | Stamina: 57
-    - Manuel García (ST) — OVR: 63 [Conf: 0.84]
-      Finishing: 63 | ShortPass: 72 | Tackling: 65 | Dribbling: 63 | Stamina: 61
-    - Óscar Francisco García Quintela (ST) — OVR: 63 [Conf: 0.67]
-      Finishing: 67 | ShortPass: 60 | Tackling: 64 | Dribbling: 58 | Stamina: 55
-    - Andrea De la Nava (GK) — OVR: 63 [Conf: 0.52]
-      Finishing: 54 | ShortPass: 48 | Tackling: 47 | Dribbling: 61 | Stamina: 59
-    - Claudia Zornoza (CM) — OVR: 63 [Conf: 0.99]
-      Finishing: 83 | ShortPass: 47 | Tackling: 46 | Dribbling: 98 | Stamina: 86
-    - Fiamma Iannuzzi (ST) — OVR: 63 [Conf: 0.64]
-      Finishing: 65 | ShortPass: 50 | Tackling: 51 | Dribbling: 59 | Stamina: 57
-    - Jana Xin Henseler Gallego (GK) — OVR: 63 [Conf: 0.56]
-      Finishing: 54 | ShortPass: 51 | Tackling: 47 | Dribbling: 61 | Stamina: 59
-    - Mária Korenciová (GK) — OVR: 63 [Conf: 0.67]
-      Finishing: 54 | ShortPass: 50 | Tackling: 46 | Dribbling: 64 | Stamina: 64
-    - Yohana Gómez (GK) — OVR: 63 [Conf: 0.52]
-      Finishing: 54 | ShortPass: 48 | Tackling: 47 | Dribbling: 61 | Stamina: 59
-    - Unknown Player (CM) — OVR: 62 [Conf: 0.90]
-      Finishing: 81 | ShortPass: 59 | Tackling: 65 | Dribbling: 65 | Stamina: 64
-    - Alexia Putellas (CM) — OVR: 62 [Conf: 0.99]
-      Finishing: 99 | ShortPass: 49 | Tackling: 48 | Dribbling: 96 | Stamina: 74
-    - Estela Carbonell (CB) — OVR: 62 [Conf: 0.24]
-      Finishing: 59 | ShortPass: 59 | Tackling: 62 | Dribbling: 64 | Stamina: 62
-    - Esther Sullastres (GK) — OVR: 62 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 49 | Tackling: 44 | Dribbling: 68 | Stamina: 82
-    - Oihane Valdezate (CM) — OVR: 62 [Conf: 0.99]
-      Finishing: 81 | ShortPass: 46 | Tackling: 46 | Dribbling: 92 | Stamina: 88
-    - Patricia Guijarro Gutiérrez (CM) — OVR: 62 [Conf: 0.99]
-      Finishing: 86 | ShortPass: 48 | Tackling: 48 | Dribbling: 96 | Stamina: 78
-    - Paula Fernández (CM) — OVR: 62 [Conf: 0.99]
-      Finishing: 87 | ShortPass: 46 | Tackling: 46 | Dribbling: 93 | Stamina: 88
-    - Sandie Toletti (CM) — OVR: 62 [Conf: 0.99]
-      Finishing: 87 | ShortPass: 48 | Tackling: 47 | Dribbling: 95 | Stamina: 77
-    - María Asunción Quiñones Goikoetxea (GK) — OVR: 62 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 50 | Tackling: 44 | Dribbling: 69 | Stamina: 85
-    - Yanara Aedo (ST) — OVR: 62 [Conf: 0.99]
-      Finishing: 59 | ShortPass: 45 | Tackling: 46 | Dribbling: 64 | Stamina: 72
-    - Abde Rebbach (CM) — OVR: 61 [Conf: 0.76]
-      Finishing: 68 | ShortPass: 62 | Tackling: 63 | Dribbling: 60 | Stamina: 57
-    - Aitana Bonmatí (CM) — OVR: 61 [Conf: 0.97]
-      Finishing: 99 | ShortPass: 49 | Tackling: 48 | Dribbling: 91 | Stamina: 72
-    - Claudia Cabezas (CM) — OVR: 61 [Conf: 0.26]
-      Finishing: 64 | ShortPass: 63 | Tackling: 63 | Dribbling: 58 | Stamina: 57
-    - Cristina Cornejo (GK) — OVR: 61 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 48 | Tackling: 44 | Dribbling: 68 | Stamina: 82
-    - Iris Ponciano (ST) — OVR: 61 [Conf: 0.99]
-      Finishing: 60 | ShortPass: 45 | Tackling: 47 | Dribbling: 61 | Stamina: 71
-    - Leire Baños (CM) — OVR: 61 [Conf: 0.99]
-      Finishing: 87 | ShortPass: 47 | Tackling: 47 | Dribbling: 89 | Stamina: 82
-    - Marta Corredera (CB) — OVR: 61 [Conf: 0.26]
-      Finishing: 59 | ShortPass: 58 | Tackling: 61 | Dribbling: 61 | Stamina: 61
-    - Míriam Diéguez (CM) — OVR: 61 [Conf: 0.99]
-      Finishing: 84 | ShortPass: 47 | Tackling: 46 | Dribbling: 91 | Stamina: 82
-    - Natalia Gaitán (CM) — OVR: 61 [Conf: 0.99]
-      Finishing: 81 | ShortPass: 46 | Tackling: 47 | Dribbling: 91 | Stamina: 82
-    - Patricia Larqué (GK) — OVR: 61 [Conf: 0.99]
-      Finishing: 54 | ShortPass: 48 | Tackling: 44 | Dribbling: 68 | Stamina: 84
-    - Paula Arana (ST) — OVR: 61 [Conf: 0.82]
-      Finishing: 61 | ShortPass: 48 | Tackling: 48 | Dribbling: 60 | Stamina: 61
-    - Pilar García (CM) — OVR: 61 [Conf: 0.99]
-      Finishing: 82 | ShortPass: 46 | Tackling: 46 | Dribbling: 91 | Stamina: 86
-    - Érika González (CM) — OVR: 61 [Conf: 0.27]
-      Finishing: 86 | ShortPass: 60 | Tackling: 59 | Dribbling: 66 | Stamina: 57
-    - Ane Miren Martínez (CM) — OVR: 60 [Conf: 0.99]
-      Finishing: 83 | ShortPass: 47 | Tackling: 47 | Dribbling: 87 | Stamina: 79
-    - Clara Pinedo (CM) — OVR: 60 [Conf: 0.53]
-      Finishing: 78 | ShortPass: 58 | Tackling: 58 | Dribbling: 70 | Stamina: 58
-    - Grace Kazadi (CB) — OVR: 60 [Conf: 0.53]
-      Finishing: 58 | ShortPass: 57 | Tackling: 60 | Dribbling: 60 | Stamina: 60
-    - María Inmaculada Gabarro (CM) — OVR: 60 [Conf: 0.99]
-      Finishing: 88 | ShortPass: 48 | Tackling: 48 | Dribbling: 87 | Stamina: 75
-    - Irene Guerrero (CM) — OVR: 60 [Conf: 0.99]
-      Finishing: 82 | ShortPass: 47 | Tackling: 47 | Dribbling: 89 | Stamina: 77
-    - María Pérez (CM) — OVR: 60 [Conf: 0.25]
-      Finishing: 64 | ShortPass: 63 | Tackling: 62 | Dribbling: 57 | Stamina: 55
-    - Ona Baradad (CM) — OVR: 60 [Conf: 0.26]
-      Finishing: 80 | ShortPass: 59 | Tackling: 59 | Dribbling: 66 | Stamina: 57
-    - Paula Sancho González (CM) — OVR: 60 [Conf: 0.99]
-      Finishing: 85 | ShortPass: 47 | Tackling: 47 | Dribbling: 87 | Stamina: 76
-    - Alba Aznar (CM) — OVR: 59 [Conf: 0.93]
-      Finishing: 83 | ShortPass: 48 | Tackling: 48 | Dribbling: 86 | Stamina: 71
-    - Irene Oguiza (CM) — OVR: 59 [Conf: 0.93]
-      Finishing: 83 | ShortPass: 48 | Tackling: 48 | Dribbling: 86 | Stamina: 72
-    - Nagore Calderón (CM) — OVR: 59 [Conf: 0.99]
-      Finishing: 82 | ShortPass: 47 | Tackling: 47 | Dribbling: 84 | Stamina: 74
-    - Ingrid Engen (CM) — OVR: 58 [Conf: 0.86]
-      Finishing: 83 | ShortPass: 50 | Tackling: 50 | Dribbling: 76 | Stamina: 64
-    - Unknown Player (CM) — OVR: 58 [Conf: 0.94]
-      Finishing: 81 | ShortPass: 48 | Tackling: 48 | Dribbling: 80 | Stamina: 70
-    - Maite Oroz (CM) — OVR: 58 [Conf: 0.95]
-      Finishing: 83 | ShortPass: 48 | Tackling: 48 | Dribbling: 82 | Stamina: 69
-    - María de Alharilla Casado (CM) — OVR: 58 [Conf: 0.61]
-      Finishing: 59 | ShortPass: 53 | Tackling: 53 | Dribbling: 68 | Stamina: 62
-    - Miku Ito (CM) — OVR: 58 [Conf: 0.86]
-      Finishing: 81 | ShortPass: 49 | Tackling: 51 | Dribbling: 79 | Stamina: 65
-    - Patricia Hidalgo (CM) — OVR: 58 [Conf: 0.54]
-      Finishing: 60 | ShortPass: 55 | Tackling: 55 | Dribbling: 66 | Stamina: 61
-    - Rosa Otermín (CM) — OVR: 58 [Conf: 0.94]
-      Finishing: 85 | ShortPass: 48 | Tackling: 47 | Dribbling: 83 | Stamina: 70
-    - Tatiana Vanessa Ferreira Pinto (CM) — OVR: 58 [Conf: 0.90]
-      Finishing: 85 | ShortPass: 49 | Tackling: 50 | Dribbling: 81 | Stamina: 67
-    - Ana Franco (CM) — OVR: 57 [Conf: 0.78]
-      Finishing: 66 | ShortPass: 52 | Tackling: 52 | Dribbling: 70 | Stamina: 58
-    - Claudia Florentino (CB) — OVR: 57 [Conf: 0.59]
-      Finishing: 58 | ShortPass: 57 | Tackling: 56 | Dribbling: 59 | Stamina: 60
-    - Danielle Hayden (CB) — OVR: 57 [Conf: 0.60]
-      Finishing: 58 | ShortPass: 55 | Tackling: 57 | Dribbling: 59 | Stamina: 60
-    - Débora García (CM) — OVR: 57 [Conf: 0.98]
-      Finishing: 57 | ShortPass: 48 | Tackling: 47 | Dribbling: 71 | Stamina: 75
-    - Karen Araya (CM) — OVR: 57 [Conf: 0.71]
-      Finishing: 72 | ShortPass: 52 | Tackling: 53 | Dribbling: 70 | Stamina: 59
-    - Michele Vasconcelos (CM) — OVR: 57 [Conf: 0.78]
-      Finishing: 82 | ShortPass: 52 | Tackling: 52 | Dribbling: 70 | Stamina: 58
-    - Silvia Lloris (CM) — OVR: 57 [Conf: 0.83]
-      Finishing: 83 | ShortPass: 50 | Tackling: 50 | Dribbling: 76 | Stamina: 63
-    - Yoko Tanaka (CM) — OVR: 57 [Conf: 0.67]
-      Finishing: 60 | ShortPass: 55 | Tackling: 55 | Dribbling: 61 | Stamina: 58
-    - Amparo Delgado Vega (CM) — OVR: 56 [Conf: 0.67]
-      Finishing: 59 | ShortPass: 53 | Tackling: 53 | Dribbling: 60 | Stamina: 59
-    - Gema Soliveres (CM) — OVR: 56 [Conf: 0.81]
-      Finishing: 81 | ShortPass: 50 | Tackling: 51 | Dribbling: 71 | Stamina: 61
-    - Nazareth Martín (CB) — OVR: 56 [Conf: 0.57]
-      Finishing: 58 | ShortPass: 55 | Tackling: 55 | Dribbling: 63 | Stamina: 63
-    - Sophie Istillart (CM) — OVR: 56 [Conf: 0.60]
-      Finishing: 60 | ShortPass: 54 | Tackling: 55 | Dribbling: 61 | Stamina: 59
-    - Cecilie Struck (CB) — OVR: 55 [Conf: 0.64]
-      Finishing: 81 | ShortPass: 51 | Tackling: 54 | Dribbling: 80 | Stamina: 64
-    - Itziar Gastearena Artola (CB) — OVR: 55 [Conf: 0.60]
-      Finishing: 57 | ShortPass: 53 | Tackling: 54 | Dribbling: 65 | Stamina: 63
-    - Isabella Echeverri (CM) — OVR: 55 [Conf: 0.88]
-      Finishing: 57 | ShortPass: 48 | Tackling: 49 | Dribbling: 67 | Stamina: 70
-    - Itxaso Uriarte (CM) — OVR: 55 [Conf: 0.85]
-      Finishing: 58 | ShortPass: 50 | Tackling: 50 | Dribbling: 62 | Stamina: 64
-    - Jana Fernández (CB) — OVR: 55 [Conf: 0.65]
-      Finishing: 80 | ShortPass: 52 | Tackling: 54 | Dribbling: 74 | Stamina: 61
-    - Mariana Cerro (CM) — OVR: 55 [Conf: 0.64]
-      Finishing: 60 | ShortPass: 55 | Tackling: 54 | Dribbling: 56 | Stamina: 57
-    - Marta Unzué (CM) — OVR: 55 [Conf: 0.96]
-      Finishing: 57 | ShortPass: 48 | Tackling: 48 | Dribbling: 63 | Stamina: 72
-    - Teresa Mérida (CB) — OVR: 55 [Conf: 0.65]
-      Finishing: 78 | ShortPass: 52 | Tackling: 54 | Dribbling: 78 | Stamina: 62
-    - Vera Martínez (CB) — OVR: 55 [Conf: 0.67]
-      Finishing: 57 | ShortPass: 52 | Tackling: 54 | Dribbling: 61 | Stamina: 62
-    - Aurélie Kaci (CM) — OVR: 54 [Conf: 0.74]
-      Finishing: 58 | ShortPass: 51 | Tackling: 51 | Dribbling: 60 | Stamina: 61
-    - Klára Cahynová (CM) — OVR: 54 [Conf: 0.91]
-      Finishing: 57 | ShortPass: 48 | Tackling: 49 | Dribbling: 60 | Stamina: 67
-    - María de los Ángeles Carrión Ejido (CM) — OVR: 54 [Conf: 0.91]
-      Finishing: 57 | ShortPass: 48 | Tackling: 48 | Dribbling: 62 | Stamina: 68
-    - María Méndez (CB) — OVR: 54 [Conf: 0.66]
-      Finishing: 57 | ShortPass: 52 | Tackling: 52 | Dribbling: 71 | Stamina: 66
-    - Naroa Uriarte (CB) — OVR: 54 [Conf: 0.68]
-      Finishing: 79 | ShortPass: 50 | Tackling: 52 | Dribbling: 84 | Stamina: 66
-    - Teresa Abelleira (CM) — OVR: 54 [Conf: 0.90]
-      Finishing: 57 | ShortPass: 49 | Tackling: 49 | Dribbling: 61 | Stamina: 66
-    - Irati Urruzola Bermúdez (CB) — OVR: 54 [Conf: 0.72]
-      Finishing: 78 | ShortPass: 51 | Tackling: 52 | Dribbling: 77 | Stamina: 64
-    - Almudena Rivero (CB) — OVR: 53 [Conf: 0.82]
-      Finishing: 56 | ShortPass: 50 | Tackling: 51 | Dribbling: 60 | Stamina: 63
-    - Ana-Maria Crnogorcevic (CB) — OVR: 53 [Conf: 0.82]
-      Finishing: 86 | ShortPass: 50 | Tackling: 51 | Dribbling: 81 | Stamina: 65
-    - Paula Nicart (CB) — OVR: 53 [Conf: 0.82]
-      Finishing: 80 | ShortPass: 48 | Tackling: 50 | Dribbling: 89 | Stamina: 73
-    - Sofie Svava (CB) — OVR: 53 [Conf: 0.73]
-      Finishing: 56 | ShortPass: 53 | Tackling: 51 | Dribbling: 68 | Stamina: 67
-    - Andrea Pereira (CB) — OVR: 52 [Conf: 0.84]
-      Finishing: 56 | ShortPass: 49 | Tackling: 50 | Dribbling: 61 | Stamina: 66
-    - Eunate Arraiza (CB) — OVR: 52 [Conf: 0.85]
-      Finishing: 56 | ShortPass: 49 | Tackling: 50 | Dribbling: 61 | Stamina: 66
-    - Javiera Toro (CB) — OVR: 52 [Conf: 0.87]
-      Finishing: 56 | ShortPass: 48 | Tackling: 49 | Dribbling: 67 | Stamina: 70
-    - Jucinara Thaís Soares Paz (CB) — OVR: 52 [Conf: 0.82]
-      Finishing: 56 | ShortPass: 49 | Tackling: 50 | Dribbling: 65 | Stamina: 67
-    - Laia Ballesté (CB) — OVR: 52 [Conf: 0.99]
-      Finishing: 80 | ShortPass: 46 | Tackling: 47 | Dribbling: 90 | Stamina: 87
-    - Lucia Rodriguez (CB) — OVR: 52 [Conf: 0.84]
-      Finishing: 56 | ShortPass: 49 | Tackling: 51 | Dribbling: 61 | Stamina: 64
-    - Maria Pilar León (CB) — OVR: 52 [Conf: 0.98]
-      Finishing: 82 | ShortPass: 47 | Tackling: 49 | Dribbling: 93 | Stamina: 77
-    - Melanie Serrano (CB) — OVR: 52 [Conf: 0.83]
-      Finishing: 84 | ShortPass: 50 | Tackling: 50 | Dribbling: 77 | Stamina: 63
-    - Nerea Nevado (CB) — OVR: 52 [Conf: 0.91]
-      Finishing: 64 | ShortPass: 49 | Tackling: 50 | Dribbling: 83 | Stamina: 68
-    - Núria Mendoza (CB) — OVR: 52 [Conf: 0.99]
-      Finishing: 81 | ShortPass: 45 | Tackling: 47 | Dribbling: 92 | Stamina: 88
-    - Paula Andújar (CB) — OVR: 52 [Conf: 0.84]
-      Finishing: 79 | ShortPass: 48 | Tackling: 50 | Dribbling: 83 | Stamina: 69
-    - Sonia García Majarín (CB) — OVR: 52 [Conf: 0.99]
-      Finishing: 55 | ShortPass: 46 | Tackling: 47 | Dribbling: 71 | Stamina: 87
-    - Vanesa Gimbert (CB) — OVR: 52 [Conf: 0.77]
-      Finishing: 82 | ShortPass: 49 | Tackling: 50 | Dribbling: 85 | Stamina: 68
-    - Aldana Cometti (CB) — OVR: 51 [Conf: 0.99]
-      Finishing: 80 | ShortPass: 47 | Tackling: 48 | Dribbling: 88 | Stamina: 77
-    - Babett Peter (CB) — OVR: 51 [Conf: 0.96]
-      Finishing: 55 | ShortPass: 47 | Tackling: 48 | Dribbling: 65 | Stamina: 74
-    - Camila Sáez (CB) — OVR: 51 [Conf: 0.99]
-      Finishing: 83 | ShortPass: 46 | Tackling: 47 | Dribbling: 93 | Stamina: 84
-    - Cristina Isabel Sánchez Auñón (CB) — OVR: 51 [Conf: 0.99]
-      Finishing: 55 | ShortPass: 46 | Tackling: 47 | Dribbling: 68 | Stamina: 80
-    - Garazi Facila (CB) — OVR: 51 [Conf: 0.97]
-      Finishing: 55 | ShortPass: 47 | Tackling: 48 | Dribbling: 66 | Stamina: 75
-    - Garazi Murua (CB) — OVR: 51 [Conf: 0.99]
-      Finishing: 81 | ShortPass: 47 | Tackling: 48 | Dribbling: 86 | Stamina: 76
-    - Irene Paredes (CB) — OVR: 51 [Conf: 0.97]
-      Finishing: 85 | ShortPass: 47 | Tackling: 48 | Dribbling: 87 | Stamina: 76
-    - Ivana Andrés (CB) — OVR: 51 [Conf: 0.99]
-      Finishing: 55 | ShortPass: 46 | Tackling: 47 | Dribbling: 67 | Stamina: 79
-    - Kenti Robles (CB) — OVR: 51 [Conf: 0.97]
-      Finishing: 55 | ShortPass: 47 | Tackling: 48 | Dribbling: 63 | Stamina: 72
-    - Leila Ouahabi (CB) — OVR: 51 [Conf: 0.90]
-      Finishing: 82 | ShortPass: 48 | Tackling: 48 | Dribbling: 84 | Stamina: 70
-    - Lucía Ramírez (CB) — OVR: 51 [Conf: 0.99]
-      Finishing: 55 | ShortPass: 47 | Tackling: 48 | Dribbling: 67 | Stamina: 76
-    - Marta Torrejón (CB) — OVR: 51 [Conf: 0.99]
-      Finishing: 86 | ShortPass: 46 | Tackling: 47 | Dribbling: 94 | Stamina: 86
-    - María Bores (CB) — OVR: 51 [Conf: 0.99]
-      Finishing: 55 | ShortPass: 45 | Tackling: 46 | Dribbling: 71 | Stamina: 88
-    - Ainhoa Vicente Moraza (CB) — OVR: 51 [Conf: 0.99]
-      Finishing: 55 | ShortPass: 46 | Tackling: 47 | Dribbling: 71 | Stamina: 85
-    - Oihane Hernández (CB) — OVR: 51 [Conf: 0.99]
-      Finishing: 55 | ShortPass: 47 | Tackling: 48 | Dribbling: 67 | Stamina: 76
-    - Osinachi Ohale (CB) — OVR: 51 [Conf: 0.99]
-      Finishing: 83 | ShortPass: 46 | Tackling: 47 | Dribbling: 92 | Stamina: 83
-    - Paula Tomás (CB) — OVR: 51 [Conf: 0.99]
-      Finishing: 81 | ShortPass: 47 | Tackling: 48 | Dribbling: 89 | Stamina: 77
-    - Rocío Gálvez (CB) — OVR: 51 [Conf: 0.99]
-      Finishing: 82 | ShortPass: 46 | Tackling: 47 | Dribbling: 91 | Stamina: 85
-    - Viola Calligaris (CB) — OVR: 51 [Conf: 0.99]
-      Finishing: 80 | ShortPass: 47 | Tackling: 48 | Dribbling: 89 | Stamina: 77
-    - Adrián Rodríguez (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Aingeru Olabarrieta (ST) — UNRATED (Insufficient playing time (8 mins < 90 mins threshold))
-    - Alejandro Quevedo (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ander Sánchez (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Asier Osambela (CM) — UNRATED (Insufficient playing time (9 mins < 90 mins threshold))
-    - Bruno Iribarne (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Diego Piñeiro (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Dimitrios Stamatakis (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Edgar Pujol (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Eneko Ortiz (CB) — UNRATED (Insufficient playing time (13 mins < 90 mins threshold))
-    - Gaizka García (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Giorgi Gagua (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Gonzalo García (ST) — UNRATED (Insufficient playing time (17 mins < 90 mins threshold))
-    - Hugo Rincón (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Iñaki González (CM) — UNRATED (Insufficient playing time (4 mins < 90 mins threshold))
-    - Iñigo Arguibide (CB) — UNRATED (Insufficient playing time (16 mins < 90 mins threshold))
-    - Jacobo Ramón (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jorge Moreno (CM) — UNRATED (Insufficient playing time (13 mins < 90 mins threshold))
-    - Joseda Álvarez (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Lucas Cañizares (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Marcos Fernández (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mario Martín (CM) — UNRATED (Insufficient playing time (16 mins < 90 mins threshold))
-    - Mario de Luis (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Max Svensson (CM) — UNRATED (Insufficient playing time (2 mins < 90 mins threshold))
-    - Miguel Martín García (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Nico Paz (CM) — UNRATED (Insufficient playing time (19 mins < 90 mins threshold))
-    - Omenuke Mfulu (CM) — UNRATED (Insufficient playing time (77 mins < 90 mins threshold))
-    - Pablo Valencia (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Paco Sanz (CB) — UNRATED (Insufficient playing time (23 mins < 90 mins threshold))
-    - Alejandro Darío Gómez Villaverde (CM) — UNRATED (Insufficient playing time (39 mins < 90 mins threshold))
-    - Pau Ferrer Besalduch (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Pau Mascaró (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Rachad Fettal (ST) — UNRATED (Insufficient playing time (16 mins < 90 mins threshold))
-    - Rubén Quintanilla (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Rúben Montero (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Selu Diallo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Théo Zidane (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Tomás Mendes (CM) — UNRATED (Insufficient playing time (5 mins < 90 mins threshold))
-    - Unai Egiluz (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Unai Ropero (ST) — UNRATED (Insufficient playing time (5 mins < 90 mins threshold))
-    - Victor Parada (CB) — UNRATED (Insufficient playing time (2 mins < 90 mins threshold))
-    - Vinícius Augusto Tobias da Silva (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Xabier Huarte Armendáriz (CM) — UNRATED (Insufficient playing time (8 mins < 90 mins threshold))
-    - Yuzún Ley (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Álex Padilla (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Álvaro Carrillo (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Unknown Player (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Álvaro Killane (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Álvaro Rodríguez (ST) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
-    - Abdel Abqar (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Adrián Rodríguez (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Aitor Paredes (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alan Godoy (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alexandru Mircea Tirlea (CM) — UNRATED (Insufficient playing time (14 mins < 90 mins threshold))
-    - Ander Capa (CB) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
-    - Ander Iruarrizaga (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Antonio Blanco (CM) — UNRATED (Insufficient playing time (30 mins < 90 mins threshold))
-    - Iván Martínez Gonzálvez (ST) — UNRATED (Insufficient playing time (16 mins < 90 mins threshold))
-    - Clément Grenier (CM) — UNRATED (Insufficient playing time (56 mins < 90 mins threshold))
-    - Darío Ramos (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Diego Piñeiro (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ferrán Quetglás (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Giorgi Gagua (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Iván Sanz (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Jokin Ezkieta (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Josep Antoni Gayá Martinez (CB) — UNRATED (Insufficient playing time (59 mins < 90 mins threshold))
-    - Juan Artola (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Juanmi Latasa (ST) — UNRATED (Insufficient playing time (9 mins < 90 mins threshold))
-    - Luis Bilbao (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Luis Federico López Andúgar (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Marc Carmona (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Marc Tenas (ST) — UNRATED (Insufficient playing time (51 mins < 90 mins threshold))
-    - Marcos Fernández (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mario Gila (CB) — UNRATED (Insufficient playing time (23 mins < 90 mins threshold))
-    - Miguel Martín García (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Oscar Medina (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Pablo Gálvez (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Pau Martínez (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Pere Joan García (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Peter González (CM) — UNRATED (Insufficient playing time (24 mins < 90 mins threshold))
-    - Rafa Marín (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Saul García (CB) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
-    - Sergio Santos (CB) — UNRATED (Insufficient playing time (10 mins < 90 mins threshold))
-    - Thomas Giaquinto (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Tomás Mendes (CM) — UNRATED (Insufficient playing time (8 mins < 90 mins threshold))
-    - Toni Fuidias (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Unai Ropero (ST) — UNRATED (Insufficient playing time (11 mins < 90 mins threshold))
-    - Yoel Ramírez (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Alejandro Balboa Bandeira (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Aitor Puñal (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Pedro Alejandro García Mejías (ST) — UNRATED (Insufficient playing time (51 mins < 90 mins threshold))
-    - Alfonso Liceras (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Carlos Gilbert (ST) — UNRATED (Insufficient playing time (11 mins < 90 mins threshold))
-    - Carlos Rojas (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - David Cuenca Barreno (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - David Vicente (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Diego Licinio Lázaro Fuoli (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Javier Cendón (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Mamadou Dialla Sylla (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Nélson Macedo Monte (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Pol Salvador (CM) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
-    - Raúl Caballero (ST) — UNRATED (Insufficient playing time (64 mins < 90 mins threshold))
-    - Unai Veiga (CM) — UNRATED (Insufficient playing time (38 mins < 90 mins threshold))
-    - Alba Herrera (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ana Urzainqui (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Andrea Tarazona (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ane Elexpuru (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ariadna Mingueza (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ainhoa Estevez Bascuñan (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Belén de Gracia (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Carla Camacho (ST) — UNRATED (Insufficient playing time (22 mins < 90 mins threshold))
-    - Clara Villanuva (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Claudia Castro (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Dana Benítez (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Elene Errasti (ST) — UNRATED (Insufficient playing time (74 mins < 90 mins threshold))
-    - Elisabet López (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Esther Calderón (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Esther Laborde (CB) — UNRATED (Insufficient playing time (70 mins < 90 mins threshold))
-    - Gema Climent (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Itzel González (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Julia Bartel (CM) — UNRATED (Insufficient playing time (75 mins < 90 mins threshold))
-    - Leyre Monente (ST) — UNRATED (Insufficient playing time (35 mins < 90 mins threshold))
-    - Maite Zubieta (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Marina Salas (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Martina Fernández (CM) — UNRATED (Insufficient playing time (16 mins < 90 mins threshold))
-    - María Molina (CB) — UNRATED (Insufficient playing time (16 mins < 90 mins threshold))
-    - María Ortiz de Pinedo Otxoa (ST) — UNRATED (Insufficient playing time (61 mins < 90 mins threshold))
-    - Naia Landaluze (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Ornella Vignola (ST) — UNRATED (Insufficient playing time (14 mins < 90 mins threshold))
-    - Paula Esteban (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
-    - Paula Partido (CM) — UNRATED (Insufficient playing time (2 mins < 90 mins threshold))
-    - Sara Ortega (ST) — UNRATED (Insufficient playing time (2 mins < 90 mins threshold))
-    - Sofía Fuente (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
 
   CLUB: Getafe CF
   -----------------------------------
@@ -7718,6 +7070,10 @@ COMPETITION: LALIGA
 
   CLUB: Levante UD
   -----------------------------------
+    - Alba Redondo (ST) — OVR: 91 [Conf: 0.99]
+      Finishing: 99 | ShortPass: 45 | Tackling: 45 | Dribbling: 88 | Stamina: 77
+    - Giovana Queiroz Costa (ST) — OVR: 90 [Conf: 0.91]
+      Finishing: 97 | ShortPass: 45 | Tackling: 47 | Dribbling: 81 | Stamina: 67
     - José Luís Morales (ST) — OVR: 88 [Conf: 0.99]
       Finishing: 89 | ShortPass: 58 | Tackling: 54 | Dribbling: 86 | Stamina: 90
     - Shkodran Mustafi (CB) — OVR: 85 [Conf: 0.66]
@@ -7726,8 +7082,16 @@ COMPETITION: LALIGA
       Finishing: 64 | ShortPass: 81 | Tackling: 87 | Dribbling: 73 | Stamina: 78
     - Rúben Miguel Nunes Vezo (CB) — OVR: 83 [Conf: 0.99]
       Finishing: 59 | ShortPass: 80 | Tackling: 84 | Dribbling: 73 | Stamina: 87
+    - Andrea Falcón (ST) — OVR: 83 [Conf: 0.67]
+      Finishing: 87 | ShortPass: 49 | Tackling: 50 | Dribbling: 83 | Stamina: 60
+    - Giovanna Crivelari Anselmo (ST) — OVR: 83 [Conf: 0.77]
+      Finishing: 90 | ShortPass: 47 | Tackling: 49 | Dribbling: 75 | Stamina: 59
+    - Natasa Andonova (ST) — OVR: 83 [Conf: 0.85]
+      Finishing: 88 | ShortPass: 46 | Tackling: 47 | Dribbling: 79 | Stamina: 63
     - Roberto Suárez Pier (CB) — OVR: 82 [Conf: 0.99]
       Finishing: 64 | ShortPass: 78 | Tackling: 83 | Dribbling: 75 | Stamina: 80
+    - Carolina Férez (ST) — OVR: 82 [Conf: 0.81]
+      Finishing: 89 | ShortPass: 46 | Tackling: 49 | Dribbling: 74 | Stamina: 59
     - José Ángel Gómez Campaña (CM) — OVR: 80 [Conf: 0.92]
       Finishing: 73 | ShortPass: 84 | Tackling: 75 | Dribbling: 80 | Stamina: 71
     - José Luis García Vayá (CM) — OVR: 80 [Conf: 0.99]
@@ -7776,8 +7140,48 @@ COMPETITION: LALIGA
       Finishing: 70 | ShortPass: 56 | Tackling: 56 | Dribbling: 61 | Stamina: 56
     - Dani Cárdenas (GK) — OVR: 66 [Conf: 0.99]
       Finishing: 54 | ShortPass: 59 | Tackling: 48 | Dribbling: 68 | Stamina: 84
+    - Eva Navarro (ST) — OVR: 65 [Conf: 0.56]
+      Finishing: 65 | ShortPass: 49 | Tackling: 51 | Dribbling: 68 | Stamina: 59
+    - Andreea Paraluta (GK) — OVR: 64 [Conf: 0.81]
+      Finishing: 54 | ShortPass: 50 | Tackling: 45 | Dribbling: 65 | Stamina: 69
+    - Mar Segarra (GK) — OVR: 64 [Conf: 0.24]
+      Finishing: 54 | ShortPass: 51 | Tackling: 48 | Dribbling: 59 | Stamina: 58
+    - María López Valenzuela (GK) — OVR: 64 [Conf: 0.54]
+      Finishing: 54 | ShortPass: 52 | Tackling: 47 | Dribbling: 61 | Stamina: 59
     - Enric Franquesa (CM) — OVR: 63 [Conf: 0.70]
       Finishing: 59 | ShortPass: 66 | Tackling: 67 | Dribbling: 55 | Stamina: 57
+    - Fiamma Iannuzzi (ST) — OVR: 63 [Conf: 0.64]
+      Finishing: 65 | ShortPass: 50 | Tackling: 51 | Dribbling: 59 | Stamina: 57
+    - Mária Korenciová (GK) — OVR: 63 [Conf: 0.67]
+      Finishing: 54 | ShortPass: 50 | Tackling: 46 | Dribbling: 64 | Stamina: 64
+    - Estela Carbonell (CB) — OVR: 62 [Conf: 0.24]
+      Finishing: 59 | ShortPass: 59 | Tackling: 62 | Dribbling: 64 | Stamina: 62
+    - Sandie Toletti (CM) — OVR: 62 [Conf: 0.99]
+      Finishing: 87 | ShortPass: 48 | Tackling: 47 | Dribbling: 95 | Stamina: 77
+    - Leire Baños (CM) — OVR: 61 [Conf: 0.99]
+      Finishing: 87 | ShortPass: 47 | Tackling: 47 | Dribbling: 89 | Stamina: 82
+    - Érika González (CM) — OVR: 61 [Conf: 0.27]
+      Finishing: 86 | ShortPass: 60 | Tackling: 59 | Dribbling: 66 | Stamina: 57
+    - Irene Guerrero (CM) — OVR: 60 [Conf: 0.99]
+      Finishing: 82 | ShortPass: 47 | Tackling: 47 | Dribbling: 89 | Stamina: 77
+    - María de Alharilla Casado (CM) — OVR: 58 [Conf: 0.61]
+      Finishing: 59 | ShortPass: 53 | Tackling: 53 | Dribbling: 68 | Stamina: 62
+    - Tatiana Vanessa Ferreira Pinto (CM) — OVR: 58 [Conf: 0.90]
+      Finishing: 85 | ShortPass: 49 | Tackling: 50 | Dribbling: 81 | Stamina: 67
+    - Silvia Lloris (CM) — OVR: 57 [Conf: 0.83]
+      Finishing: 83 | ShortPass: 50 | Tackling: 50 | Dribbling: 76 | Stamina: 63
+    - María Méndez (CB) — OVR: 54 [Conf: 0.66]
+      Finishing: 57 | ShortPass: 52 | Tackling: 52 | Dribbling: 71 | Stamina: 66
+    - Jucinara Thaís Soares Paz (CB) — OVR: 52 [Conf: 0.82]
+      Finishing: 56 | ShortPass: 49 | Tackling: 50 | Dribbling: 65 | Stamina: 67
+    - Núria Mendoza (CB) — OVR: 52 [Conf: 0.99]
+      Finishing: 81 | ShortPass: 45 | Tackling: 47 | Dribbling: 92 | Stamina: 88
+    - Aldana Cometti (CB) — OVR: 51 [Conf: 0.99]
+      Finishing: 80 | ShortPass: 47 | Tackling: 48 | Dribbling: 88 | Stamina: 77
+    - Paula Tomás (CB) — OVR: 51 [Conf: 0.99]
+      Finishing: 81 | ShortPass: 47 | Tackling: 48 | Dribbling: 89 | Stamina: 77
+    - Viola Calligaris (CB) — OVR: 51 [Conf: 0.99]
+      Finishing: 80 | ShortPass: 47 | Tackling: 48 | Dribbling: 89 | Stamina: 77
     - Carlos Benítez Royo (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Carlos Giménez (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Giorgi Kochorashvili (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
@@ -7787,6 +7191,9 @@ COMPETITION: LALIGA
     - Pablo Cuñat (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Pablo Picón (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Jorge Padilla (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Andrea Tarazona (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Ainhoa Estevez Bascuñan (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Gema Climent (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
 
   CLUB: Lyon
   -----------------------------------
@@ -7922,6 +7329,11 @@ COMPETITION: LALIGA
     - Lorenzo Zúñiga Owono (ST) — UNRATED (Insufficient playing time (78 mins < 90 mins threshold))
     - Moussa Diarra (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Álex Rico (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+
+  CLUB: Newcastle United FC
+  -----------------------------------
+    - Unknown Player (CM) — OVR: 70 [Conf: 0.56]
+      Finishing: 83 | ShortPass: 66 | Tackling: 88 | Dribbling: 76 | Stamina: 60
 
   CLUB: Nice
   -----------------------------------
@@ -8176,6 +7588,126 @@ COMPETITION: LALIGA
     - Roger Martínez (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Unknown Player (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
 
+  CLUB: RCD Mallorca
+  -----------------------------------
+    - José Manuel Arias Copete (CB) — OVR: 87 [Conf: 0.89]
+      Finishing: 62 | ShortPass: 72 | Tackling: 92 | Dribbling: 73 | Stamina: 74
+    - Antonio Raíllo (CB) — OVR: 85 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 81 | Tackling: 86 | Dribbling: 80 | Stamina: 85
+    - Pablo Maffeo (CB) — OVR: 84 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 63 | Tackling: 86 | Dribbling: 80 | Stamina: 92
+    - Giovanni González (CB) — OVR: 82 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 70 | Tackling: 84 | Dribbling: 77 | Stamina: 86
+    - Vedat Muriqi (ST) — OVR: 82 [Conf: 0.88]
+      Finishing: 82 | ShortPass: 58 | Tackling: 76 | Dribbling: 84 | Stamina: 75
+    - Matija Nastasic (CB) — OVR: 81 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 73 | Tackling: 82 | Dribbling: 76 | Stamina: 85
+    - Vedat Muriqi (ST) — OVR: 81 [Conf: 0.99]
+      Finishing: 80 | ShortPass: 58 | Tackling: 72 | Dribbling: 80 | Stamina: 86
+    - Franco Russo (CB) — OVR: 81 [Conf: 0.92]
+      Finishing: 64 | ShortPass: 72 | Tackling: 83 | Dribbling: 76 | Stamina: 75
+    - Martin Valjent (CB) — OVR: 80 [Conf: 0.99]
+      Finishing: 55 | ShortPass: 72 | Tackling: 80 | Dribbling: 71 | Stamina: 88
+    - Martin Valjent (CB) — OVR: 80 [Conf: 0.99]
+      Finishing: 58 | ShortPass: 73 | Tackling: 79 | Dribbling: 78 | Stamina: 93
+    - Abdón Prats (ST) — OVR: 78 [Conf: 0.88]
+      Finishing: 85 | ShortPass: 53 | Tackling: 60 | Dribbling: 67 | Stamina: 64
+    - Antonio Raíllo (CB) — OVR: 78 [Conf: 0.91]
+      Finishing: 71 | ShortPass: 72 | Tackling: 80 | Dribbling: 83 | Stamina: 77
+    - Javi Llabrés (ST) — OVR: 77 [Conf: 0.31]
+      Finishing: 85 | ShortPass: 60 | Tackling: 65 | Dribbling: 64 | Stamina: 56
+    - Samuel de Almeida Costa (CM) — OVR: 77 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 74 | Tackling: 92 | Dribbling: 70 | Stamina: 82
+    - Siebe Van der Heyden (CB) — OVR: 77 [Conf: 0.26]
+      Finishing: 58 | ShortPass: 63 | Tackling: 81 | Dribbling: 65 | Stamina: 64
+    - Íñigo Ruíz de Galarreta (CM) — OVR: 77 [Conf: 0.91]
+      Finishing: 63 | ShortPass: 80 | Tackling: 80 | Dribbling: 74 | Stamina: 70
+    - Jaume Costa (CB) — OVR: 77 [Conf: 0.99]
+      Finishing: 59 | ShortPass: 69 | Tackling: 78 | Dribbling: 77 | Stamina: 78
+    - Salvador Sevilla (CM) — OVR: 77 [Conf: 0.94]
+      Finishing: 76 | ShortPass: 86 | Tackling: 63 | Dribbling: 72 | Stamina: 70
+    - Fernando Niño (ST) — OVR: 76 [Conf: 0.80]
+      Finishing: 81 | ShortPass: 57 | Tackling: 71 | Dribbling: 68 | Stamina: 60
+    - Manu Morlanes (CM) — OVR: 75 [Conf: 0.96]
+      Finishing: 66 | ShortPass: 78 | Tackling: 80 | Dribbling: 70 | Stamina: 67
+    - Iddrisu Baba (CM) — OVR: 75 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 71 | Tackling: 83 | Dribbling: 78 | Stamina: 79
+    - Ángel Rodríguez (ST) — OVR: 75 [Conf: 0.94]
+      Finishing: 76 | ShortPass: 54 | Tackling: 58 | Dribbling: 73 | Stamina: 70
+    - Cyle Larin (ST) — OVR: 74 [Conf: 0.99]
+      Finishing: 76 | ShortPass: 53 | Tackling: 67 | Dribbling: 69 | Stamina: 74
+    - Jaume Costa (CB) — OVR: 74 [Conf: 0.97]
+      Finishing: 60 | ShortPass: 62 | Tackling: 75 | Dribbling: 70 | Stamina: 75
+    - Nemanja Radonjic (ST) — OVR: 74 [Conf: 0.59]
+      Finishing: 79 | ShortPass: 58 | Tackling: 61 | Dribbling: 68 | Stamina: 57
+    - Omar Mascarell (CM) — OVR: 74 [Conf: 0.95]
+      Finishing: 57 | ShortPass: 78 | Tackling: 83 | Dribbling: 60 | Stamina: 71
+    - Antonio Latorre Grueso (CB) — OVR: 74 [Conf: 0.94]
+      Finishing: 60 | ShortPass: 65 | Tackling: 76 | Dribbling: 69 | Stamina: 72
+    - Abdón Prats (ST) — OVR: 74 [Conf: 0.74]
+      Finishing: 82 | ShortPass: 57 | Tackling: 63 | Dribbling: 62 | Stamina: 57
+    - Brian Oliván (CB) — OVR: 74 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 64 | Tackling: 74 | Dribbling: 77 | Stamina: 83
+    - Giovanni González (CB) — OVR: 74 [Conf: 0.57]
+      Finishing: 67 | ShortPass: 69 | Tackling: 77 | Dribbling: 63 | Stamina: 60
+    - Nacho Vidal (CB) — OVR: 73 [Conf: 0.57]
+      Finishing: 63 | ShortPass: 69 | Tackling: 75 | Dribbling: 68 | Stamina: 63
+    - Aleksandar Sedlar (CB) — OVR: 73 [Conf: 0.59]
+      Finishing: 58 | ShortPass: 71 | Tackling: 75 | Dribbling: 58 | Stamina: 60
+    - Dani Rodríguez (CM) — OVR: 73 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 66 | Tackling: 68 | Dribbling: 79 | Stamina: 91
+    - Javi Llabrés (ST) — OVR: 73 [Conf: 0.24]
+      Finishing: 77 | ShortPass: 60 | Tackling: 59 | Dribbling: 68 | Stamina: 58
+    - Sergi Darder (CM) — OVR: 72 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 71 | Tackling: 65 | Dribbling: 74 | Stamina: 78
+    - Antonio Sánchez (CM) — OVR: 72 [Conf: 0.96]
+      Finishing: 64 | ShortPass: 71 | Tackling: 84 | Dribbling: 67 | Stamina: 71
+    - Dani Rodríguez (CM) — OVR: 71 [Conf: 0.99]
+      Finishing: 62 | ShortPass: 66 | Tackling: 66 | Dribbling: 74 | Stamina: 90
+    - Pablo Maffeo (CB) — OVR: 71 [Conf: 0.92]
+      Finishing: 67 | ShortPass: 63 | Tackling: 72 | Dribbling: 79 | Stamina: 71
+    - Rodrigo Battaglia (CM) — OVR: 71 [Conf: 0.86]
+      Finishing: 60 | ShortPass: 74 | Tackling: 82 | Dribbling: 62 | Stamina: 64
+    - Dominik Greif (GK) — OVR: 69 [Conf: 0.22]
+      Finishing: 54 | ShortPass: 64 | Tackling: 50 | Dribbling: 55 | Stamina: 57
+    - Matthew Hoppe (ST) — OVR: 69 [Conf: 0.24]
+      Finishing: 71 | ShortPass: 57 | Tackling: 59 | Dribbling: 68 | Stamina: 59
+    - Antonio Sánchez (CM) — OVR: 68 [Conf: 0.93]
+      Finishing: 73 | ShortPass: 66 | Tackling: 66 | Dribbling: 75 | Stamina: 70
+    - Amath Ndiaye (ST) — OVR: 68 [Conf: 0.79]
+      Finishing: 68 | ShortPass: 58 | Tackling: 67 | Dribbling: 69 | Stamina: 61
+    - Iván Cuéllar (GK) — OVR: 67 [Conf: 0.22]
+      Finishing: 54 | ShortPass: 56 | Tackling: 50 | Dribbling: 55 | Stamina: 58
+    - Predrag Rajkovic (GK) — OVR: 67 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 60 | Tackling: 47 | Dribbling: 69 | Stamina: 93
+    - Dominik Greif (GK) — OVR: 67 [Conf: 0.22]
+      Finishing: 54 | ShortPass: 58 | Tackling: 50 | Dribbling: 55 | Stamina: 58
+    - Kang-In Lee (CM) — OVR: 67 [Conf: 0.91]
+      Finishing: 71 | ShortPass: 68 | Tackling: 60 | Dribbling: 70 | Stamina: 66
+    - Leonardo Román Riquelme (GK) — OVR: 67 [Conf: 0.23]
+      Finishing: 54 | ShortPass: 59 | Tackling: 50 | Dribbling: 57 | Stamina: 58
+    - Manuel Reina (GK) — OVR: 67 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 58 | Tackling: 47 | Dribbling: 68 | Stamina: 79
+    - Sergio Rico (GK) — OVR: 65 [Conf: 0.82]
+      Finishing: 54 | ShortPass: 58 | Tackling: 47 | Dribbling: 66 | Stamina: 71
+    - Takefusa Kubo (CM) — OVR: 64 [Conf: 0.96]
+      Finishing: 64 | ShortPass: 63 | Tackling: 64 | Dribbling: 64 | Stamina: 70
+    - Alejandro Quevedo (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Marcos Fernández (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Miguel Martín García (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Pau Mascaró (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Rubén Quintanilla (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Yuzún Ley (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Clément Grenier (CM) — UNRATED (Insufficient playing time (56 mins < 90 mins threshold))
+    - Ferrán Quetglás (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Josep Antoni Gayá Martinez (CB) — UNRATED (Insufficient playing time (59 mins < 90 mins threshold))
+    - Marc Carmona (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Marcos Fernández (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Miguel Martín García (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Pablo Gálvez (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Pere Joan García (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Thomas Giaquinto (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+
   CLUB: Rayo Vallecano
   -----------------------------------
     - Alejandro Catena (CB) — OVR: 85 [Conf: 0.99]
@@ -8278,6 +7810,52 @@ COMPETITION: LALIGA
     - Iker Recio (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Manuel Navarro (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Álvaro Aguirre (CM) — UNRATED (Insufficient playing time (8 mins < 90 mins threshold))
+
+  CLUB: Rayo Vallecano de Madrid
+  -----------------------------------
+    - Isadora Damasceno Freitas (ST) — OVR: 87 [Conf: 0.99]
+      Finishing: 89 | ShortPass: 44 | Tackling: 46 | Dribbling: 87 | Stamina: 78
+    - Millene Cabral Vieira (ST) — OVR: 83 [Conf: 0.88]
+      Finishing: 87 | ShortPass: 46 | Tackling: 47 | Dribbling: 78 | Stamina: 66
+    - Sladjana Bulatovic (ST) — OVR: 75 [Conf: 0.85]
+      Finishing: 79 | ShortPass: 47 | Tackling: 47 | Dribbling: 70 | Stamina: 62
+    - Carla Bautista (ST) — OVR: 67 [Conf: 0.25]
+      Finishing: 70 | ShortPass: 52 | Tackling: 55 | Dribbling: 62 | Stamina: 57
+    - Yohana Gómez (GK) — OVR: 63 [Conf: 0.52]
+      Finishing: 54 | ShortPass: 48 | Tackling: 47 | Dribbling: 61 | Stamina: 59
+    - Paula Fernández (CM) — OVR: 62 [Conf: 0.99]
+      Finishing: 87 | ShortPass: 46 | Tackling: 46 | Dribbling: 93 | Stamina: 88
+    - Yanara Aedo (ST) — OVR: 62 [Conf: 0.99]
+      Finishing: 59 | ShortPass: 45 | Tackling: 46 | Dribbling: 64 | Stamina: 72
+    - Claudia Cabezas (CM) — OVR: 61 [Conf: 0.26]
+      Finishing: 64 | ShortPass: 63 | Tackling: 63 | Dribbling: 58 | Stamina: 57
+    - Iris Ponciano (ST) — OVR: 61 [Conf: 0.99]
+      Finishing: 60 | ShortPass: 45 | Tackling: 47 | Dribbling: 61 | Stamina: 71
+    - Patricia Larqué (GK) — OVR: 61 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 48 | Tackling: 44 | Dribbling: 68 | Stamina: 84
+    - Pilar García (CM) — OVR: 61 [Conf: 0.99]
+      Finishing: 82 | ShortPass: 46 | Tackling: 46 | Dribbling: 91 | Stamina: 86
+    - Paula Sancho González (CM) — OVR: 60 [Conf: 0.99]
+      Finishing: 85 | ShortPass: 47 | Tackling: 47 | Dribbling: 87 | Stamina: 76
+    - Patricia Hidalgo (CM) — OVR: 58 [Conf: 0.54]
+      Finishing: 60 | ShortPass: 55 | Tackling: 55 | Dribbling: 66 | Stamina: 61
+    - Danielle Hayden (CB) — OVR: 57 [Conf: 0.60]
+      Finishing: 58 | ShortPass: 55 | Tackling: 57 | Dribbling: 59 | Stamina: 60
+    - Yoko Tanaka (CM) — OVR: 57 [Conf: 0.67]
+      Finishing: 60 | ShortPass: 55 | Tackling: 55 | Dribbling: 61 | Stamina: 58
+    - Cecilie Struck (CB) — OVR: 55 [Conf: 0.64]
+      Finishing: 81 | ShortPass: 51 | Tackling: 54 | Dribbling: 80 | Stamina: 64
+    - María de los Ángeles Carrión Ejido (CM) — OVR: 54 [Conf: 0.91]
+      Finishing: 57 | ShortPass: 48 | Tackling: 48 | Dribbling: 62 | Stamina: 68
+    - Laia Ballesté (CB) — OVR: 52 [Conf: 0.99]
+      Finishing: 80 | ShortPass: 46 | Tackling: 47 | Dribbling: 90 | Stamina: 87
+    - Paula Andújar (CB) — OVR: 52 [Conf: 0.84]
+      Finishing: 79 | ShortPass: 48 | Tackling: 50 | Dribbling: 83 | Stamina: 69
+    - Camila Sáez (CB) — OVR: 51 [Conf: 0.99]
+      Finishing: 83 | ShortPass: 46 | Tackling: 47 | Dribbling: 93 | Stamina: 84
+    - María Bores (CB) — OVR: 51 [Conf: 0.99]
+      Finishing: 55 | ShortPass: 45 | Tackling: 46 | Dribbling: 71 | Stamina: 88
+    - Esther Calderón (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
 
   CLUB: Real Betis
   -----------------------------------
@@ -8450,6 +8028,179 @@ COMPETITION: LALIGA
     - Roosa Ariyo (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Sara Sánchez (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Sonia Baena (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+
+  CLUB: Real Madrid CF
+  -----------------------------------
+    - Vinícius José Paixão de Oliveira Júnior (ST) — OVR: 91 [Conf: 0.99]
+      Finishing: 99 | ShortPass: 65 | Tackling: 54 | Dribbling: 84 | Stamina: 76
+    - Unknown Player (CM) — OVR: 91 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 98 | Tackling: 91 | Dribbling: 79 | Stamina: 89
+    - Karim Benzema (ST) — OVR: 91 [Conf: 0.99]
+      Finishing: 99 | ShortPass: 78 | Tackling: 52 | Dribbling: 92 | Stamina: 90
+    - Vinícius José Paixão de Oliveira Júnior (ST) — OVR: 91 [Conf: 0.99]
+      Finishing: 97 | ShortPass: 77 | Tackling: 58 | Dribbling: 90 | Stamina: 89
+    - Esther González (ST) — OVR: 91 [Conf: 0.99]
+      Finishing: 99 | ShortPass: 44 | Tackling: 45 | Dribbling: 93 | Stamina: 83
+    - Federico Valverde (CM) — OVR: 90 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 99 | Tackling: 71 | Dribbling: 82 | Stamina: 90
+    - Aurélien Tchouaméni (CM) — OVR: 89 [Conf: 0.99]
+      Finishing: 69 | ShortPass: 99 | Tackling: 81 | Dribbling: 77 | Stamina: 80
+    - Luka Modric (CM) — OVR: 89 [Conf: 0.99]
+      Finishing: 71 | ShortPass: 99 | Tackling: 61 | Dribbling: 90 | Stamina: 80
+    - Toni Kroos (CM) — OVR: 88 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 99 | Tackling: 71 | Dribbling: 81 | Stamina: 78
+    - Eduardo Camavinga (CM) — OVR: 87 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 97 | Tackling: 85 | Dribbling: 74 | Stamina: 74
+    - Jude Bellingham (CM) — OVR: 87 [Conf: 0.99]
+      Finishing: 99 | ShortPass: 93 | Tackling: 68 | Dribbling: 91 | Stamina: 85
+    - Toni Kroos (CM) — OVR: 87 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 99 | Tackling: 63 | Dribbling: 77 | Stamina: 82
+    - Athenea Del Castillo (ST) — OVR: 87 [Conf: 0.99]
+      Finishing: 89 | ShortPass: 44 | Tackling: 46 | Dribbling: 87 | Stamina: 77
+    - José Luis Mato Sanmartín (ST) — OVR: 86 [Conf: 0.97]
+      Finishing: 95 | ShortPass: 56 | Tackling: 60 | Dribbling: 69 | Stamina: 73
+    - Éder Gabriel Militão (CB) — OVR: 86 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 93 | Tackling: 85 | Dribbling: 79 | Stamina: 93
+    - Nahikari García (ST) — OVR: 86 [Conf: 0.89]
+      Finishing: 90 | ShortPass: 46 | Tackling: 47 | Dribbling: 84 | Stamina: 66
+    - Unknown Player (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 59 | ShortPass: 94 | Tackling: 68 | Dribbling: 72 | Stamina: 90
+    - Rodrygo Silva de Goes (ST) — OVR: 85 [Conf: 0.99]
+      Finishing: 86 | ShortPass: 73 | Tackling: 53 | Dribbling: 81 | Stamina: 84
+    - Luka Modric (CM) — OVR: 84 [Conf: 0.97]
+      Finishing: 70 | ShortPass: 99 | Tackling: 66 | Dribbling: 72 | Stamina: 71
+    - Caroline Møller (ST) — OVR: 84 [Conf: 0.89]
+      Finishing: 88 | ShortPass: 45 | Tackling: 47 | Dribbling: 80 | Stamina: 67
+    - Olga Carmona (ST) — OVR: 84 [Conf: 0.99]
+      Finishing: 85 | ShortPass: 45 | Tackling: 45 | Dribbling: 86 | Stamina: 74
+    - Kosovare Asllani (ST) — OVR: 83 [Conf: 0.77]
+      Finishing: 89 | ShortPass: 46 | Tackling: 49 | Dribbling: 78 | Stamina: 61
+    - Eduardo Camavinga (CM) — OVR: 82 [Conf: 0.87]
+      Finishing: 70 | ShortPass: 93 | Tackling: 86 | Dribbling: 67 | Stamina: 65
+    - Dani Ceballos (CM) — OVR: 80 [Conf: 0.73]
+      Finishing: 62 | ShortPass: 99 | Tackling: 63 | Dribbling: 65 | Stamina: 56
+    - José Ignacio Fernández Iglesias (CB) — OVR: 80 [Conf: 0.94]
+      Finishing: 72 | ShortPass: 91 | Tackling: 81 | Dribbling: 72 | Stamina: 72
+    - Marta Cardona De Miguel (ST) — OVR: 80 [Conf: 0.27]
+      Finishing: 87 | ShortPass: 50 | Tackling: 53 | Dribbling: 71 | Stamina: 56
+    - Dani Carvajal (CB) — OVR: 79 [Conf: 0.94]
+      Finishing: 62 | ShortPass: 89 | Tackling: 79 | Dribbling: 71 | Stamina: 73
+    - Federico Valverde (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 89 | Tackling: 71 | Dribbling: 67 | Stamina: 74
+    - Lorena Navarro (ST) — OVR: 79 [Conf: 0.66]
+      Finishing: 84 | ShortPass: 48 | Tackling: 50 | Dribbling: 74 | Stamina: 57
+    - Dani Carvajal (CB) — OVR: 78 [Conf: 0.99]
+      Finishing: 72 | ShortPass: 87 | Tackling: 76 | Dribbling: 83 | Stamina: 83
+    - Jesús Vallejo (CB) — OVR: 78 [Conf: 0.53]
+      Finishing: 58 | ShortPass: 80 | Tackling: 80 | Dribbling: 66 | Stamina: 64
+    - Lucas Vázquez (ST) — OVR: 77 [Conf: 0.91]
+      Finishing: 79 | ShortPass: 87 | Tackling: 71 | Dribbling: 77 | Stamina: 66
+    - Gareth Bale (ST) — OVR: 77 [Conf: 0.26]
+      Finishing: 82 | ShortPass: 56 | Tackling: 60 | Dribbling: 71 | Stamina: 61
+    - José Ignacio Fernández Iglesias (CB) — OVR: 76 [Conf: 0.99]
+      Finishing: 58 | ShortPass: 97 | Tackling: 73 | Dribbling: 67 | Stamina: 77
+    - Éder Gabriel Militão (CB) — OVR: 76 [Conf: 0.61]
+      Finishing: 65 | ShortPass: 88 | Tackling: 76 | Dribbling: 72 | Stamina: 63
+    - Rodrygo Silva de Goes (ST) — OVR: 76 [Conf: 0.94]
+      Finishing: 79 | ShortPass: 71 | Tackling: 60 | Dribbling: 73 | Stamina: 68
+    - Dani Ceballos (CM) — OVR: 75 [Conf: 0.28]
+      Finishing: 69 | ShortPass: 87 | Tackling: 71 | Dribbling: 62 | Stamina: 55
+    - Brahim Díaz (CM) — OVR: 74 [Conf: 0.94]
+      Finishing: 87 | ShortPass: 78 | Tackling: 63 | Dribbling: 76 | Stamina: 70
+    - David Alaba (CB) — OVR: 74 [Conf: 0.80]
+      Finishing: 61 | ShortPass: 98 | Tackling: 72 | Dribbling: 80 | Stamina: 70
+    - Francisco Román Alarcón Suárez (CM) — OVR: 74 [Conf: 0.61]
+      Finishing: 74 | ShortPass: 86 | Tackling: 70 | Dribbling: 62 | Stamina: 56
+    - Luka Jovic (ST) — OVR: 73 [Conf: 0.63]
+      Finishing: 77 | ShortPass: 56 | Tackling: 58 | Dribbling: 69 | Stamina: 55
+    - Unknown Player (CM) — OVR: 73 [Conf: 0.98]
+      Finishing: 93 | ShortPass: 78 | Tackling: 56 | Dribbling: 74 | Stamina: 73
+    - Fran García (CB) — OVR: 72 [Conf: 0.91]
+      Finishing: 61 | ShortPass: 86 | Tackling: 71 | Dribbling: 67 | Stamina: 70
+    - David Alaba (CB) — OVR: 72 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 98 | Tackling: 66 | Dribbling: 84 | Stamina: 92
+    - Eden Hazard (ST) — OVR: 72 [Conf: 0.74]
+      Finishing: 74 | ShortPass: 75 | Tackling: 55 | Dribbling: 72 | Stamina: 58
+    - Lucas Vázquez (ST) — OVR: 72 [Conf: 0.99]
+      Finishing: 72 | ShortPass: 90 | Tackling: 72 | Dribbling: 70 | Stamina: 74
+    - Ferland Mendy (CB) — OVR: 71 [Conf: 0.99]
+      Finishing: 68 | ShortPass: 95 | Tackling: 67 | Dribbling: 81 | Stamina: 78
+    - Mariano Díaz (ST) — OVR: 71 [Conf: 0.57]
+      Finishing: 76 | ShortPass: 55 | Tackling: 60 | Dribbling: 65 | Stamina: 57
+    - Miguel Gutiérrez (CB) — OVR: 71 [Conf: 0.24]
+      Finishing: 59 | ShortPass: 78 | Tackling: 71 | Dribbling: 72 | Stamina: 65
+    - Andrii Lunin (GK) — OVR: 69 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 64 | Tackling: 49 | Dribbling: 68 | Stamina: 79
+    - Ferland Mendy (CB) — OVR: 69 [Conf: 0.98]
+      Finishing: 63 | ShortPass: 96 | Tackling: 65 | Dribbling: 82 | Stamina: 77
+    - Kepa Arrizabalaga Revuelta (GK) — OVR: 69 [Conf: 0.81]
+      Finishing: 54 | ShortPass: 64 | Tackling: 47 | Dribbling: 65 | Stamina: 69
+    - Thibaut Courtois (GK) — OVR: 69 [Conf: 0.51]
+      Finishing: 54 | ShortPass: 65 | Tackling: 48 | Dribbling: 61 | Stamina: 58
+    - Andrii Lunin (GK) — OVR: 69 [Conf: 0.23]
+      Finishing: 54 | ShortPass: 66 | Tackling: 50 | Dribbling: 57 | Stamina: 58
+    - Arda Güler (CM) — OVR: 68 [Conf: 0.58]
+      Finishing: 90 | ShortPass: 76 | Tackling: 57 | Dribbling: 65 | Stamina: 58
+    - Marcelo Vieira Da Silva Junior (CB) — OVR: 68 [Conf: 0.64]
+      Finishing: 64 | ShortPass: 90 | Tackling: 66 | Dribbling: 72 | Stamina: 61
+    - Thibaut Courtois (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 63 | Tackling: 46 | Dribbling: 69 | Stamina: 93
+    - María Isabel Rodríguez (GK) — OVR: 64 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 51 | Tackling: 44 | Dribbling: 69 | Stamina: 86
+    - Méline Gerard (GK) — OVR: 64 [Conf: 0.24]
+      Finishing: 54 | ShortPass: 48 | Tackling: 48 | Dribbling: 59 | Stamina: 58
+    - Claudia Zornoza (CM) — OVR: 63 [Conf: 0.99]
+      Finishing: 83 | ShortPass: 47 | Tackling: 46 | Dribbling: 98 | Stamina: 86
+    - Marta Corredera (CB) — OVR: 61 [Conf: 0.26]
+      Finishing: 59 | ShortPass: 58 | Tackling: 61 | Dribbling: 61 | Stamina: 61
+    - Maite Oroz (CM) — OVR: 58 [Conf: 0.95]
+      Finishing: 83 | ShortPass: 48 | Tackling: 48 | Dribbling: 82 | Stamina: 69
+    - Claudia Florentino (CB) — OVR: 57 [Conf: 0.59]
+      Finishing: 58 | ShortPass: 57 | Tackling: 56 | Dribbling: 59 | Stamina: 60
+    - Aurélie Kaci (CM) — OVR: 54 [Conf: 0.74]
+      Finishing: 58 | ShortPass: 51 | Tackling: 51 | Dribbling: 60 | Stamina: 61
+    - Teresa Abelleira (CM) — OVR: 54 [Conf: 0.90]
+      Finishing: 57 | ShortPass: 49 | Tackling: 49 | Dribbling: 61 | Stamina: 66
+    - Sofie Svava (CB) — OVR: 53 [Conf: 0.73]
+      Finishing: 56 | ShortPass: 53 | Tackling: 51 | Dribbling: 68 | Stamina: 67
+    - Lucia Rodriguez (CB) — OVR: 52 [Conf: 0.84]
+      Finishing: 56 | ShortPass: 49 | Tackling: 51 | Dribbling: 61 | Stamina: 64
+    - Babett Peter (CB) — OVR: 51 [Conf: 0.96]
+      Finishing: 55 | ShortPass: 47 | Tackling: 48 | Dribbling: 65 | Stamina: 74
+    - Ivana Andrés (CB) — OVR: 51 [Conf: 0.99]
+      Finishing: 55 | ShortPass: 46 | Tackling: 47 | Dribbling: 67 | Stamina: 79
+    - Kenti Robles (CB) — OVR: 51 [Conf: 0.97]
+      Finishing: 55 | ShortPass: 47 | Tackling: 48 | Dribbling: 63 | Stamina: 72
+    - Rocío Gálvez (CB) — OVR: 51 [Conf: 0.99]
+      Finishing: 82 | ShortPass: 46 | Tackling: 47 | Dribbling: 91 | Stamina: 85
+    - Diego Piñeiro (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Edgar Pujol (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Gonzalo García (ST) — UNRATED (Insufficient playing time (17 mins < 90 mins threshold))
+    - Jacobo Ramón (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Lucas Cañizares (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mario Martín (CM) — UNRATED (Insufficient playing time (16 mins < 90 mins threshold))
+    - Mario de Luis (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Nico Paz (CM) — UNRATED (Insufficient playing time (19 mins < 90 mins threshold))
+    - Théo Zidane (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Vinícius Augusto Tobias da Silva (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Álvaro Carrillo (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Álvaro Rodríguez (ST) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
+    - Antonio Blanco (CM) — UNRATED (Insufficient playing time (30 mins < 90 mins threshold))
+    - Diego Piñeiro (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Juanmi Latasa (ST) — UNRATED (Insufficient playing time (9 mins < 90 mins threshold))
+    - Luis Federico López Andúgar (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mario Gila (CB) — UNRATED (Insufficient playing time (23 mins < 90 mins threshold))
+    - Peter González (CM) — UNRATED (Insufficient playing time (24 mins < 90 mins threshold))
+    - Rafa Marín (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Sergio Santos (CB) — UNRATED (Insufficient playing time (10 mins < 90 mins threshold))
+    - Toni Fuidias (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Belén de Gracia (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Carla Camacho (ST) — UNRATED (Insufficient playing time (22 mins < 90 mins threshold))
+    - Clara Villanuva (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Dana Benítez (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Marina Salas (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Paula Partido (CM) — UNRATED (Insufficient playing time (2 mins < 90 mins threshold))
+    - Sofía Fuente (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
 
   CLUB: Real Oviedo
   -----------------------------------
@@ -9163,8 +8914,14 @@ COMPETITION: LALIGA
   -----------------------------------
     - Sergio Ramos (CB) — OVR: 90 [Conf: 0.99]
       Finishing: 68 | ShortPass: 88 | Tackling: 91 | Dribbling: 81 | Stamina: 89
+    - Elisa del Estal Mateu (ST) — OVR: 90 [Conf: 0.82]
+      Finishing: 99 | ShortPass: 47 | Tackling: 48 | Dribbling: 76 | Stamina: 60
     - Kike Salas (CB) — OVR: 88 [Conf: 0.96]
       Finishing: 67 | ShortPass: 83 | Tackling: 91 | Dribbling: 73 | Stamina: 75
+    - Jessica Martínez (ST) — OVR: 88 [Conf: 0.97]
+      Finishing: 92 | ShortPass: 45 | Tackling: 46 | Dribbling: 86 | Stamina: 73
+    - Toni Payne (ST) — OVR: 88 [Conf: 0.99]
+      Finishing: 89 | ShortPass: 44 | Tackling: 45 | Dribbling: 89 | Stamina: 81
     - Youssef En-Nesyri (ST) — OVR: 87 [Conf: 0.99]
       Finishing: 90 | ShortPass: 51 | Tackling: 60 | Dribbling: 78 | Stamina: 89
     - Ivan Rakitic (CM) — OVR: 86 [Conf: 0.99]
@@ -9267,6 +9024,44 @@ COMPETITION: LALIGA
       Finishing: 54 | ShortPass: 59 | Tackling: 49 | Dribbling: 66 | Stamina: 69
     - Unknown Player (CM) — OVR: 66 [Conf: 0.60]
       Finishing: 66 | ShortPass: 67 | Tackling: 59 | Dribbling: 72 | Stamina: 60
+    - Esther Sullastres (GK) — OVR: 62 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 49 | Tackling: 44 | Dribbling: 68 | Stamina: 82
+    - Natalia Gaitán (CM) — OVR: 61 [Conf: 0.99]
+      Finishing: 81 | ShortPass: 46 | Tackling: 47 | Dribbling: 91 | Stamina: 82
+    - Grace Kazadi (CB) — OVR: 60 [Conf: 0.53]
+      Finishing: 58 | ShortPass: 57 | Tackling: 60 | Dribbling: 60 | Stamina: 60
+    - María Inmaculada Gabarro (CM) — OVR: 60 [Conf: 0.99]
+      Finishing: 88 | ShortPass: 48 | Tackling: 48 | Dribbling: 87 | Stamina: 75
+    - Nagore Calderón (CM) — OVR: 59 [Conf: 0.99]
+      Finishing: 82 | ShortPass: 47 | Tackling: 47 | Dribbling: 84 | Stamina: 74
+    - Rosa Otermín (CM) — OVR: 58 [Conf: 0.94]
+      Finishing: 85 | ShortPass: 48 | Tackling: 47 | Dribbling: 83 | Stamina: 70
+    - Ana Franco (CM) — OVR: 57 [Conf: 0.78]
+      Finishing: 66 | ShortPass: 52 | Tackling: 52 | Dribbling: 70 | Stamina: 58
+    - Débora García (CM) — OVR: 57 [Conf: 0.98]
+      Finishing: 57 | ShortPass: 48 | Tackling: 47 | Dribbling: 71 | Stamina: 75
+    - Karen Araya (CM) — OVR: 57 [Conf: 0.71]
+      Finishing: 72 | ShortPass: 52 | Tackling: 53 | Dribbling: 70 | Stamina: 59
+    - Michele Vasconcelos (CM) — OVR: 57 [Conf: 0.78]
+      Finishing: 82 | ShortPass: 52 | Tackling: 52 | Dribbling: 70 | Stamina: 58
+    - Amparo Delgado Vega (CM) — OVR: 56 [Conf: 0.67]
+      Finishing: 59 | ShortPass: 53 | Tackling: 53 | Dribbling: 60 | Stamina: 59
+    - Nazareth Martín (CB) — OVR: 56 [Conf: 0.57]
+      Finishing: 58 | ShortPass: 55 | Tackling: 55 | Dribbling: 63 | Stamina: 63
+    - Isabella Echeverri (CM) — OVR: 55 [Conf: 0.88]
+      Finishing: 57 | ShortPass: 48 | Tackling: 49 | Dribbling: 67 | Stamina: 70
+    - Teresa Mérida (CB) — OVR: 55 [Conf: 0.65]
+      Finishing: 78 | ShortPass: 52 | Tackling: 54 | Dribbling: 78 | Stamina: 62
+    - Klára Cahynová (CM) — OVR: 54 [Conf: 0.91]
+      Finishing: 57 | ShortPass: 48 | Tackling: 49 | Dribbling: 60 | Stamina: 67
+    - Almudena Rivero (CB) — OVR: 53 [Conf: 0.82]
+      Finishing: 56 | ShortPass: 50 | Tackling: 51 | Dribbling: 60 | Stamina: 63
+    - Paula Nicart (CB) — OVR: 53 [Conf: 0.82]
+      Finishing: 80 | ShortPass: 48 | Tackling: 50 | Dribbling: 89 | Stamina: 73
+    - Javiera Toro (CB) — OVR: 52 [Conf: 0.87]
+      Finishing: 56 | ShortPass: 48 | Tackling: 49 | Dribbling: 67 | Stamina: 70
+    - Lucía Ramírez (CB) — OVR: 51 [Conf: 0.99]
+      Finishing: 55 | ShortPass: 47 | Tackling: 48 | Dribbling: 67 | Stamina: 76
     - Alberto Flores (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Unknown Player (CM) — UNRATED (Insufficient playing time (31 mins < 90 mins threshold))
     - Miguel Jiménez Capitas (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
@@ -9289,6 +9084,10 @@ COMPETITION: LALIGA
     - Pablo Pérez (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Pedro Ortiz (CB) — UNRATED (Insufficient playing time (6 mins < 90 mins threshold))
     - Valentino Fattore (CB) — UNRATED (Insufficient playing time (1 mins < 90 mins threshold))
+    - Alba Herrera (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Claudia Castro (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Elisabet López (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Itzel González (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
 
   CLUB: Sheffield United FC
   -----------------------------------
@@ -9347,6 +9146,129 @@ COMPETITION: LALIGA
     - Bella Ramírez González (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Leticia Méndez (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Tatiana Barroso Langa (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+
+  CLUB: Tottenham Hotspur FC
+  -----------------------------------
+    - Unknown Player (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 78 | Tackling: 85 | Dribbling: 74 | Stamina: 84
+
+  CLUB: UD Almería
+  -----------------------------------
+    - Umar Sadiq (ST) — OVR: 91 [Conf: 0.99]
+      Finishing: 92 | ShortPass: 54 | Tackling: 58 | Dribbling: 86 | Stamina: 92
+    - Dyego Wilverson Ferreira Sousa (ST) — OVR: 87 [Conf: 0.71]
+      Finishing: 97 | ShortPass: 63 | Tackling: 72 | Dribbling: 73 | Stamina: 56
+    - Samuel de Almeida Costa (CM) — OVR: 86 [Conf: 0.99]
+      Finishing: 67 | ShortPass: 87 | Tackling: 82 | Dribbling: 84 | Stamina: 92
+    - César De la Hoz (CM) — OVR: 84 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 85 | Tackling: 84 | Dribbling: 77 | Stamina: 90
+    - Srdjan Babic (CB) — OVR: 84 [Conf: 0.99]
+      Finishing: 59 | ShortPass: 94 | Tackling: 83 | Dribbling: 74 | Stamina: 93
+    - Aleksandar Radovanovic (CB) — OVR: 83 [Conf: 0.62]
+      Finishing: 57 | ShortPass: 70 | Tackling: 87 | Dribbling: 67 | Stamina: 66
+    - Edgar González (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 64 | ShortPass: 82 | Tackling: 85 | Dribbling: 74 | Stamina: 89
+    - Lucas Robertone (CM) — OVR: 82 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 82 | Tackling: 84 | Dribbling: 80 | Stamina: 85
+    - Juan José Nieto Zarzoso (CB) — OVR: 82 [Conf: 0.67]
+      Finishing: 57 | ShortPass: 71 | Tackling: 87 | Dribbling: 57 | Stamina: 60
+    - Luis Suárez (ST) — OVR: 81 [Conf: 0.75]
+      Finishing: 88 | ShortPass: 57 | Tackling: 56 | Dribbling: 71 | Stamina: 64
+    - Largie Ramazani (ST) — OVR: 81 [Conf: 0.99]
+      Finishing: 84 | ShortPass: 59 | Tackling: 60 | Dribbling: 76 | Stamina: 79
+    - Aitor Buñuel (CB) — OVR: 80 [Conf: 0.67]
+      Finishing: 57 | ShortPass: 71 | Tackling: 83 | Dribbling: 62 | Stamina: 63
+    - Rodrigo Ely (CB) — OVR: 79 [Conf: 0.74]
+      Finishing: 71 | ShortPass: 88 | Tackling: 80 | Dribbling: 78 | Stamina: 69
+    - Adri Embarba (ST) — OVR: 78 [Conf: 0.99]
+      Finishing: 75 | ShortPass: 62 | Tackling: 66 | Dribbling: 81 | Stamina: 86
+    - Anthony Lozano (ST) — OVR: 78 [Conf: 0.70]
+      Finishing: 82 | ShortPass: 55 | Tackling: 64 | Dribbling: 73 | Stamina: 63
+    - Marc Pubill (CB) — OVR: 78 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 67 | Tackling: 80 | Dribbling: 81 | Stamina: 79
+    - Álex Pozo (CM) — OVR: 78 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 78 | Tackling: 70 | Dribbling: 75 | Stamina: 90
+    - Francisco Portillo (ST) — OVR: 78 [Conf: 0.99]
+      Finishing: 73 | ShortPass: 78 | Tackling: 60 | Dribbling: 87 | Stamina: 87
+    - Dion Lopy (CM) — OVR: 77 [Conf: 0.99]
+      Finishing: 64 | ShortPass: 77 | Tackling: 78 | Dribbling: 76 | Stamina: 77
+    - Leonardo Micali Carrilho Baptistão (ST) — OVR: 77 [Conf: 0.99]
+      Finishing: 80 | ShortPass: 59 | Tackling: 66 | Dribbling: 72 | Stamina: 75
+    - Juan Brandáriz Movilla (CB) — OVR: 77 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 92 | Tackling: 74 | Dribbling: 74 | Stamina: 86
+    - Daniel Filipe Martins Carriço (CB) — OVR: 77 [Conf: 0.25]
+      Finishing: 59 | ShortPass: 77 | Tackling: 79 | Dribbling: 63 | Stamina: 62
+    - Iván Martos (CB) — OVR: 77 [Conf: 0.66]
+      Finishing: 57 | ShortPass: 86 | Tackling: 78 | Dribbling: 64 | Stamina: 64
+    - César Montes (CB) — OVR: 76 [Conf: 0.99]
+      Finishing: 59 | ShortPass: 78 | Tackling: 75 | Dribbling: 76 | Stamina: 80
+    - Álex Centelles (CB) — OVR: 76 [Conf: 0.76]
+      Finishing: 61 | ShortPass: 70 | Tackling: 78 | Dribbling: 76 | Stamina: 67
+    - Juan Brandáriz Movilla (CB) — OVR: 75 [Conf: 0.99]
+      Finishing: 58 | ShortPass: 79 | Tackling: 73 | Dribbling: 73 | Stamina: 87
+    - Juan Villar (ST) — OVR: 75 [Conf: 0.29]
+      Finishing: 83 | ShortPass: 60 | Tackling: 61 | Dribbling: 65 | Stamina: 56
+    - Lucas Robertone (CM) — OVR: 75 [Conf: 0.99]
+      Finishing: 71 | ShortPass: 74 | Tackling: 73 | Dribbling: 79 | Stamina: 78
+    - Largie Ramazani (ST) — OVR: 74 [Conf: 0.95]
+      Finishing: 75 | ShortPass: 51 | Tackling: 60 | Dribbling: 73 | Stamina: 69
+    - Íñigo Eguaras (CM) — OVR: 74 [Conf: 0.68]
+      Finishing: 69 | ShortPass: 85 | Tackling: 68 | Dribbling: 63 | Stamina: 58
+    - Iddrisu Baba (CM) — OVR: 73 [Conf: 0.92]
+      Finishing: 61 | ShortPass: 76 | Tackling: 79 | Dribbling: 64 | Stamina: 69
+    - Jonathan Viera (ST) — OVR: 73 [Conf: 0.72]
+      Finishing: 70 | ShortPass: 75 | Tackling: 60 | Dribbling: 83 | Stamina: 65
+    - Marcos Peña (CM) — OVR: 72 [Conf: 0.57]
+      Finishing: 63 | ShortPass: 76 | Tackling: 83 | Dribbling: 63 | Stamina: 59
+    - Álex Centelles (CB) — OVR: 72 [Conf: 0.94]
+      Finishing: 63 | ShortPass: 77 | Tackling: 72 | Dribbling: 78 | Stamina: 73
+    - Marko Milovanovic (ST) — OVR: 70 [Conf: 0.58]
+      Finishing: 77 | ShortPass: 56 | Tackling: 65 | Dribbling: 59 | Stamina: 57
+    - Sergio Arribas (CM) — OVR: 70 [Conf: 0.99]
+      Finishing: 82 | ShortPass: 68 | Tackling: 67 | Dribbling: 73 | Stamina: 77
+    - Álex Pozo (CM) — OVR: 70 [Conf: 0.82]
+      Finishing: 66 | ShortPass: 74 | Tackling: 68 | Dribbling: 68 | Stamina: 61
+    - Arvin Appiah (ST) — OVR: 70 [Conf: 0.83]
+      Finishing: 73 | ShortPass: 61 | Tackling: 59 | Dribbling: 69 | Stamina: 61
+    - Sergio Akieme (CB) — OVR: 70 [Conf: 0.99]
+      Finishing: 62 | ShortPass: 75 | Tackling: 67 | Dribbling: 74 | Stamina: 84
+    - Francisco José Sánchez Rodríguez (ST) — OVR: 69 [Conf: 0.86]
+      Finishing: 72 | ShortPass: 73 | Tackling: 61 | Dribbling: 64 | Stamina: 62
+    - Bruno Alberto Langa (CB) — OVR: 68 [Conf: 0.69]
+      Finishing: 65 | ShortPass: 68 | Tackling: 68 | Dribbling: 71 | Stamina: 66
+    - Gonzalo Melero (CM) — OVR: 68 [Conf: 0.84]
+      Finishing: 66 | ShortPass: 73 | Tackling: 65 | Dribbling: 61 | Stamina: 61
+    - Ibrahima Koné (ST) — OVR: 68 [Conf: 0.28]
+      Finishing: 72 | ShortPass: 55 | Tackling: 60 | Dribbling: 63 | Stamina: 57
+    - Fernando Martínez (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 61 | Tackling: 46 | Dribbling: 70 | Stamina: 93
+    - Diego Mariño (GK) — OVR: 67 [Conf: 0.22]
+      Finishing: 54 | ShortPass: 58 | Tackling: 51 | Dribbling: 55 | Stamina: 58
+    - Giorgi Makaridze (GK) — OVR: 67 [Conf: 0.22]
+      Finishing: 54 | ShortPass: 62 | Tackling: 52 | Dribbling: 55 | Stamina: 58
+    - José Javier Robles Belmonte (ST) — OVR: 67 [Conf: 0.27]
+      Finishing: 71 | ShortPass: 61 | Tackling: 71 | Dribbling: 61 | Stamina: 58
+    - José Carlos Lazo (CM) — OVR: 67 [Conf: 0.88]
+      Finishing: 80 | ShortPass: 69 | Tackling: 59 | Dribbling: 68 | Stamina: 65
+    - Fernando Martínez (GK) — OVR: 66 [Conf: 0.52]
+      Finishing: 54 | ShortPass: 59 | Tackling: 50 | Dribbling: 61 | Stamina: 60
+    - Luís Manuel Arantes Maximiano (GK) — OVR: 66 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 61 | Tackling: 47 | Dribbling: 69 | Stamina: 92
+    - Arnau Puigmal (CM) — OVR: 66 [Conf: 0.90]
+      Finishing: 77 | ShortPass: 68 | Tackling: 63 | Dribbling: 66 | Stamina: 65
+    - Luka Romero (CM) — OVR: 63 [Conf: 0.63]
+      Finishing: 81 | ShortPass: 66 | Tackling: 60 | Dribbling: 63 | Stamina: 58
+    - Bruno Iribarne (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Paco Sanz (CB) — UNRATED (Insufficient playing time (23 mins < 90 mins threshold))
+    - Rachad Fettal (ST) — UNRATED (Insufficient playing time (16 mins < 90 mins threshold))
+    - Aitor Puñal (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Carlos Gilbert (ST) — UNRATED (Insufficient playing time (11 mins < 90 mins threshold))
+    - Carlos Rojas (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - David Cuenca Barreno (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Diego Licinio Lázaro Fuoli (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Mamadou Dialla Sylla (CM) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Nélson Macedo Monte (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Raúl Caballero (ST) — UNRATED (Insufficient playing time (64 mins < 90 mins threshold))
 
   CLUB: UD Granadilla Tenerife Egatesa
   -----------------------------------
@@ -9463,6 +9385,132 @@ COMPETITION: LALIGA
     - Julià Aguilar (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Marcos Corral (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
     - Mike Cevallos (ST) — UNRATED (Insufficient playing time (21 mins < 90 mins threshold))
+
+  CLUB: UD Las Palmas
+  -----------------------------------
+    - Sergi Cardona (CB) — OVR: 91 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 86 | Tackling: 92 | Dribbling: 75 | Stamina: 91
+    - Jonathan Viera (ST) — OVR: 91 [Conf: 0.99]
+      Finishing: 92 | ShortPass: 96 | Tackling: 57 | Dribbling: 89 | Stamina: 91
+    - Sergi Cardona (CB) — OVR: 91 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 83 | Tackling: 94 | Dribbling: 80 | Stamina: 93
+    - Kirian Rodríguez (CM) — OVR: 90 [Conf: 0.99]
+      Finishing: 72 | ShortPass: 99 | Tackling: 66 | Dribbling: 83 | Stamina: 92
+    - Jesé Rodríguez Ruiz (ST) — OVR: 88 [Conf: 0.99]
+      Finishing: 87 | ShortPass: 58 | Tackling: 53 | Dribbling: 88 | Stamina: 91
+    - Unknown Player (CM) — OVR: 86 [Conf: 0.96]
+      Finishing: 61 | ShortPass: 99 | Tackling: 77 | Dribbling: 69 | Stamina: 71
+    - Mika Mármol (CB) — OVR: 85 [Conf: 0.99]
+      Finishing: 55 | ShortPass: 99 | Tackling: 83 | Dribbling: 71 | Stamina: 93
+    - Eric Curbelo (CB) — OVR: 85 [Conf: 0.99]
+      Finishing: 74 | ShortPass: 98 | Tackling: 84 | Dribbling: 85 | Stamina: 91
+    - Kirian Rodríguez (CM) — OVR: 85 [Conf: 0.99]
+      Finishing: 75 | ShortPass: 92 | Tackling: 61 | Dribbling: 82 | Stamina: 88
+    - Francisco Jesús Crespo (ST) — OVR: 84 [Conf: 0.73]
+      Finishing: 91 | ShortPass: 60 | Tackling: 64 | Dribbling: 74 | Stamina: 62
+    - Erick Ferigra (CB) — OVR: 83 [Conf: 0.78]
+      Finishing: 56 | ShortPass: 85 | Tackling: 85 | Dribbling: 64 | Stamina: 68
+    - Fabio González (CM) — OVR: 83 [Conf: 0.95]
+      Finishing: 60 | ShortPass: 95 | Tackling: 76 | Dribbling: 67 | Stamina: 70
+    - Omenuke Mfulu (CM) — OVR: 83 [Conf: 0.99]
+      Finishing: 56 | ShortPass: 88 | Tackling: 80 | Dribbling: 70 | Stamina: 85
+    - Raúl Rodríguez Navas (CB) — OVR: 83 [Conf: 0.99]
+      Finishing: 60 | ShortPass: 99 | Tackling: 81 | Dribbling: 77 | Stamina: 92
+    - Cristian Herrera (ST) — OVR: 82 [Conf: 0.26]
+      Finishing: 91 | ShortPass: 61 | Tackling: 52 | Dribbling: 72 | Stamina: 57
+    - Saúl Coco (CB) — OVR: 82 [Conf: 0.99]
+      Finishing: 61 | ShortPass: 88 | Tackling: 82 | Dribbling: 73 | Stamina: 84
+    - Enzo Loiodice (CM) — OVR: 80 [Conf: 0.94]
+      Finishing: 64 | ShortPass: 87 | Tackling: 75 | Dribbling: 73 | Stamina: 73
+    - Enzo Loiodice (CM) — OVR: 79 [Conf: 0.99]
+      Finishing: 65 | ShortPass: 87 | Tackling: 76 | Dribbling: 70 | Stamina: 71
+    - Marc Cardona (ST) — OVR: 78 [Conf: 0.76]
+      Finishing: 86 | ShortPass: 61 | Tackling: 60 | Dribbling: 66 | Stamina: 57
+    - Roberto González (ST) — OVR: 78 [Conf: 0.79]
+      Finishing: 83 | ShortPass: 60 | Tackling: 61 | Dribbling: 72 | Stamina: 60
+    - Armando Sadiku (ST) — OVR: 78 [Conf: 0.82]
+      Finishing: 84 | ShortPass: 54 | Tackling: 55 | Dribbling: 69 | Stamina: 63
+    - Álex Suárez (CB) — OVR: 77 [Conf: 0.99]
+      Finishing: 74 | ShortPass: 86 | Tackling: 74 | Dribbling: 90 | Stamina: 89
+    - Daley Sinkgraven (CB) — OVR: 76 [Conf: 0.58]
+      Finishing: 58 | ShortPass: 81 | Tackling: 77 | Dribbling: 63 | Stamina: 63
+    - Javi Muñoz (CM) — OVR: 76 [Conf: 0.99]
+      Finishing: 66 | ShortPass: 76 | Tackling: 65 | Dribbling: 76 | Stamina: 89
+    - Francisco Jesús Crespo (ST) — OVR: 76 [Conf: 0.68]
+      Finishing: 83 | ShortPass: 66 | Tackling: 65 | Dribbling: 66 | Stamina: 57
+    - Sandro Ramírez (ST) — OVR: 76 [Conf: 0.99]
+      Finishing: 74 | ShortPass: 65 | Tackling: 55 | Dribbling: 79 | Stamina: 75
+    - Adalberto Peñaranda (ST) — OVR: 76 [Conf: 0.74]
+      Finishing: 82 | ShortPass: 60 | Tackling: 64 | Dribbling: 68 | Stamina: 58
+    - Julián Araujo (CB) — OVR: 75 [Conf: 0.92]
+      Finishing: 63 | ShortPass: 75 | Tackling: 75 | Dribbling: 67 | Stamina: 71
+    - Álex Suárez (CB) — OVR: 75 [Conf: 0.25]
+      Finishing: 64 | ShortPass: 92 | Tackling: 75 | Dribbling: 76 | Stamina: 63
+    - Eric Curbelo (CB) — OVR: 74 [Conf: 0.22]
+      Finishing: 60 | ShortPass: 73 | Tackling: 76 | Dribbling: 65 | Stamina: 65
+    - Juan Herzog (CB) — OVR: 74 [Conf: 0.25]
+      Finishing: 76 | ShortPass: 91 | Tackling: 73 | Dribbling: 75 | Stamina: 64
+    - Munir El Haddadi (ST) — OVR: 74 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 62 | Tackling: 62 | Dribbling: 78 | Stamina: 86
+    - Hernâni Jorge Santos Fortes (ST) — OVR: 72 [Conf: 0.24]
+      Finishing: 77 | ShortPass: 58 | Tackling: 58 | Dribbling: 65 | Stamina: 59
+    - Alejandro Díez Salomon (CB) — OVR: 72 [Conf: 0.66]
+      Finishing: 61 | ShortPass: 73 | Tackling: 73 | Dribbling: 68 | Stamina: 61
+    - Saúl Coco (CB) — OVR: 72 [Conf: 0.68]
+      Finishing: 59 | ShortPass: 85 | Tackling: 71 | Dribbling: 72 | Stamina: 66
+    - Alberto Moleiro (CM) — OVR: 71 [Conf: 0.99]
+      Finishing: 70 | ShortPass: 71 | Tackling: 57 | Dribbling: 77 | Stamina: 74
+    - Alberto Moleiro (CM) — OVR: 71 [Conf: 0.99]
+      Finishing: 71 | ShortPass: 72 | Tackling: 62 | Dribbling: 70 | Stamina: 77
+    - Rafael Sebastián Mújica García (ST) — OVR: 71 [Conf: 0.70]
+      Finishing: 75 | ShortPass: 53 | Tackling: 63 | Dribbling: 64 | Stamina: 58
+    - Óscar Clemente (CM) — OVR: 71 [Conf: 0.81]
+      Finishing: 71 | ShortPass: 77 | Tackling: 61 | Dribbling: 72 | Stamina: 62
+    - Álvaro Lemos (ST) — OVR: 70 [Conf: 0.99]
+      Finishing: 63 | ShortPass: 77 | Tackling: 77 | Dribbling: 80 | Stamina: 91
+    - Fabio González (CM) — OVR: 69 [Conf: 0.24]
+      Finishing: 64 | ShortPass: 77 | Tackling: 66 | Dribbling: 58 | Stamina: 57
+    - José Ángel Gómez Campaña (CM) — OVR: 69 [Conf: 0.26]
+      Finishing: 64 | ShortPass: 79 | Tackling: 70 | Dribbling: 57 | Stamina: 55
+    - Benito Ramírez (CM) — OVR: 69 [Conf: 0.93]
+      Finishing: 72 | ShortPass: 70 | Tackling: 65 | Dribbling: 70 | Stamina: 67
+    - Aarón Escandell (GK) — OVR: 68 [Conf: 0.23]
+      Finishing: 54 | ShortPass: 66 | Tackling: 51 | Dribbling: 52 | Stamina: 58
+    - Marvin Olawale Akinlabi Park (CM) — OVR: 68 [Conf: 0.99]
+      Finishing: 60 | ShortPass: 68 | Tackling: 69 | Dribbling: 66 | Stamina: 72
+    - Álvaro Vallés (GK) — OVR: 68 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 70 | Tackling: 49 | Dribbling: 69 | Stamina: 93
+    - Álvaro Vallés (GK) — OVR: 68 [Conf: 0.88]
+      Finishing: 54 | ShortPass: 63 | Tackling: 47 | Dribbling: 67 | Stamina: 74
+    - Álvaro Lemos (ST) — OVR: 67 [Conf: 0.25]
+      Finishing: 68 | ShortPass: 63 | Tackling: 67 | Dribbling: 67 | Stamina: 60
+    - Maikel Mesa (CM) — OVR: 67 [Conf: 0.74]
+      Finishing: 74 | ShortPass: 73 | Tackling: 68 | Dribbling: 60 | Stamina: 55
+    - Raúl Fernández (GK) — OVR: 67 [Conf: 0.99]
+      Finishing: 54 | ShortPass: 59 | Tackling: 47 | Dribbling: 69 | Stamina: 89
+    - Benito Ramírez (CM) — OVR: 66 [Conf: 0.68]
+      Finishing: 73 | ShortPass: 71 | Tackling: 64 | Dribbling: 64 | Stamina: 55
+    - Sory Kaba (ST) — OVR: 65 [Conf: 0.73]
+      Finishing: 66 | ShortPass: 56 | Tackling: 66 | Dribbling: 63 | Stamina: 60
+    - Claudio Mendes (CM) — OVR: 64 [Conf: 0.24]
+      Finishing: 70 | ShortPass: 65 | Tackling: 66 | Dribbling: 63 | Stamina: 58
+    - Óscar Francisco García Quintela (ST) — OVR: 63 [Conf: 0.67]
+      Finishing: 67 | ShortPass: 60 | Tackling: 64 | Dribbling: 58 | Stamina: 55
+    - Iñaki González (CM) — UNRATED (Insufficient playing time (4 mins < 90 mins threshold))
+    - Omenuke Mfulu (CM) — UNRATED (Insufficient playing time (77 mins < 90 mins threshold))
+    - Pau Ferrer Besalduch (ST) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Álvaro Killane (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Pedro Alejandro García Mejías (ST) — UNRATED (Insufficient playing time (51 mins < 90 mins threshold))
+    - Alfonso Liceras (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - David Vicente (CB) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Javier Cendón (GK) — UNRATED (Insufficient playing time (0 mins < 90 mins threshold))
+    - Pol Salvador (CM) — UNRATED (Insufficient playing time (3 mins < 90 mins threshold))
+    - Unai Veiga (CM) — UNRATED (Insufficient playing time (38 mins < 90 mins threshold))
+
+  CLUB: US Salernitana 1919
+  -----------------------------------
+    - Shon Weissman (ST) — OVR: 69 [Conf: 0.62]
+      Finishing: 73 | ShortPass: 53 | Tackling: 59 | Dribbling: 62 | Stamina: 58
 
   CLUB: Udinese
   -----------------------------------

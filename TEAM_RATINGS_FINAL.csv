@@ -1,73 +1,131 @@
-clubName,squadSize,ratedCount,squadAverageOvr,startingXiAverageOvr,highestPlayer,highestOvr,lowestPlayer,lowestOvr,squadConfidence,status
-Free Agent,1889,1270,73.9,91.0,Aaron Ramsdale,91,Viola Calligaris,51,0.78,RATED
-Atlético de Madrid,90,62,74.0,88.8,Álvaro Morata,91,Merel van Dongen,51,0.88,RATED
-Villarreal CF,94,79,71.8,88.1,Alexander Sørloth,91,Paola Soldevila,51,0.8,RATED
-Girona FC,63,45,76.0,88.0,Aleix García,91,Cristian Portugués Manzanera,63,0.83,RATED
-FC Barcelona,74,54,76.4,87.9,Robert Lewandowski,91,Unknown Player,64,0.79,RATED
-Real Sociedad,92,72,72.2,86.2,Amaiur Sarriegi,91,Manuela Vanegas,51,0.81,RATED
-SD Eibar,59,49,69.5,85.9,Carmen Álvarez,91,Carla Morera,51,0.85,RATED
-Real Betis,64,54,76.1,85.5,Juan Miguel Jiménez López,91,Aitor Ruibal,64,0.79,RATED
-RC Celta,67,50,75.4,85.3,Iago Aspas,91,Williot Swedberg,62,0.79,RATED
-Real Valladolid CF,38,28,76.6,84.8,Shon Weissman,91,Cristo González,63,0.8,RATED
-Liverpool FC,150,93,76.2,84.7,Alisson Ramses Becker,91,Harvey Elliott,67,0.78,RATED
-Sevilla FC,75,53,74.8,84.6,Sergio Ramos,90,Unknown Player,66,0.79,RATED
-West Ham United FC,130,90,75.5,83.7,Lukasz Fabianski,91,Ryan Fredericks,66,0.78,RATED
-FC Cartagena,32,23,76.4,83.4,Pablo Vázquez,91,Marc Martínez,67,0.86,RATED
-Burnley FC,57,45,73.4,83.3,Nick Pope,91,Filip Malbasic,64,0.77,RATED
-Brighton & Hove Albion FC,140,79,76.3,83.3,Pascal Groß,85,Unknown Player,66,0.78,RATED
-Valencia CF,68,49,72.9,83.3,Omar Alderete,89,Peter González,62,0.81,RATED
-Everton FC,154,92,75.2,83.2,Jordan Pickford,91,Roman Dixon,67,0.76,RATED
-Leeds,157,94,73.9,83.1,Emiliano Martínez,91,Lewis Bate,66,0.7,RATED
-Fulham FC,112,68,76.7,82.6,Alex Iwobi,85,Harrison Reed,67,0.81,RATED
-Wolves,169,99,74.9,82.5,José Malheiro de Sá,91,Luke Cundle,66,0.74,RATED
-AFC Bournemouth,125,77,75.4,82.5,Ryan Christie,84,Unknown Player,65,0.74,RATED
-Nott'm Forest,141,81,75.2,82.5,Morgan Gibbs-White,85,Harry Toffolo,67,0.77,RATED
-RB Leipzig,109,80,74.2,82.4,Kasper Schmeichel,91,Ryan Bertrand,66,0.74,RATED
-A Villa,89,50,76.2,82.4,Youri Tielemans,84,Kosta Nedeljković,66,0.78,RATED
-CD Mirandés,35,27,75.4,82.4,Sergio Camello,90,Raúl Lizoain,66,0.76,RATED
-Granada CF,68,52,73.0,82.3,Germán Sánchez,84,Myrto Uzuni,62,0.76,RATED
-Getafe CF,61,44,73.3,82.3,Borja Mayoral,89,Jakub Jankto,64,0.81,RATED
-CD Tenerife,32,24,75.7,81.9,Jeremy Mellot,89,Unknown Player,63,0.85,RATED
-SD Ponferradina,25,25,74.9,81.9,José Manuel Arias Copete,90,Juan Hernández,63,0.83,RATED
-UD Ibiza,32,25,75.2,81.7,Manuel Antonio Molina Valero,88,Miguel Villar Alonso,64,0.89,RATED
-CD Leganés,42,32,73.7,81.5,Miguel de la Fuente,88,Naim García,64,0.82,RATED
-Levante UD,39,30,74.4,81.5,José Luís Morales,88,Enric Franquesa,63,0.78,RATED
-Southampton FC,117,82,74.0,81.3,Alex McCarthy,84,Gavin Bazunu,66,0.73,RATED
-Chelsea FC,60,25,76.4,81.3,Cole Palmer,84,Đorđe Petrović,67,0.78,RATED
-Cádiz CF,63,51,73.2,81.0,Alfonso Espino,86,Iván Chapela,61,0.83,RATED
-CF Fuenlabrada,34,27,73.1,80.8,Mohamed Bouldini,85,Anderson Cordeiro Costa,62,0.78,RATED
-Real Oviedo,32,23,75.0,80.7,Borja González Tomás,91,Marco Sangalli,64,0.84,RATED
-Rayo Vallecano,54,46,72.5,80.5,Alejandro Catena,85,Tiago Manuel Dias Correia,61,0.83,RATED
-SD Huesca,36,23,74.4,80.5,Ignasi Miquel,88,David Ferreiro,63,0.87,RATED
-AD Alcorcón,34,27,73.9,80.4,Óscar Rivas,85,Joel Valencia,64,0.8,RATED
-RCD Espanyol de Barcelona,37,27,73.1,80.1,Raúl de Tomás,90,Landry Dimata,62,0.77,RATED
-Real Sporting,39,25,74.3,80.1,Uros Djurdjevic,87,Unknown Player,65,0.82,RATED
-Udinese,1,1,80.0,80.0,Nehuen Pérez,80,Nehuen Pérez,80,0.98,RATED
-Luton Town FC,49,25,76.4,79.8,Alfie Doughty,84,Thomas Kaminski,67,0.83,RATED
-Elche CF,31,26,73.8,79.8,Helibelton Palacios Zapata,83,Unknown Player,64,0.82,RATED
-Ipswich,40,30,74.6,79.7,Leif Davis,83,Alex Palmer,67,0.73,RATED
-Sheffield United FC,47,31,74.1,79.6,Gustavo Hamer,82,Unknown Player,62,0.74,RATED
-Real Zaragoza,33,23,75.1,79.6,Jair Amador Silos,86,Miguel Puche,65,0.87,RATED
-CD Lugo,30,24,73.5,79.5,Orest Lebedenko,91,Francisco Sebastián Moyano Jiménez,64,0.84,RATED
-Málaga CF,40,27,73.4,79.4,Alberto Escassi,85,Kevin Villodres,64,0.82,RATED
-R. Sociedad B,30,23,72.6,78.5,Beñat Turrientes,82,Jon Magunazelaia,61,0.78,RATED
-SD Amorebieta,27,27,72.0,78.0,Jon Irazábal,88,Mikel Álvaro Salazar,63,0.84,RATED
-Brentford FC,38,25,72.0,76.3,David Raya Martin,91,Dominic Thompson,66,0.63,RATED
-VfL Bochum,1,1,76.0,76.0,Gonçalo Mendes Paciência,76,Gonçalo Mendes Paciência,76,0.73,RATED
-Spezia,1,1,76.0,76.0,Rey Manaj,76,Rey Manaj,76,0.99,RATED
-Albacete BP,1,1,75.0,75.0,Kaiky Fernandes Melo,75,Kaiky Fernandes Melo,75,0.73,RATED
-Norwich,38,27,70.3,74.2,Tim Krul,84,Tony Springett,66,0.63,RATED
-Watford FC,51,28,70.0,74.0,Ben Foster,82,Samuel Kalu,66,0.65,RATED
-FC Bayern,1,1,74.0,74.0,Bryan Zaragoza,74,Bryan Zaragoza,74,0.25,RATED
-FC Andorra,1,1,73.0,73.0,Jon Karrikaburu,73,Jon Karrikaburu,73,0.9,RATED
-Bayer 04,1,1,72.0,72.0,Borja Iglesias,72,Borja Iglesias,72,0.26,RATED
-Nice,1,1,72.0,72.0,Mohamed-Ali Cho,72,Mohamed-Ali Cho,72,0.76,RATED
-Lyon,1,1,72.0,72.0,Paul Akouokou,72,Paul Akouokou,72,0.55,RATED
-Sporting Huelva,23,20,63.2,71.3,Ana Marcos Moral,91,Sandra Castelló,52,0.84,RATED
-UD Granadilla Tenerife Egatesa,32,21,63.1,71.1,Cristina Martín-Prieto,91,Raquel Peña,51,0.77,RATED
-Reims,1,1,70.0,70.0,Sergio Akieme,70,Sergio Akieme,70,0.71,RATED
-Madrid CFF,35,22,62.1,68.6,Gabriela Nunes da Silva,91,Mônica Hickmann Alves,51,0.78,RATED
-VCF Femenino,31,21,60.7,67.5,Candela Andujar,89,María Jiménez,51,0.82,RATED
-Real Betis Balompié,28,20,60.0,66.6,Mari Paz Vilas,91,Paula Perea,51,0.78,RATED
-Fiorentina,1,1,66.0,66.0,Álvaro Odriozola,66,Álvaro Odriozola,66,0.98,RATED
-LOSC,1,1,64.0,64.0,Unknown Player,64,Unknown Player,64,0.99,RATED
+clubName,tier,squadSize,ratedCount,squadAverageOvr,startingXiAverageOvr,highestPlayer,highestOvr,lowestPlayer,lowestOvr,squadConfidence,status
+FC Barcelona,Tier A (Fully Rated),105,79,73.7,90.9,Robert Lewandowski,91.0,Marta Torrejón,51.0,0.79,RATED
+Real Madrid CF,Tier A (Fully Rated),99,71,74.6,89.5,Vinícius José Paixão de Oliveira Júnior,91.0,Rocío Gálvez,51.0,0.82,RATED
+Atlético de Madrid,Tier A (Fully Rated),90,62,74.0,88.8,Álvaro Morata,91.0,Merel van Dongen,51.0,0.88,RATED
+Villarreal CF,Tier A (Fully Rated),94,79,71.8,88.1,Alexander Sørloth,91.0,Paola Soldevila,51.0,0.8,RATED
+Girona FC,Tier A (Fully Rated),63,45,76.0,88.0,Aleix García,91.0,Cristian Portugués Manzanera,63.0,0.83,RATED
+UD Las Palmas,Tier A (Fully Rated),64,54,76.0,87.2,Sergi Cardona,91.0,Óscar Francisco García Quintela,63.0,0.77,RATED
+Athletic Club,Tier A (Fully Rated),87,70,71.6,87.0,Ane Azkona,91.0,Oihane Hernández,51.0,0.84,RATED
+Sevilla FC,Tier A (Fully Rated),101,75,70.7,86.6,Sergio Ramos,90.0,Lucía Ramírez,51.0,0.81,RATED
+Real Sociedad,Tier A (Fully Rated),92,72,72.2,86.2,Amaiur Sarriegi,91.0,Manuela Vanegas,51.0,0.81,RATED
+Manchester United FC,Tier A (Fully Rated),320,193,75.4,85.9,Aaron Ramsdale,91.0,Phil Jones,66.0,0.75,RATED
+SD Eibar,Tier A (Fully Rated),59,49,69.5,85.9,Carmen Álvarez,91.0,Carla Morera,51.0,0.85,RATED
+Newcastle United FC,Tier A (Fully Rated),308,186,75.5,85.5,Robert Sánchez,91.0,Paris Maghoma,66.0,0.76,RATED
+Real Betis,Tier A (Fully Rated),64,54,76.1,85.5,Juan Miguel Jiménez López,91.0,Aitor Ruibal,64.0,0.79,RATED
+Tottenham Hotspur FC,Tier A (Fully Rated),337,205,75.2,85.3,Edouard Mendy,91.0,Malang Sarr,66.0,0.75,RATED
+RC Celta,Tier A (Fully Rated),67,50,75.4,85.3,Iago Aspas,91.0,Williot Swedberg,62.0,0.79,RATED
+Levante UD,Tier A (Fully Rated),68,56,69.9,85.0,Alba Redondo,91.0,Viola Calligaris,51.0,0.77,RATED
+Real Valladolid CF,Tier A (Fully Rated),38,28,76.6,84.8,Shon Weissman,91.0,Cristo González,63.0,0.8,RATED
+Liverpool FC,Tier A (Fully Rated),150,93,76.2,84.7,Alisson Ramses Becker,91.0,Harvey Elliott,67.0,0.78,RATED
+Deportivo Alavés,Tier A (Fully Rated),96,70,69.4,84.5,José Luis Mato Sanmartín,88.0,Osinachi Ohale,51.0,0.81,RATED
+Manchester City FC,Tier A (Fully Rated),137,88,76.8,84.4,Ederson Santana de Moraes,91.0,Jahmai Simpson-Pusey,67.0,0.81,RATED
+UD Almería,Tier A (Fully Rated),63,52,74.8,83.9,Umar Sadiq,91.0,Luka Romero,63.0,0.79,RATED
+West Ham United FC,Tier A (Fully Rated),130,90,75.5,83.7,Lukasz Fabianski,91.0,Ryan Fredericks,66.0,0.78,RATED
+Crystal Palace FC,Tier A (Fully Rated),144,88,75.3,83.7,Vicente Guaita,91.0,David Ozoh,66.0,0.77,RATED
+FC Cartagena,Tier A (Fully Rated),32,23,76.4,83.4,Pablo Vázquez,91.0,Marc Martínez,67.0,0.86,RATED
+Brighton & Hove Albion FC,Tier A (Fully Rated),140,79,76.3,83.3,Pascal Groß,85.0,Unknown Player,66.0,0.78,RATED
+Valencia CF,Tier A (Fully Rated),68,49,72.9,83.3,Omar Alderete,89.0,Peter González,62.0,0.81,RATED
+Burnley FC,Tier A (Fully Rated),57,45,73.4,83.3,Nick Pope,91.0,Filip Malbasic,64.0,0.77,RATED
+Everton FC,Tier A (Fully Rated),154,92,75.2,83.2,Jordan Pickford,91.0,Roman Dixon,67.0,0.76,RATED
+Leeds,Tier A (Fully Rated),157,94,73.9,83.1,Emiliano Martínez,91.0,Lewis Bate,66.0,0.7,RATED
+Fulham FC,Tier A (Fully Rated),112,68,76.7,82.6,Alex Iwobi,85.0,Harrison Reed,67.0,0.81,RATED
+Wolves,Tier A (Fully Rated),169,99,74.9,82.5,José Malheiro de Sá,91.0,Luke Cundle,66.0,0.74,RATED
+Nott'm Forest,Tier A (Fully Rated),141,81,75.2,82.5,Morgan Gibbs-White,85.0,Harry Toffolo,67.0,0.77,RATED
+AFC Bournemouth,Tier A (Fully Rated),125,77,75.4,82.5,Ryan Christie,84.0,Unknown Player,65.0,0.74,RATED
+RB Leipzig,Tier A (Fully Rated),109,80,74.2,82.4,Kasper Schmeichel,91.0,Ryan Bertrand,66.0,0.74,RATED
+A Villa,Tier A (Fully Rated),89,50,76.2,82.4,Youri Tielemans,84.0,Kosta Nedeljković,66.0,0.78,RATED
+CA Osasuna,Tier A (Fully Rated),57,46,73.2,82.4,Ante Budimir,89.0,Unknown Player,62.0,0.83,RATED
+CD Mirandés,Tier A (Fully Rated),35,27,75.4,82.4,Sergio Camello,90.0,Raúl Lizoain,66.0,0.76,RATED
+Granada CF,Tier A (Fully Rated),68,52,73.0,82.3,Germán Sánchez,84.0,Myrto Uzuni,62.0,0.76,RATED
+Getafe CF,Tier A (Fully Rated),61,44,73.3,82.3,Borja Mayoral,89.0,Jakub Jankto,64.0,0.81,RATED
+RCD Mallorca,Tier A (Fully Rated),66,51,74.3,81.9,José Manuel Arias Copete,87.0,Takefusa Kubo,64.0,0.8,RATED
+SD Ponferradina,Tier A (Fully Rated),25,25,74.9,81.9,José Manuel Arias Copete,90.0,Juan Hernández,63.0,0.83,RATED
+CD Tenerife,Tier A (Fully Rated),32,24,75.7,81.9,Jeremy Mellot,89.0,Unknown Player,63.0,0.85,RATED
+UD Ibiza,Tier A (Fully Rated),32,25,75.2,81.7,Manuel Antonio Molina Valero,88.0,Miguel Villar Alonso,64.0,0.89,RATED
+CD Leganés,Tier A (Fully Rated),42,32,73.7,81.5,Miguel de la Fuente,88.0,Naim García,64.0,0.82,RATED
+Southampton FC,Tier A (Fully Rated),117,82,74.0,81.3,Alex McCarthy,84.0,Gavin Bazunu,66.0,0.73,RATED
+Chelsea FC,Tier A (Fully Rated),60,25,76.4,81.3,Cole Palmer,84.0,Đorđe Petrović,67.0,0.78,RATED
+Cádiz CF,Tier A (Fully Rated),63,51,73.2,81.0,Alfonso Espino,86.0,Iván Chapela,61.0,0.83,RATED
+AC Milan,Tier B (Partially Rated),1,1,81.0,81.0,Matteo Gabbia,81.0,Matteo Gabbia,81.0,0.86,PARTIAL_DATA
+CF Fuenlabrada,Tier A (Fully Rated),34,27,73.1,80.8,Mohamed Bouldini,85.0,Anderson Cordeiro Costa,62.0,0.78,RATED
+Real Oviedo,Tier A (Fully Rated),32,23,75.0,80.7,Borja González Tomás,91.0,Marco Sangalli,64.0,0.84,RATED
+Rayo Vallecano,Tier A (Fully Rated),54,46,72.5,80.5,Alejandro Catena,85.0,Tiago Manuel Dias Correia,61.0,0.83,RATED
+SD Huesca,Tier A (Fully Rated),36,23,74.4,80.5,Ignasi Miquel,88.0,David Ferreiro,63.0,0.87,RATED
+AD Alcorcón,Tier A (Fully Rated),34,27,73.9,80.4,Óscar Rivas,85.0,Joel Valencia,64.0,0.8,RATED
+RCD Espanyol de Barcelona,Tier A (Fully Rated),37,27,73.1,80.1,Raúl de Tomás,90.0,Landry Dimata,62.0,0.77,RATED
+Real Sporting,Tier A (Fully Rated),39,25,74.3,80.1,Uros Djurdjevic,87.0,Unknown Player,65.0,0.82,RATED
+Udinese,Tier B (Partially Rated),1,1,80.0,80.0,Nehuen Pérez,80.0,Nehuen Pérez,80.0,0.98,PARTIAL_DATA
+Elche CF,Tier A (Fully Rated),31,26,73.8,79.8,Helibelton Palacios Zapata,83.0,Unknown Player,64.0,0.82,RATED
+Luton Town FC,Tier A (Fully Rated),49,25,76.4,79.8,Alfie Doughty,84.0,Thomas Kaminski,67.0,0.83,RATED
+Ipswich,Tier A (Fully Rated),40,30,74.6,79.7,Leif Davis,83.0,Alex Palmer,67.0,0.73,RATED
+Sheffield United FC,Tier A (Fully Rated),47,31,74.1,79.6,Gustavo Hamer,82.0,Unknown Player,62.0,0.74,RATED
+Real Zaragoza,Tier A (Fully Rated),33,23,75.1,79.6,Jair Amador Silos,86.0,Miguel Puche,65.0,0.87,RATED
+CD Lugo,Tier A (Fully Rated),30,24,73.5,79.5,Orest Lebedenko,91.0,Francisco Sebastián Moyano Jiménez,64.0,0.84,RATED
+Málaga CF,Tier A (Fully Rated),40,27,73.4,79.4,Alberto Escassi,85.0,Kevin Villodres,64.0,0.82,RATED
+R. Sociedad B,Tier A (Fully Rated),30,23,72.6,78.5,Beñat Turrientes,82.0,Jon Magunazelaia,61.0,0.78,RATED
+SD Amorebieta,Tier A (Fully Rated),27,27,72.0,78.0,Jon Irazábal,88.0,Mikel Álvaro Salazar,63.0,0.84,RATED
+Brentford FC,Tier A (Fully Rated),38,25,72.0,76.3,David Raya Martin,91.0,Dominic Thompson,66.0,0.63,RATED
+VfL Bochum,Tier B (Partially Rated),1,1,76.0,76.0,Gonçalo Mendes Paciência,76.0,Gonçalo Mendes Paciência,76.0,0.73,PARTIAL_DATA
+Spezia,Tier B (Partially Rated),1,1,76.0,76.0,Rey Manaj,76.0,Rey Manaj,76.0,0.99,PARTIAL_DATA
+Albacete BP,Tier B (Partially Rated),1,1,75.0,75.0,Kaiky Fernandes Melo,75.0,Kaiky Fernandes Melo,75.0,0.73,PARTIAL_DATA
+Norwich,Tier A (Fully Rated),38,27,70.3,74.2,Tim Krul,84.0,Tony Springett,66.0,0.63,RATED
+Watford FC,Tier A (Fully Rated),51,28,70.0,74.0,Ben Foster,82.0,Samuel Kalu,66.0,0.65,RATED
+FC Bayern,Tier B (Partially Rated),1,1,74.0,74.0,Bryan Zaragoza,74.0,Bryan Zaragoza,74.0,0.25,PARTIAL_DATA
+FC Andorra,Tier B (Partially Rated),1,1,73.0,73.0,Jon Karrikaburu,73.0,Jon Karrikaburu,73.0,0.9,PARTIAL_DATA
+Bayer 04,Tier B (Partially Rated),1,1,72.0,72.0,Borja Iglesias,72.0,Borja Iglesias,72.0,0.26,PARTIAL_DATA
+Nice,Tier B (Partially Rated),1,1,72.0,72.0,Mohamed-Ali Cho,72.0,Mohamed-Ali Cho,72.0,0.76,PARTIAL_DATA
+Lyon,Tier B (Partially Rated),1,1,72.0,72.0,Paul Akouokou,72.0,Paul Akouokou,72.0,0.55,PARTIAL_DATA
+Sporting Huelva,Tier A (Fully Rated),23,20,63.2,71.3,Ana Marcos Moral,91.0,Sandra Castelló,52.0,0.84,RATED
+UD Granadilla Tenerife Egatesa,Tier A (Fully Rated),32,21,63.1,71.1,Cristina Martín-Prieto,91.0,Raquel Peña,51.0,0.77,RATED
+Reims,Tier B (Partially Rated),1,1,70.0,70.0,Sergio Akieme,70.0,Sergio Akieme,70.0,0.71,PARTIAL_DATA
+US Salernitana 1919,Tier B (Partially Rated),1,1,69.0,69.0,Shon Weissman,69.0,Shon Weissman,69.0,0.62,PARTIAL_DATA
+Madrid CFF,Tier A (Fully Rated),35,22,62.1,68.6,Gabriela Nunes da Silva,91.0,Mônica Hickmann Alves,51.0,0.78,RATED
+VCF Femenino,Tier A (Fully Rated),31,21,60.7,67.5,Candela Andujar,89.0,María Jiménez,51.0,0.82,RATED
+Rayo Vallecano de Madrid,Tier A (Fully Rated),22,21,61.4,67.5,Isadora Damasceno Freitas,87.0,María Bores,51.0,0.8,RATED
+Real Betis Balompié,Tier A (Fully Rated),28,20,60.0,66.6,Mari Paz Vilas,91.0,Paula Perea,51.0,0.78,RATED
+Fiorentina,Tier B (Partially Rated),1,1,66.0,66.0,Álvaro Odriozola,66.0,Álvaro Odriozola,66.0,0.98,PARTIAL_DATA
+LOSC,Tier B (Partially Rated),1,1,64.0,64.0,Unknown Player,64.0,Unknown Player,64.0,0.99,PARTIAL_DATA
+AC Monza,Tier C (Insufficient Data),1,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Arsenal FC,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Nottingham Forest FC,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Aston Villa FC,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Wolverhampton Wanderers FC,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Leeds United FC,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Leicester City FC,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Norwich City FC,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Real Sociedad de Fútbol,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+RC Celta de Vigo,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+SV Werder Bremen,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+FC Bayern München,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Bayer 04 Leverkusen,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+VfL Wolfsburg,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+1. FC Heidenheim 1846,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+TSG 1899 Hoffenheim,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+SC Freiburg,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+FC Augsburg,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Borussia Mönchengladbach,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+VfB Stuttgart,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+VfL Bochum 1848,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Borussia Dortmund,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+1. FC Köln,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+1. FC Union Berlin,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+1. FSV Mainz 05,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Eintracht Frankfurt,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+SV Darmstadt 98,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Empoli FC,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Hellas Verona FC,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Frosinone Calcio,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+SSC Napoli,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Genoa CFC,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+ACF Fiorentina,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+FC Internazionale Milano,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+AS Roma,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+US Sassuolo Calcio,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Atalanta BC,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+US Lecce,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+SS Lazio,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Udinese Calcio,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Juventus FC,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Torino FC,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Cagliari Calcio,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA
+Bologna FC 1909,Tier C (Insufficient Data),0,0,,,,,,,0.0,UNRATED / INSUFFICIENT DATA

@@ -92,6 +92,9 @@ def run_pipeline_and_export() -> Dict[str, Any]:
     team_stats = compute_team_ratings(predictions)
     generate_team_ratings_files("TEAM_RATINGS_FINAL.csv", "TEAM_RATINGS_FINAL.md", team_stats, predictions)
 
+    # 4b. PHASE_6_TEAM_INPUT_TRACE.csv & PHASE_6_PLAYER_CLUB_ANOMALIES.csv
+    generate_team_trace_and_anomalies("PHASE_6_TEAM_INPUT_TRACE.csv", "PHASE_6_PLAYER_CLUB_ANOMALIES.csv", predictions)
+
     # 5. TOUCHLINE_RATINGS_COMPLETE.md
     generate_complete_touchline_ratings("TOUCHLINE_RATINGS_COMPLETE.md", predictions)
 
@@ -142,19 +145,45 @@ def generate_player_ratings_markdown(filepath: str, predictions: List[Dict[str, 
     with open(filepath, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
 
-def compute_team_ratings(predictions: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    club_players = {}
+def compute_team_ratings(predictions: List[Dict[str, Any]], dataset_path: str = "src/data/seeds/real-football-dataset.json") -> List[Dict[str, Any]]:
+    # Load canonical clubs
+    clubs_dict = {}
+    if os.path.exists(dataset_path):
+        with open(dataset_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            clubs_dict = {c["name"]: c for c in data.get("clubs", [])}
+
+    club_players: Dict[str, List[Dict[str, Any]]] = {}
     for p in predictions:
-        club = p["clubName"]
-        if club:
+        club = p.get("clubName")
+        # Exclude pseudo-clubs or empty names from genuine club ratings
+        if club and club not in ["Free Agent", "Unresolved", "Unknown Club"]:
             club_players.setdefault(club, []).append(p)
+
+    # Also check all canonical clubs to ensure complete coverage representation
+    for cname in clubs_dict.keys():
+        if cname not in club_players:
+            club_players[cname] = []
 
     team_list = []
     for club, players in club_players.items():
         rated_squad = [p for p in players if p["status"] == "RATED"]
+        
+        # Tier classification
+        if len(rated_squad) >= 11:
+            tier = "Tier A (Fully Rated)"
+            status = "RATED"
+        elif len(rated_squad) >= 1:
+            tier = "Tier B (Partially Rated)"
+            status = "PARTIAL_DATA"
+        else:
+            tier = "Tier C (Insufficient Data)"
+            status = "UNRATED / INSUFFICIENT DATA"
+
         if not rated_squad:
             team_list.append({
                 "clubName": club,
+                "tier": tier,
                 "squadSize": len(players),
                 "ratedCount": 0,
                 "squadAverageOvr": None,
@@ -163,8 +192,8 @@ def compute_team_ratings(predictions: List[Dict[str, Any]]) -> List[Dict[str, An
                 "highestOvr": None,
                 "lowestPlayer": None,
                 "lowestOvr": None,
-                "squadConfidence": 0.10,
-                "status": "UNRATED / INSUFFICIENT DATA"
+                "squadConfidence": 0.00,
+                "status": status
             })
             continue
 
@@ -177,6 +206,7 @@ def compute_team_ratings(predictions: List[Dict[str, Any]]) -> List[Dict[str, An
 
         team_list.append({
             "clubName": club,
+            "tier": tier,
             "squadSize": len(players),
             "ratedCount": len(rated_squad),
             "squadAverageOvr": round(squad_avg, 1),
@@ -186,31 +216,113 @@ def compute_team_ratings(predictions: List[Dict[str, Any]]) -> List[Dict[str, An
             "lowestPlayer": sorted_players[-1]["playerName"],
             "lowestOvr": sorted_players[-1]["ovr"],
             "squadConfidence": round(float(np.mean(confs)), 2),
-            "status": "RATED"
+            "status": status
         })
 
-    return sorted(team_list, key=lambda x: (x["startingXiAverageOvr"] or 0), reverse=True)
+    # Sort primarily by startingXiAverageOvr (descending), then ratedCount
+    return sorted(team_list, key=lambda x: ((x["startingXiAverageOvr"] or 0), x["ratedCount"]), reverse=True)
 
 def generate_team_ratings_files(csv_path: str, md_path: str, team_stats: List[Dict[str, Any]], predictions: List[Dict[str, Any]]):
     df = pd.DataFrame(team_stats)
     df.to_csv(csv_path, index=False)
 
+    tier_a_count = sum(1 for t in team_stats if t['tier'].startswith('Tier A'))
+    tier_b_count = sum(1 for t in team_stats if t['tier'].startswith('Tier B'))
+    tier_c_count = sum(1 for t in team_stats if t['tier'].startswith('Tier C'))
+
     lines = [
         "# TOUCHLINE — TEAM RATINGS EXPORT",
-        f"**Model Version**: `{MODEL_VERSION}` | **Total Teams**: {len(team_stats)}",
+        f"**Model Version**: `{MODEL_VERSION}` | **Total Football Clubs Tracked**: {len(team_stats)}",
         "",
-        "| Rank | Club Name | Squad Size | Rated Count | Starting XI OVR | Squad Avg OVR | Star Player (OVR) | Squad Confidence |",
-        "| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |"
+        "### Tier Breakdown:",
+        f"- **Tier A (Fully Rated Squad >= 11 rated players)**: {tier_a_count} clubs",
+        f"- **Tier B (Partially Rated Squad 1-10 rated players)**: {tier_b_count} clubs",
+        f"- **Tier C (Insufficient Squad Data 0 rated players)**: {tier_c_count} clubs",
+        "",
+        "| Rank | Club Name | Tier | Squad Size | Rated Count | Starting XI OVR | Squad Avg OVR | Star Player (OVR) | Squad Confidence | Status |",
+        "| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |"
     ]
 
     for i, t in enumerate(team_stats, 1):
         if t["status"] == "RATED":
-            lines.append(f"| {i} | {t['clubName']} | {t['squadSize']} | {t['ratedCount']} | **{t['startingXiAverageOvr']}** | {t['squadAverageOvr']} | {t['highestPlayer']} ({t['highestOvr']}) | {t['squadConfidence']} |")
+            lines.append(f"| {i} | {t['clubName']} | {t['tier']} | {t['squadSize']} | {t['ratedCount']} | **{t['startingXiAverageOvr']}** | {t['squadAverageOvr']} | {t['highestPlayer']} ({t['highestOvr']}) | {t['squadConfidence']} | {t['status']} |")
+        elif t["status"] == "PARTIAL_DATA":
+            lines.append(f"| {i} | {t['clubName']} | {t['tier']} | {t['squadSize']} | {t['ratedCount']} | **{t['startingXiAverageOvr']}** (partial) | {t['squadAverageOvr']} | {t['highestPlayer']} ({t['highestOvr']}) | {t['squadConfidence']} | {t['status']} |")
         else:
-            lines.append(f"| {i} | {t['clubName']} | {t['squadSize']} | 0 | N/A | N/A | N/A | {t['squadConfidence']} (UNRATED) |")
+            lines.append(f"| {i} | {t['clubName']} | {t['tier']} | {t['squadSize']} | 0 | N/A | N/A | N/A | 0.00 | {t['status']} |")
 
     with open(md_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
+
+def generate_team_trace_and_anomalies(trace_path: str, anomalies_path: str, predictions: List[Dict[str, Any]], dataset_path: str = "src/data/seeds/real-football-dataset.json"):
+    if not os.path.exists(dataset_path):
+        return
+
+    with open(dataset_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    clubs = {c["sourceId"]: c for c in data.get("clubs", [])}
+
+    # Group predictions by clubName
+    pred_by_club = {}
+    for p in predictions:
+        cname = p.get("clubName")
+        if cname:
+            pred_by_club.setdefault(cname, []).append(p)
+
+    trace_rows = []
+    for cid, c in sorted(clubs.items(), key=lambda x: (x[1].get("countryCode", ""), x[1].get("name", ""))):
+        cname = c["name"]
+        preds = pred_by_club.get(cname, [])
+        rated_preds = [p for p in preds if p.get("status") == "RATED"]
+        
+        seasons = sorted(set(p.get("seasonKey", "") for p in preds if p.get("seasonKey")))
+        seasons_str = ";".join(seasons) if seasons else "None"
+
+        if len(rated_preds) >= 11:
+            tier = "Tier A (Fully Rated)"
+        elif len(rated_preds) >= 1:
+            tier = "Tier B (Partially Rated)"
+        else:
+            tier = "Tier C (Insufficient Data)"
+
+        trace_rows.append({
+            "clubId": cid,
+            "clubCode": c.get("code", ""),
+            "clubName": cname,
+            "countryCode": c.get("countryCode", ""),
+            "tier": tier,
+            "totalPlayerSeasons": len(preds),
+            "ratedPlayerSeasons": len(rated_preds),
+            "uniquePlayers": len(set(p.get("playerId") for p in preds)),
+            "seasonsPresent": seasons_str,
+            "squadAvgOvr": round(float(np.mean([p["ovr"] for p in rated_preds])), 1) if rated_preds else None,
+            "starPlayer": sorted(rated_preds, key=lambda x: x["ovr"], reverse=True)[0]["playerName"] if rated_preds else None,
+            "starOvr": sorted(rated_preds, key=lambda x: x["ovr"], reverse=True)[0]["ovr"] if rated_preds else None,
+        })
+
+    trace_df = pd.DataFrame(trace_rows)
+    trace_df.to_csv(trace_path, index=False)
+
+    # Anomalies CSV: identify any unmapped or unexpected pseudo-clubs
+    anomaly_rows = []
+    known_club_names = set(c["name"] for c in clubs.values())
+    for p in predictions:
+        cname = p.get("clubName")
+        if cname not in known_club_names:
+            anomaly_rows.append({
+                "statId": p.get("statId"),
+                "playerId": p.get("playerId"),
+                "playerName": p.get("playerName"),
+                "clubName": cname,
+                "seasonKey": p.get("seasonKey"),
+                "minutesPlayed": p.get("minutesPlayed"),
+                "issue": "Unmatched club name / pseudo-club"
+            })
+
+    anomaly_cols = ["statId", "playerId", "playerName", "clubName", "seasonKey", "minutesPlayed", "issue"]
+    anomaly_df = pd.DataFrame(anomaly_rows, columns=anomaly_cols)
+    anomaly_df.to_csv(anomalies_path, index=False)
 
 def generate_complete_touchline_ratings(filepath: str, predictions: List[Dict[str, Any]]):
     grouped = {}

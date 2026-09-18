@@ -1,0 +1,131 @@
+clubId,clubCode,clubName,countryCode,tier,totalPlayerSeasons,ratedPlayerSeasons,uniquePlayers,seasonsPresent,squadAvgOvr,starPlayer,starOvr
+club-1h1,1H1,1. FC Heidenheim 1846,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-1k,1K,1. FC Köln,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-1ub,1UB,1. FC Union Berlin,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-1fm,1FM,1. FSV Mainz 05,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-b0l,B0L,Bayer 04 Leverkusen,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-bod,BOD,Borussia Dortmund,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-bom,BOM,Borussia Mönchengladbach,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-eif,EIF,Eintracht Frankfurt,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-aug,AUG,FC Augsburg,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-bam,BAM,FC Bayern München,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-lei,LEI,RB Leipzig,DEU,Tier A (Fully Rated),109,80,64,2021-2022;2022-2023;2024-2025,74.2,Kasper Schmeichel,91.0
+club-fre,FRE,SC Freiburg,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-sd9,SD9,SV Darmstadt 98,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-swb,SWB,SV Werder Bremen,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-t1h,T1H,TSG 1899 Hoffenheim,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-stu,STU,VfB Stuttgart,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-vb1,VB1,VfL Bochum 1848,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-vfw,VFW,VfL Wolfsburg,DEU,Tier C (Insufficient Data),0,0,0,None,,,
+club-bou,BOU,AFC Bournemouth,ENG,Tier A (Fully Rated),125,77,67,2022-2023;2023-2024;2024-2025,75.4,Ryan Christie,84.0
+club-ars,ARS,Arsenal FC,ENG,Tier C (Insufficient Data),0,0,0,None,,,
+club-asv,ASV,Aston Villa FC,ENG,Tier C (Insufficient Data),0,0,0,None,,,
+club-bre,BRE,Brentford FC,ENG,Tier A (Fully Rated),38,25,38,2021-2022,72.0,David Raya Martin,91.0
+club-bha,BHA,Brighton & Hove Albion FC,ENG,Tier A (Fully Rated),140,79,81,2021-2022;2022-2023;2023-2024;2024-2025,76.3,Pascal Groß,85.0
+club-bur,BUR,Burnley FC,ENG,Tier A (Fully Rated),57,45,57,2021-2022,73.4,Nick Pope,91.0
+club-che,CHE,Chelsea FC,ENG,Tier A (Fully Rated),60,25,60,2021-2022;2023-2024,76.4,Cole Palmer,84.0
+club-crp,CRP,Crystal Palace FC,ENG,Tier A (Fully Rated),144,88,70,2021-2022;2022-2023;2023-2024;2024-2025,75.3,Vicente Guaita,91.0
+club-eve,EVE,Everton FC,ENG,Tier A (Fully Rated),154,92,81,2021-2022;2022-2023;2023-2024;2024-2025,75.2,Jordan Pickford,91.0
+club-ful,FUL,Fulham FC,ENG,Tier A (Fully Rated),112,68,61,2022-2023;2023-2024;2024-2025,76.7,Alex Iwobi,85.0
+club-ips,IPS,Ipswich,ENG,Tier A (Fully Rated),40,30,40,2024-2025,74.6,Leif Davis,83.0
+club-lee,LEE,Leeds,ENG,Tier A (Fully Rated),157,94,105,2021-2022;2022-2023,73.9,Emiliano Martínez,91.0
+club-leu,LEU,Leeds United FC,ENG,Tier C (Insufficient Data),0,0,0,None,,,
+club-lec,LEC,Leicester City FC,ENG,Tier C (Insufficient Data),0,0,0,None,,,
+club-liv,LIV,Liverpool FC,ENG,Tier A (Fully Rated),150,93,62,2021-2022;2022-2023;2023-2024;2024-2025,76.2,Alisson Ramses Becker,91.0
+club-lut,LUT,Luton Town FC,ENG,Tier A (Fully Rated),49,25,49,2023-2024,76.4,Alfie Doughty,84.0
+club-mac,MAC,Manchester City FC,ENG,Tier A (Fully Rated),137,88,66,2021-2022;2022-2023;2023-2024;2024-2025,76.8,Ederson Santana de Moraes,91.0
+club-mau,MAU,Manchester United FC,ENG,Tier A (Fully Rated),320,193,167,2021-2022;2022-2023;2023-2024;2024-2025,75.4,Aaron Ramsdale,91.0
+club-neu,NEU,Newcastle United FC,ENG,Tier A (Fully Rated),308,186,159,2021-2022;2022-2023;2023-2024;2024-2025,75.5,Robert Sánchez,91.0
+club-nor,NOR,Norwich,ENG,Tier A (Fully Rated),38,27,38,2021-2022,70.3,Tim Krul,84.0
+club-noc,NOC,Norwich City FC,ENG,Tier C (Insufficient Data),0,0,0,None,,,
+club-nfo,NFO,Nott'm Forest,ENG,Tier A (Fully Rated),141,81,83,2022-2023;2023-2024;2024-2025,75.2,Morgan Gibbs-White,85.0
+club-nof,NOF,Nottingham Forest FC,ENG,Tier C (Insufficient Data),0,0,0,None,,,
+club-shu,SHU,Sheffield United FC,ENG,Tier A (Fully Rated),47,31,47,2023-2024,74.1,Gustavo Hamer,82.0
+club-sou,SOU,Southampton FC,ENG,Tier A (Fully Rated),117,82,78,2021-2022;2022-2023;2024-2025,74.0,Alex McCarthy,84.0
+club-toh,TOH,Tottenham Hotspur FC,ENG,Tier A (Fully Rated),337,205,207,2021-2022;2022-2023;2023-2024;2024-2025,75.2,Edouard Mendy,91.0
+club-wat,WAT,Watford FC,ENG,Tier A (Fully Rated),51,28,51,2021-2022,70.0,Ben Foster,82.0
+club-whu,WHU,West Ham United FC,ENG,Tier A (Fully Rated),130,90,67,2021-2022;2022-2023;2023-2024;2024-2025,75.5,Lukasz Fabianski,91.0
+club-wow,WOW,Wolverhampton Wanderers FC,ENG,Tier C (Insufficient Data),0,0,0,None,,,
+club-avl,AVL,A Villa,ESP,Tier A (Fully Rated),89,50,63,2021-2022;2023-2024;2024-2025,76.2,Youri Tielemans,84.0
+club-alc,ALC,AD Alcorcón,ESP,Tier A (Fully Rated),34,27,34,2021-2022;2023-2024,73.9,Óscar Rivas,85.0
+club-alb,ALB,Albacete BP,ESP,Tier B (Partially Rated),1,1,1,2023-2024,75.0,Kaiky Fernandes Melo,75.0
+club-atc,ATC,Athletic Club,ESP,Tier A (Fully Rated),87,70,70,2021-2022;2023-2024,71.6,Ane Azkona,91.0
+club-atm,ATM,Atlético de Madrid,ESP,Tier A (Fully Rated),90,62,77,2021-2022;2023-2024,74.0,Álvaro Morata,91.0
+club-lvk,LVK,Bayer 04,ESP,Tier B (Partially Rated),1,1,1,2023-2024,72.0,Borja Iglesias,72.0
+club-cao,CAO,CA Osasuna,ESP,Tier A (Fully Rated),57,46,47,2021-2022;2023-2024,73.2,Ante Budimir,89.0
+club-leg,LEG,CD Leganés,ESP,Tier A (Fully Rated),42,32,42,2021-2022;2023-2024,73.7,Miguel de la Fuente,88.0
+club-lug,LUG,CD Lugo,ESP,Tier A (Fully Rated),30,24,30,2021-2022,73.5,Orest Lebedenko,91.0
+club-mir,MIR,CD Mirandés,ESP,Tier A (Fully Rated),35,27,35,2021-2022;2023-2024,75.4,Sergio Camello,90.0
+club-ten,TEN,CD Tenerife,ESP,Tier A (Fully Rated),32,24,32,2021-2022,75.7,Jeremy Mellot,89.0
+club-fue,FUE,CF Fuenlabrada,ESP,Tier A (Fully Rated),34,27,34,2021-2022,73.1,Mohamed Bouldini,85.0
+club-cad,CAD,Cádiz CF,ESP,Tier A (Fully Rated),63,51,53,2021-2022;2023-2024,73.2,Alfonso Espino,86.0
+club-dea,DEA,Deportivo Alavés,ESP,Tier A (Fully Rated),96,70,85,2021-2022;2023-2024,69.4,José Luis Mato Sanmartín,88.0
+club-elc,ELC,Elche CF,ESP,Tier A (Fully Rated),31,26,31,2021-2022;2023-2024,73.8,Helibelton Palacios Zapata,83.0
+club-and,AND,FC Andorra,ESP,Tier B (Partially Rated),1,1,1,2023-2024,73.0,Jon Karrikaburu,73.0
+club-bar,BAR,FC Barcelona,ESP,Tier A (Fully Rated),105,79,96,2021-2022;2023-2024,73.7,Robert Lewandowski,91.0
+club-bay,BAY,FC Bayern,ESP,Tier B (Partially Rated),1,1,1,2023-2024,74.0,Bryan Zaragoza,74.0
+club-car,CAR,FC Cartagena,ESP,Tier A (Fully Rated),32,23,32,2021-2022,76.4,Pablo Vázquez,91.0
+club-fio,FIO,Fiorentina,ESP,Tier B (Partially Rated),1,1,1,2021-2022,66.0,Álvaro Odriozola,66.0
+club-get,GET,Getafe CF,ESP,Tier A (Fully Rated),61,44,49,2021-2022;2023-2024,73.3,Borja Mayoral,89.0
+club-gir,GIR,Girona FC,ESP,Tier A (Fully Rated),63,45,54,2021-2022;2023-2024,76.0,Aleix García,91.0
+club-gra,GRA,Granada CF,ESP,Tier A (Fully Rated),68,52,62,2021-2022;2023-2024,73.0,Germán Sánchez,84.0
+club-lil,LIL,LOSC,ESP,Tier B (Partially Rated),1,1,1,2021-2022,64.0,Unknown Player,64.0
+club-lev,LEV,Levante UD,ESP,Tier A (Fully Rated),68,56,68,2021-2022;2023-2024,69.9,Alba Redondo,91.0
+club-oly,OLY,Lyon,ESP,Tier B (Partially Rated),1,1,1,2023-2024,72.0,Paul Akouokou,72.0
+club-mad,MAD,Madrid CFF,ESP,Tier A (Fully Rated),35,22,35,2021-2022,62.1,Gabriela Nunes da Silva,91.0
+club-mga,MGA,Málaga CF,ESP,Tier A (Fully Rated),40,27,40,2021-2022,73.4,Alberto Escassi,85.0
+club-nic,NIC,Nice,ESP,Tier B (Partially Rated),1,1,1,2023-2024,72.0,Mohamed-Ali Cho,72.0
+club-rsob,RSOB,R. Sociedad B,ESP,Tier A (Fully Rated),30,23,30,2021-2022,72.6,Beñat Turrientes,82.0
+club-cel,CEL,RC Celta,ESP,Tier A (Fully Rated),67,50,55,2021-2022;2023-2024,75.4,Iago Aspas,91.0
+club-rcd,RCD,RC Celta de Vigo,ESP,Tier C (Insufficient Data),0,0,0,None,,,
+club-esp,ESP,RCD Espanyol de Barcelona,ESP,Tier A (Fully Rated),37,27,37,2021-2022;2023-2024,73.1,Raúl de Tomás,90.0
+club-rcm,RCM,RCD Mallorca,ESP,Tier A (Fully Rated),66,51,53,2021-2022;2023-2024,74.3,José Manuel Arias Copete,87.0
+club-ray,RAY,Rayo Vallecano,ESP,Tier A (Fully Rated),54,46,43,2021-2022;2023-2024,72.5,Alejandro Catena,85.0
+club-rvd,RVD,Rayo Vallecano de Madrid,ESP,Tier A (Fully Rated),22,21,22,2021-2022,61.4,Isadora Damasceno Freitas,87.0
+club-bet,BET,Real Betis,ESP,Tier A (Fully Rated),64,54,51,2021-2022;2023-2024,76.1,Juan Miguel Jiménez López,91.0
+club-rbb,RBB,Real Betis Balompié,ESP,Tier A (Fully Rated),28,20,28,2021-2022,60.0,Mari Paz Vilas,91.0
+club-rem,REM,Real Madrid CF,ESP,Tier A (Fully Rated),99,71,83,2021-2022;2023-2024,74.6,Vinícius José Paixão de Oliveira Júnior,91.0
+club-ovi,OVI,Real Oviedo,ESP,Tier A (Fully Rated),32,23,32,2021-2022,75.0,Borja González Tomás,91.0
+club-rso,RSO,Real Sociedad,ESP,Tier A (Fully Rated),92,72,83,2021-2022;2023-2024,72.2,Amaiur Sarriegi,91.0
+club-rsd,RSD,Real Sociedad de Fútbol,ESP,Tier C (Insufficient Data),0,0,0,None,,,
+club-spo,SPO,Real Sporting,ESP,Tier A (Fully Rated),39,25,39,2021-2022,74.3,Uros Djurdjevic,87.0
+club-vll,VLL,Real Valladolid CF,ESP,Tier A (Fully Rated),38,28,38,2021-2022;2023-2024,76.6,Shon Weissman,91.0
+club-zar,ZAR,Real Zaragoza,ESP,Tier A (Fully Rated),33,23,33,2021-2022;2023-2024,75.1,Jair Amador Silos,86.0
+club-rei,REI,Reims,ESP,Tier B (Partially Rated),1,1,1,2023-2024,70.0,Sergio Akieme,70.0
+club-amo,AMO,SD Amorebieta,ESP,Tier A (Fully Rated),27,27,27,2021-2022,72.0,Jon Irazábal,88.0
+club-eib,EIB,SD Eibar,ESP,Tier A (Fully Rated),59,49,59,2021-2022;2023-2024,69.5,Carmen Álvarez,91.0
+club-hue,HUE,SD Huesca,ESP,Tier A (Fully Rated),36,23,36,2021-2022;2023-2024,74.4,Ignasi Miquel,88.0
+club-pon,PON,SD Ponferradina,ESP,Tier A (Fully Rated),25,25,25,2021-2022,74.9,José Manuel Arias Copete,90.0
+club-sev,SEV,Sevilla FC,ESP,Tier A (Fully Rated),101,75,87,2021-2022;2023-2024,70.7,Sergio Ramos,90.0
+club-spz,SPZ,Spezia,ESP,Tier B (Partially Rated),1,1,1,2021-2022,76.0,Rey Manaj,76.0
+club-sph,SPH,Sporting Huelva,ESP,Tier A (Fully Rated),23,20,23,2021-2022,63.2,Ana Marcos Moral,91.0
+club-uda,UDA,UD Almería,ESP,Tier A (Fully Rated),63,52,57,2021-2022;2023-2024,74.8,Umar Sadiq,91.0
+club-udg,UDG,UD Granadilla Tenerife Egatesa,ESP,Tier A (Fully Rated),32,21,32,2021-2022,63.1,Cristina Martín-Prieto,91.0
+club-ibi,IBI,UD Ibiza,ESP,Tier A (Fully Rated),32,25,32,2021-2022,75.2,Manuel Antonio Molina Valero,88.0
+club-ulp,ULP,UD Las Palmas,ESP,Tier A (Fully Rated),64,54,51,2021-2022;2023-2024,76.0,Sergi Cardona,91.0
+club-udi,UDI,Udinese,ESP,Tier B (Partially Rated),1,1,1,2021-2022,80.0,Nehuen Pérez,80.0
+club-vcf,VCF,VCF Femenino,ESP,Tier A (Fully Rated),31,21,31,2021-2022,60.7,Candela Andujar,89.0
+club-val,VAL,Valencia CF,ESP,Tier A (Fully Rated),68,49,53,2021-2022;2023-2024,72.9,Omar Alderete,89.0
+club-boc,BOC,VfL Bochum,ESP,Tier B (Partially Rated),1,1,1,2023-2024,76.0,Gonçalo Mendes Paciência,76.0
+club-vil,VIL,Villarreal CF,ESP,Tier A (Fully Rated),94,79,81,2021-2022;2023-2024,71.8,Alexander Sørloth,91.0
+club-wol,WOL,Wolves,ESP,Tier A (Fully Rated),169,99,89,2021-2022;2022-2023;2023-2024;2024-2025,74.9,José Malheiro de Sá,91.0
+club-mil,MIL,AC Milan,ITA,Tier B (Partially Rated),1,1,1,2023-2024,81.0,Matteo Gabbia,81.0
+club-mon,MON,AC Monza,ITA,Tier C (Insufficient Data),1,0,1,2023-2024,,,
+club-acf,ACF,ACF Fiorentina,ITA,Tier C (Insufficient Data),0,0,0,None,,,
+club-rom,ROM,AS Roma,ITA,Tier C (Insufficient Data),0,0,0,None,,,
+club-atb,ATB,Atalanta BC,ITA,Tier C (Insufficient Data),0,0,0,None,,,
+club-bo1,BO1,Bologna FC 1909,ITA,Tier C (Insufficient Data),0,0,0,None,,,
+club-cac,CAC,Cagliari Calcio,ITA,Tier C (Insufficient Data),0,0,0,None,,,
+club-emp,EMP,Empoli FC,ITA,Tier C (Insufficient Data),0,0,0,None,,,
+club-inm,INM,FC Internazionale Milano,ITA,Tier C (Insufficient Data),0,0,0,None,,,
+club-frc,FRC,Frosinone Calcio,ITA,Tier C (Insufficient Data),0,0,0,None,,,
+club-gec,GEC,Genoa CFC,ITA,Tier C (Insufficient Data),0,0,0,None,,,
+club-hev,HEV,Hellas Verona FC,ITA,Tier C (Insufficient Data),0,0,0,None,,,
+club-juv,JUV,Juventus FC,ITA,Tier C (Insufficient Data),0,0,0,None,,,
+club-ssl,SSL,SS Lazio,ITA,Tier C (Insufficient Data),0,0,0,None,,,
+club-nap,NAP,SSC Napoli,ITA,Tier C (Insufficient Data),0,0,0,None,,,
+club-tor,TOR,Torino FC,ITA,Tier C (Insufficient Data),0,0,0,None,,,
+club-usl,USL,US Lecce,ITA,Tier C (Insufficient Data),0,0,0,None,,,
+club-us1,US1,US Salernitana 1919,ITA,Tier B (Partially Rated),1,1,1,2023-2024,69.0,Shon Weissman,69.0
+club-usc,USC,US Sassuolo Calcio,ITA,Tier C (Insufficient Data),0,0,0,None,,,
+club-udc,UDC,Udinese Calcio,ITA,Tier C (Insufficient Data),0,0,0,None,,,

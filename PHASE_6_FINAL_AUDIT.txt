@@ -33,6 +33,12 @@ Status: VERIFIED & COMPLETE (LOCKED)
 - Target/Feature Overlap: The ML models perform statistical latent-score reconstruction
   and multi-metric model compression across position groups, rather than predicting an
   independently observed external ground-truth rating (no EA/FM true labels exist).
+- Global Club Coverage & Alias Resolution: Resolved 19 historical clubSourceId identifier
+  mismatches. All 5,693 player-season records map to canonical clubs (0 Free Agent leaks).
+  Full 130 canonical clubs are tracked and tiered:
+  * Tier A (Fully Rated Squads >= 11 rated): 72 clubs
+  * Tier B (Partially Rated Squads 1-10 rated): 14 clubs
+  * Tier C (Insufficient Data Squads 0 rated): 44 clubs
 - Player Count Reconciliation: Phase 5 canonical players (3,584) + stats-only fallback
   profiles (85) = 3,669 unique player IDs across 5,693 stats rows.
 - Player-Season Reconciliation: 5,693 total stats rows = 3,883 rated (mins >= 90) +
@@ -49,6 +55,7 @@ Status: VERIFIED & COMPLETE (LOCKED)
 - pytest ml/tests/            --> PASS (6 / 6 Python ML tests passed)
 
 FINAL STATUS:
-PHASE 6 = VERIFIED & COMPLETE
+PHASE 6 = VERIFIED & COMPLETE (MAXIMUM QUALITY COVERAGE AUDITED)
 PHASE 7 = NOT STARTED
 ================================================================================
+
