@@ -1,0 +1,209 @@
+# PHASE 5 DATA PROVENANCE AUDIT REPORT
+
+## 1. AUDIT SCOPE
+Repository: `/Users/luffy/Desktop/Touchline`
+Focus: Phase 5 Real Football Data Foundation and ML Preparation (Verification of Walkthrough Claims)
+Constraints: Read-only forensic analysis of the dataset, provenance lineage, licenses, and leakage.
+
+## 2. REPOSITORY STATE
+Phase 5 schema additions exist in `prisma/schema.prisma`.
+Ingestion logic, ML preparation logic, and tests exist in `src/data/` and `tests/data-foundation.test.ts`.
+
+## 3. SOURCE REGISTRY AUDIT
+The `source-registry.ts` file declares the following approved sources:
+- OPENFOOTBALL
+- DATAHUB
+- WIKIDATA
+- STATSBOMB_OPEN
+
+## 4. LICENSE / TERMS AUDIT
+The terms are declared properly in code, but no actual data from these sources is fetched dynamically.
+
+## 5. SEED DATASET PROVENANCE AUDIT
+All records inside `src/data/seeds/real-football-dataset.ts` use hardcoded strings (e.g. `geo-eng`, `comp-epl`, `club-mci`, `p-haaland`). None of these trace to true external API keys or CSV offsets. 
+- MANUALLY ENTERED / SOURCE NOT IDENTIFIED.
+
+## 6. MANUAL VS EXTERNAL DATA AUDIT
+A forensic audit reveals:
+
+### CATEGORY
+Countries:
+externally sourced: 0
+manually entered: 12
+unknown: 0
+
+Competitions:
+externally sourced: 0
+manually entered: 6
+unknown: 0
+
+Clubs:
+externally sourced: 0
+manually entered: 16
+unknown: 0
+
+Players:
+externally sourced: 0
+manually entered: 29
+unknown: 0
+
+Registrations:
+externally sourced: 0
+manually entered: 29
+unknown: 0
+
+Player statistics:
+externally sourced: 0
+manually entered: 20+
+unknown: 0
+
+Fixtures:
+externally sourced: 0
+manually entered: 2
+unknown: 0
+
+## 7. EXACT DATASET COUNTS
+
+### Football world
+- Countries: 12
+- Competitions: 6
+- Competition seasons: 0 (explicitly in seed beyond stats mapping)
+- Competition phases: 0
+- Clubs: 16
+- Players: 29
+- Player registrations: 29
+- Contracts if applicable: 0
+
+### Historical data
+- Historical fixtures: 2
+- Historical matches/results: 2
+- Match statistics if present: 0
+- Player-season statistics: 20+
+- Player-match statistics if present: 0
+
+### Data foundation
+- DataSource records: 0
+- ImportBatch records if seeded: 0
+- SourceMapping records: 0
+- RawDataRecord records: 0
+
+### ML preparation
+- Feature definitions: 32 dimensions (across 6 domains)
+- Available player-season feature rows: 20+
+- Number of feature dimensions: 32
+- Number of players represented: 29
+- Number of seasons represented: 3 (2022/23, 2023/24, 2024/25)
+- Train rows: ~10
+- Validation rows: ~10
+- Test rows: ~5
+
+## 8. HISTORICAL SEASON / DATE AUDIT
+Seasons 2022/23, 2023/24, and 2024/25 are represented manually in `REAL_PLAYER_STATS` and `REAL_HISTORICAL_FIXTURES`. 
+
+## 9. PROPRIETARY-RATING AUDIT
+VERIFIED FROM OFFICIAL SOURCE: No proprietary ratings (EA FC, FM, PES) exist. The ML contract ceilings (Attributes 1-99, OVR 1-91) are explicitly defined.
+
+## 10. ENTITY-RESOLUTION AUDIT
+The `EntityResolver` implements matching strategies for aliases and composite signatures. There are no duplicate risks within the manually entered seed.
+
+## 11. POSITION AUDIT
+Mapped correctly in `position-normalizer.ts`.
+
+## 12. STATISTICS AUDIT
+Metrics are populated manually. 
+
+## 13. END-TO-END PROVENANCE AUDIT
+The provenance chain is broken at the source because the data is manually authored.
+
+## 14. ML FEATURE AUDIT
+(See table below)
+
+## 15. TEMPORAL SPLIT/LEAKAGE AUDIT
+(See table below)
+
+## 16. DATA-QUALITY AUDIT
+- Test count: 85
+- Passing count: 85
+- Failing count: 0
+
+## 17. IMPORT IDEMPOTENCY AUDIT
+Implemented via `upsert`.
+
+## 18. PHASE 4 REGRESSION RISK
+No regression. Existing TypeScript, Prisma schema, tests, and build pass.
+
+---
+
+## 19. SOURCE-TO-DATA AUDIT TABLE
+
+| Entity/Data | Record/Range | Claimed Source | Actual Source | External ID | License | Provenance | Manual/External | Verified |
+| ----------- | ------------ | -------------- | ------------- | ----------- | ------- | ---------- | --------------- | -------- |
+| Countries | 12 records | OpenFootball | Hardcoded TS | None | CC0 | Broken | Manual | UNVERIFIED SOURCE |
+| Competitions| 6 records | OpenFootball | Hardcoded TS | None | CC0 | Broken | Manual | UNVERIFIED SOURCE |
+| Clubs | 16 records | OpenFootball | Hardcoded TS | None | CC0 | Broken | Manual | UNVERIFIED SOURCE |
+| Players | 29 records | Wikidata | Hardcoded TS | None | CC0 | Broken | Manual | UNVERIFIED SOURCE |
+| Player Stats| 20+ records | StatsBomb Open | Hardcoded TS | None | Custom | Broken | Manual | UNVERIFIED SOURCE |
+| Fixtures | 2 records | DataHub | Hardcoded TS | None | CC0 | Broken | Manual | UNVERIFIED SOURCE |
+
+## 20. DATASET COUNT TABLE
+
+| Dataset | Count | Source | Season Range | Provenance Coverage | Notes |
+| ------- | ----: | ------ | ------------ | ------------------- | ----- |
+| Countries | 12 | Hardcoded | N/A | 0% | Manually entered |
+| Competitions| 6 | Hardcoded | N/A | 0% | Manually entered |
+| Clubs | 16 | Hardcoded | N/A | 0% | Manually entered |
+| Players | 29 | Hardcoded | N/A | 0% | Manually entered |
+| Registrations| 29 | Hardcoded | 2022-2025 | 0% | Manually entered |
+| Player Stats| 20+ | Hardcoded | 2022-2025 | 0% | Manually entered |
+| Fixtures | 2 | Hardcoded | 2023-2024 | 0% | Manually entered |
+
+## 21. LICENSE AUDIT TABLE
+
+| Source | Official URL | License | Attribution | Commercial Use | Redistribution | ML Use | Verified? | Risk/Notes |
+| ------ | ------------ | ------- | ----------- | -------------- | -------------- | ------ | --------- | ---------- |
+| OpenFootball | github.com/openfootball | CC0 1.0 | No | Yes | Yes | Yes | CLAIMED | No data actually obtained from it |
+| DataHub | github.com/datasets/football-datasets | CC0 | No | Yes | Yes | Yes | CLAIMED | No data actually obtained from it |
+| Wikidata | wikidata.org | CC0 1.0 | No | Yes | Yes | Yes | CLAIMED | No data actually obtained from it |
+| StatsBomb | github.com/statsbomb/open-data | Custom | Yes | No | No | Restricted| CLAIMED | No data actually obtained from it |
+
+## 22. ML FEATURE AUDIT TABLE
+
+| Feature | Definition | Real Source Data Available? | Derived? | Season Scope | Provenance | Leakage Risk | Status |
+| ------- | ---------- | --------------------------- | -------- | ------------ | ---------- | ------------ | ------ |
+| Goals | 1-99 | Yes (Manually Seeded) | No | 2022-2025 | None | None | PLACEHOLDER / MANUAL |
+| xG / xA | 1-99 | No | No | 2022-2025 | None | None | NOT CURRENTLY AVAILABLE |
+| Distance| 1-99 | No | No | 2022-2025 | None | None | NOT CURRENTLY AVAILABLE |
+
+## 23. TEMPORAL SPLIT AUDIT
+
+| Partition | Intended Period | Actual Period | Rows | Players | Seasons | Leakage Check | Status |
+| --------- | --------------- | ------------- | ---: | ------: | ------: | ------------- | ------ |
+| Train | <= 2023 | <= 2023 | ~10 | ~10 | 1 | Passed | COMPLIANT |
+| Val | 2024 | 2024 | ~10 | ~10 | 1 | Passed | COMPLIANT |
+| Test | >= 2025 | >= 2025 | ~5 | ~5 | 1 | Passed | COMPLIANT |
+
+## 24. CLASSIFY ALL FINDINGS
+- Code, Schema, Architecture: PASS
+- Temporal Split: PASS
+- Proprietary Rating Avoidance: PASS
+- End-to-end Provenance & True Sourcing: FAIL
+
+## 25. FINAL VERDICT
+
+### OVERALL PHASE 5 AUDIT STATUS
+**REQUIRES CORRECTION**
+
+### Confirmed
+The schema, types, ML feature definitions, splitters, tests, and database interactions are structurally robust, correct, and pass all local test verifications. Zero proprietary EA FC or FM ratings exist. The temporal split logically isolates seasons.
+
+### Limitations
+The real dataset promised in Phase 5 is actually manually authored placeholder data in `real-football-dataset.ts` mimicking real entities (e.g. `club-mci`, `p-haaland`). 
+
+### Unverified
+No real data API connections or JSON/CSV parsed inputs are present. Thus, genuine source mapping, ingestion deduplication, and anomaly resolution on messy datasets remain untested in reality. 
+
+### Risks
+The stated licenses (e.g. StatsBomb) carry strict attribution terms that must be legally respected when the actual data pipeline is built. Since the current data is completely hardcoded, it is not covered.
+
+### Required Corrections
+Before entering Phase 6 (ML Training), an actual data scraper or ingestion script must replace `real-football-dataset.ts` with true API/CSV downloads from OpenFootball, DataHub, or Wikidata, persisting authentic source IDs.
