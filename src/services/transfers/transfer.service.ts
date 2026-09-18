@@ -52,7 +52,23 @@ export class TransferService {
       loanEndDate,
     } = params;
 
+    if (transferFee < 0 || weeklyWage < 0 || contractYears <= 0) {
+      throw new Error('Invalid transfer parameters: fee and wage must be non-negative, contractYears > 0.');
+    }
+
     return await prisma.$transaction(async (tx) => {
+      // 0. Verify buyer club budget headroom
+      if (transferFee > 0) {
+        const destState = await tx.clubSeasonState.findUnique({
+          where: { clubId_gameSeasonId: { clubId: destinationClubId, gameSeasonId } },
+        });
+        if (destState && destState.transferBudget < transferFee) {
+          throw new Error(
+            `Insufficient transfer budget: required £${transferFee}, available £${destState.transferBudget}.`
+          );
+        }
+      }
+
       // 1. Verify player existence
       const player = await tx.player.findUnique({
         where: { id: playerId },

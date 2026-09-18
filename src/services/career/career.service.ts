@@ -330,6 +330,15 @@ export class SeasonProgressionService {
       });
 
       for (const reg of activeRegs) {
+        // Deactivate old season registration record to maintain single active registration invariant
+        await tx.playerClubRegistration.update({
+          where: { id: reg.id },
+          data: {
+            isActive: false,
+            endDate: new Date(`${nextYearStart}-06-30`),
+          },
+        });
+
         await tx.playerClubRegistration.create({
           data: {
             playerId: reg.playerId,
